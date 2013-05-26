@@ -1,0 +1,7 @@
+---
+layout: blogpost
+title: Un aviso de prueba
+author: Iacus
+---
+
+Este es un simple post de prueba para ver que funcionan correctamente los posts que no son reseñas. Este tipo de posts se utilizarán para publicar avisios y noticias sobre el sitio web, y cualquier otro contenido que no sea una reseña o artículo.

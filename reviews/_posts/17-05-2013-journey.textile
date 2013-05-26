@@ -1,0 +1,15 @@
+---
+layout: review
+category: review
+title: Journey
+cover: journey.jpg
+score: 4
+dev: Thatgamecompany
+year: 2012
+formato: [Aventura]
+genero: [Fábula, fantasía]
+plataformas: [Playstation 3]
+author: Iacus
+---
+
+Esto aún tengo que escribirlo!

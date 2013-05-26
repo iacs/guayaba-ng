@@ -1,0 +1,88 @@
+body{
+    background: #DDD;
+}
+
+a,
+a:link{
+    color: #fa4747;
+}
+
+a:hover{
+    color: #cc0066;
+}
+
+a:visited{
+    color: #cc0066;
+}
+
+.container{
+    //background: #a7d94f;
+    background: #465d1d;
+}
+
+div .entry{
+    background: #f2f7e9;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    //padding: 10px 10px 10px 20px;
+    padding: 0.5em 2em;
+    border: 1px solid;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+
+div .site-description{
+    padding: 1em;
+    color: #FFF;
+}
+
+div .main-area{
+    background: #465d1d;
+    padding: 10px;
+}
+
+div .post-text{
+    padding-top: 2em;
+    text-align: justify;
+}
+
+header{
+    background: #465d1d;
+}
+
+footer{
+    background: #465d1d;
+    color: #FFF;
+    border-color: #991144;
+    border-top: 1px solid;
+    padding: 1em;
+}
+
+.piefoto{
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+
+.coverthumb{
+    float:left;
+    margin:.5em 10px .5em 0;
+    overflow:hidden; /* this is important */
+    border:1px solid #ccc;
+    width: 140px;
+    max-width: 140px;
+    height: 140px;
+    max-height: 140px;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+}
+
+.coverthumb img{
+    margin: -25px 0px 0px 0px;
+}
+
+#sidebar{
+    margin-top: 20px;
+}
