@@ -1,0 +1,24 @@
+---
+layout: default
+comments: false
+---
+
+<div class="row-fluid">
+    <div class="span12 entry">
+        <div class="span12">
+            <h5 class="muted">{{page.date | date: "%d/%m/%Y"}}</h5>
+            <h2>{{page.title}}</h2>
+        </div>
+        
+        {{content}}
+        
+        <div class="row-fluid">
+            <div class="span12">
+                {% if page.comments %}
+                <hr>
+                {% include disqus.html %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+---
+layout: blogpost
+title: Otra prueba
+author: Iacus
+---
+
+Este post no es más que otra prueba para comprobar que los posts se muestran en el orden correcto
+
+de paso podemos probar algunas cosas como _cursivas_ *negritas*
+
+y algún, digamos...
+
+h1. Epígrafe
+
+* listas
+* de la 
+* compra
+
+bq. todo lo que quiero, todo lo demás
+
+a veces hay cosas que necesitan ser aclaradas[1]
+
+y otras veces se requiere incluso más aclaración[2]
+
+fn1.En serio!
+
+fn2.Pero no siempre

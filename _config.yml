@@ -1,0 +1,3 @@
+future: true
+paginate: 7
+excerpt_separator: "</sep>"
