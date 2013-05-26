@@ -8,13 +8,13 @@
   {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Bootstrap -->
-  <link href="/css/bootstrap.css" rel="stylesheet" media="screen">
-  <link href="/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+  <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
   <link href="/css/guayaba.css" rel="stylesheet" media="screen">
 </head>
 <body>
   
-  <div class="container-fluid">
+  <div class="container">
     
     <!-- Cabecero -->
     <header>
@@ -27,15 +27,14 @@
         <p class="span8 offset2">Guayaba 2600 es una comunidad hispanohablante dedicada a explorar el mundo de los videojuegos con críticas y artículos para aficionados de paladares exigentes.</p>
       </div>
     </div>
+    </header>
     <!-- Menu -->
     <div class="navbar-wrapper">
       <div class="container">
         <div class="navbar navbar-inverse">
           <div class="navbar-inner">
             <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
+              <span class="icon-arrow-down icon-white"></span>
             </button>
             <div class="nav-collapse collapse">
               <ul class="nav">
@@ -51,7 +50,7 @@
       </div>
     </div>
     
-    </header>
+    
     
     <div class="row-fluid">
       
@@ -94,19 +93,8 @@
   </div>
   
   <!-- JAVASCRIPTS -->
-  <script src="/js/bootstrap-affix.js"></script>
-  <script src="/js/bootstrap-alert.js"></script>
-  <script src="/js/bootstrap-button.js"></script>
-  <script src="/js/bootstrap-carousel.js"></script>
-  <script src="/js/bootstrap-collapse.js"></script>
-  <script src="/js/bootstrap-dropdown.js"></script>
-  <script src="/js/bootstrap-modal.js"></script>
-  <script src="/js/bootstrap-popover.js"></script>
-  <script src="/js/bootstrap-scrollspy.js"></script>
-  <script src="/js/bootstrap-tab.js"></script>
-  <script src="/js/bootstrap-tooltip.js"></script>
-  <script src="/js/bootstrap-transition.js"></script>
-  <script src="/js/bootstrap-typeahead.js"></script>
+  <script src="http://code.jquery.com/jquery.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
   {% include google-analytics.html %}
 </body>
 </html>
