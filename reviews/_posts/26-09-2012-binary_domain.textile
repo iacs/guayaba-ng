@@ -18,11 +18,15 @@ _Binary Domain_ nos presenta un mundo en el que el calentamiento global ha provo
 
 Recientemente, un ataque terrorista de uno de estos androides reveló la existencia de los llamados "Hijos del Éter" (_Hollow children_ en la versión original). Androides con aspecto humano mezclados entre la sociedad, con conciencias falsas implantadas que les hacen creer que ellos mismos son humanos, y cuya existencia está estrictamente prohibida por la llamada Cláusula 21 de la Nueva Convención de Ginebra. El gobierno americano, preocupado por las repercusiones de esta nueva situación, y sabiendo que la única empresa capaz de producir androides con tecnología semejante es la Corporación Amada, en Japón, colabora con la IRTA (International Robotics Technology Association) enviando un par de mercenarios internacionales al país aislacionista de Japón. Estos escuadrones, denominados "Unidades Óxido" (Rust Crews) fueron creados expresamente para solucionar violaciones de dicha cláusula 21.
 
+p(pagination-centered). !/img/screenshots/26-09-2012-binary_domain/BinaryDomain01-th.jpg!:/img/screenshots/26-09-2012-binary_domain/BinaryDomain01.png
+
 p(piefoto). El equipo de mercenarios sancionados por la IRTA que nos acompañará en la misión.
 
 Con esta premisa comienza un shooter en tercera persona con sistema de cobertura en el que lideramos un escuadron de entre 3 y 6 personas. El jugador controla en todo momento a Dan Marshall, el protagonista, que puede dar ordenes tácticas a su equipo bien por un sistema de menus o bien mediante comandos de voz que el juego reconoce a través del micrófono. Curiosamente, el juego no permite utilizar los dos sistemas a la vez. Si hay un micrófono activado, sólo podrás usar los comandos de voz. Tan solo en caso contrario puedes elegir las ordenes y opciones de diálogo mediante un menu.
 
 Este aspecto del juego está algo infrautilizado y es perfectamente posible jugar sin micrófono. Lo único que aporta es una mayor versatilidad a la hora de responder en las conversaciones —algunos personajes tienen respuestas especiales a ciertas frases que no aparecen en el menu— y la posibilidad de pedirles perdón a tus aliados si les disparas por error. De ese modo, no perderán confianza con Dan.
+
+p(pagination-centered). !/img/screenshots/26-09-2012-binary_domain/BinaryDomain02-th.jpg!:/img/screenshots/26-09-2012-binary_domain/BinaryDomain02.png
 
 p(piefoto). Los encuentros son intensos, pero pueden llegar a alargarse demasiado.
 
@@ -30,15 +34,21 @@ De hecho, el otro sistema que incorpora Binary Domain, y uno mucho más interesa
 
 En cualquier caso, tener un nivel de confianza lo más alto posible es recomendable pues de lo contrario tus compañeros pueden negarse a obedecer tus órdenes —el liderazgo en las unidades óxido es laxo, por decirlo suavemente— mientras que si mantienes una gran confianza, los demás personajes incluso mostrarán iniciativa proponiendo nuevas tácticas. utlizarán sus señuelos holográficos para distraer al enemigo como Big Bo, Rachel armará su RPG para ofrecer apoyo contra enemigos más duros o eliminarán enemigos apostados en lugares inaccesibles con su rifle de francotirador en el caso de Faye. En última instancia, siempre es el jugador el que tiene la última palabra sobre si es viable llevar a cabo una determinada táctica durante un encuentro (*PROTIP:* Casi siempre lo es).
 
+p(pagination-centered). !/img/screenshots/26-09-2012-binary_domain/BinaryDomain03-th.jpg!:/img/screenshots/26-09-2012-binary_domain/BinaryDomain03.png
+
 p(piefoto). La confianza entre miembros del equipo es fundamental para ver el mejor final del juego.
 
 Además de sus efectos en combate, el nivel de confianza con los personajes influye en algunas escenas de la historia, fundamentalmente en el clímax final, pero también en una escena opcional intermedia. No hay en absoluto caminos ramificados que se consigan bajando la confianza con determinados personajes, pero sinceramente la estructura del juego y la frenetica historia funcionan perfectamente aún siendo completamente lineales.
 
 _Binary Domain_ es un juego sencillo, pero tremendamente satisfactorio. Un gran cuidado se ha puesto en la jugabilidad y es de agradecer que a pesar de ser un shooter de cobertura —y sin desmerecer el genial diseño de niveles de _Gears of War_— no todos los encuentros estén orientados a usarla. La forma de despedazarse de los robots está francamente lograda. Los enemigos reaccionarán de forma diferente según el daño que reciban. Por ejemplo, volarles la cabeza anulará su capacidad para distinguir amigos de enemigos y destruir sus piernas causará que se arrastren hasta nosotros por el suelo para atacarnos. La presentación es excelente y aunque hace uso de "QTEs camuflados" éstos son consistentes y su uso es muy puntual. El aspecto cinemático en las secuencias de escape y persecución es muy inmersivo.
 
+p(pagination-centered). !/img/screenshots/26-09-2012-binary_domain/BinaryDomain04-th.jpg!:/img/screenshots/26-09-2012-binary_domain/BinaryDomain04.png
+
 p(piefoto). Ocasionalmente habrá escenas contextuales, pero siempre son apropiadas y no desentonan con el modo normal de juego.
 
 El guión es igualmente entretenido, con personajes arquetípicos pero con innegable encanto y, excusando que el tipo de ciencia-ficción utilizada en la historia no sea el más riguroso ni plausible, agradecemos muchísimo que no haya flagrantes estupideces en el diálogo. No pretendo decir que hoy día el guión de todos los juegos sea como esa pila de mierda humeante llamada "Dragon Age 2":http://www.youtube.com/watch?v=CKbbGX4Wz0Y pero una cosa tan aparentemente sencilla como un guión que no sea estúpido no es tan fácil de encontrar como parece.
+
+p(pagination-centered). !/img/screenshots/26-09-2012-binary_domain/BinaryDomain05-th.jpg!:/img/screenshots/26-09-2012-binary_domain/BinaryDomain05.png
 
 p(piefoto). Teniendo en cuenta otros lanzamientos similares, resulta impresionante la calidad y variedad de entornos y situaciones que visitaremos en el juego.
 
