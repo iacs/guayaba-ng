@@ -1,0 +1,8 @@
+---
+layout: infopage
+title: Acerca de
+---
+
+h1. Acerca de nosotros
+
+Under construction!

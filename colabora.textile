@@ -1,0 +1,20 @@
+---
+layout: infopage
+title: colabora
+---
+
+h1. Colabora
+
+!(pull-right)/img/typing.gif!
+
+Si te apasionan los videojuegos, pero te cansan todas esas webs en las que todavía están discutiendo sobre qué consola es mejor. Si quieres dar a conocer al gran público algún clásico olvidado. Si buscas analizar ideas sobre videojuegos con un perspectivas nuevas y rara vez contempladas, considera escribir con nosotros.
+
+Estamos buscando colaboradores y nos gustaría reclutar a gente que pueda aportar su granito de arena a esta web. Tanto si quieres escribir opiniones como reseñas o artículos analizando en profundidad algún aspecto concreto de tus juegos favoritos, tenemos un hueco para ti.
+
+No nos limitamos en formatos ni en plataformas. Puedes escribir sobre los últimos lanzamientos de Xbox 360, sobre juegos indie, aventuras de texto o centrarte exclusivamente en artículos sobre juegos con robots gigantes. Lo que más te guste.
+
+No requerimos demasiada dedicación. Un post a la semana sería ideal. Para que tu nombre figure la página de *autores* (en el menu), buscamos cierta regularidad en los posts, pero aceptamos artículos sueltos. Buscamos a gente que construya con nosotros esta web.
+
+Si te atrae la idea, envía un email a *flackon[arroba]gmail[pto]com* indicando en qué te gustaría colaborar —artículos, reviews o cualquier sugerencia que tengas en mente—. Te enviaré instrucciones para que nos mandes una muestra de tu trabajo. Si nos gusta, ¡estás dentro! No te preocupes, no es difícil.
+
+Buena suerte.
