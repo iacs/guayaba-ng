@@ -15,7 +15,7 @@ title: Lista de reseñas
         <th>Publicado el</th>
     </tr>
     
-    {% for post in site.categories.reviews %}
+    {% for post in site.categories.reviews reversed %}
     <tr>
         <td><a href="{{post.url}}">{{post.title}}</a></td>
         <td>{% if post.score == 0 %} CERO {% endif %}
