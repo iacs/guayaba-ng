@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guayaba 2600</title>
+    <link>http://guayaba2600.com/</link>
+    <atom:link href="http://guayaba2600.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Guayaba 2600 es una comunidad hispanohablante dedicada a explorar el mundo de los videojuegos con críticas y artículos para aficionados de paladares exigentes.</description>
+    <language>es-es</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://guayaba2600.com{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>{{post.author}}</author>
+      <guid>http://guayaba2600.com{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>

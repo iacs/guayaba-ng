@@ -95,6 +95,14 @@ footer{
     border:1px solid #ccc;
 }
 
+.entry-screen{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    -webkit-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+       -moz-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+            box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+}
+
 #sidebar{
     margin-top: 20px;
     padding-left: 2em;

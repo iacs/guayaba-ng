@@ -1,3 +1,4 @@
 future: true
 paginate: 7
+timezone: "Europe/Madrid"
 excerpt_separator: "</sep>"
