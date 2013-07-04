@@ -3,7 +3,7 @@ layout: infopage
 title: Manifiesto
 ---
 
-h1. El Manifiesto de Guayaba 2600
+h1. Nuestro Manifiesto
 
 Nos gustan los videojuegos. Nuestro aprecio del medio es amplio y multifacetado y por lo general no nos gusta limitarnos a estilos, géneros o plataformas concretas. Pretendemos que este sea un sitio donde podamos transmitir nuestro genuino entusiasmo por los videojuegos, mostrando al público las mayores obras del medio y hacerles descubrir joyas escondidas que de otro modo no conocerían.
 
@@ -11,7 +11,7 @@ Asimismo, creemos que aunque la prensa entusiasta cubre más que de sobra las no
 
 Cuando algo te gusta mucho es cuando más aparentes se hacen sus defectos, y es por eso por lo que somos frecuentemente implacables al escribir sobre los juegos que nos gustan. Queremos que nuestros artículos contribuyan a realizar el potencial que tiene el medio del videojuego y por eso ni siquiera las vacas sagradas están completamente a salvo.
 
-h2. ¿Por qué puntuamos los juegos?
+h3. ¿Por qué puntuamos los juegos?
 
 No nos gustan las puntuaciones numéricas. Son arbitrarias y mayormente inútiles por sí solas. Pese a esto, nuestras reseñas van acompañadas de una puntuación de entre cero y cuatro estrellas (o mejor dicho, guayabas). Esta clasificación es más bien una abreviatura cualitativa sobre los méritos o carencias de un juego y no un intento de estamparle una "nota" entre 0 y 100 a un título. En cualquier caso, la puntuación que damos a un juego es un signo orientativo de cómo nos sentimos respecto al título en cuestión y no es aconsejable tomarla sin considerar la reseña completa. La reseña es la que detalla lo que pensamos sobre el juego, la puntuación no. Aún así, es habitual que las puntuaciones se correspondan a estas descipciones:
 
@@ -21,6 +21,8 @@ No nos gustan las puntuaciones numéricas. Son arbitrarias y mayormente inútile
 * 3 estrellas: Un juego muy bueno y recomendable a todo aficionado. Los conceptos son frescos y están en general bien ejecutados.
 * 4 estrellas: Una obra maestra absoluta. Suele tratarse de un brillante exponente de su categoría o bien una obra de arte recomendada para todo el mundo, incluso quien no es aficionado a los videojuegos. Un juego así es prácticamente redondo en todos los aspectos o sus defectos son tan pequeños en comparación con sus virtudes que igualmente se gana el mayor mérito.
 
-h2. En definitiva
+h3. En definitiva
 
 Con todo esto queremos establecer nuestro objetivo.  Resumiendo: crítica sesuda sobre videojuegos, comprometida con el estado del arte, pero sin caer en el cinismo y la pretenciosidad. Manteniendo siempre que sea posible, ese entusiasmo por nuestro hobby.
+
+Si la idea de formar parte de una web así te parece interesante, no dudes en echar un vistazo a nuestra "pagina para colaboradores":/colabora.html y ponte en contacto con nosotros o mándanos un artículo.
