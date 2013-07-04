@@ -17,7 +17,7 @@ task :review do
       file.puts "---"
     end
   end
-  `subl #{path}`
+  `subl #{path} &`
 
   exit 1
 end
