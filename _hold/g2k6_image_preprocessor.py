@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# coding=utf-8
 #
 # Script que preprocesa las imágenes y enlaces de los artículos de Guayaba 2600
 # Herramienta preeliminar
