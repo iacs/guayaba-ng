@@ -1,0 +1,93 @@
+---
+layout: review
+category: review
+title: "Mirror's Edge"
+cover: me_cover.jpg
+score: 3
+dev: Digital Illusions CE
+year: 2008
+formato: [Carreras, Plataformas, FPS]
+genero: [Ciencia Ficción]
+plataformas: [Windows, PlayStation 3, Xbox 360]
+author: Iacus
+---
+
+Siguiendo la gloriosa tradición de *Guayaba 2600* de escribir críticas exclusivamente sobre juegos que usan la perspectiva en 1º persona —Que nadie se engañe, la "review de Contact":{% post_url 2008-10-14-contact %} era únicamente para despistar— es un placer para mí escribir sobre _Mirror's Edge_.
+
+Que en estos tiempos exista un juego como _Mirror's Edge_ debería ser celebrado. Pocas veces un estudio se lanza al hostil mercado de los títulos de primera clase con una propuesta tan arriesgada y rompedora. Lo cierto es que, pese a quien pese, _Mirror's Edge_ no es un _blockbuster_. No tiene un modo multijugador de competición directa y su modo de un jugador es tan corto que bastan 5 horas para acabárselo empezando de cero. _Mirror's Edge_ es, en esencia, un arcade de la vieja escuela, criado en la época actual, sin escatimar en lujos.</sep>
+
+La premisa del juego es sencilla. Nosotros encarnamos a Faith Connors, una _runner_ de un hipotético futuro cercano. Los _runners_ son los únicos transmisores de la información libre en una metrópolis distópica, y trasladan estos recados moviéndose con gran agilidad por las azoteas de la blanca ciudad sin nombre, donde se mantienen fuera del alcance de las fuerzas del régimen totalitario que la gobierna. Viven al margen de la ley, en el filo del espejo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-city-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-city.jpg
+
+p(piefoto). Las vistas de la ciudad te dejan sin aliento.
+
+Lo que es en realidad, una mera excusa para crear un juego con una libertad de movimientos y una sensación física sin precedentes. La cosa es, la trama del juego no es nada del otro mundo. No es interesante, ni motivadora, ni sus personajes están desarrollados de forma que importen. Sin desmerecer el trabajo de Rhianna Pratchett —aquellos que pensaron que es la hija de Terry Pratchett han acertado— lo mejor que se puede decir de la trama es que es funcional e inofensiva. Los diálogos son correctos, y eso es todo. Sólo sirve para darnos una excusa para correr por los tejados.
+
+El juego en sí es difícil de clasificar en base a lo que existía antes que él. Mucha gente lo comparó con Portal antes de que saliera al mercado y lo cierto es que no le faltan similitudes, pero que ambos sean en 1º persona, con énfasis en el desplazamiento por entornos futuristas de blanco impoluto y que los dos tengan un tema musical titulado _Still Alive_ no nos dice nada sobre cómo se juegan.
+
+La presentación del juego es tan progresista que casi da asco. No hay ningún tipo de HUD ni indicador en la pantalla, salvo un punto en el centro que en teoría sirve para ayudar a evitar mareos al jugar, aunque puede desactivarse totalmente o hacer que solo aparezca como punto de mira cuando cogemos un arma. Jugué con él desactivado todo el rato y no experimenté ningún mareo, y esto viene de alguien que no soporta ver jugar a otra persona a _Half-Life_ o _Unreal Tournament_ con una sensibilidad de ratón un poco alta. Como no hay barra de vida, cuando estamos a punto de morir nuestro campo de visión se atenúa y los bordes parpadean en rojo. Los colores se desaturan, casi volviendo la imagen en blanco y negro. La opción de _runner vision_, que también se puede desactivar, resalta en rojo algunos elementos del escenario para indicarnos por dónde podemos ir y qué partes del escenario podemos usar para llegar a la meta. También resalta en rojo las armas de los enemigos cuando llega el momento exacto en el que podemos usar un movimiento de contraataque para desarmarlos.
+
+El juego jamás abandona la perspectiva en primera persona, salvo en las secuencias cinemáticas entre misión y misión. Estas secuencias simplemente nos exponen la trama y como ya dije, son prescindibles. El hecho de que las animaciones 2D sean algo antinaturales y, por qué no decirlo, feas, no ayuda. Tienen el aspecto de haber sido hechas en flash. Parece que los desarrolladores hayan querido conseguir un efecto "artístico" pero el resultado final lo que parece decir es "bajo presupuesto". No se pierde nada por saltarse estas escenas.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-street-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-street.jpg
+
+p(piefoto). Pondría la imagen de una secuencia, pero prefiero poner esta pantalla.
+
+Las plataformas en primera persona siempre han sido maldecidas por usuarios y periodistas enfurecidos, desde los tiempos de _Turok_. Se creía que poner en el juego secciones que requieran saltos precisos nunca podría funcionar en primera persona porque es más difícil juzgar distancias en tres dimensiones. Sin embargo _Mirror's Edge_ hace que funcione gracias a una física muy pulida, un excelente diseño de niveles y una sensación de corporalidad y velocidad sin parangón.
+
+Cuando corremos hacia delante, la cámara se balancea acorde al ritmo que llevamos, cuando tomamos una curva, el punto de vista se inclina de manera convincente, dotando a las persecuciones de una calidad cinemática que, paradójicamente, sólo es posible en un videojuego. Es increíble lo que la gente de DICE ha conseguido en cuestión de "propiocepción":http://es.wikipedia.org/wiki/Propiocepci%C3%B3n de un avatar virtual.
+
+Una de las cosas que pueden echar a la gente un poco para atrás es que, sobre todo al principio, las habilidades del jugador no están a la altura de las de su avatar. Faith es una _runner_ experta y la cantidad de movimientos dedicados a, bueno, el movimiento es enorme comparado a lo que nos tienen acostumbrados los FPS. Al principio cuesta asimilarlo todo e incluso con la _runner vision_ activada, necesitaremos algo de experiencia para saber cómo sortear los diversos obstáculos del camino.
+
+Al principio fallaremos, y mucho. Bajo la cuidada apariencia de su presentación audiovisual se encuentra un juego realmente _hardcore_, de la vieja escuela. Al fallar saltos o ser alcanzados por las armas de los policías tendremos que empezar desde un _checkpoint_ anterior y repetir la misma sección de nivel una y otra vez. Esto puede romper el recorrido fluido que llevábamos, al atascarnos en alguna parte. Hay partes que pueden llegar a ser frustrantes, especialmente aquellas en las que hay varios enemigos poderosos, lo que nos obliga a aguzar nuestros sentidos y nuestra inventiva para sortearlos y buscar una salida o aislarlos y vencerlos de uno en uno.
+
+Tal como yo lo veo, el fluir continuo es la recompensa por jugar bien el nivel. _Mirror's Edge_ no es un juego al que le concierne el qué, sino el cómo. Es uno de esos juegos en los que, una vez que has practicado un poco, te sientes poderoso, corriendo y saltando por los niveles, sorteando enemigos, siempre de la forma más rápida y espectacular posible. Cuando consigues eso, la sensación es increíblemente estimulante —juro que mi ritmo cardíaco se aceleraba durante las partes más intensas del juego— y es cuando _Mirror's Edge_ brilla con luz propia.
+
+El problema es, precisamente, que hay que practicar. Nuestra primera vez jugando estará llena de momentos en los que no sabremos cómo avanzar. Muchas de las secciones del juego, especialmente aquellas en las azoteas de la ciudad son particularmente confusas. No es inmediatamente obvio en qué dirección debemos ir. Esto es lo que realmente rompe el fluir del juego, no saber qué ruta tomar, forzarnos a parar y mirar en todas direcciones, arriba y abajo para ver por dónde podemos continuar. El problema se acentúa cuando nos persiguen los enemigos, ya que algunos de los caminos quedan realmente a desmano, aumentando la confusión del jugador novato. Los desarrolladores son conscientes de este problema, y han puesto un botón dedicado exclusivamente a orientar nuestro punto de vista en la dirección que debemos tomar. Esto es muchas veces una pista insuficiente, ya que sólo nos indica vagamente en qué dirección está la salida. Si hay paredes u objetos de por medio ni siquiera la veremos. Además, es una solución realmente chapucera.
+
+Creo que DICE debería tomar algunas páginas del libro de Valve. Testear los niveles hasta la saciedad de modo que fluyan perfectamente de principio a fin. Claro que, por lo que sé, quizá ya hicieron esto y no tuvieron tiempo para hacer niveles menos confusos, o decidieron ignorarlo. En cualquier caso, soy consciente de que diseñar un nivel de _Mirror's Edge_ es mucho más complejo que hacer uno de _Half-Life_. En otros aspectos, como el diseño de enemigos, también les vendría bien aprender algo de Valve. Los enemigos, con la _runner vision_ activada, están rodeados por una horrible aura roja que queda muy fuera de lugar. Esto hace que sepamos bien dónde se encuentran incluso en la oscuridad, pero hubiera sido preferible mejorar la legibilidad y el aspecto de dichos enemigos en relación con su entorno en vez de recurrir a ese pegote gráfico.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-slide-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-slide.jpg
+
+p(piefoto). La sensación de movimiento y corporalidad está magníficamente lograda.
+
+La estructura de _Mirror's Edge_ está claramente dividida en dos partes. Las partes emocionantes, en las que o bien escapamos de alguien o bien perseguimos a alguien a toda velocidad haciendo gala de nuestras acrobacias, y las partes más relajadas, en las que no tenemos que preocuparnos por los enemigos y podemos tomarnos todo el tiempo del mundo. En estas secciones, normalmente en interiores el objetivo es encontrar la salida, a veces resolviendo algún puzzle del entorno y pasar a la siguiente habitación. Estas dos partes diferenciadas se van intercalando en los niveles ofreciendo un buen ritmo. Las partes pausadas nos permiten recuperar el aliento tras una emocionante persecución y las partes frenéticas nos aceleran el pulso después de haber superado algún puzzle. Se complementan mutuamente.
+
+Estas partes tienen algo en común en todo momento, el objetivo es llegar a la salida. Fiel a sus raíces de arcade, la salida es siempre una brillante puerta roja o un conducto de ventilación con borde rojo. Este es uno de los aspectos que más me gustan del diseño de _Mirror's Edge_. Todo está compuesto por diversos elementos que siempre se comporta igual y son reconocibles durante todo el juego. Hay verjas que podemos escalar, todas son de la misma altura. Existe una versión de la verja con alambre de espino que nos hará daño si la intentamos subir y otra electrificada que no podemos ni tocar, los "trampolines" son sacos de arena, bloques de cemento o cajas de cartón, y siempre nos lanzan al aire en el mismo arco. Las tuberías y las escaleras son para subir y bajar en vertical...
+
+Todos estos variados elementos conforman los niveles. Dejando de lado los problemas de la orientación, los niveles están magníficamente construidos. En uno de los capítulos hay una sala pequeña con tres soldados. Desde que entras hasta que sales, si conoces el nivel, sólo transcurren cuatro segundos. Sin embargo, hay unas tres o cuatro formas distintas de atravesar esa sala, aparte de la decisión que puede tomar el jugador de enfrentarse a los enemigos o esquivarlos. Esto indica el cariño que se ha puesto en crear cada sala, cada pared, cada sótano. A pesar de todo, por bonitos y cuidados que estén los entornos, lo realmente importante son estos elementos básicos y su interacción con los movimientos de Faith. La ciudad es sólo una excusa. De hecho, el pack de niveles extra que ha salido hace poco consta únicamente de "formas geométricas de colores":http://www.youtube.com/watch?v=Jo2NAQ7-DFc.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-storage-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-storage.jpg
+
+p(piefoto). A simple vista, uno podría decir que esta es la foto de un lugar que existe realmente.
+
+Para un veterano de los videojuegos como yo, condicionado por años de juegos tradicionales, fue una especie de revelación captar realmente la esencia de _Mirror's Edge_. Al principio, estás jugando y encuentras una escalera mientras eres perseguido y tiroteado. Tu acto reflejo es, como has hecho ya en tantos otros juegos, subir por la escalera para dejar atrás a tus perseguidores. La segunda vez que juegas, la cosa cambia. Algo hace click en tu cerebro y cuando ves esa misma escalera, ya no subes corriendo por ella sino que corres por la pared adyacente, das un salto hacia la barandilla y te impulsas por encima, acortando significativamente el tiempo que te hubiera llevado subirla. Eso es lo bonito de _Mirror's Edge_. Con el tiempo, empiezas a ver nuevos caminos donde antes sólo veías un elemento arquitectónico decorativo. Ves nuevas salidas y nuevas formas de desplazamiento donde antes sólo veías una tabla de madera y un andamio oxidado. Todo está cuidadosamente diseñado para que el jugador pueda encontrar la ruta más rápida, el menor tiempo posible.
+
+El modo multijugador es así, compites por los tiempos más cortos y las rutas más eficientes contra otros jugadores, pero no directamente, sino de forma asíncrona, contra sus fantasmas (exactamente la misma idea que los coches fantasma en los juegos de coches), atravesando circuitos basados en _checkpoints_ superpuestos a los mapas del modo historia. Otro rasgo más del legado arcade. Conseguir la Hi-Score.
+
+Y es que es curioso cómo el diseño gráfico de un juego puede disfrazar nuestras expectativas. Estamos malcriados por los FPS súper realistas de los últimos años y por eso cuando vemos a los soldados y policías de _Mirror's Edge_ esperamos que se comporten como en otros juegos. La realidad es que, los enemigos de _Mirror's Edge_ son *tontos*. Los únicos rivales decentes y peligrosos son las fuerzas especiales de seguridad, equipados con armas potentes y auténtico entrenamiento de combate. Cuando nos acercamos a un enemigo, provocamos que este nos intente golpear con su arma. Los especiales son los únicos que nos dan un culatazo rápido con su rifle (con una tiempo de reacción para desarmarlos muy pequeño) que nos dejará KO en dos golpes. Los policías metropolitanos, por el contrario, abrirán el brazo... lentamente... para darnos un golpe... con su 9mm.
+
+Es ridículo, en el contexto, que tres policías disparando a un solo objetivo que *corre hacia ellos* no sean capaces de acertar ni un disparo. Ni siquiera los Stormtroopers eran tan malos. Lo que pasa es que hay que ver a los soldados más que como enemigos, como obstáculos móviles que matan. El hecho de que muchos de nuestros escapes sean bajo fuego enemigo es más bien una excusa para azuzar al jugador a seguir corriendo y mantener la tensión. Existen para decir: "Si te quedas quieto, vas a morir". Tener esto en mente hará que la inmersión no solo no se rompa, sino que se acentúe.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-antidisturbios-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-antidisturbios.jpg
+
+p(piefoto). La mayoría de enemigos no son especialmente avispados.
+
+_Mirror's Edge_ no anda escaso de sensación de inmersión, que conste. Los gráficos son verdaderamente bonitos. Ha sido muy difícil escoger las capturas de pantalla que ilustran este texto porque hay tantos escenarios preciosos. El estilo vanguardista de la arquitectura y el uso de los colores primarios es sublime. La calidad de las texturas renderizadas por el Unreal Engine 3 es tan convincente que casi puede olerse la pintura fresca de las paredes. El HDR, el motion blur y los efectos de profundidad de campo añaden realismo a nuestras andanzas por la ciudad cristalina.
+
+Uno de los mejores momentos es cuando llegamos al atrio. Es uno de los entornos más sobrecogedores del juego. El interior de una altísima sala todavía en construcción, llena de andamios, vigas y lonas amarillas. Las palomas revolotean por su interior mientras un cegador sol veraniego ilumina con calidez toda la zona desde ventanales igualmente altos. Cuando entramos, empieza a sonar la música electrónica minimalista de Solar Fields, completando una ambientación de ensueño. Retándonos a escalar la estructura con resolución.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-atrio-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-atrio.jpg
+
+p(piefoto). El atrio es uno de los niveles más perfectos que he visto.
+
+Pese a lo homogénea que puede parecer la ciudad blanca. La variedad de entornos es enorme. Generalmente nos desplazaremos por las azoteas y los interiores de edificios de oficinas, grandes almacenes y estaciones de metro. Las transiciones entre exteriores e interiores son directas y rápidas, cuando Faith arremete contra la ansiada puerta roja, o la abre de una patada. La banda sonora puntualiza estas transiciones de manera precisa, adaptando la música de forma dinámica cuando atravesamos la puerta y por fin nos libramos de nuestros perseguidores. También hay algunos niveles que empezaremos al nivel de la calle, escabulléndonos por callejones o incluso bajo tierra, metiéndonos en sistemas de filtración de agua.
+
+Las situaciones que superaremos en esos niveles son igualmente variadas y, sí, también recuerdan a los mejores arcades de la vieja escuela. En una escena tendremos que movernos sobre el techo de un tren en marcha y en otro momento memorable, habrá que atravesar un gran espacio abierto mientras nuestro enemigo, un asesino con un rifle de francotirador, nos apunta desde el otro lado del campo. Tenemos el tiempo justo para deslizarnos por el suelo hasta el siguiente parapeto para evitar recibir un balazo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-juegos-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-juegos.jpg
+
+p(piefoto). Lo que yo llamo "la sala de juegos". Esta inexplicable estructura es el escenario de una excitante carrera contra los agentes de persecución.
+
+_Mirror's Edge_ es uno de los juegos más divertidos e interesantes que han salido en los últimos años. Sus defectos impiden que sea una obra maestra de cuatro estrellas, pero aquellos jugadores que tengan paciencia y estén dispuestos a dedicarle una actitud benevolente serán recompensados con una experiencia sin precedentes en el mundo del videojuego. Y conviene disfrutarla, porque es muy posible que no vuelva a haber nada igual en mucho tiempo.

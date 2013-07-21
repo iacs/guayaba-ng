@@ -53,11 +53,35 @@ def main():
             g.write(newline)
         else:
             g.write(line)
-    
+        
     f.close()
     g.close()
     
+    # Rename files
+    og_name = f.name
+    os.rename(f.name,f.name+"-orig")
+    os.rename(g.name,og_name)
+    
     # Convert images
+    current_dir = os.getcwd()
+    os.chdir(dirname)
+    print("actual" + os.getcwd())
+    
+    thumb_geom = "400x"
+    
+    for filename in os.listdir("."):
+        imgname, ext = os.path.splitext(filename)
+        print(filename)
+        if ext == ".jpg" or ext == ".png":
+            cmdstring = "convert " + filename + " -resize " + thumb_geom + " " + imgname+"-th.jpg"
+            os.system(cmdstring)
+            dest = postname + "/" + filename
+            dest2 = postname + "/" + imgname + "-th.jpg"
+            #print(dest)
+            os.rename(filename,dest)
+            os.rename(imgname+"-th.jpg",dest2)
+    
+    os.chdir(current_dir)
     
     # Fin
         
