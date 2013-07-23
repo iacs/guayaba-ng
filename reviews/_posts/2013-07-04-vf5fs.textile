@@ -2,7 +2,7 @@
 layout: review
 category: review
 title: "Virtua Fighter 5: Final Showdown"
-cover: vf5fs.jpg
+cover: vf5fs_cover.jpg
 score: 4
 dev: "Sega Amusement Machine Research and Development Department #2"
 year: 2012 (2010 ver. arcade, 2006 juego original)
