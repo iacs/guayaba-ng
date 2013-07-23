@@ -26,7 +26,7 @@ comments: false
                 <li><strong>Género: </strong>{{page.genero | array_to_sentence_string}} </li>
                 <li><strong>Plataformas: </strong>{{page.plataformas | array_to_sentence_string}} </li>
                 <li><strong>Puntuación: </strong>
-                {% if page.score == 0 %} CERO {% endif %}
+                {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
                 {% if page.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
                 {% if page.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
                 {% if page.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
