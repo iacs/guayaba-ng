@@ -12,7 +12,7 @@ plataformas: [PlayStation 3, Xbox 360]
 author: Iacus
 ---
 
-Mi descubrimiento de _Virtua Fighter_ podría considerarse un afortunado accidente. Por lo que recuerdo, en este país el nombre _Virtua Fighter_ perdió gran parte de su popularidad entre los jugadores cuando la novedad de los gráficos poligonales fue perdiendo su lustre. Me he encontrado con la situación de que, hablando del juego, me preguntaran "¿Eso todavía existe?".
+Mi descubrimiento de _Virtua Fighter_ podría considerarse un afortunado accidente. Por lo que recuerdo, en este país el nombre _Virtua Fighter_ perdió gran parte de su popularidad entre los jugadores cuando la novedad de los gráficos poligonales fue perdiendo su lustre. Me he encontrado con la situación de que, hablando del juego, me preguntaran "¿Eso todavía existe?".</sep>
 
 No puedo considerarme un experto de primera mano en la historia de _Virtua Fighter_. Dejando de lado que mi acceso a las consolas fue tardío, como tantos otros, estuve viviendo en una época oscura de ignorancia durante gran parte del desarrollo de esta serie de juegos, hasta que los redescubrí, de manera reveladora, con Virtua Fighter 4 y su primera versión mejorada, _VF4: Evolution_ en la PlayStation 2.
 
