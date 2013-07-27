@@ -8,6 +8,13 @@ body{
     background: -ms-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* IE10+ */
     background: linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cdeb8e', endColorstr='#a5c956',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    font-family: 'Maven Pro', 'Helvetica', sans-serif;
+    font-weight: 500;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Maven Pro', 'Helvetica', sans-serif;
+    font-weight: 900;
 }
 
 a,
@@ -71,6 +78,7 @@ footer{
     text-align: center;
     font-size: small;
     font-style: italic;
+    margin-bottom: 15px;
 }
 
 .coverthumb{
