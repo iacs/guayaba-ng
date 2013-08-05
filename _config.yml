@@ -1,4 +1,5 @@
-future: true
-paginate: 7
+future: false
 timezone: "Europe/Madrid"
+exclude: [README.md, Rakefile]
+paginate: 7
 excerpt_separator: "</sep>"
