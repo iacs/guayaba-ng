@@ -30,13 +30,17 @@ layout: default
         </div>
         <div class="row-fluid">
             <p></p>
-            <em>{{post.excerpt}}</em>
+            {{post.excerpt}}
+            <hr>
             <a href="{{post.url}}" class="btn pull-right">Seguir leyendo &raquo;</a>
+            <a href="{{post.url}}#disqus_thread" class="btn">Ir a comentarios</a>
         </div>
         
         {% else %}
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
         {{post.content}}
+        <hr>
+        <a href="{{post.url}}#disqus_thread" class="btn">Ir a comentarios</a>
         {% endif %}
     </div>
 </div>
