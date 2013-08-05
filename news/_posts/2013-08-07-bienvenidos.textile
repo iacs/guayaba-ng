@@ -1,0 +1,16 @@
+---
+layout: blogpost
+title: Bienvenidos a Guayaba 2600
+author: Iacus
+---
+Hola a todos. Estamos orgullosos de presentar por fin nuestra web *Guayaba 2600* donde tratamos de videojuegos, viejos y nuevos, de ordenador y consola, conocidos y escondidos.
+
+Antes de lanzar la web hemos acumulado una considerable cantidad de reseñas críticas sobre videojuegos. Puedes acceder a ellas navegando por la página o usando nuestro "archivo de reseñas.":/reviews.html
+
+Si quieres saber qué esperar de *Guayaba 2600*, echa un vistazo a "nuestro manifiesto.":/about.html
+
+Para estar al tanto de los nuevos artículos que publicaremos, "síguenos en twitter":http://twitter.com/guayaba2600 o "suscríbete por RSS":/rss.xml
+
+Deja un comentario para hacernos saber lo que opinas de la web, o preguntarnos cualquier duda que tengas. Y si quieres escribir algún artículo tú mismo, lee nuestra página para "colaboradores":/colabora.html
+
+Bienvenidos a *Guayaba 2600*
