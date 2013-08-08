@@ -96,11 +96,16 @@ footer{
 }
 
 .coverthumb img{
-    margin: -25px 0px 0px 0px;
+    margin: -20px 0px 0px 0px;
+    max-width: 140px;
 }
 
 .border{
     border:1px solid #ccc;
+}
+
+.pagination-centered {
+  text-align: center;
 }
 
 .entry-screen{
@@ -114,6 +119,15 @@ footer{
 #sidebar{
     margin-top: 20px;
     padding-left: 2em;
+}
+
+/* Container config */
+
+.container,
+.navbar-static-top .container,
+.navbar-fixed-top .container,
+.navbar-fixed-bottom .container {
+    width: 960px;
 }
 
 /* Mobile fix for gutters*/
