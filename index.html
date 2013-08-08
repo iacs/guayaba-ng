@@ -3,51 +3,55 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<div class="row-fluid">
-    <div class="span12 entry">
-        <h5 class="muted">{{post.date | date: "%d/%m/%Y"}}</h5>
+<div class="row">
+    <div class="col-lg-12 entry">
+        <h5 class="text-muted">{{post.date | date: "%d/%m/%Y"}}</h5>
         
         {% if post.category == 'review' %}
         <h3 ><a href="{{post.url}}">{{post.title}}</a></h3>
-        <div class="row-fluid">
-            <div class="span3">
+        <div class="row">
+            <div class="col-lg-3">
                 <p class="coverthumb"><a href="{{post.url}}"><img src="/img/covers/{{post.cover}}" alt="Reseña de {{post.title}}"></a></p>
             </div>
-            <div class="span8 offset1">
+            <div class="col-lg-9">
                 <p><td>{% if post.score == 0 %} <img src="/img/zero2x.gif" alt="*"> {% endif %}
                 {% if post.score == 1 %} <img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
                 {% if post.score == 2 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
                 {% if post.score == 3 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
                 {% if post.score == 4 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}</p>
-                <ul class="unstyled">
+                <ul class="list-unstyled">
                     <li>Una reseña de <strong><em>{{post.title}}</em></strong></li>
                     <li>Desarrollado por <strong>{{post.dev}}</strong></li>
                 </ul>
-                <ul class="unstyled">
+                <ul class="list-unstyled">
                     <li><small>Texto por {{post.author}}</small></li>
                 </ul>
             </div>
         </div>
-        <div class="row-fluid">
-            <p></p>
-            {{post.excerpt}}
-            <hr>
-            <a href="{{post.url}}" class="btn pull-right">Seguir leyendo &raquo;</a>
-            <a href="{{post.url}}#disqus_thread" class="btn">Ir a comentarios</a>
+        <div class="row">
+            <div class="col-lg-12">
+            <p>{{post.excerpt}}</p>
+            <a href="{{post.url}}" class="btn btn-default pull-right">Seguir leyendo &raquo;</a>
+            </div>
         </div>
         
+        
         {% else %}
-        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        {{post.content}}
-        <hr>
-        <a href="{{post.url}}#disqus_thread" class="btn">Ir a comentarios</a>
+            <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+            {{post.content}}
         {% endif %}
-    </div>
+        
+        <div class="row">
+            <hr>
+            <a href="{{post.url}}#disqus_thread" class="pull-right" >Ir a comentarios</a>
+        </div>
+        
+    </div> <!-- div.entry -->
 </div>
 {% endfor %}
 
-<div class="row-fluid">
-    <div class="span12 entry">
+<div class="row">
+    <div class="col-lg-12 entry">
         <div class="pagination pagination-centered">
             <ul>
                 {% if paginator.previous_page %}
