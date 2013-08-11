@@ -1,0 +1,55 @@
+---
+layout: review
+category: review
+title: "Muramasa: The Demon Blade"
+cover: muramasa_cover.jpg
+score: 2
+dev: Vanillaware
+year: 2009
+formato: [Acción]
+genero: [Fantasía, Era Genroku]
+plataformas: [Nintendo Wii, PlayStation Vita]
+author: David
+---
+
+Nunca he sido un fan del brit-pop, pero me encanta Suede, uno de los mejores grupos de este tipo de música, tristemente disuelto en 2003. Sin pararme a discutir los pormenores de su estilo, hay una canción de Suede que, aun siendo de mis preferidas, tiene un gran defecto. Se titula __Love The Way You Love__ y su mayor problema es que se repite mucho. El propio título ya redunda con la palabra "love", y el estribillo lo hace aún más. Y estamos hablando de un estribillo que se repite muchas veces. En resumidas cuentas, se trata de una canción muy agradable, muy pegadiza y con mucho ritmo, pero no está hecha para ser escuchada con mucha frecuencia, en cuyo caso acaba cansando. Más o menos lo mismo se puede decir de __Muramasa: The Demon Blade__.</sep>
+
+Huelga decir a estas alturas que el juego es visualmente precioso, un festín para la vista y también para el oído. Los escenarios y sus fondos son maravillosas obras de arte y los __sprites__ de los personajes han sido cuidados hasta el más mínimo detalle, como la pequeña onda que se forma en una de las mangas de la ropa de Momohime cuando está corriendo. Y por supuesto los inmensos jefes finales son todo un logro visual, con esas enormes acumulaciones de __sprites__ moviéndose a la vez. El estilo gráfico de __Muramasa__ no es un regreso a las tradicionales 2D, sino más bien unas 2D de nueva generación, un paso adelante en un medio dominado por las 3D y en el que la alternativa suele ser la estética minimalista y/o vieja escuela.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-15-muramasa/mura01-th.jpg!:/img/screenshots/2009-10-15-muramasa/mura01.jpg
+
+p(piefoto). Los escenarios son sublimes: cargados de colores y repletos de detalles; una verdadera gozada para la vista. 
+
+El problema es que muchos de los bellos escenarios se repiten, a veces incluso de forma un tanto gratuita. Por ejemplo, en cierto punto de la historia de Momohime, uno se adentra en un bambuzal no visto hasta el momento para, al cabo de unas pocas pantallas, aparecer en un bosque que tiene el mismo aspecto que aquel en el que comienza la aventura, reciclando incluso algunas de las plataformas que nuestro personaje puede utilizar. Esto ocurre varias veces a lo largo de la aventura con varios escenarios, con lo que muchos de nuestros paisajes favoritos se repetirán hasta perder parte de su encanto.
+
+Ni que decir tiene que lo mismo ocurre con los enemigos. Poco a poco nos iremos encontrando con nuevos rivales, pero más tarde irán apareciendo versiones mejoradas de los mismos, dando lugar a un pequeñísimo porcentaje de enemigos únicos y característicos de un escenario determinado.
+
+Afortunadamente, los jefes finales siempre son sorprendentes y originales, y varían según se juegue la historia de Momohime o la de Kisuke. Recuerdo un boss, en la trama de la primera, que me impresionó no por su tamaño ni su diseño espectacular. Es más, se trataba de un humano, un samurái. Lo realmente atractivo de este enfrentamiento era que se trataba de un duelo a espada contra el susodicho, en una playa, bajo un cielo tormentoso. La pequeña barca de pescador que flotaba cerca de la orilla y era sacudida por el oleaje contribuía al dramatismo de la escena. Este tipo de encuentros conceden un "momento de claridad" al jugador entre tanta repetición.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-15-muramasa/mura02-th.jpg!:/img/screenshots/2009-10-15-muramasa/mura02.jpg
+
+p(piefoto). Aunque los combates contra los jefes finales hacen uso de la misma mecánica de repetición, suelen resultar intensos y divertidos. 
+
+Teniendo en cuenta la distribución de las pantallas, da la sensación de que los de Vanillaware pretendían crear un mundo casi lineal pero con pequeñas rutas alternativas, creando la inconvincente falacia de un mundo abierto. Me explico: la progresión es en su mayor parte lineal, atravesando sucesiones de pantallas —con la inevitable repetición y reciclaje de escenarios— exigiendo alguna que otra vez tomar lo que en el mapa aparece como un desvío, pero que en la pantalla seguimos viendo como desplazamiento horizontal. Esto es así hasta que llegamos, bien al jefe final que toca, bien a una barrera. En el segundo caso, habrá que dar vuelta hasta toparnos con el primer caso. Tras derrotar al boss se obtiene el poder de destruir un tipo concreto de barrera, con lo que hay que volver a pasar por lugares ya visitados para encontrar y romper la que corresponda. Uno puede moverse con libertad mientras no se tope con una barrera que no pueda deshacer, siguiendo desvíos y cambiando zonas, de ahí la ilusión de un mundo abierto; pero esta libertad de exploración no sirve práticamente para nada. Habría merecido la pena que hubiesen sacrificado algunas pantallas en beneficio de hacer únicas y memorables las restantes.
+
+El modo de combate tampoco se puede decir que tenga mucha ciencia. Se basa en pulsar el botón A todo lo que se pueda, en combinación con las teclas de dirección y en diferentes circunstancias (en el aire, agachado, etc.). La mayor variedad que se va a encontrar el jugador a la hora de combatir, es la diferencia entre usar una __katana__ y una __tachi__. La primera es más corta y rápida, permitiendo hacer combos espectaculares, y la segunda es más larga y lenta, pero tiene la ventaja de permitir al personaje flotar mientras golpea con ella y hacer combos en el aire, lo cual es muy útil contra cierto tipo de enemigos. Además, bloqueando ciertos ataques y golpeando a enemigos que se están protegiendo se desgastan las espadas y se rompen, así que hay que cambiar rápidamente a otra de las tres que llevemos equipadas mientras las rotas se regeneran.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-15-muramasa/mura03-th.jpg!:/img/screenshots/2009-10-15-muramasa/mura03.jpg
+
+p(piefoto). Luchar contra hordas de enemigos es lo único en lo que se basa el juego, lo cual termina por cansar. Afortunadamente, el control es muy sencillo. 
+
+Ah, que no se me olvide, también hay dos modos de dificultad de combate: Muso y Shura. El segundo se distingue del primero en que los enemigos hacen más daño y no te puedes cubrir de ataques que te sean lanzados por la espalda; tienes que ponerte de frente a lo que te vaya a lastimar. Esto obliga a uno a hacer más movimientos de esquiva y por lo demás es lo mismo.
+
+Que no se entienda que el combate es aburrido. De hecho es muy satisfactorio cuando uno hace movimientos espectaculares por tierra y aire contra decenas de enemigos a la vez, viendo cómo sube el contador de combos y oyendo cómo la espada atraviesa a nuestros rivales. Es divertido y es adictivo, con el defecto de ser todo el tiempo lo mismo.
+
+Esto genera el problema de otorgar a __Muramasa__ un __replay value__ realmente bajo. El final de ambas historias varía según el número de veces que uno se acabe el juego, cosa a la que el jugador no se ve impulsado después de haber repetido tantas veces lo mismo para terminar una sola vez. Como para hacerlo tres, vaya. No obstante, los finales que se revelan al terminar por segunda y tercera vez merece la pena verlos, en los casos de ambos personajes.
+
+Quizá el afán por conseguir forjar todas las espadas y terminar todas las moradas (pantallas protegidas por barreras que son opcionales y ponen al jugador contra oleadas de enemigos comunes y/o jefes poderosos) pueda impulsar a unos pocos aficionados, pero cualquiera acabaría cansándose.
+
+Pero el título merece la pena, no solo por lo ya comentado, sino también por su representación de la cultura japonesa centrada en la era Genroku, acompañada por una banda sonora impecable, teñida con las notas de diversos instrumentos japoneses tradicionales. Esto sin olvidar los impresionantes efectos de sonido, desde el ruido de la espada cortando a un enemigo hasta los pasos de los pies desnudos de Momohime sobre las rocas de los baños termales, pasando por todo tipo de gritos, cortes, lanzamientos, truenos, explosiones y un largo etcétera de espectáculo para las orejas y más allá.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-15-muramasa/mura04-th.jpg!:/img/screenshots/2009-10-15-muramasa/mura04.jpg
+
+p(piefoto). En lo que a los aspectos visual y sonoro se refiere, Muramasa es todo un logro y establece una buena referencia para el porvenir de los videojuegos en 2D.
+
+Más juegos deberían seguir la filosofía de arte, sencillez y adicción que propone __Muramasa: The Demon Blade__, un título que conserva la belleza visual de su predecesor (__Odin Sphere__) en un estilo diferente pero que a pesar de sus virtudes habría hecho bien en ser más comedido con el desequilibrio entre combate y exploración. A todas luces un buen juego. A todas luces un potencial no del todo aprovechado. A todas luces una buena señal para lo que los videojuegos puedan depararnos en el futuro.
