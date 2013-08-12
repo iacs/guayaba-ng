@@ -1,0 +1,69 @@
+---
+layout: review
+category: review
+title: "Virtua Fighter 5: Final Showdown"
+cover: vf5fs_cover.jpg
+score: 4
+dev: "Sega Amusement Machine Research and Development Department #2"
+year: 2012 (2010 ver. arcade, 2006 juego original)
+formato: [Lucha]
+genero: [Artes Marciales]
+plataformas: [PlayStation 3, Xbox 360]
+author: Iacus
+---
+
+Mi descubrimiento de __Virtua Fighter__ podría considerarse un afortunado accidente. Por lo que recuerdo, en este país el nombre __Virtua Fighter__ perdió gran parte de su popularidad entre los jugadores cuando la novedad de los gráficos poligonales fue perdiendo su lustre. Me he encontrado con la situación de que, hablando del juego, me preguntaran "¿Virtua Fighter? ¿Eso todavía existe?".</sep>
+
+No puedo considerarme un experto de primera mano en la historia de __Virtua Fighter__. Dejando de lado que mi acceso a las consolas fue tardío, estuve, como tantos otros, viviendo en una época oscura de ignorancia durante gran parte del desarrollo de esta serie de juegos. Los redescubrí, de manera reveladora, con __Virtua Fighter 4__ y su primera versión mejorada, __VF4: Evolution__ en la PlayStation 2.
+
+Fue, como dije, casi un accidente. Entre algunas frases sueltas leídas en foros y un poco de curiosidad propía, me encontré con una copia de VF4 en mis manos. Por aquel entonces mi juego de lucha favorito era la serie __The King of Fighters__ de SNK. Una serie tan conocida por su magnífica caracterización de personajes y su vibrante personalidad como por su profundidad táctica y variedad de movimientos y personajes. Como jugador no podía decirse que fuera especialmente bueno —a pesar de que una placa trucada de KOF 2002 tuvo una larga presencia en uno de los arcades locales, era complicado encontrar rivales humanos contra los que jugar— siempre aprecié y respeté la técnica involucrada en el juego de alto nivel. Por aquel entonces también estaba entrando en el mundo de los shooters, que vivían su época dorada con títulos como __Ikaruga__. Nos llegaban los ecos de una era de excelentes juegos japoneses que combinaban un impecable estilo con una jugabilidad que premiaba la pura habilidad por encima de todo. En este ambiente fue cuando comencé a jugar a __Virtua Fighter 4__ e inmediatamente quedé enganchado. Había descubierto el Mejor Juego de Lucha 3D Jamás Creado.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/akira-goh-th.jpg!:/img/screenshots/2013-07-04-vf5fs/akira-goh.jpg
+
+p(piefoto). Los combates buscan un estilo cinemático y satisfactorio al jugarlo, pero con un estilo ostensiblemente realista
+
+Avancemos cuatro años hasta 2006. La siguiente generación de __Virtua Fighter__ hacía su presentación con la quinta entrega de la serie en Japón. Una de las particularidades de esta serie es que los aficionados hablan de ellas a sus compañeros de forma totalmente contraria a como hablan los fans de los demás juegos de lucha. Desenfatizan su profundidad táctica. Tratan de no darle importancia a su increíble complejidad —"Es fácil jugar, sólo hay tres botones!"— se oye decir, con un deje de complicidad.
+
+Todo esto se debe a que __Virtua Fighter__ intimida. Su vertiente extremadamente técnica asusta a los potenciales jugadores novatos y los fans de la serie no quieren que eso eche atrás a posibles jugadores a los que les encantaría el juego. Circulan voces diciendo que tienes casi que sacarte un título para jugar bien a __Virtua Fighter__ y, aunque no quiero ahuyentar a nadie del juego, no puedo decir enteramente que se trate de una broma exagerada.
+
+Al nivel más básico, tenemos el joystick para mover a nuestro personaje y los mencionados 3 botones. **P** puñetazo, **K** patada (kick) y **G** guardia o bloqueo. Diferentes comandos combinando botones y direcciones resultan en diferentes ataques. Las reglas elementales del combate son: guardia bloquea golpes, golpes cancelan agarres y agarres vencen a guardia. Un sistema básico de piedra-papel-tijeras que se torna muy complejo muy deprisa en cuanto empezamos a añadir golpes a tres diferentes alturas, con otras tres variaciones especiales según el ataque. Por ejemplo, un ataque **medio** puede conectar con un oponente de pie o agachado, y solo puede defenderse con una guardia de pie, pero un ataque **especial medio** puede ser bloqueado con una guardia agachada pero causará que el defensor se eche hacia atrás y se ponga de pie. Es una de las muchas mecánicas que contribuyen a crear un juego de una riquza táctica impresionante. También podría comentar la variedad que añaden los ataques circulares y semicirculares —que deben ser esquivados en la dirección correcta— y las posturas abiertas o cerradas, que adoptan todos los luchadores y son relativas a la rodilla que tengan adelantada con respecto a su rival, o el juego de pesos, ya que luchadores más pesados serán afectados por un conjunto distinto de combos al de sus compañeros más livianos, o las opciones de movimiento, con __dashes__ de pie o agachados, manobras ofensivas, pasos laterales, o el concepto —único de este juego— de la "guardia difusa". La lista sigue...
+
+Esto es tan solo una fracción del profundo sistema de combate de __Virtua Fighter 5__ y si parece una locura tener todo esto en el coco mientras nos enfrentamos en un intenso combate a unos fluídos 60 fotogramas por segundo, es porque lo es. VF5 es un juego que recompensa la experiencia, el entrenamiento y la dedicación. Lo que al principio parece de una complejidad inabarcable se convierte, cuando adquirimos práctica, en una sensación de satisfacción que pocos juegos consiguen transmitir. Cuando, por muy lentamente que avancemos, conseguimos interiorizar el sistema de lucha, afinar nuestros reflejos y ejecutar el golpe idóneo en la situación adecuada, o defendernos del asalto del oponente contra todo pronóstico, o anticiparnos a sus movimientos y rechazar sus agarres o desviar sus ataques, presenciaremos —no, formaremos parte— de un momento más fascinante que cualquier escena de lucha de una película de kung-fu.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/lei-lau-th.jpg!:/img/screenshots/2013-07-04-vf5fs/lei-lau.jpg
+
+p(piefoto). Kung-fu contra kung-fu en la Muralla China
+
+Hablando de kung-fu, las artes marciales son un pilar principal de la experiencia __Virtua Fighter__. VF5FS ofrece un plantel de 19 luchadores increíblemente detallados, que utilizan estilos de artes marciales reales. No se trata de un simulador deportivo, así que no puede decirse que el aspecto de los combates busque el realismo, pero cada arte marcial, cada estilo de lucha está fielmente representado, en su vertiente cinemática pero sin locuras inverosímiles. Si eres un fan de las artes marciales deportivas o de las películas de kung-fu te encantará reconocer los movimientos más famosos del muay thai, boxeo borracho o judo.
+
+Entre los estilos de lucha disponibles podemos encontrar casi de todo, desde aikido, vale tudo o jeet kune do hasta el temible bajiquan o la lucha grecorromana, por no mencionar seis estilos diferentes de kung-fu chino entre los que se incluyen el estilo de la mantis, el tigre-grulla o el estilo Shaolin. Para redondear la selección no faltan artes marciales menos ortodoxas como la lucha libre mexicana o el sumo, que son igualmente efectivas y vistosas que las demás.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/jean-taka-th.jpg!:/img/screenshots/2013-07-04-vf5fs/jean-taka.jpg
+
+p(piefoto). Cada personaje es un mundo y requiere gran dedicación llegar a dominarlo
+
+Esto viene a cuento porque una de las características más asombrosas de la serie VF es el cuidado que se ha puesto en el equilibrio entre todos los personajes. Como en todos los juegos de lucha, se ha dado en clasificar a los personajes en __tiers__ (escalafones) pero estos rara vez coinciden con las distribuciones de victorias en torneos reales, y aunque nadie se pone de acuerdo en quién debe ir en las categorías bajas, todos admiten que la diferencia entre un escalafon y otro es mínima. Eso sí, todo el mundo coincide en que Akira y Shun Di son **S Rank**. En conclusión, escojas el personaje que escojas, siempre tendrás opciones para derrotar a tus adversarios.
+
+A diferencia de otros juegos más casuales que se prestan mejor al "coger y jugar", la filosofía de __Virtua Fighter__ se basa en escoger un personaje principal y entrenar con él hasta dominarlo. Todos los personajes tienen listas de movimientos increíblemente extensas —Akira, el personaje de portada, tiene 12 movimientos dedicados al __reversal__ en su repertorio, y no es de lejos el que más movimientos de este tipo tiene— y debemos tener en cuenta que ciertos movimientos son muy situacionales, y el metajuego no solo depende de contra qué personaje jueges, sino del meta-estilo que emplée contra tí. En otros juegos de lucha los pros practican sus __matchups__ en función de los personajes. En Virtua Fighter practican en función del jugador que los controla.
+
+Pero basta de detalles mecánicos. Esto no pretende ser una guía de juego y creo que ya he sido lo bastante efusivo con el sistema de lucha. En sus otros aspectos, __Virtua Fighter 5: Final Showdown__ no decepciona. Las animaciones son las más fluidas y bien integradas que hay en cualquier juego de lucha 3D. Esto ya era cierto en la época de __Virtua Fighter 4__ en la PlayStation 2, y a día de hoy sigue sin haber un juego que lo haya sobrepasado y —tristemente— siquiera igualado en este aspecto. Los combates tienen impacto y dejan que los cuerpos y los movimientos de los luchadores hablen por sí solos, sin recurrir a distorsiones y efectos de partículas para sazonar los gráficos, a excepción de una sutil iluminación amarilla o roja cuando conectamos con un __counter__. Los combates se desarrollan a 60 fotogramas por segundo constantes (algo vital para un juego tan preciso como este) y en las opciones podemos escoger varios arreglos musicales que abarcan la serie principal de VF.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/kage-pai-th.jpg!:/img/screenshots/2013-07-04-vf5fs/kage-pai.jpg
+
+p(piefoto). El modo de un jugador es pasable, pero nada comparado con otras versiones de consola de anteriores entregas
+
+La versión comentada en esta reseña es la edición casera descargable de Final Showdown. Este "paquete" tiene desgraciadamente una serie de problemas con respecto a las versiones jugables en los arcades japoneses. La mayor sin duda es el poco cuidado que se ha puesto en el modo de un jugador.
+
+Si bien es cierto que donde un juego competitivo de alto nivel como __Virtua Fighter__ brilla realmente es en enfrentamientos con otros oponentes humanos, es una pena que el modo para un jugador Knockout Trial —una serie de retos de un solo jugador que ha ido mejorando en varias versiones a lo largo de los lanzamientos de VF5 en los arcades— no haya sido convertido a la versión casera. En su lugar tenemos unos modos bastante elementales. El clásico Arcade, un Score Attack para luchar por puntuación, los retos de Licencias y el Special Sparring, que nos enfrenta a grupos de personajes personalizados vagamente agrupados por una temática común.
+
+Las opciones de personalización de personajes son muy buenas, con una enorme variedad de accesorios y hasta seis bases de atuendos diferentes por luchador. El problema es que para poder acceder a estas opciones, debemos comprar y descargar el pack de DLC correspondiente a cada personaje. Comprarlos todos en dos grupos nos costará tanto como el juego base y eso es algo que, por muy defensor de VF que yo pueda ser, no me parece de recibo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/sarah-goh-th.jpg!:/img/screenshots/2013-07-04-vf5fs/sarah-goh.jpg
+
+p(piefoto). Hay varios trajes distintos para cada personaje, con muchas posibilidades de personalización
+
+Por un lado, una vez tengamos los packs, tendremos acceso a todas las opciones de personalización del personaje y podremos ver el aspecto de otros personajes personalizados online. Por otro lado, se echa de menos ganar objetos en combates especiales y desbloquear nuevos atuendos en función de nuestro rango como en VF4, lo que confería un valor adicional a los colores y ropajes que íbamos consiguiendo. Añadamos a esto que el modo Special Sparring, uno de los más indicados para entrenar contra la máquina no está accesible a menos que poseamos **todos** los packs de DLC y el panorama se torna muy feo. Esta es una de las caras más feas del tema de DLC para juegos y me hubiera encantado que Sega pudiera optar por otra estrategia de distribución. Si para __Virtua Fighter 6__ Sega aprovechase los avances en distribución digital y componentes sociales de hoy en día se pondría a la cabeza sin ningún esfuerzo. Si no en popularidad desde luego que sí en calidad.
+
+Quitando el pequeño detalle de la distribución de DLC —más por principios que por coste, ya que el precio completo sigue siendo menos que el de un juego AAA nuevo— este es un juego que todos los fans de los juegos de lucha y de acción complejos y con gran variedad táctica deben tener en sus radares. Aunque a veces la complejidad sea abrumadora conviene recordar que es un juego que se puede jugar a muchos niveles, y cuanta más diversidad de oponentes y más variada sea la comunidad, más salimos ganando todos.
+
+__Virtua Fighter 5: Final Showdown__ es la culminación del deporte electrónico en el formato de la lucha 1 contra 1. Una serie de juegos hasta ahora nunca superada de la que esta es su más nueva y más perfeccionada encarnación. Es realmente una lástima que sea tan poco conocido incluso entre los aficionados actuales a los videojuegos. Su filosofía de mejora personal y refinamiento técnico no será del agrado de los jugadores más casuales, pero el resto no puede dejar de darle una oportunidad.
