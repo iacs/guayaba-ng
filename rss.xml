@@ -17,7 +17,7 @@ layout: nil
       <title>{{ post.title }}{% if post.score == 0 %} (cero) {% endif %}{% if post.score == 1 %} (*) {% endif %}{% if post.score == 2 %} (**) {% endif %}{% if post.score == 3 %} (***) {% endif %}{% if post.score == 4 %} (****) {% endif %}</title>
       <link>http://guayaba2600.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>{{post.author}}@guayaba2600.com</author>
+      <author>{{post.author}}@guayaba2600.com ({{post.author}}) </author>
       <guid>http://guayaba2600.com{{ post.id }}</guid>
       <description>{{ post.excerpt | xml_escape }}</description>
     </item>

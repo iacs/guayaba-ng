@@ -1,0 +1,63 @@
+---
+layout: review
+category: review
+title: "Dragon's Dogma: Dark Arisen"
+cover: ddda_cover.jpg
+score: 3
+dev: Capcom
+year: 2012
+formato: [RPG, Acción]
+genero: [Fantasía medieval]
+plataformas: [Xbox 360,PlayStation 3]
+author: Reisor
+---
+
+En otro lugar, en otra vida, otro hijo del hombre sigue tu camino...
+
+Todos alguna vez nos hemos preguntado qué hubiera pasado si _The Elder Scrolls_ y _Shadow of the Colossus_ hubieran tenido un hijo, pero no un hijo sano, fuerte, listo ni nada por el estilo, sino un hijo concebido en un noche con mucho alcohol y drogas, un embarazo donde la madre no se cuidaba lo más mínimo y un parto prematuro. Este niño, pese a todos sus problemas, supo como crecer y como aprender cosas de sus padres.</sep>
+
+Al empezar la partida podemos crear nuestro personaje como nos apetezca. Tenemos un amplio juego de rasgos con los que personalizar a nuestro personaje, masculino o femenino.
+
+Nuestro personaje vive en Gransys, un mundo lleno de peligros en cada esquina, ciudades rebosantes de personas, cuevas y castillos en ruinas para poder explorar y adentrarse en el corazón de nuestros enemigos. El mapa no es muy grande pero tendrás misiones para explorarlo entero y más de una vez, la única pega es el viaje y los pateos que te tienes que dar, ya que los viajes instantáneos se necesitan piedras que al principio del juego son caras y solo podemos teletransportarnos a la gran ciudad y el pueblo natal, y a 4 sitios donde pongas piedras de teletransporte (estas si que son caras de verdad).
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/photo2-th.jpg!:/img/screenshots/2013-08-18-dragons_dogma/photo2.jpg
+
+p(piefoto). Disfruta de la vista, mientras puedas.
+
+En un pequeño pueblo, ataca un dragón gigantesco, y cuando todos huyen nuestro protagonista coge una espada oxidada y arremete contra él. Obviamente el dragón consigue reducirlo y le quita el corazón. Tras eso nuestro personaje despierta y oye la voz del dragón diciendo que si quiere su corazón de vuelta tendrá que ir a por él. La historia continúa de forma muy simple y plana, nos presenta personajes que no tienen profundidad ninguna, y que cuando intentan darle algo, hacen usos de clichés y queda todo muy forzado. La duración es aceptable, con unas 30-40 horas si completas la trama principal y la gran parte de las secundarias. En cuanto a la expansión la duración es de 5-15 horas según las misiones secundarias que quieras completar y la historia no es gran cosa, una mujer te pide que la ayudes a recuperar la memoria y tendrás que ir avanzando por una mazmorra bastante extensa, así de simple.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/photo5-th.jpg!:/img/screenshots/2013-08-18-dragons_dogma/photo5.jpg
+
+p(piefoto). Solo he venido a por tu corazón.
+
+Como pocos juegos de ahora, este nos permite elegir entre las voces en Ingles y Japonés, algo que creo que deberían tener todos los juegos, dejarte oír las voces en el idioma original, aun así las voces en Ingles son mejores que las Japonés, el doblaje es mejor y sobretodo la voz del Dragón. La música del juego es impresionante, épica y está en el momento oportuno para ponernos los pelos de punta. El repertorio de canciones es muy extenso, tanto para el juego original como para la expansión. Pese a que para los jefes que hay por el mapa siempre suena la misma canción, os puedo asegurar que nunca os cansareis de oírla y sobretodo estaréis deseando dejarlo aturdido para que suene una de las mejores canciones que he oído.
+
+El sistema de batalla no está muy completo, tenemos muchas cosas por hacer y muchas maneras y formas de jugar. Los personajes van por niveles, tienen su vida y su cansancio. Podemos usar habilidades, correr y escalar hasta que nuestro esfuerzo nos lo permita, y si lo dejamos a 0 no podremos movernos en un cierto rato. Tenemos dos tipos de golpes, uno débil y otro fuerte, con dos tipos de combos. También podemos agarrarnos todo tipo de cosas del entorno y lanzarlo, incluso con enemigos pequeños, lo que a veces hace posible lanzar los enemigos a nuestros compañeros para que efectúen un golpe de gracia o lanzarlos por el barranco. Si el enemigo es grande podremos agarrarnos a él y escalar, aunque esta mecánica a veces funciona bien, si nos agarramos a una parte no muy ancha, te las ves negro para poder avanzar, ya que se raya el movimiento. Por último tenemos una serie de habilidades a utilizar según qué tipo de clase. Pero no tan rápido, no podemos estar ejecutando todas las que queramos infinitamente, como ya he dicho, nuestro personaje se cansa, un gran problema al principio del juego que más adelante se olvida cuando puedes comprarte mil setas que sirven para recargar la energía.
+
+Pero todo esto hay veces que no se ejecuta bien, el juego no es del todo determinista, y para una misma acción podemos a veces tener otro tipo de resultado. Esto no sería una pega si no fuera porque este tipo de fallos a veces puede llevarte a una muerte directa, como intentar escalar un grifo no consigas ponerte en su ala para caiga y se te acabe la energía y hagas una caída libre desde el cielo.
+
+También puede elegir 3 tipos de clases, guerrero, mago, strider que luego más adelante podrá elegir 3 clases avanzadas y otras 3 mas hibridas, estas últimas solo pueden ser usadas nuestro personaje principal. Cada clase tiene sus habilidades, que podremos ir adquiriéndolas según obtengamos puntos por matar enemigos. Estas clases tienen hasta 9 niveles, según vas aumentando el nivel se desbloquean nuevas habilidades. Estas habilidades son específicas de cada clase, aunque algunas si pueden ser usadas con otra clase avanzada o hibrida. Aun así las hay que aumenta las características de nuestro personaje y estas sí que son iguales para todos, lo cual hace que te interese explorar otra clase para obtener ese tipo de aumento.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/photo4-th.jpg!:/img/screenshots/2013-08-18-dragons_dogma/photo4.jpg
+
+p(piefoto). ¡No puedes pasar!
+
+En el juego podemos encontrar sistemas que parecen como que estén ocultos. Tenemos un sistema de mezclas donde podremos mezclar todo tipo de objetos con otros para obtener otros mejores. Por el mapa veremos infinidad de objetos que no tienen ninguna utilidad pero que combinados con otros podemos crear objetos más poderosos, como remedios y setas más potentes, pociones que curan cualquier estado negativo, etc. También podemos encontrar un sistema de sigilo bastante oculto en el juego, y es que solo si usas la clase asesino podres usarlo. Esta clase nos permite volvernos invisible por la noche, ser más fuerte de noche y aun más si vamos solos, con todo esto podremos sorprender a los enemigos y asestar golpes mortales.
+
+Capcom creó con este juego un sistema de peones o de ayudante para la aventura. Estos peones pueden ser o bien pregenerados o los personajes o peones principales de otro jugador, que podremos contratar si estamos en modo online. Nada más empezar podemos crear un Peón que no seguirá a todos sitios y que subirá de nivel igual que nosotros y le podremos poner la clase y habilidades que deseemos. También se supone que le podemos decir cómo actuar, aunque creo que todo esto que en manos del destino. Aparte de nuestro peón podremos llevar otros dos contratándolos como ya hemos dicho. Los peones son estúpidos, si bien a veces nos ayudan a ganar una batalla, la mayor parte del tiempo estarás deseando que te ayuden cuando te neutralizan o estarás esperando a que hagan cierta acción para acabar con tus amigos. Aun así los vas a necesitar para avanzar, aunque desearas en todo momento que se comporten como deben, pero ya os digo yo, no lo harán.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/photo3-th.jpg!:/img/screenshots/2013-08-18-dragons_dogma/photo3.jpg
+
+p(piefoto). En esta situación tus peones mirarán como mueres.
+
+En nuestra travesía podemos encontrar todo tipo de enemigos aunque no muy diversos. De alguno de los normales según la zona los hay con diferente aspecto y más fuertes. Al igual que con los jefes, también tienen una forma más avanzada que sale más tarde en el juego tras pasar un cierto evento. A mí me hubiera gustado ver más diversidad, es lo que se espera en estos juegos.
+
+La dificultad tiene picos muy elevados en ciertas partes. El principio es el pico más elevado de todos, porque te dejan suelto sin más, con un montón de misiones secundarias por hacer, y cuando piensas que matar 6 lobos será tarea fácil, cuando vayas a por ellos pensaras que se tratan de lobos del demonio. Por eso te hace grabar cada 2 segundos, porque hasta 2 bandidos pueden destrozarte en segundos. Esto por mi parte no me parece malo, soy amante de _Dark Souls_, pero hay veces que te frustrara más que nada por culpa de los peones, que molestan más que ayudan. Una vez avanzas esta dificultad se rebaja un poco pero sigue estando presente, ya que el juego te recordara como una enorme tormenta puede destrozar a tu soldado de armadura de quimera de nivel 3 o como un Ogro puede asolar a todo tu grupo de un solo golpe.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/photo1-th.jpg!:/img/screenshots/2013-08-18-dragons_dogma/photo1.jpg
+
+p(piefoto). Odiaras a este monstruo, te lo aseguro.
+
+Lo peor, y algo que no me gusta en un juego es el _pop-in_ y Pese a los pocos tiempos de carga, hubiera deseado que fueran más largos y así no ver el terrible _pop-in_ que tiene, y es que hasta con los enemigos pasa. Puedes ir andando tranquilamente y verte rodeado de monstruos sin contar la terrible bajada de frames cuando muchas explosiones, o muchas magias o un gran número de enemigos. Pese a esto, las bajadas de frames no se dan tan a menudo, pero el _pop-in_ duele mucho de verlo.
+
+En definitiva, el juego tiene sus defectos pero ¿quien no los tiene? El juego se arriesga a dar más de lo que puede, pero aun así no todo es mal, tiene muchas cosas buenas, aunque como siempre, los humanos nos acordamos más de las malas que de las buenas. La historia es muy mejorable, pero como Action RPG es muy notable y destaca en los de esta generación. Por lo tanto le damos tres guayabas porque se las merece, porque es un juego que cuando me viene a la cabeza aquella canción que os he dicho, recuerdo como le estaba dando para el pelo a la quimera o dragón que había intentado meterse conmigo.
