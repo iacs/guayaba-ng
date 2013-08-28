@@ -8,7 +8,7 @@ dev: Rockstar Games
 year: 2008
 formato: [acción, aventura, mundo abierto]
 genero: [comedia de estudiantes, drama adolescente]
-plataformas: [PC, Nintendo Wii, Xbox 360]
+plataformas: [Windows, Wii, Xbox 360]
 author: David
 ---
 
