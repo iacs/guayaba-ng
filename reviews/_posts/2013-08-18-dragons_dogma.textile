@@ -8,7 +8,7 @@ dev: Capcom
 year: 2012
 formato: [RPG, Acción]
 genero: [Fantasía medieval]
-plataformas: [Xbox 360,PlayStation 3]
+plataformas: [Xbox 360, PlayStation 3]
 author: Reisor
 ---
 
