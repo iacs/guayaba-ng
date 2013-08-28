@@ -8,7 +8,7 @@ dev: Vanillaware
 year: 2009
 formato: [Acción]
 genero: [Fantasía, Era Genroku]
-plataformas: [Nintendo Wii, PlayStation Vita]
+plataformas: [Wii, PlayStation Vita]
 author: David
 ---
 
