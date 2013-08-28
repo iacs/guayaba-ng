@@ -1,0 +1,92 @@
+---
+layout: infopage
+---
+
+<h1>Plataformas</h1>
+
+Estos son los artículos de Guayaba 2600. Cada videojuego clasificado por plataforma.
+
+<h2 id="windows">Windows</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'Windows' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+<h2 id="playstation">PlayStation</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'PlayStation' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+<h2 id="playstation2">PlayStation 2</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'PlayStation 2' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+<h2 id="playstation3">PlayStation 3</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'PlayStation 3' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+<h2 id="xbox360">Xbox 360</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'Xbox 360' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+<h2 id="wii">Wii</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'Wii' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+<h2 id="nds">Nintendo DS</h2>
+<ul class="list-unstyled">
+{% for post in site.posts %}
+{% if post.category == 'review'%}
+    {% if post.plataformas contains 'Nintendo DS' %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% else %}
+    {% endif %}
+{% endif %}
+{% endfor %}
+</ul>

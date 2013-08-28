@@ -8,7 +8,7 @@ dev: Yakuza Studio (Sega)
 year: 2012
 formato: [TPS, cobertura, squad-based]
 genero: [acción, ciencia-ficción]
-plataformas: [Windows, 360, PS3]
+plataformas: [Windows, Xbox 360, PlayStation 3]
 author: Iacus
 ---
 
