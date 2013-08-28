@@ -1,0 +1,18 @@
+---
+layout: infopage
+---
+
+h1. Enlaces
+
+Páginas que nos gustan.
+Si te interesa que un link a tu página aparezca aquí ponte en contacto con nosotros 
+
+h2. Videojuegos
+
+* "Selectbutton":http://www.selectbutton.net/ (inglés)
+* "Hardcore Gaming 101":http://www.hardcoregaming101.net/ (inglés)
+
+h2. Personales
+
+* "Philomathy":http://www.flackon.blogspot.com/
+* "Read Only Memory":http://iacus.tumblr.com/
