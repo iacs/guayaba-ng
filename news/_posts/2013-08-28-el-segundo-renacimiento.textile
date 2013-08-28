@@ -1,0 +1,13 @@
+---
+layout: blogpost
+title: El Segundo Renacimiento
+author: Iacus
+---
+
+Hola de nuevo. Hemos hecho unos ajustes a la web mientras no mirábais. Hemos modernizado los componentes y también algo la maquetación, cosa que agradecereis los que pensábais que la nueva web era demasiado parecida al antiguo sitio de Blogger.
+
+Hemos eliminado, al menos de momento, la barra lateral. Ahora podéis encontrar lo que había en ella en el menu superior. También hemos añadido una nueva página donde podréis consultar los artículos clasificados por plataforma.
+
+Este es solo el primer paso. Seguiremos mejorando la web y añadiendo más funciones paulatinamente, aunque algunas actualizaciones venideras serán detalles menores que no necesitarán de un post de presentación como este. Puede que las notéis, o puede que no. En cualquier caso, seguid visitando la web pues siempre estamos añadiendo contenido y mejoras.
+
+Hasta luego.
