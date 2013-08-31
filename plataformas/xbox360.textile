@@ -1,0 +1,4 @@
+---
+layout: platform
+pname: Xbox 360
+---

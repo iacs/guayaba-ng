@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-lg-10 col-lg-offset-1 entry">
+    <h1>Plataformas</h1>
+    <h2>{{page.pname}}</h2>
+    {{content}}
+    
+    <ul class="list-unstyled">
+    {% for post in site.posts %}
+    {% if post.category == 'review' %}
+    {% if post.plataformas contains {{page.pname}} %}
+    <li><a href="{{post.url}}">{{post.title}}</a>{% if post.author %}, por {{post.author}}{% endif %}</li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    </ul>
+    
+    </div>
+</div> <!-- .row -ptf-->

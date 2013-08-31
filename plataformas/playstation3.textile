@@ -1,0 +1,4 @@
+---
+layout: platform
+pname: PlayStation 3
+---
