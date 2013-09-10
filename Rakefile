@@ -41,3 +41,11 @@ task :newpost do
 
   exit 1
 end
+
+task :deploy do
+  
+  command = "jekyll build && rsync -avr -e 'ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' --delete --delete-after --log-file=/home/iacusm/data/logs/rsync-guayaba.log /home/iacusm/data/web/guayaba-ng/_site/ iacus@guayaba2600.com:/var/www/"
+  sh command
+  
+end
+  
