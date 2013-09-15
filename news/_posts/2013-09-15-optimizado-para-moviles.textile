@@ -1,0 +1,13 @@
+---
+layout: blogpost
+title: "Optimizado para móviles"
+author: Iacus
+---
+
+En nuestra última actualización nos cargamos accidentalmente la presentación de la web en dispositivos móviles. Éramos conscientes del fallo, pero no he tenido tiempo de arreglarlo hasta ahora.
+
+Sabemos que casi la mitad de vosotros nos visitáis a través de vuestros smartphones, así que hemos optimizado la web para que pueda volverse a navegar de forma aceptable desde dispositivos móviles.
+
+Si encontráis algún fallo comunicádnoslo en los comentarios, "twitter":http://twitter.com/guayaba2600 o por email en **soporte@guayaba2600.com**
+
+Estad atentos ya que los próximos días tendremos nuevas sorpresas.
