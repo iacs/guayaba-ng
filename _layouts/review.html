@@ -4,20 +4,23 @@ comments: true
 ---
 
 <div class="row">
-    <div class="col-lg-10 col-lg-offset-1 entry">
+    <div class="col-md-10 col-md-offset-1 entry">
         <div class="row">
-        <div class="col-lg-12">
+        <div class="col-md-12">
             <h5 class="text-muted">{{page.date | date: "%d/%m/%Y"}}</h5>
             <h2>{{page.title}}</h2>
             <h6 class="text-muted"><strong>Escrito por {{page.author}}</strong></h6>
         </div>
         </div>
         <div class="row">
-        <div class="col-lg-4">
-            <img src="/img/covers/{{page.cover}}" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
+        <div class="col-md-4 hidden-xs">
+            <img src="/img/covers/{{page.cover}}" style="max-width: 200px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
+        </div>
+        <div class="col-xs-12 visible-xs">
+            <img src="/img/covers/{{page.cover}}" style="width: 480px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
         </div>
         
-        <div class="col-lg-8">
+        <div class="col-md-8">
             <ul class="list-unstyled">
                 <li><strong>Reseña de: </strong>{{page.title}} </li>
                 <li><strong>Desarrollado por: </strong>{{page.dev}} </li>
@@ -37,11 +40,11 @@ comments: true
         </div>
         
         <div class="row">
-            <div class="col-lg-12 post-text">{{content}}</div>
+            <div class="col-md-12 post-text">{{content}}</div>
         </div>
         
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-md-12">
                 {% if page.comments %}
                 <hr>
                 {% include disqus.html %}
