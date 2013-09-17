@@ -7,14 +7,30 @@ layout: default
     <h1>Plataformas</h1>
     Esta página contiene todos los artículos sobre videojuegos disponibles en {{page.pname}}
     
+    {% if page.photo %}
+    <div class="jumbotron" style="background-color: #fff; background-image:url('/img/platforms/{{page.photo}}'); background-size: auto 100%; background-repeat:no-repeat">
+            <h2 class="overtext">{{page.pname}}</h2>
+            <p class="overtext">{{content}}</p>
+    </div>
+    {% else %}
     <h2>{{page.pname}}</h2>
-    {{content}}
+    <p>{{content}}</p>
+    {% endif %}
     
-    <ul class="list-unstyled">
-    {% for post in site.posts %}{% if post.category == 'review' %}{% if post.plataformas contains {{page.pname}} %}
-    <li><a href="{{post.url}}">{{post.title}}</a>{% if post.author %}, por {{post.author}}{% endif %}</li>{% endif %}{% endif %}{% endfor %}
-    
-    </ul>
+    <table class="table">
+    <tr>
+        <th>Título</th>
+        <th>Autor</th>
+        <th>Publicado el</th>
+    </tr>
+    {% sorted_for post in site.posts sort_by:title %}{% if post.layout != 'blogpost' %}{% if post.plataformas contains {{page.pname}} %}
+    <tr>
+        <td><a href="{{post.url}}">{{post.title}}</a></td>
+        <td>{% if post.author %}{{post.author}}{% else %}Anónimo{% endif %}</td>
+        <td>{{post.date | date_to_string}}</td>
+    </tr>
+    {% endif %}{% endif %}{% endsorted_for %}
+    </table>
     
     </div>
 </div> <!-- .row -ptf-->
