@@ -1,4 +1,5 @@
 ---
 layout: platform
 pname: PlayStation 3
+index: 13
 ---

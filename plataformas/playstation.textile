@@ -1,4 +1,0 @@
----
-layout: platform
-pname: PlayStation
----
