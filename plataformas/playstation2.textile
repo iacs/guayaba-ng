@@ -1,4 +1,5 @@
 ---
 layout: platform
 pname: PlayStation 2
+index: 12
 ---
