@@ -1,4 +1,5 @@
 future: false
+safe: false
 timezone: "Europe/Madrid"
 exclude: [README.md, Rakefile]
 paginate: 7
