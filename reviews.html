@@ -15,9 +15,10 @@ title: Lista de reseñas
         <th>Publicado el</th>
     </tr>
     
-    {% for post in site.categories.reviews reversed %}
+    {% sorted_for post in site.posts sort_by:title %}
+    {% if post.category == 'review' %}
     <tr>
-        <td><a href="{{post.url}}">{{post.title}}</a></td>
+        <td><a href="{{post.url}}">{{post.title}} </a></td>
         <td>{% if post.score == 0 %} <img src="/img/zero.gif" alt="cero"> {% endif %}
         {% if post.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
         {% if post.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
@@ -26,6 +27,7 @@ title: Lista de reseñas
         <td>{{post.author}} </td>
         <td>{{post.date | date_to_string }} </td>
     </tr>
-    {% endfor %}
+    {% endif %}
+    {% endsorted_for %}
     
 </table>
