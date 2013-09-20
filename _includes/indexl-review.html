@@ -1,0 +1,41 @@
+<h3 ><a href="{{post.url}}">{{post.title}}</a></h3>
+<div class="row">
+    <div class="col-md-3 hidden-xs">
+        <p class="coverthumb"><a href="{{post.url}}"><img src="/img/covers/{{post.cover}}" alt="Reseña de {{post.title}}"></a></p>
+    </div>
+    <div class="col-xs-12 visible-xs">
+        <a href="{{post.url}}" ><img src="/img/covers/{{post.cover}}" style="width: 480px" class="img-responsive img-rounded" alt="Reseña de {{post.title}}"></a>
+    </div>
+    <div class="col-md-9">
+        <p class="hidden-xs">{% if post.score == 0 %} <img src="/img/zero2x.gif" alt="*"> {% endif %}
+        {% if post.score == 1 %} <img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
+        {% if post.score == 2 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
+        {% if post.score == 3 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
+        {% if post.score == 4 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}</p>
+        <p class="visible-xs">Puntuación: 
+            {% if post.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
+            {% if post.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            {% if post.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            {% if post.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            {% if post.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+        </p>
+        <div class="row">
+        <div class="col-xs-12">
+            <ul class="list-unstyled">
+                <li>Una reseña de <strong><em>{{post.title}}</em></strong></li>
+                <li>Desarrollado por <strong>{{post.dev}}</strong></li>
+            </ul>
+            <ul class="list-unstyled">
+                <li><small>Texto por {{post.author}}</small></li>
+            </ul>
+        </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        {% if post.spoiler %}{% include spoiler_warning.html %}{% endif %}
+        <p>{{post.excerpt}}</p>
+        <a href="{{post.url}}" class="btn btn-default pull-right">Seguir leyendo &raquo;</a>
+    </div>
+</div>
