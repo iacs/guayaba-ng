@@ -1,0 +1,33 @@
+---
+layout: commonpost
+---
+
+<div class="row">
+    <div class="col-md-10">
+        <div class="panel panel-default">
+            <div class="panel-heading">{% case page.gema %}{% when 'retro' %}<img src="/img/h-gema_retro.gif" alt="gema retro">{% when 'indie' %}<img src="/img/h-gema_indie.gif" alt="gema indie">{% endcase %}</div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-7">
+                        <img class="img-responsive border" src="/img/covershots/{{page.covershot}}" alt="{{page.title}}">
+                    </div>
+                    <div class="col-md-5">
+                        <ul class="list-unstyled">
+                        <li><strong>Desarrollador: </strong>{{page.dev}} </li>
+                        <li><strong>Año: </strong>{{page.year}} </li>
+                        <li><strong>Formato: </strong>{{page.formato | array_to_sentence_string}} </li>
+                        <li><strong>Género: </strong>{{page.genero | array_to_sentence_string}} </li>
+                        <li><strong>Plataformas: </strong>{{page.plataformas | array_to_sentence_string}}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+<div class="col-md-12 post-text">
+    {{content}}
+</div>
+</div>
