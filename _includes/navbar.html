@@ -16,13 +16,8 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Plataforma <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li>
-                  {% for index in (1..30) %}
-                  {% for page in site.pages %}
-                  {% if page.layout == 'platform' and page.index == index %}
-                    <a href="{{page.url}}">{{page.pname}}</a>
-                  {% endif %}
-                  {% endfor %}
-                  {% endfor %}
+                  {% for index in (1..30) %}{% for page in site.pages %}{% if page.layout == 'platform' and page.index == index %}<a href="{{page.url}}">{{page.pname}}</a>
+                  {% endif %}{% endfor %}{% endfor %}
                 </li>
               </ul>
             </li>
