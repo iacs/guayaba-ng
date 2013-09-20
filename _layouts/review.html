@@ -30,7 +30,7 @@ layout: commonpost
 </div>
 </div>
 
+{% if page.spoiler %}{% include spoiler_warning.html %}{% endif %}
 <div class="row">
-    {% if page.spoiler %}{% include spoiler_warning.html %}{% endif %}
     <div class="col-md-12 post-text">{{content}}</div>
 </div>
