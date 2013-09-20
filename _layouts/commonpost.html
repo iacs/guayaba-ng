@@ -1,0 +1,25 @@
+---
+layout: default
+comments: true
+---
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1 entry">
+        <div class="row">
+        <div class="col-md-12">
+            <h5 class="text-muted">{{page.date | date: "%d/%m/%Y"}}</h5>
+            <h2>{{page.title}}</h2>
+            {% if page.author %}<h6 class="text-muted"><strong>Escrito por {{page.author}}</strong></h6>{% endif %}
+        </div>
+        </div>
+        {{content}}
+        <div class="row">
+        <div class="col-md-12">
+            {% if page.comments %}
+            <hr>
+            {% include disqus.html %}
+            {% endif %}
+        </div>
+        </div>
+    </div>
+</div>
