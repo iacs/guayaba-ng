@@ -32,10 +32,14 @@
         </div>
     </div>
 </div>
+{% if post.spoiler %}{% include spoiler_warning.html %}{% endif %}
 <div class="row">
     <div class="col-md-12">
-        {% if post.spoiler %}{% include spoiler_warning.html %}{% endif %}
         <p>{{post.excerpt}}</p>
-        <a href="{{post.url}}" class="btn btn-default pull-right">Seguir leyendo &raquo;</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <a href="{{post.url}}" class="btn btn-default pull-right">Seguir leyendo &raquo;</a>        
     </div>
 </div>
