@@ -1,0 +1,73 @@
+---
+layout: review
+category: review
+title: Journey
+cover: journey_cover.jpg
+score: 4
+dev: Thatgamecompany
+year: 2012
+formato: ["aventura", "tercera persona"]
+genero: ["mitológica","folklore","leyenda"]
+plataformas: [PlayStation 3]
+author: Iacus
+---
+
+Escribir sobre __Journey__ no es fácil. Para empezar, es imposible hacerle justicia con un mero texto. Se trata de, probablemente, uno de los videojuegos más importantes de la historia. Una de esas experiencias que no cabe realizar en ningún otro medio de expresión artística. Que solo es posible ejecutar con esa efímera orquestación entre software, máquina, entorno y jugadores que hemos dado en llamar "videojuego".</sep>
+
+Antes de ponerme a filosofar, será mejor que describa a grandes rasgos ante qué tipo de obra estamos. En __Journey__ asumimos el papel de un "viajero", una estilizada criatura de género ambiguo. Comienza con una breve introducción sin texto ni voces que muestra un vasto desierto de brillantes arenas doradas. Inmediatamente despues tomamos el control de este viajero, sin ningún tipo de indicación sobre qué hacer. Un diagrama del mando de PS3 aparece en pantalla, indicándonos como mover la cámara y el personaje. Nos ponemos en marcha.
+
+Lo primero que nos llama la atención al observar nuestro entorno es la gran montaña que se alza sobre el horizonte, una columna de luz brotando de su cima. Entendemos que es allí a donde debemos dirigirnos. Así lo hacemos. Empezamos nuestro viaje, y __Journey__ empieza a dejarnos boquiabiertos con su presentación.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/journey01-th.jpg!:/img/screenshots/2013-09-27-journey/journey01.jpg
+
+p(piefoto). Sinceramente, podría recomendar Journey solo por sus shaders de arena
+
+Quizá la mayor aportación de __Journey__ al mundo del videojuego es su peculiar forma de gestionar el aspecto multijugador. Durante nuestro periplo nos toparemos con otros viajeros con los que podemos compartir el camino hasta la montaña. Estos personajes están controlados por otras personas jugando desde sus PS3, y entran y salen de nuestra partida sin interrupciones y de manera completamente fluida, sin menús ni pantallas de _lobby_ de por medio. No se trata de un aspecto 100% innovador. __Demon´s Souls__ y __Dark Souls__ ya presentaron un componente multijugador sin interrupciones integrado en el mundo del juego. En ambos juegos las invasiones de enemigos controlados por otros jugadores ocurren en mitad de la partida. En __Journey__, este sistema crea  la ilusión de que estamos embarcados en un largo viaje en el que encuentros con otros viajeros como nosotros ocurren fortuitamente.
+
+La primera clave de por qué esto funciona tan bien es que no se trata de un multijugador masificado. No hay superpoblación al estilo "parque de atracciones" de los MMORPGs populares. Podremos encontrarnos como máximo con solo un jugador más, contribuyendo a la ilusión de que el camino es largo y el desierto extenso. Al igual que __Demon´s Souls__, esta mecánica está al servicio de la atmósfera y ambientación del videojuego.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/journey05-th.jpg!:/img/screenshots/2013-09-27-journey/journey05.jpg
+
+p(piefoto). Solos o acompañados por otro viajero, deberemos cruzar diversos parajes arenosos hasta llegar a la montaña
+
+Videojuego. Gracias al boom de los juegos indie más experimentales, cada vez es más común que este término resulte insuficiente para describir obras como __Journey__. El término video juego ha quedado obsoleto en este contexto. Analizándolo semánticamente, observamos que "video" modifica a "juego". Término que describe esos programas que se ejecutan en una computadora y recrean, en esencia, un juego a través de una señal de vídeo. A medida que el medio ha ido evolucionando, gran parte de este software dejó de poder describirse como juego. Por esta razón empleamos el término videojuego, escrito como una sola palabra. No es la mejor solución. Aunque intuitivamente sabemos a qué referirnos, la palabra en sí incluye "-juego", lo que conlleva confusión además de no ser formalmente correcto. Es __Journey__ un juego? Mucho se ha pensado sobre el tema. Algunos no lo consideran así. La definición que da la RAE es la siguiente:
+
+bq. **Juego:** Ejercicio recreativo sometido a reglas, y en el cual se gana o se pierde
+
+En este sentido, __Journey__ no sería un juego, ya que no hay condición de derrota, no hay forma de perder. No ofrece una resistencia o reto significativo en nuestra contra. Existe para que lo experimentemos y habitemos su mundo durante unas horas.
+
+Si este hecho te molesta o te parece que __Journey__ es una obra menor o menos digna por ello, déjame decirte que no entiendo cómo funciona tu cabeza.
+
+Pero si sirve para calmar algunos espíritus, basta decir que todo depende de a qué definición nos acojamos. Si tomamos la definición del escritor y diseñador de juegos Greg Costikyan:
+
+bq. Un juego es una forma de arte en la que los participantes, llamados jugadores, toman decisiones para gestionar recursos a través de elementos de juego para alcanzar una meta.
+
+Bajo este criterio, resulta que __Journey__ es sin duda un juego
+
+Los recursos a los que se refiere esta definición, en el caso que nos ocupa es el patrón cosido en la bufanda de los personajes, y los glifos que podemos recoger a lo largo del juego. El patrón dibujado en nuestra bufanda representa cuanto tiempo podemos flotar al pulsar el botón X. Cuanto más larga sea la bufanda, más patrón podremos "almacenar". Al adquirir un nuevo glifo, nuestra bufanda se alarga un poco más y el glifo pasa a formar parte de nuestra colección.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/journey02-th.jpg!:/img/screenshots/2013-09-27-journey/journey02.jpg
+
+p(piefoto). La montaña está presente como una baliza hacia la que orientar nuestros pasos.
+
+Otro detalle brillante es que no hay ningún tipo de HUD o indicador durante el juego a excepción de los primeros diagramas del tutorial. Para saber qué glifos hemos encontrado, debemos fijarnos en una estructura en el núcleo central (donde pondemos acceder a los diferentes niveles que hayamos alcanzado jugando) y ver qué símbolos se iluminan. Esta elegancia en la presentación se extiende a todos los aspectos del juego.
+
+La presentación es la esencia y mayor punto fuerte de __Journey__. Su elegante estilo gráfico, su cuidada atmósfera, su magnífica banda sonora... En serio, no tengo palabras para transmitir lo perfecta que es la música para este juego. Ve a jugarlo o, si no puedes, escucha alguna muestra del tema principal —un único tema conforma la banda sonora, pero utilizado con diferentes y magistralmente interpretadas variaciones según el tono y la atmósfera de la escena, de forma dinámica y reactiva a nuestras acciones—
+
+Siguiendo con el tema "sin palabras", el hilo narrativo del juego está contado exclusivamente con los gestos y cantos de los personajes, y a través de unos murales que nos explican mediante jeroglíficos el trasfondo de este fascinante mundo. Al meditar en la entrada a cada nivel se nos aparece un guardián que nos revela una parte del mural, y poco a poco se nos va descubriendo la historia de estas tierras hasta que, en una de estas meditaciones, se nos revela un momento que es uno de los más geniales e impactantes golpes de efecto narrativo que he visto jamás en un videojuego, por lo que no quiero desvelarlo. Merece la pena verlo por uno mismo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/journey04-th.jpg!:/img/screenshots/2013-09-27-journey/journey04.jpg
+
+p(piefoto). Los murales que encontremos por el juego y los que se nos muestran al meditar transmiten sin palabras el trasfondo del juego
+
+Esto también enlaza con el multijugador. El director del juego, Jenova Chen, decidió deliberadamente desde el principio del diseño que la comunicación entre los jugadores estaría limitada a los "cantos" que se pueden emitir pulsando el botón Círculo en el mando. No hay posibilidad de usar chat de voz o texto. Ni siquiera podremos identificar a nuestros compañeros de viaje más que por un glifo único que aparece sobre sus cabezas cuando emiten su sonido de tono también característico. Solo al terminar el juego, después de los créditos, se nos hará evidente en un momento —que revienta un poco la magia y nos devuelve a la realidad— de que hemos compartido un techo de nuestro viaje con gente como xXx_narutoTheOriginal-002_xXx.
+
+Suena horriblemente deprimente contarlo así, pero mirándolo por el lado bueno, es una demostración perfecta de como reduciendo la capacidad de expresión de los jugadores a gestos, cantos y actitudes, nuestro propio cerebro rellena los huecos y convierte la mayoría de interacciones que ocurren en __Journey__ en experiencias agradables, cuando menos (**Aviso:** es posible que haya exagerado un poco mi ejemplo y en realidad no te encuentres con tantos usuarios de este tipo jugando hoy día a __Journey__). Es una decisión admirable poner la atmósfera del juego y la integridad de la experiencia por encima de lo que se consideran funcionalidades "obligadas" en un juego.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/journey03-th.jpg!:/img/screenshots/2013-09-27-journey/journey03.jpg
+
+p(piefoto). La paleta de colores cambia en cada entorno, a veces de forma dramática
+
+Si no hablo en más detalle del desarrollo del juego es porque realmente merece la pena jugar a __Journey__ conociendo lo mínimo imprescindible, y dejarse sorprender por lo increíblemente bien construído que está, y como transmite de la única forma en la que un medio interactivo puede hacerlo. No sería util para nadie que hablase, por ejemplo, de _esa parte_ que deja a todo el mundo boquiabierto —si ya has jugado probablemente sabes a cual me refiero—. Es un juego de apenas 2 horas, el equivalente interactivo a un cortometraje. Describir más sería robarle la sorpresa al jugador, algunos de los cuales ni siquiera se percatan del aspecto multijugador y se sorprenden cuando descubren que hay personas reales detrás de los otros viajeros.
+
+__Journey__ es una obra que todo el mundo debería probar, preferiblemente en una tarde libre, de principio a fin sin interrupciones. Es una lástima que fuese desarrollado como parte del contrato de exclusividad de Thatgamecompany con Sony y por consiguiente solo esté disponible para PS3. Pero si tienes acceso a una de estas máquinas y a 2 horas de tranquilidad, te debes a ti mismo/a probar uno de los juegos clave de la septima generación y de gran influencia en las siguientes, mientras todavía funcione el servicio online.
