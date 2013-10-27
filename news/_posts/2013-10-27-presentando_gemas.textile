@@ -1,0 +1,9 @@
+---
+layout: blogpost
+title: "Presentando las gemas"
+author: Iacus
+---
+
+Hola de nuevo. Hoy introducimos un nuevo tipo de artículo en la web. Se trata de las **gemas**. Artículos más cortos que nuestras habituales reseñas que hablan de un juego más en profundidad. En estos artículos tratamos juegos que son, como mínimo, interesantes y a los que merece la pena echar un vistazo o revisitar, pero quizá no sean tan conocidos en el __mainstream__ videojueguil como aquellos a los que dedicamos un artículo completo.
+
+Espero que te resulten informativos y te ayuden a descubrir (o redescubrir) esas pequeñas gemas escondidas del medio interactivo.
