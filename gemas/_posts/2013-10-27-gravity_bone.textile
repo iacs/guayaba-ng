@@ -1,0 +1,43 @@
+---
+layout: gema
+gema: indie
+title: "Gravity Bone"
+covershot: gravitybone.jpg
+dev: "Blendo Games (Brendon Chung)"
+year: 2008
+formato: [Aventura]
+genero: [Espionaje]
+plataformas: [Windows]
+score: 3
+author: David
+---
+
+Leyendo el segundo libro del guionista de cine William Goldman (__Dos Hombres y Un Destino__, __La Princesa Prometida__, __Maverick__, etc.), llegué a una parte en la que el autor establecía un punto de unión entre la poesía y el cine. A primera vista, escribir un poema no tiene nada que ver con escribir un guión; de hecho, a pesar de que se considera al guión cinematográfico como una forma de género literario, escribir uno tiene poco que ver con crear cualquier forma de literatura. Y, sin embargo, existe una característica que une cine y poesía y que, si se usa correctamente y con precisión en cualquiera de las dos disciplinas, puede convertir la obra en cuestión en un trabajo de maestro. Me refiero, cómo no, a la síntesis. Cine y poesía se benefician de ella en igual medida. En ambos medios es esencial saber manejarla, administrarla, jugar con ella. Pero lo realmente impresionante es cómo puede lograr efectos similares en un videojuego.
+
+El cine y el software lúdico tienen muchas cosas en común, pero ciertos mecanismos que funcionan en uno no lo hacen en el otro, y viceversa. Uno de estos podría ser precisamente la síntesis, ya que normalmente se espera que un videojuego cunda en cuanto a tiempo que dedicarle. Muchas veces nos quejamos de que un juego es demasiado corto, que habría ganado mucho si nos hubiese durado más. Otras veces nos fijamos en el __replay value__ para juzgar si merece la pena invertir más y más horas en él. A muchos nos gusta que un título tenga una historia bien escrita y haga buen uso de recursos narrativos a lo largo de un tiempo de juego que nos mantenga ocupados una temporada —al fin y al cabo, estamos pagando por un producto que es de esperar que nos entretenga cuanto más tiempo sea posible—. Pero es precisamente la narrativa bien desarrollada lo que puede hacer que un juego efímero sea digno de admiración.
+
+__Gravity Bone__ es tan breve, que escribir este artículo me está llevando muchísimo más tiempo que acabármelo. No exagero nada si te digo que la primera vez que te lo acabes no deberías tardar más de quince minutos y, cuando vuelvas a hacerlo, con perfecto conocimiento de todo lo que tienes que hacer, seguramente no tardes más de diez.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-10-27-gravity_bone/gb01-th.jpg!:/img/screenshots/2013-10-27-gravity_bone/gb01.jpg
+
+p(piefoto). Esto y unos pequeños letreros más son lo más parecido a un tutorial que te vas a encontrar aquí. La sencillez de su manejo es un punto a favor de Gravity Bone.
+
+Lo que hace tan bueno a este juego es su calidad narrativa que, en tan poco tiempo, nos cuenta una historia de espías a través de dos sencillas misiones. Podría contar hechos específicos para ilustrar esto, pero me estaría cargando por completo tu experiencia con este juego, ya que es tan pequeño que cada detalle cuenta. Cabe mencionar que precisamente la atención al detalle (valga la redundancia) es una de las cualidades que más gratamente sorprenden al jugador en este título.
+
+Todo comienza en un ascensor que nos lleva hasta la enorme y abarrotada terraza de lo que parece ser un club social, con viejos camareros ajetreados, constantemente llevando bebidas de un lado para otro. En nuestra mano derecha, una pequeña tarjeta nos ofrece una breve y sencilla primera instrucción sobre nuestra misión. El especto visual del juego nos impacta en este mismísimo primer contacto: los colores intensos y vibrantes, los personajes con escasos polígonos y cabeza desproporcionada en forma de cubo... . Incluso la música es llamativa, pues esta escena está envuelta en un alegre y pegadizo cha-cha-cha que parece haber sido compuesto expresamente para este ambiente.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-10-27-gravity_bone/gb02-th.jpg!:/img/screenshots/2013-10-27-gravity_bone/gb02.jpg
+
+p(piefoto). Para generar estos singulares escenarios, Gravity Bone utiliza el motor de Quake II.
+
+Tras la sencillísima primera misión viene la segunda y última. Cuando la juegues, sabrás por qué el diseño de niveles es tan bueno en este título. Algunos de los recursos que se han empleado en este apartado los hemos visto antes usados con la misma efectividad en títulos del calibre de __Half-Life 2__.
+
+Y no mucho después habremos terminado la aventura. Que fácilmente sería merecedora de cuatro estrellas, pero sólo le he dado tres. ¿Por qué? Bueno, es que si algo tiene el juego que se pueda calificar claramente como negativo es la sensación de vacío que uno tiene al saber que no hay más que lo que hemos visto. El señor Chung tuvo que desarrollarlo en su tiempo libre, así que hay cosas que se han quedado fuera, cambios que tuvo que hacer, elementos que sacrificó. Se pone de relieve que el juego está incompleto. ¿Qué iba a albergar la ranura 3 del inventario? Se nos proporcionan tres objetos en la segunda misión: uno ocupa la ranura 1, otro la 2 y otro la 4. ¿Qué le pasó a la tercera? Es esta sensación de que faltan cosas, incluso a nivel de trama, la que me impide darle una cuarta estrella a este juego que, de haber resultado en un producto final más completo y cohesionado, habría podido ser una obra maestra.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-10-27-gravity_bone/gb03-th.jpg!:/img/screenshots/2013-10-27-gravity_bone/gb03.jpg
+
+p(piefoto). Aquí no sabemos exactamente de qué va la historia de trasfondo... y tú tampoco lo sabrás.
+
+Aún así, __Gravity Bone__ cuenta una interesante historia de espías cuya narrativa se entrelaza con el diseño de niveles de manera fluida, enriquecida por una gran atención al detalle y un aspecto visual de impacto. Todo un modelo a seguir entre esos videojuegos marginales que, aunque pueden fácilmente pasar —y pasan— desapercibidos, utilizan sabiamente la interactividad inherente al medio para contar historias originales de una manera atrevida e innovadora.
+
+**Nota:** __Gravity Bone__, de Brendon Chung, es completamente gratuito y puedes... no, debes descargarlo "aquí":http://blendogames.com/.
