@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-md-8 col-md-offset-2">
         <div class="panel panel-default">
-            <div class="panel-heading">{% case post.gema %}{% when 'retro' %}<img src="/img/h-gema_retro.gif" alt="gema retro">{% when 'indie' %}<img src="/img/h-gema_indie.gif" alt="gema indie">{% endcase %}</div>
+            <div class="panel-heading">{% case post.gema %}{% when 'retro' %}<img class="img-responsive" src="/img/h-gema_retro.gif" alt="gema retro">{% when 'indie' %}<img class="img-responsive" src="/img/h-gema_indie.gif" alt="gema indie">{% endcase %}</div>
             <div class="panel-body">
                 <a href="{{post.url}}"><img class="img-responsive border" src="/img/covershots/{{post.covershot}}" alt="{{post.title}}"></a>
             </div>
