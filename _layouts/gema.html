@@ -15,9 +15,9 @@ layout: commonpost
                         <ul class="list-unstyled">
                         <li><strong>Desarrollador: </strong>{{page.dev}} </li>
                         <li><strong>Año: </strong>{{page.year}} </li>
-                        <li><strong>Formato: </strong>{{page.formato | array_to_sentence_string}} </li>
-                        <li><strong>Género: </strong>{{page.genero | array_to_sentence_string}} </li>
-                        <li><strong>Plataformas: </strong>{{page.plataformas | array_to_sentence_string}}</li>
+                        <li><strong>Formato: </strong>{{page.formato | join: ', ' }} </li>
+                        <li><strong>Género: </strong>{{page.genero | join: ', ' }} </li>
+                        <li><strong>Plataformas: </strong>{{page.plataformas | join: ', ' }}</li>
                         </ul>
                     </div>
                 </div>
