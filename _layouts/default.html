@@ -15,6 +15,14 @@
 </head>
 <body>
   
+  <script type="text/javascript">
+    var copyrightYear = 2008;
+    var currentYear = new Date().getFullYear();
+    if (currentYear > copyrightYear) {
+      copyrightYear = copyrightYear + "-" + currentYear;
+    }
+  </script>
+  
   <div class="container">
     
     <header> <!-- Cabecero -->
@@ -47,8 +55,8 @@
       <div class="row">
         <div class="col-md-12">
           <hr>
+          <p class="pull-left">Guayaba 2600 &copy; <script>document.write(copyrightYear)</script> Iago Mosquera.</p>
           <p class="pull-right">Diseño web &copy; 2013 Iago Mosquera &middot; <a href="https://twitter.com/iacus_es">Twitter</a></p>
-          <p class="pull-left">Guayaba 2600 &copy; 2008-20XX Iago Mosquera.</p>
         </div>
       </div>
       <div class="row">
