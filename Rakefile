@@ -44,7 +44,27 @@ task :newpost do
   exit 1
 end
 
-task :deploy do
+desc "Build site using Jekyll"
+task :build do
+  jekyll "build"
+end
+
+desc "Deploy site"
+task :deploy => :build do
+  rsync "/var/www/guayaba2600.com/"
+end
+
+def jekyll(opts="")
+  #sh "rm -rf _site"
+  sh "jekyll " + opts
+end
+
+def rsync(domain)
+  #sh "rsync -rtz --delete --delete-after _site/ iacus@guayaba2600.com:#{domain}"
+  sh "rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ iacus@guayaba2600.com:#{domain}"
+end
+
+task :olddeploy do
   
   command = "jekyll build && rsync -avr -e 'ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' --delete --delete-after --log-file=/home/iacusm/data/logs/rsync-guayaba.log /home/iacusm/data/web/guayaba-ng/_site/ iacus@guayaba2600.com:/var/www/guayaba2600.com/"
   sh command
