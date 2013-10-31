@@ -29,11 +29,6 @@ a:visited{
     color: #cc0066;
 }
 
-.container{
-    //background: #a7d94f;
-    //background: #465d1d;
-}
-
 div .entry{
     background: #f2f7e9;
     margin-top: 5px;
@@ -52,17 +47,12 @@ div .site-description{
 }
 
 div .main-area{
-    //background: #465d1d;
     padding: 10px;
 }
 
 div .post-text{
     padding-top: 2em;
     text-align: justify;
-}
-
-header{
-    //background: #465d1d;
 }
 
 footer{
