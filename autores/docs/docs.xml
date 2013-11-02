@@ -1,0 +1,36 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding='UTF-8'?>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+<channel>
+  <title>Documentación G2600</title>
+  <link>http://guayaba2600.com/autores/docs/</link>
+  <atom:link href="http://guayaba2600.com/autores/docs/docs.xml" rel="self" type="application/rss+xml"/>
+  <description>Guayaba 2600 es una comunidad hispanohablante dedicada a explorar el mundo de los videojuegos con críticas y artículos para aficionados de paladares exigentes.</description>
+  <language>es-es</language>
+  <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+  <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+  {% for post in site.categories.docs %}
+  <item>
+      <title>{{ post.title }}</title>
+      <link>http://guayaba2600.com{{ post.url }}</link>
+      <pubDate>{{ post.lastrev | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <dc:creator>{{post.author}}</dc:creator>
+      <guid>http://guayaba2600.com{{ post.id }}</guid>
+      <description>
+          <![CDATA[{{ post.description | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+      </description>
+  </item>
+  {% endfor %}
+
+</channel>
+</rss>

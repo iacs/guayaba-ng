@@ -1,0 +1,133 @@
+---
+layout: documentation
+title: "Guía técnica"
+description: "La web de Guayaba 2600 presenta una serie de diferencias a la hora de escribir contenido para los autores y colaboradores, ya que utilizamos una serie de herramientas menos convencionales comparadas con plataformas como Blogger o Wordpress. Este documento detalla el proceso y formato a seguir para escribir los diferentes tipos de artículos para la web."
+lastrev: 2013-11-02
+---
+
+{% include doc_header.html %}
+
+h2. Diferencias con respecto al método anterior
+
+En lugar de usar un editor web para publicar posts, la nueva web funciona con archivos que son convertidos e integrados en la página web personalizada mediante una serie de software especializado. Esto conlleva una serie de ventajas y desventajas.
+
+h3. Ventajas
+
+* Un único archivo se convierte en la web final: Es posible que para publicar los posts en el antiguo sistema, originalmente se escribiera un borrador en texto para copiarlo al editor web, e iniciar el proceso de dar formato al texto, negritas, cursivas, colocar la ficha de información etc. Este proceso manual es tedioso y poco interesante. Con el nuevo sistema, el borrador y el archivo final son el mismo, ya que el formato de texto va integrado y no es necesario hacer ningún retoque una vez enviado.
+* No más maquetación manual: Al usar una web personalizada, el autor no tiene que preocuparse por maquetar manualmente la página de cada post como antes (colocando individualmente los iconos de guayabas y las capturas de pantalla, por ejemplo) simplemente con unas cuantas líneas de texto el sistema se encarga de dar la maquetación correcta.
+* Contenido aislado del aspecto: Futuras mejoras o cambios en el aspecto de la web supondrían no tener que cambiar nada o casi nada de los posts existentes.
+
+h3. Desventajas
+* Dependiente del webmaster: Integrar los posts en la web es un proceso que todavía no está automatizado. Requiere la instalación de un software específico y ciertos conocimientos técnicos, con lo que los colaboradores no tendrán la habilidad de publicar por su cuenta sino que deberán enviar sus posts al(/los) webmaster.
+
+h2. Cómo escribir un post
+
+Escribir un post para Guayaba 2600 es un proceso mucho más sencillo y rápido que el anterior, pero requiere cumplir una serie de reglas. Estas reglas se revisarán antes de la publicación pero se recomienda seguirlas siempre para evitar trabajo innecesario de revisión y posibles errores humanos.
+
+h3. 1. Crear el archivo
+
+Los posts se enviarán en un archivo de texto en formato textile que debe tener el siguiente nombre:
+
+@yyyy-mm-dd-nombre.textile@
+
+Donde:
+* @yyyy-mm-dd@: fecha de publicación en el formato indicado (d: día, m: mes, y: año) por ejemplo: 2013-06-03
+* @nombre@: el nombre del archivo html de la URL, usando guión bajo en lugar de espacios y sin caracteres especiales.
+* @.textile@: la extensión de archivo.
+
+Los archivos .textile son simples archivos de texto. Es aceptable entregar los artículos como .txt si resulta más cómodo para el autor siempre y cuando se siga el formato correcto.
+
+h3. 2. Escribir la información inicial
+
+Una vez creado el archivo se abrirá con un editor de texto a elegir.
+%(text-danger)*IMPORTANTE:*% Debe utilizarse un editor de texto plano, (p.ej. bloc de notas), no puede ser un formato de un procesador de textos tipo .doc, .rtf y similar. Ver apéndice 1 para herramientas de escritura sugeridas.
+
+Las primeras líneas de texto es la llamada “YAML Front Matter”. Una serie de campos de información que el sistema usa para generar la web correctamente. Para un post de reseña/review son los siguientes, como ejemplo:
+
+<pre>
+---
+layout: review
+title: "Binary Domain"
+cover: bido_cover.jpg
+score: 3
+dev: "Yakuza Studio (Sega)"
+year: 2012
+formato: [TPS, cobertura, squad-based]
+genero: [acción, ciencia-ficción]
+plataformas: [Windows, 360, PS3]
+author: Iacus
+---
+</pre>
+
+Los campos deben ir al principio del archivo, separados entre tres guiones simples.
+%(text-danger)*IMPORTANTE:*% El nº de guiones al principio y al final debe ser exactamente 3.
+
+La información a cubrir es la siguiente:
+
+* @layout@: review  : esta línea no debe cambiarse
+* @title@: : Título que aparecerá en el post, entre comillas. Puede llevar caracteres especiales (dos puntos, etc)
+* @cover@: : Nombre de archivo de la carátula del juego incluida, en jpg
+* @score@: : Puntuación de la reseña. Un número entre 0 y 4. Los iconos apropiados aparecerán en el post.
+* @dev@: : Desarrollador del juego
+* @year@: : Año de lanzamiento
+* @formato@: [] : Formato(s) del juego tal como se detalla en el manual de estilo, entre corchetes y separados por comas.
+* @genero@: [] : Género(s) del juego tal como se detalla en el manual de estilo, entre corchetes y separados por comas.
+* @plataformas@: [] : Plataformas donde se ha publicado el juego en el momento de escribir la reseña, entre corchetes y separados por comas.
+* @author@: : (opcional) Autor del texto. Si se borra esta línea la atribución será anónima.
+
+A continuación se incluye una plantilla vacía para cortar y pegar en los nuevos documentos, y rellenar fácilmente:
+
+<pre>
+---
+layout: review
+category: review
+title: ""
+cover: .jpg
+score: 
+dev: ""
+year: 
+formato: []
+genero: []
+plataformas: []
+author: 
+---
+</pre>
+
+h2. 2. Escribir el cuerpo del post
+
+El cuerpo del post se escribe a partir de la línea final de tres guiones. No tiene ninguna particularidad. Separa los párrafos por una línea en blanco. Como ya hemos comentado el formato de texto sigue el markup de textile, un sistema similar al que se usa para escribir artículos de wikipedia o el BBCode de los foros, pero mucho más rápido para teclear. Una referencia más completa con ejemplos se puede encontrar en http://txstyle.org/ pero a continuación detallo el formateo más usual.
+
+h3. Negritas y cursivas
+
+
+* El texto entre dos pares de guiones bajos aparece en cursiva.
+* El texto entre dos pares de asteriscos aparece en negrita.
+* Ambos pueden combinarse sin problema.
+
+h5. Ejemplos:
+
+table(table).
+|_. En el documento|_. Resultado|
+|@__ejemplo__@|__ejemplo__|
+|@**ejemplo**@|**ejemplo**|
+|@__**ejemplo**__@|__**ejemplo**__|
+
+h3. Encabezados
+
+Los encabezados se denotan poniendo <code>h(1-6). </code> antes del texto. Esto es, la letra h, un número del 1 al 6, un punto y un espacio antes del texto. Cuanto mayor es el número mayor es la profundidad del epígrafe (rótulo más pequeño). Para las reseñas no se recomienda usar encabezados, pero en caso de necesitarlos, los niveles 4, 5, y 6 están disponibles.
+
+h5. Ejemplo:
+
+@h4. Este es un encabezado de nivel 4@
+
+h3. Enlaces
+
+Los enlaces son texto entre comillas, seguido de dos puntos y la URL a la que apuntan. 
+
+h5. Ejemplo
+
+table(table).
+|_. En el documento|_. Resultado|
+|@“Texto del enlace”:http://www.ejemplo.com@| "Texto del enlace":http://www.ejemplo.com |
+
+ 
