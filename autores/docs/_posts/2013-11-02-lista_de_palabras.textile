@@ -1,0 +1,29 @@
+---
+layout: documentation
+title: Lista de palabras
+description: "Forma aceptada de escribir algunos términos comunes."
+lastrev: 2013-11-12
+---
+
+{% include doc_header.html %}
+
+h2. Ortografía de los nombres de plataformas
+
+Debe utilizarse el nombre completo de la plataforma (no abreviaturas) en los datos de la ficha de cada juego, esto es necesario para que se organicen correctamente por plataforma y aparezcan en la página correspondiente.
+
+table(table table-hover).
+|_. Nombre|_. Abreviatura|
+|Neo Geo|NG|
+|PlayStation|PSX|
+|PlayStation 2|PS2|
+|PlayStation 3|PS3|
+|PlayStation 4|PS4|
+|Xbox|XBOX|
+|Xbox 360|360|
+|Nintendo|NES|
+|Super Nintendo|SNES|
+|Super Famicom|SF|
+|Mega Drive|MD|
+|Mega CD|MCD|
+|Saturn|SS|
+|Dreamcast|DC|

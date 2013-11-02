@@ -1,0 +1,54 @@
+---
+layout: documentation
+title: Manual de estilo
+description: "Guía editorial para que los artículos de Guayaba 2600 tengan un aspecto consistente."
+lastrev: 2013-08-09
+---
+
+{% include doc_header.html %}
+
+h2. 1. Tipografía y Formato
+* Usar paréntesis "()" para aclaraciones y guiones largos "—" para apartes y comentarios. El guión largo se puede escribir en Windows con ALT+0151 o cortando y pegando desde charmap.
+* Los títulos de juegos, libros o películas siempre se escribirán con su grafía oficial si es posible y en __cursiva__ cuando sean mencionados en el cuerpo de texto de una reseña, o en texto normal si es en un encabezamiento o en un pie de foto.
+* Énfasis se pone en **negrita**.
+* Palabras o expresiones extranjeras van también en cursiva.
+* El texto en reseñas y artículos no estará justificado, sino alineado a la izquierda. No se trata de un texto para impresión sino para pantalla. (actualmente cambiado debido al nuevo diseño de la página, en consideración)
+* Las capturas de pantalla en reseñas estarán centradas y siempre tendrán un pie de foto. En los artículos el pie de foto puede omitirse y otras imágenes e ilustraciones pueden usarse libremente de modo que ilustren mejor el contenido del texto.
+* En caso de que un título o cualquier otra parte de texto que vaya en cursiva se encuentre en una frase totalmente en cursiva, se volverá a poner ese título en tipo normal.
+* No debe ponerse punto y final en los encabezamientos (títulos) de posts excepto en casos en los que sea inevitable (debido a la tipografía de un título, por ejemplo).
+* El nombre de la web es Guayaba 2600. Se escribe separado y con mayúscula.
+
+h2. 2. Vocabulario
+* Se utilizará el vocablo 'videojuego' en lugar de 'vídeo juego'.
+* "Género" se utiliza como en el cine y la literatura, no como en la prensa entusiasta del medio. Es decir, para designar si el marco de un juego es fantasía, western, etc... .
+* Para designar lo que habitualmente llaman género en otras publicaciones (aventura, acción, RPG...) se usará el término "formato".
+* Para referirse al hardware/sistema en el que se puede ejecutar un juego, se usará "plataforma".
+* Se referirá a los títulos por el nombre oficial más usual en el mercado español, en su ausencia, se utilizará el nombre por el que el juego sea más conocido. Normalmente el nombre oficial. Opconalmente, se puede incluir tanto el título original transliterado, como los nombres en japonés (o coreano, chino, ruso, etc) en su grafía nativa.
+* Nombres alternativos y carátulas alternativas de juegos: El autor utilizará la versión de la carátula que más le guste para empezar la reseña, siempre que esa carátula sea oficial (ie, nunca se usará fan-art. En el caso de portadas de Ficción interactiva, se usarán las del archivo oficial. En este momento http://ifdb.tads.org/)
+
+h2. 3. Contenido
+
+h3. Específicos para reseñas:
+
+* Datos sobre juegos en una reseña. Toda reseña estará precedida por una "ficha" de datos, en los que deben figurar: desarrollador, año original de publicación (de la primera versión, excepto en el caso de que la reseña sea específicamente sobre un remake o reedición con extras), formato, género, plataformas disponibles (las pertinentes a la reseña solamente), puntuación con iconos y opcionalmente autor del artículo. Opcionalmente se pueden incluir los títulos originales en idiomas extranjeros (ver a continuación).
+* Puntuaciones: No se emplearán puntuaciones numéricas, ya sean globales o separadas en apartados (gráficos, sonido, juego, etc.) Todas las reseñas tendrán una puntuación (a discreción del autor) entre cero y cuatro estrellas, representadas con asteriscos en el encabezamiento y con iconos en la ficha del juego. Diferentes reseñas de un mismo juego, escritas por distintos autores pueden tener puntuaciones distintas.
+* No se usarán "medias estrellas". Solo valores enteros.
+Es preferible que las reseñas no tengan spoilers importantes de la trama, pero si los tienen, se debe incluir la siguiente advertencia al principio del texto, en su propio párrafo, en negrita y centrada: “Atención: Esta reseña contiene spoilers de partes clave del juego.”
+* En los articulo tipo reseña debe incluirse siempre una imagen de la carátula del juego
+* Se incluirá la carátula del juego siempre que exista. En el caso de los juegos de IF se buscará en el archivo de carátulas de ficción interactiva (http://ifdb.tads.org/)
+* 200 pixels de ancho es la medida estándar para las carátulas.
+* Si no existe carátula se utilizará una imagen genérica que lo indique (habría que elaborar un conjunto de imágenes genéricas consistentes con el diseño de la página para estos casos).
+
+h3. Otro tipo de artículos:
+
+* Los análisis y otros artículos más en profundidad pueden tener spoilers de todo tipo sin problemas (es difícil hablar de ciertos aspectos de un juego sin discutir la trama), pero también deben ser indicados igual que las reseñas.
+* Los artículos de “gema <>” tendrán una captura de pantalla del juego como imagen de portada del artículo, en lugar de la carátula del juego. En estos artículos, la puntuación es opcional, pero los datos del juego deben incluirse igualmente.
+
+h2. 4. Interfaz y usabilidad
+* Categorías: Los diferentes artículos se agruparán en categorías para facilitar su clasificación y consulta. Existirá obviamente la categoría de Reseñas. Las demás categorías podrían ser: Análisis, Monográficos, Columnas de opinión, Especiales, etc.
+
+h2. 5. Ética
+
+El contenido de los artículos representa la opinión del autor. Sin embargo, en Guayaba 2600 pretendemos dar una imagen consistente de buen gusto y profesionalidad. Esperamos que los autores hagan uso de su buen juicio y sentido común a la hora de escribir artículos, pero conviene dar ciertos punteros en lo que respecta a las reseñas.
+Las reseñas, aún conteniendo el análisis y la experiencia del autor con el juego, deberían ir orientadas a ofrecer información objetiva, así que, mientras que debe hacerse crítica de un juego en términos de su diseño, presentación, experiencia de juego etc, no tiene cabida criticarlo por desacuerdos sobre su contenido, género o materia. Es deseable que los autores estén bien informados de cualquier comentario que pretendan hacer sobre el marco cultural del juego —bien sobre sus temas o sobre su contexto en la historia del videojuego en general— ya que los editores no podemos permitirnos revisar todos los artículos, ni reescribir los textos de otros autores salvo casos excepcionales.
+Por supuesto, esto no implica ningún tipo de censura, sólo pedimos que nadie mee fuera del tiesto en cuanto a los parámetros de la reseña de un juego. Para explorar opiniones sobre la relevancia o lo apropiado del contenido de una obra lo indicado es escribir un artículo de análisis o una columna de opinión, las cuales no incluyen ninguna valoración en estrellas y por lo tanto no están asociadas al estándar de Guayaba 2600.
