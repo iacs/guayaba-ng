@@ -1,7 +1,7 @@
 ---
 layout: documentation
 title: "Guía técnica"
-description: "La web de Guayaba 2600 presenta una serie de diferencias a la hora de escribir contenido para los autores y colaboradores, ya que utilizamos una serie de herramientas menos convencionales comparadas con plataformas como Blogger o Wordpress. Este documento detalla el proceso y formato a seguir para escribir los diferentes tipos de artículos para la web."
+description: "La web de Guayaba 2600 presenta una serie de diferencias a la hora de escribir y enviar contenido para los autores, ya que utilizamos una serie de herramientas especializadas. Este documento detalla el proceso y formato a seguir para escribir los diferentes tipos de artículos para la web."
 lastrev: 2013-11-02
 ---
 
@@ -129,5 +129,53 @@ h5. Ejemplo
 table(table).
 |_. En el documento|_. Resultado|
 |@“Texto del enlace”:http://www.ejemplo.com@| "Texto del enlace":http://www.ejemplo.com |
+
+Los enlaces “internos” a artículos de la propia web se pueden poner de una forma alternativa. En lugar de copiar y pegar la URL se puede escribir la siguiente plantilla, ej:
+
+{% raw %}@{% post_url 2010-08-07-brutal_legend %}@{% endraw %}
+
+Este método asegura que el enlace siempre apuntará al artículo, pero es opcional. Poner el enlace directamente también es válido.
+
+h3. Imágenes
+
+Las imágenes (capturas de pantalla) serán preprocesadas antes de subirse a la web, pero para facilitar el trabajo a los colaboradores, para incluir una captura en el texto basta poner el nombre de archivo de la imagen, en una línea, rodeado del signo !, por ejemplo:
+
+@!screenshot01.jpg!@
+
+h3. Pies de foto
+
+Los pies de foto que acompañan cada captura se denotan de forma similar a los encabezados, solo que poniendo el texto <code>p(piefoto). </code> Esto es, la letra p, seguida del identificador (piefoto) entre paréntesis, un punto y un espacio. Esto debe ir en una única línea (es decir, sin pulsar enter), y debe dejarse al menos una línea vacía antes y después
+
+h5. Ejemplo:
+
+@p(piefoto). Este es el pie de foto@
+
+Por lo demás, cada párrafo debe estar separado de los otros, y de las líneas que describen imágenes o pies de foto, por una línea en blanco, para mejorar la legibilidad y evitar problemas con la maquetación.
+
+Y eso es lo básico.
+
+Textile permite usar la gran mayoría sino todas las opciones de formateo que ofrece HTML 5. Para una referencia más completa (en inglés) visita "http://redcloth.org/textile":http://redcloth.org/textile si quieres aprender cómo hacer algo que no aparezca en esta guía.
+
+h2. 3. Archivos extra
+
+Aparte del propio texto del post, el autor deberá proporcionar los archivos adicionales que requiera la reseña. Estos son:
+
+Carátula: En formato jpg, redimensionada a 200 pixels de ancho (opcional, pero recomendable). El archivo debe tener el mismo nombre que el indicado en el campo “cover” del post o la página no se verá correctamente.
+
+Capturas de pantalla: A la máxima resolución en que aparecerán en la web al hacer click sobre ellas. En formato jpg o png. Sus nombres de archivo deben coincidir con los referenciados en el texto del blog.
+
+h2. 4. Despliegue
+
+El despliegue (posteo) se llevará a cabo por el webmaster cuando reciba los archivos. La mejor manera de enviarlos es mediante una carpeta compartida en Dropbox. El autor es responsable de mantener copias seguras de su trabajo hasta el momento en que sea publicado en la web. Los posts procesados se irán eliminando de la carpeta compartida a medida que se vayan publicando. Para que no haya confusión en los archivos deben enviarse todos en su propia carpeta o en un archivo comprimido (zip o 7z recomendados)
+
+h2. Apéndice 1: Editores de texto
+
+Escribir con el Bloc de Notas de Windows no es una experiencia placentera. Aquí se listan una serie de editores de texto que funcionan bien para escribir posts de Guayaba 2600 en caso de que no tengas un favorito.
+
+* "Q10 (Windows)":http://www.baara.com/q10/ Editor “sin distracción” recomendado para escribir prosa en Windows
+* "Ommwriter (Mac, Windows)":http://www.ommwriter.com/ Similar al anterior
+* "Focus Writer (Mac, Windows, GNU/Linux)":http://gottcode.org/focuswriter/
+* "Sublime Text (mac, Windows, GNU/Linux)":http://www.sublimetext.com/ editor profesional para código. Tal vez un poco “hardcore” si no eres programador, pero muy completo.
+
 
  
