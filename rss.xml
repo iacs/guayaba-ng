@@ -20,6 +20,7 @@ layout: nil
   <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
   {% for post in site.posts %}
+  {% if post.layout != 'documentation' %}
   <item>
       <title>{{ post.title }}{% if post.score == 0 %} (cero) {% endif %}{% if post.score == 1 %} (*) {% endif %}{% if post.score == 2 %} (**) {% endif %}{% if post.score == 3 %} (***) {% endif %}{% if post.score == 4 %} (****) {% endif %}</title>
       <link>http://guayaba2600.com{{ post.url }}</link>
@@ -30,6 +31,7 @@ layout: nil
           <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
       </description>
   </item>
+  {% endif %}
   {% endfor %}
 
 </channel>
