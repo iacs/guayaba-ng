@@ -1,0 +1,52 @@
+---
+layout: gema
+gema: retro
+title: Alien Soldier
+covershot: aliensol.png
+dev: Treasure
+formato: [Acción]
+genero: [Ciencia ficción]
+plataformas: [Megadrive, PlayStation 2, Wii]
+year: 1995
+author: Iacus
+---
+
+Si hay algo en lo que el legendario estudio Treasure son maestros, es en crear pequeños juegos de acción y reflejos con unas mecánicas y una satisfacción en el control refinadas hasta la saciedad. Tal es su maestría que esta se ha convertido, en la práctica, en su característica definitoria. Cuando hablamos de que la mecánica de acción es "estilo Treasure" estamos refiriéndonos a una forma muy peculiar de meter al jugador "en el ajo", y de unas sensibilidades y prioridades en el diseño que ponen la jugabilidad por encima de todo y llevan la exploración de sus mecánicas hasta sus últimas consecuencias.</sep>
+
+Treasure se fundó en 1992, comenzaron su carrera desarrollando juegos para la Megadrive de Sega. __Alien Soldier__, de 1995 fue su canto de cisne para esta consola —Técnicamente el juego de aventura __Light Crusader__ se publicó más tarde ese mismo año, pero __Alien Soldier__ es un juego más típicamente Treasure, con fuertes paralelismos con __Gunstar Heroes__, el primer título del estudio—.
+
+Entonces, por dónde empezar? El juego es un revoltijo. Desde la historia hasta la dirección artística, todo parece formar parte de un caos contenido que no sirve a más maestros que al _gameplay_ y la acción.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/aliensol02-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/aliensol02.png
+
+p(piefoto). El pixel art es muy competente técnicamente, mientras que artísticamente es un amasijo de influencias dispares.
+
+La estructura básica de __Alien Soldier__ es esencialmente la de un _boss rush_ (en los 25 niveles del juego, hay combates contra 31 jefes) . Un desfile de batallas contra diversos bichos alienígenas que requieren diferentes técnicas para ser derrotados con brevísimos interludios de enemigos "palomita" (o "carne de cañón, si prefieres") que sirven fundamentalmente para darnos una oportunidad de recuperar salud y energía para nuestras armas, tal vez cambiar una de nuestras armas en mitad de la partida. Todo parece estar orientado hacia _speedruns_ y _superplays_. Al derrotar a cada jefe se registra el tiempo de juego que nos ha llevado matarlo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/aliensol13-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/aliensol13.png
+
+p(piefoto). Los nombres de los jefes solo pueden verse en esta pantalla. Merece la pena echar un vistazo a las hilarantes denominaciones de los monstruos.
+
+Encarnamos al titular "soldado alienígena" Epsilon-Eagle, en realidad un humano mutado con forma de ave. Nuestras herramientas de combate consisten en seis tipos de armas, cada una con sus propios puntos fuertes y débiles, pero todas con munición limitada. Tenemos un inventario en el que podemos equipar hasta 4 de estas armas. Se admiten duplicados. Aparte de nuestro arsenal básico tenemos una panoplia de opciones de movilidad y defensa. Podemos saltar, flotar fijos en el aire, caminar por el techo como si la gravedad se hubiese invertido, usar una especie de _parry_ de corto alcance que transforma las balas enemigas en items de salud y activar el "Zero Teleport", un movimiento que nos desplaza a toda velocidad de un lado a otro de la pantalla. Este es uno de los movimientos más importantes del juego, ya que lo ejecutamos con la barra de salud al máximo, cruzaremos la pantalla envueltos en llamas causando un gran daño a todo lo que esté por el camino, a cambio de una pequeña cantidad de energía vital. En su forma normal, sin ataque, sigue siendo el movimiento de evasión más importante de nuestro repertorio.
+
+Como podrás imaginar, tal varidad de movimientos tiene un precio, y es que el mando estándar de 3 botones de la Megadrive se antoja limitado para el control del juego. Cambiar de arma en el fragor de la batalla es especialmente confuso al principio. Esta es quizá una de las mayores barreras de accesibilidad del juego y personalmente lo que me mantuvo alejado de él mucho tiempo. Si en aquellos tiempos la Megadrive hubiera tenido el lujo de un mando con botones traseros a izquierda y derecha, esta carencia del interfaz podría haber sido resuelta con facilidad. En todo caso, no lleva demasiado tiempo acostumbrarse y re-cablear nuestro cerebro para adaptarnos a este menú de cambio de arma, y cuando lo consigamos, podremos disfrutar de un control perfectamente fluido.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/aliensol10-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/aliensol10.png
+
+p(piefoto). Los controles son complejos y exigentes al principio, pero con práctica controlar a nuestro personaje puede convertirse en una extensión de nuestra mente.
+
+El juego no se toma a sí mismo en serio, pero tampoco es una comedia, precisamente. En un tono bromista, las únicas opciones de dificultad disponibles son _"supereasy"_ y _"superhard"_. Baste decir que _"supereasy"_ es súper difícil. Sí, es esa clase de juego. El modo _"superhard"_ elimina la posibilidad de usar continuaciones, de las que disponemos infinitas en _supereasy_, con lo que no podrmos permitirnos cambiar nuestro equipamiento por otro que se adapte mejor a los puntos débiles de cada jefe si somos derrotados. Una gran ventaja si no hemos elegido sabiamente al comienzo del nivel.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/aliensol08-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/aliensol08.png
+
+p(piefoto). Los momentos previos a un enfrentamiento dramático.
+
+Por lo demás, __Alien Soldier__ no se anda con chiquitas a la hora de presentar retos al jugador. Es común que un jugador novato que todavía no esté acostubrado a los controles no pase de los dos o tres primeros jefes. En todo caso, la perseverancia se verá recompensada.
+
+Estos jefes son dignos de ver. Quizá resulta extraño hablar de las proezas gráficas de una consola de 16 bits en estos tiempos de teselado en tiempo real, iluminación dinámica, y oclusión ambiental, pero para la época, __Alien Soldier__ fue un logro técnico envidiable. Es toda una galería de criaturas gigantes, enemigos multisegmentados, efectos de escalado, paralaje y toda clase de virguerías gráficas. Treasure siempre se caracterizó por exprimir los chips de la relativamente modesta Megadrive hasta el límite, y este cartucho no es una excepción.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/aliensol12-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/aliensol12.png
+
+p(piefoto). la aparición invitada del Seven Force de Gunstar Heroes es un toque que los fans de este juego apreciarán.
+
+Aparte del cartucho original de Megadrive —que ahora puede costar en torno a 150 € en el mercado secundario— __Alien Soldier__ ha sido relanzado en la compilación para PS2 __Sega Ages vol. 25__ junto con los otros clásicos __Gunstar Heroes__ y __Dynamite Headdy__ y en la Consola Virtual de Nintendo. Si te interesa un juego de acción que no se para en barras con sus retos, que sorprende a cada pocos minutos y goza del buen hacer del Treasure clásico, conviene que le eches un vistazo.

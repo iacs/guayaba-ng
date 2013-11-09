@@ -73,7 +73,7 @@ def main():
         imgname, ext = os.path.splitext(filename)
         print(filename)
         if ext == ".jpg" or ext == ".png":
-            cmdstring = "convert " + filename + " -resize " + thumb_geom + " " + imgname+"-th.jpg"
+            cmdstring = "convert " + filename + " -resize " + thumb_geom + "\> " + imgname+"-th.jpg"
             os.system(cmdstring)
             dest = postname + "/" + filename
             dest2 = postname + "/" + imgname + "-th.jpg"
