@@ -3,7 +3,7 @@ require 'optparse'
 require 'yaml'
 require 'fileutils'
 
-task :review do
+task :newreview do
   OptionParser.new.parse!
   ARGV.shift
   title = ARGV.join(' ')
