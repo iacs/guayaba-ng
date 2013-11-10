@@ -36,23 +36,19 @@ layout: default
 
 <div class="row">
     <div class="col-md-10 col-md-offset-1 entry">
-        <ul class="pager">
+        <ul class="pagination">{% assign pag_btns = 5 %}
             {% if paginator.previous_page %}
-                {% if paginator.previous_page == 1 %}
-                <li class="previous"><a href="/">&laquo; Anterior</a></li>
-                {% else %}
-                <li class="previous"><a href="{{ paginator.previous_page_path}}">&laquo; Anterior</a></li>
-                {% endif %}
+            <li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
             {% else %}
-            <li class="previous disabled"><span>&laquo; Anterior</span></li>
+            <li class="disabled"><span>&laquo;</span></li>
             {% endif %}
-            
-            {% if paginator.next_page %}
-                <li class="next"><a href="{{ paginator.next_page_path}}">Siguiente &raquo;</a></li>
-            {% else %}
-                <li class="next disabled"><span>Siguiente &raquo;</span></li>
-            {% endif %}
-            
-        </ul> <!-- .pager -->
+            {% assign pag_step = pag_btns | divided_by: 2 %}
+            {% assign pag_first = pag_btns %}
+            {% assign pag_first = pag_btns | minus: pag_step %}
+            {{pag_btns}} - {{pag_step}} = {{pag_first}}
+            {% if pag_first < 1 %}{% assign pag_first = 1 %}{% endif %}
+            {% for page in paginator.page %}
+            {% endfor %}
+        </ul>
     </div>
 </div> <!-- .row -->
