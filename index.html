@@ -35,41 +35,5 @@ layout: default
 {% endfor %}
 
 <div class="row">
-    <div class="col-md-10 col-md-offset-1 entry">
-    <div class="row">
-    <div class="col-md-6 col-md-offset-4">
-        <ul class="pagination center">{% assign pag_btns = 5 %}
-            {% if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
-            {% else %}
-            <li class="disabled"><span>&laquo;</span></li>
-            {% endif %}
-            {% assign pag_step = pag_btns | divided_by: 2 %}
-            {% assign pag_first = paginator.page %}{% assign pag_last = paginator.page %}
-            {% assign pag_first = paginator.page | minus: pag_step %}{% assign pag_last = paginator.page | plus: pag_step %}
-            {% if pag_first < 1 %}{% assign pag_first = 1 %}{% endif %}
-            {% if pag_btns > paginator.total_pages %}{% assign pag_last = paginator.total_pages %}{% endif %}
-            {% assign distance = pag_last %}{% assign distance = pag_last | minus: pag_first %}
-            {% if distance < 4 %}{% assign pag_last = pag_first | plus: 4 %}{% endif %}
-            {% if pag_last > paginator.total_pages %}{% assign pag_last = paginator.total_pages %}{% endif %}
-            {% if pag_last == paginator.total_pages %}{% assign pag_first = pag_last | minus: 4 %}{% endif %}
-            {% if pag_first < 1 %}{% assign pag_first = 1 %}{% endif %}
-            {% for page in (pag_first..pag_last) %}
-                {% if page == paginator.page %}
-                <li class="active"><span>{{page}}</span></li>
-                {% elsif page == 1 %}
-                <li><a href="/index.html">{{page}}</a></li>
-                {% else %}
-                <li><a href="/page{{page}}">{{page}}</a></li>
-                {% endif %}
-            {% endfor %}
-            {% if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
-            {% else %}
-            <li class="disabled"><span>&raquo;</span></li>
-            {% endif %}
-        </ul>
-    </div>
-    </div>
-    </div>
+    {% include pagination.html %}
 </div> <!-- .row -->
