@@ -1,6 +1,7 @@
 ---
 layout: documentation
 title: Documentos
+hide: true
 ---
 
 <div class="row">
@@ -27,16 +28,16 @@ title: Documentos
 <div class="panel panel-primary">
     <div class="panel-heading"><h3>Documentos</h2></div>
     <div class="list-group">
-        {% for post in site.categories.docs %}
+        {% for page in site.pages %}{% if page.layout == 'documentation' and page.lastrev %}
         
-            <a href="{{post.url}}" class="list-group-item">
-                <h4 class="list-group-item-heading"><span class="glyphicon glyphicon-file"> {{post.title}}</h4>
-                <p class="list-group-item-text">{{post.description}}</p>
+            <a href="{{page.url}}" class="list-group-item">
+                <h4 class="list-group-item-heading"><span class="glyphicon glyphicon-file"> {{page.title}}</h4>
+                <p class="list-group-item-text">{{page.description}}</p>
                 <br>
-                <p class="list-group-item-text"><strong>Actualizado por última vez:</strong> <span class="label label-info">{{post.lastrev | date: "%d/%m/%Y"}}</span></p>
+                <p class="list-group-item-text"><strong>Actualizado por última vez:</strong> <span class="label label-info">{{page.lastrev | date: "%d/%m/%Y"}}</span></p>
             </a>
         
-        {% endfor %}
+        {% endif %}{% endfor %}
     </div>
 </div>
 </div>
