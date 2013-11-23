@@ -19,18 +19,18 @@ layout: nil
   <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
   <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
-  {% for post in site.categories.docs %}
+  {% for page in site.pages %}{% if page.layout == 'documentation' and page.lastrev %}
   <item>
-      <title>{{ post.title }}</title>
-      <link>http://guayaba2600.com{{ post.url }}</link>
-      <pubDate>{{ post.lastrev | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <dc:creator>{{post.author}}</dc:creator>
-      <guid>http://guayaba2600.com{{ post.id }}</guid>
+      <title>{{ page.title }}</title>
+      <link>http://guayaba2600.com{{ page.url }}</link>
+      <pubDate>{{ page.lastrev | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <dc:creator>{{page.author}}</dc:creator>
+      <guid>http://guayaba2600.com{{ page.id }}</guid>
       <description>
           <![CDATA[{{ post.description | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
       </description>
   </item>
-  {% endfor %}
+  {% endif %}{% endfor %}
 
 </channel>
 </rss>
