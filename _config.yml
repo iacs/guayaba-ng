@@ -1,6 +1,6 @@
 future: false
 safe: false
 timezone: "Europe/Madrid"
-exclude: [README.md, Rakefile, guayaba.todo]
+exclude: [README.md, Rakefile, guayaba.todo, config.rb]
 paginate: 10
 excerpt_separator: "</sep>"

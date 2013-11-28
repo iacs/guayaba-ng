@@ -1,154 +1,183 @@
-body{
-    background: rgb(205,235,142); /* Old browsers */
-    background: -moz-linear-gradient(45deg,  rgba(205,235,142,1) 0%, rgba(165,201,86,1) 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(205,235,142,1)), color-stop(100%,rgba(165,201,86,1))); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* IE10+ */
-    background: linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cdeb8e', endColorstr='#a5c956',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-    font-family: 'Maven Pro', 'Helvetica', sans-serif;
-    font-weight: 500;
+/* line 7, ../_scss/guayaba.scss */
+body {
+  background: #cdeb8e;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=1, startColorstr='#FFCDEB8E', endColorstr='#FFA5C956');
+  background-image: -webkit-gradient(linear, 0% 100%, 100% 0%, color-stop(0%, #cdeb8e), color-stop(100%, #a5c956));
+  background-image: -webkit-linear-gradient(left bottom, #cdeb8e, #a5c956);
+  background-image: -moz-linear-gradient(left bottom, #cdeb8e, #a5c956);
+  background-image: -o-linear-gradient(left bottom, #cdeb8e, #a5c956);
+  background-image: linear-gradient(left bottom, #cdeb8e, #a5c956);
+  font-family: "Maven Pro", "Helvetica", sans-serif;
+  font-weight: 500;
 }
 
-h1,h2,h3,h4,h5{
-    font-family: 'Maven Pro', 'Helvetica', sans-serif;
-    font-weight: 900;
+/* line 23, ../_scss/guayaba.scss */
+h1, h2, h3, h4, h5 {
+  font-family: "Maven Pro", "Helvetica", sans-serif;
+  font-weight: 900;
 }
 
+/* line 29, ../_scss/guayaba.scss */
 a,
-a:link{
-    color: #fa4747;
+a:link {
+  color: #fa4747;
 }
 
-a:hover{
-    color: #cc0066;
+/* line 33, ../_scss/guayaba.scss */
+a:hover {
+  color: #cc0066;
 }
 
-a:visited{
-    color: #cc0066;
+/* line 37, ../_scss/guayaba.scss */
+a:visited {
+  color: #cc0066;
 }
 
-div .entry{
-    background: #f2f7e9;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    //padding: 10px 10px 10px 20px;
-    padding: 0.5em 2em;
-    border: 1px solid #ccc;
-    -webkit-border-radius: 8px;
-       -moz-border-radius: 8px;
-            border-radius: 8px;
+/* line 41, ../_scss/guayaba.scss */
+div .entry {
+  background: #f2f7e9;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 0.5em 2em;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
 }
 
-div .site-description{
-    padding: 1em;
-    color: #FFF;
+/* line 53, ../_scss/guayaba.scss */
+div .site-description {
+  padding: 1em;
+  color: #FFF;
 }
 
-div .main-area{
-    padding: 10px;
+/* line 58, ../_scss/guayaba.scss */
+div .main-area {
+  padding: 10px;
 }
 
-div .post-text{
-    padding-top: 2em;
-    text-align: justify;
+/* line 62, ../_scss/guayaba.scss */
+div .post-text {
+  padding-top: 2em;
+  text-align: justify;
 }
 
-footer{
-    padding: 1em;
+/* line 67, ../_scss/guayaba.scss */
+footer {
+  padding: 1em;
 }
 
-.piefoto{
-    text-align: center;
-    font-size: small;
-    font-style: italic;
-    margin-bottom: 15px;
-}
-
-.coverthumb{
-    float:left;
-    margin:.5em 10px .5em 0;
-    overflow:hidden; /* this is important */
-    border:1px solid #ccc;
-    width: 140px;
-    max-width: 140px;
-    height: 140px;
-    max-height: 140px;
-    -webkit-border-radius: 6px;
-       -moz-border-radius: 6px;
-            border-radius: 6px;
-}
-
-.coverthumb img{
-    margin: -25px 0px 0px 0px;
-    max-width: 140px;
-}
-
-.mobilecoverthumb img{
-    max-width: 100%;
-}
-
-.gema-heading img{
-    padding: 10px;
-    margin: 3px auto;
-    background: rgb(200,204,187);
-    -webkit-border-radius: 6px;
-       -moz-border-radius: 6px;
-            border-radius: 6px;
-}
-
-.panel-default>.panel-heading{
-    background: rgb(200,204,187);
-}
-
-.border{
-    border:1px solid #ccc;
-}
-
-.pagination-centered {
+/* line 71, ../_scss/guayaba.scss */
+.piefoto {
   text-align: center;
+  font-size: small;
+  font-style: italic;
+  margin-bottom: 15px;
 }
 
-.img-center, .img-responsive{
-    margin: 0 auto;
+/* line 78, ../_scss/guayaba.scss */
+.coverthumb {
+  float: left;
+  margin: .5em 10px .5em 0;
+  overflow: hidden;
+  /* this is important */
+  border: 1px solid #ccc;
+  width: 140px;
+  max-width: 140px;
+  height: 140px;
+  max-height: 140px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
 }
 
-.entry-screen{
-    max-width: 100%;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    -webkit-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
-       -moz-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
-            box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+/* line 92, ../_scss/guayaba.scss */
+.coverthumb img {
+  margin: -25px 0px 0px 0px;
+  max-width: 140px;
 }
 
-.overtext{
-    color: #EEEEEE;
-    text-shadow: -1px 0px 1px rgba(50, 50, 50, 1),
-    0px 1px 1px rgba(50, 50, 50, 1),
-    1px 0px 1px rgba(50, 50, 50, 1),
-    0px -1px 1px rgba(50, 50, 50, 1);
+/* line 97, ../_scss/guayaba.scss */
+.mobilecoverthumb img {
+  max-width: 100%;
 }
 
-#sidebar{
-    margin-top: 20px;
-    padding-left: 2em;
+/* line 101, ../_scss/guayaba.scss */
+.gema-heading img {
+  padding: 10px;
+  margin: 3px auto;
+  background: #c8ccbb;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+/* line 110, ../_scss/guayaba.scss */
+.panel-default > .panel-heading {
+  background: #c8ccbb;
+}
+
+/* line 114, ../_scss/guayaba.scss */
+.border {
+  border: 1px solid #ccc;
+}
+
+/* line 119, ../_scss/guayaba.scss */
+.pagersec.center,
+.pagersec.center ul {
+  float: left;
+  position: relative;
+}
+
+/* line 123, ../_scss/guayaba.scss */
+.pagersec.center {
+  left: 50%;
+}
+
+/* line 124, ../_scss/guayaba.scss */
+.pagersec.center ul {
+  left: -50%;
+}
+
+/* line 126, ../_scss/guayaba.scss */
+.img-center, .img-responsive {
+  margin: 0 auto;
+}
+
+/* line 130, ../_scss/guayaba.scss */
+.entry-screen {
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  -webkit-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+  box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+}
+
+/* line 139, ../_scss/guayaba.scss */
+.overtext {
+  color: #EEEEEE;
+  text-shadow: -1px 0px 1px #323232, 0px 1px 1px #323232, 1px 0px 1px #323232, 0px -1px 1px #323232;
+}
+
+/* line 147, ../_scss/guayaba.scss */
+#sidebar {
+  margin-top: 20px;
+  padding-left: 2em;
 }
 
 /* Container config */
-
-@media (min-width: 992px){
-    .container,
-    .navbar-static-top .container,
-    .navbar-fixed-top .container,
-    .navbar-fixed-bottom .container {
-        width: 960px;
-    }
+@media (min-width: 992px) {
+  /* line 158, ../_scss/guayaba.scss */
+  .container,
+  .navbar-static-top .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+    width: 960px;
+  }
 }
-
 /* Mobile fix for gutters*/
-
 /*@media (max-width: 767px) {
   body {
     padding-right: 0;
