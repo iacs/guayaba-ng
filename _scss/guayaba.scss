@@ -1,71 +1,55 @@
 @import "compass";
 
-$dark_green:  rgba(205,235,142,1);
-$light_green: rgba(165,201,86,1);
-$font_stack: 'Maven Pro', 'Helvetica', sans-serif;
+$dark-green:  rgba(205,235,142,1);
+$light-green: rgba(165,201,86,1);
+$guayaba-red: #fa4747;
+$guayaba-purple: #cc0066;
+$entry: #f2f7e9;
+$border-default: 1px solid #ccc;
+$font-stack: 'Maven Pro', 'Helvetica', sans-serif;
 
 body {
-    // background: rgb(205,235,142); /* Old browsers */
-    // background: -moz-linear-gradient(45deg,  rgba(205,235,142,1) 0%, rgba(165,201,86,1) 100%); /* FF3.6+ */
-    // background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(205,235,142,1)), color-stop(100%,rgba(165,201,86,1))); /* Chrome,Safari4+ */
-    // background: -webkit-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* Chrome10+,Safari5.1+ */
-    // background: -o-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* Opera 11.10+ */
-    // background: -ms-linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* IE10+ */
-    // background: linear-gradient(45deg,  rgba(205,235,142,1) 0%,rgba(165,201,86,1) 100%); /* W3C */
-    // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cdeb8e', endColorstr='#a5c956',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-    @include background($dark_green);
-    @include filter-gradient($dark_green, $light_green, left bottom);
-    @include background-image(linear-gradient(left bottom, $dark_green, $light_green));
-    font-family: $font_stack;
+    @include background($dark-green);
+    @include filter-gradient($dark-green, $light-green, left bottom);
+    @include background-image(linear-gradient(left bottom, $dark-green, $light-green));
+    font-family: $font-stack;
     font-weight: 500;
 }
 
 h1,h2,h3,h4,h5{
-    font-family: $font_stack;
+    font-family: $font-stack;
     font-weight: 900;
 }
 
-a,
-a:link{
-    color: #fa4747;
+
+
+a {
+    color: $guayaba-red;
 }
 
-a:hover{
-    color: #cc0066;
-}
+a:link{@extend a}
+a:hover {@extend a:visited}
+a:visited {color: $guayaba-purple;}
 
-a:visited{
-    color: #cc0066;
-}
-
-div .entry{
-    background: #f2f7e9;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    //padding: 10px 10px 10px 20px;
-    padding: 0.5em 2em;
-    border: 1px solid #ccc;
-    -webkit-border-radius: 8px;
-       -moz-border-radius: 8px;
-            border-radius: 8px;
-}
-
-div .site-description{
-    padding: 1em;
-    color: #FFF;
-}
-
-div .main-area{
-    padding: 10px;
-}
-
-div .post-text{
-    padding-top: 2em;
-    text-align: justify;
+div {
+    .entry {
+        background: $entry;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        //padding: 10px 10px 10px 20px;
+        padding: 0.5em 2em;
+        border: $border-default;
+        @include border-radius(8px);
+    }
+    
+    .post-text {
+        padding-top: 2em;
+        text-align: justify;
+    }
 }
 
 footer{
-    padding: 1em;
+    margin-top: 1em;
 }
 
 .piefoto{
@@ -76,22 +60,28 @@ footer{
 }
 
 .coverthumb{
-    float:left;
-    margin:.5em 10px .5em 0;
-    overflow:hidden; /* this is important */
-    border:1px solid #ccc;
-    width: 140px;
-    max-width: 140px;
+    float: left;
+    //margin: .5em 10px .5em 0;
+    overflow: hidden; /* this is important */
+    border: $border-default;
     height: 140px;
+    width: 140px;
     max-height: 140px;
-    -webkit-border-radius: 6px;
-       -moz-border-radius: 6px;
-            border-radius: 6px;
+    max-width: 140px;
+    @include border-radius(6px);
+    
+    img {
+        margin: -25px 0px 0px 0px;
+        max-width: 140px; 
+    }
+    
+    
 }
 
-.coverthumb img{
-    margin: -25px 0px 0px 0px;
-    max-width: 140px;
+.squarecover img {
+    margin: 0px -15px;
+    max-width: none;
+    height: 100%;
 }
 
 .mobilecoverthumb img{
@@ -112,7 +102,7 @@ footer{
 }
 
 .border{
-    border:1px solid #ccc;
+    border: $border-default;
 }
 
 .pagersec.center,
@@ -127,26 +117,24 @@ footer{
     margin: 0 auto;
 }
 
+.pagination-centered {
+    text-align: center;
+}
+
 .entry-screen{
     max-width: 100%;
     margin-top: 15px;
     margin-bottom: 15px;
-    -webkit-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
-       -moz-box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
-            box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+    @include single-box-shadow(rgba(50, 50, 50, 0.75),0,0,15px);
 }
 
 .overtext{
     color: #EEEEEE;
-    text-shadow: -1px 0px 1px rgba(50, 50, 50, 1),
-    0px 1px 1px rgba(50, 50, 50, 1),
-    1px 0px 1px rgba(50, 50, 50, 1),
-    0px -1px 1px rgba(50, 50, 50, 1);
-}
-
-#sidebar{
-    margin-top: 20px;
-    padding-left: 2em;
+    @include text-shadow(-1px 0px 1px rgba(50, 50, 50, 1)
+        ,0px 1px 1px rgba(50, 50, 50, 1)
+        ,1px 0px 1px rgba(50, 50, 50, 1)
+        ,0px -1px 1px rgba(50, 50, 50, 1)
+        );
 }
 
 /* Container config */
@@ -162,15 +150,15 @@ footer{
 
 /* Mobile fix for gutters*/
 
-/*@media (max-width: 767px) {
-  body {
-    padding-right: 0;
-    padding-left: 0;
-  }
-  .navbar-fixed-top,
-  .navbar-fixed-bottom,
-  .navbar-static-top {
-    margin-right: 0;
-    margin-left: 0;
-  }
-}*/
+// @media (max-width: 767px) {
+//   body {
+//     padding-right: 0;
+//     padding-left: 0;
+//   }
+//   .navbar-fixed-top,
+//   .navbar-fixed-bottom,
+//   .navbar-static-top {
+//     margin-right: 0;
+//     margin-left: 0;
+//   }
+// }
