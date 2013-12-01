@@ -12,15 +12,18 @@ import sys
 import os, os.path
 
 def main():
+    path_covers = "../img/covers/"
+    path_sshots = "../img/screenshots/"
+    path_review = "../reviews/_posts/"
+    ssurl = "/img/screenshots/"
+    coverfile = ""
+    
+    
     # Parse args
     path = str(sys.argv[1])
     dirname, filename = os.path.split(path)
     postname, ext = os.path.splitext(filename)
-    #filename = os.path.basename(path)
-    #print(filename)
-    #print(dirname)
-    #print(postname)
-    imgdir = dirname + "/" + postname + "/"
+    imgdir = os.path.join(dirname, postname)
     
     # Create dir
     if not os.path.exists(imgdir):
@@ -31,7 +34,7 @@ def main():
     f = open(path,'r')
     g = open(newpath, 'w')
     print(newpath)
-    ssurl = "/img/screenshots/"
+    
     
     for line in f:
         #print(line)
@@ -49,10 +52,17 @@ def main():
                 ext + "\n"
                 )
             #print(newline)
-            #line.replace(line,newline)
+            line.replace(line,newline)
             g.write(newline)
+        elif (line.startswith("cover: ")):
+            coverfile = line.replace("cover:","",1)
+            coverfile = coverfile.strip()
+            coverpath = os.path.join(dirname, coverfile)
+            g.write(line)
         else:
             g.write(line)
+    
+    #print(coverpath)
         
     f.close()
     g.close()
@@ -61,6 +71,15 @@ def main():
     og_name = f.name
     os.rename(f.name,f.name+"-orig")
     os.rename(g.name,og_name)
+    
+    # Moving the files to their place
+    
+    cover_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_covers, coverfile)
+    sshots_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_sshots, postname)
+    review_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_review, filename)
+    
+    if os.path.exists(coverpath):
+        os.rename(coverpath,cover_dest)
     
     # Convert images
     current_dir = os.getcwd()
@@ -82,6 +101,9 @@ def main():
             os.rename(imgname+"-th.jpg",dest2)
     
     os.chdir(current_dir)
+    
+    os.rename(imgdir,sshots_dest)
+    os.rename(path, review_dest)
     
     # Fin
         
