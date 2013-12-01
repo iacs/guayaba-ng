@@ -7,6 +7,7 @@ $guayaba-purple: #cc0066;
 $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
 $font-stack: 'Maven Pro', 'Helvetica', sans-serif;
+$cover-dimensions: 200px;
 
 body {
     @include background($dark-green);
@@ -43,7 +44,7 @@ div {
     }
     
     .post-text {
-        padding-top: 2em;
+        //padding-top: 2em;
         text-align: justify;
     }
 }
@@ -64,22 +65,23 @@ footer{
     //margin: .5em 10px .5em 0;
     overflow: hidden; /* this is important */
     border: $border-default;
-    height: 140px;
-    width: 140px;
-    max-height: 140px;
-    max-width: 140px;
+    height: $cover-dimensions;
+    width: $cover-dimensions;
+    max-height: $cover-dimensions;
+    max-width: $cover-dimensions;
     @include border-radius(6px);
     
     img {
         margin: -25px 0px 0px 0px;
-        max-width: 140px; 
+        max-width: $cover-dimensions; 
+        width: 100%;
     }
     
     
 }
 
 .squarecover img {
-    margin: 0px -15px;
+    margin: 0px;
     max-width: none;
     height: 100%;
 }
