@@ -97,10 +97,6 @@ footer{
             border-radius: 6px;
 }
 
-.panel-default>.panel-heading{
-    background: rgb(200,204,187);
-}
-
 .border{
     border: $border-default;
 }
@@ -135,6 +131,38 @@ footer{
         ,1px 0px 1px rgba(50, 50, 50, 1)
         ,0px -1px 1px rgba(50, 50, 50, 1)
         );
+}
+
+/* Bootstrap cascades*/
+
+.panel-default>.panel-heading{
+    background: rgb(200,204,187);
+}
+
+.dropdown-menu{
+    background-color: rgb(8,8,8);
+}
+
+.dropdown-menu > li > a{
+    color: white;
+}
+
+.dropdown-menu > li > a:hover{
+    background-color: $guayaba-red;
+    color: white;
+}
+
+.dropdown-menu > li > a:focus{
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus{
+    background-color: $guayaba-red;
+    border-color: $guayaba-purple;
 }
 
 /* Container config */
