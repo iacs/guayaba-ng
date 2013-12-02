@@ -52,4 +52,4 @@ Si derrotas al enemigo final, después de cuatro frenéticas fases, se puede acc
 
 __Recca__ es un shooter muy recomendable que, a pesar de su dificultad a la antigua usanza, no se hace frustrante. Probadlo si tenéis ocasión.
 
-p(text-small). Pantallas tomadas de "hg101":http://www.hardcoregaming101.net/. 
+<small>Pantallas tomadas de "hg101":http://www.hardcoregaming101.net/. </small>
