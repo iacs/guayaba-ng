@@ -13,8 +13,10 @@ import os, os.path
 
 def main():
     path_covers = "../img/covers/"
+    path_covershots = "../img/covershots/"
     path_sshots = "../img/screenshots/"
     path_review = "../reviews/_posts/"
+    path_gema = "../gemas/_posts/"
     ssurl = "/img/screenshots/"
     coverfile = ""
     
@@ -59,6 +61,12 @@ def main():
             coverfile = coverfile.strip()
             coverpath = os.path.join(dirname, coverfile)
             g.write(line)
+        elif (line.startswith("covershot: ")):
+            coverfile = line.replace("covershot:","",1)
+            coverfile = coverfile.strip()
+            coverpath = os.path.join(dirname, coverfile)
+            isGem = True
+            g.write(line)
         else:
             g.write(line)
     
@@ -75,11 +83,17 @@ def main():
     # Moving the files to their place
     
     cover_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_covers, coverfile)
+    covershot_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_covershots, coverfile)
     sshots_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_sshots, postname)
     review_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_review, filename)
+    gem_dest = os.path.join(os.path.dirname(os.path.abspath(__file__)),path_gema, filename)
     
     if os.path.exists(coverpath):
-        os.rename(coverpath,cover_dest)
+        if isGem:
+            os.rename(coverpath,covershot_dest)
+        else:
+            os.rename(coverpath,cover_dest)
+        
     
     # Convert images
     current_dir = os.getcwd()
@@ -103,7 +117,11 @@ def main():
     os.chdir(current_dir)
     
     os.rename(imgdir,sshots_dest)
-    os.rename(path, review_dest)
+    
+    if isGem:
+        os.rename(path, gem_dest)
+    else:
+        os.rename(path, review_dest)
     
     # Fin
         
