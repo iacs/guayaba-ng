@@ -1,0 +1,55 @@
+---
+layout: gema
+gema: retro
+title: "Sumer Carnival '92 - Recca"
+covershot: recca.png
+dev: Naxat Soft
+year: 1992
+formato: [Acción]
+genero: [ciencia ficción, espacial]
+plataformas: [NES]
+author: Iacus
+---
+
+Hace poco encontré un juego que no conocía. Se trata de un shooter vertical para la Famicom (la NES japonesa) que fue producido en 1992 por Naxat Soft.
+
+Su título completo es __Sumer Carnival '92 - Recca__ y es así como figura en las listas de roms. Probablemente la forma más accesible de jugarlo es emulando, ya que se fabricaron muy pocos cartuchos y sólo por encargo especial para un campeonato de shooters, el mencionado Summer Carnival. Se dice que los cartuchos originales pasan de $150 en el mercado secundario, aunque hay algún artesano que podéis encontrar por internet que puede fabricar una reproducción.
+
+El juego es tan brutal como técnicamente asombroso. En pantalla aparecen una gran cantidad de naves y balas simultáneamente, sin parpadeo de sprites ni parones. A veces sobre fondos con efectos de distorsión o scrolls rapidísimos que harían dudar a uno si realmente se trata de un juego de Famicom.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2007-05-18-recca/recca-7-th.jpg!:/img/screenshots/2007-05-18-recca/recca-7.png
+
+p(piefoto). Un ejemplo del fondo distorsionado. Se aprecia mejor en movimiento.
+
+El juego en sí es interesante por su mecánica y porque no perdona ningún fallo.
+__Recca__ —llama furiosa en japonés— es el eslabón perdido entre el shooter de la vieja escuela y los nuevos __danmaku__ o shooters de fuego de cortina.
+Por un lado tenemos cinco velocidades entre las que podemos cambiar pulsando select. Las velocidades van desde "rápido" hasta "a toda hostia". El juego es tan frenético que lo más recomendable es escoger una velocidad cómoda para esquivar y mantenerla durante toda la partida.
+Por otro lado, las balas se mueven muy rápido. Los bosses disparan en patrones, pero los zako (enemigos normales) aunque se mueven en formación disparan de forma caótica. A diferencia de un danmaku, aquí nuestra nave tiene una caja de impacto de tamaño normal. Caray!
+
+Los items son abundantes. Ya sean puntos o armas, de las cuales hay dos tipos: el arma principal de la nave y unas torretas adicionales que se disparan con el botón B. Dependiendo de la letra, estas torretas se comportan de diferente manera. Apuntan hacia delante, hacia atrás, giran en torno a la nave... mis preferidas son las que se orientan hacia el enemigo más cercano.
+Los items de vida extra son también más abundantes que los del típico shooter, pero no afectan al equilibrio. Al principio siempre perderás más vidas de las que ganes.
+
+Las armas de la nave son los clásicos lásers, vulcan frontal, disparo en abanico etc. y se puede aumentar su potencia si cogemos dos o más items de la misma letra. Como los zako en general mueren con pocos disparos, lo más adecuado suele ser coger un arma que cubra mucho terreno.
+Cuando no estamos disparando el arma principal se empieza a cargar un escudo de energía al frente de la nave que es capaz de bloquear algunos disparos y es la clave para derrotar a algunos bosses que de otro modo serían casi imposibles.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2007-05-18-recca/recca-11-th.jpg!:/img/screenshots/2007-05-18-recca/recca-11.png
+
+p(piefoto). El escudo en acción.
+
+Cuando el escudo está al máximo, disparar lanzará la bomba.
+Se puede lanzar esta bomba tantas veces como se quiera, pero siendo éste el duro juego que es, hay desventajas. La primera es que como ya he mencionado hay un tiempo de carga relativamente largo para lanzarla y durante ese tiempo somos más vulnerables al no poder disparar el arma principal. La segunda es que no es una bomba que salve el 100% de las veces, ya que tiene un radio de corto alcance.
+Esta bomba es una mecánica muy interesante que la convierte en un arma ofensiva más, en vez de una táctica para salvar el pellejo. Esto unido al funcionamiento del escudo se traduce en unas batallas con bosses muy tácticas y rápidas.
+
+Los bosses son grandes y brutales hasta el punto de parecer injustos. Un pequeño defecto es que durante los bosses la barra de estado desaparece. No sé por qué, pero imagino que para ahorrar memoria y poder dibujar los grandes sprites en movimiento y todas las balas. Esto es perjudicial porque también desaparece el indicador de velocidad, precisamente en el momento del juego en el que sería más útil ajustarla. Hay uno o dos de estos bosses por nivel, excepto en el nivel 4, en el que hay todo un desfile de naves gigantes plagadas de torretas láser, incluidas todas las que hayas derrotado en las fases anteriores.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2007-05-18-recca/recca-9-th.jpg!:/img/screenshots/2007-05-18-recca/recca-9.png
+
+p(piefoto). Un boss enorme. No hay barra de estado.
+
+La barra de estado también tiene el indicador de puntuación y un reloj que indica la duración de la partida. Útil para ver cómo se dilata el tiempo al jugar a estos juegos. Yo no he llegado a sobrevivir cinco minutos.
+
+Si derrotas al enemigo final, después de cuatro frenéticas fases, se puede acceder a los modos extra de una forma curiosa, resetear la consola (o el emulador). Al hacer esto se puede jugar el segundo ciclo, que es un "remix" de las fases originales todavía más difícil. No he llegado a ver las cuatro nuevas fases, pero se dice que te pueden hacer llorar (o reír) por su dificultad.
+
+__Recca__ es un shooter muy recomendable que, a pesar de su dificultad a la antigua usanza, no se hace frustrante. Probadlo si tenéis ocasión.
+
+<small>Pantallas tomadas de "hg101":http://www.hardcoregaming101.net/. </small>
