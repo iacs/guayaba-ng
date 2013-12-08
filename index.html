@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div class="row">
+<div class="row hidden-sm hidden-xs">
     <div class="col-md-12 entry">
         <h2>Redescubre estos juegos</h2>
-        <table class="gem-covershot">
+        <table class="gem-covershot table-responsive">
         <tr>
         {% for post in site.categories.gemas %}
         <td style="vertical-align: center;"><a href="{{post.url}} "><img src="/img/covershots/{{post.covershot}} " alt="{{post.title}}"></a>
@@ -22,6 +22,9 @@ layout: default
             </div>
         </div>
     </div>
+</div>
+<div class="row hidden-md hidden-lg">
+    
 </div>
 
 {% for post in paginator.posts %}

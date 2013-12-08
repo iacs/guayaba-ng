@@ -6,20 +6,27 @@ $guayaba-red: #fa4747;
 $guayaba-purple: #cc0066;
 $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
-$font-stack: 'Maven Pro', 'Helvetica', sans-serif;
+$font-stack: 'Montserrat', 'Helvetica', sans-serif;
 $cover-dimensions: 200px;
+
+// @include font-face("Sofia Pro", 
+//     font-files("SofiaProLight-webfont.eot",
+//                "SofiaProLight-webfont.svg",
+//                "SofiaProLight-webfont.ttf",
+//                "SofiaProLight-webfont.woff"
+//                ));
 
 body {
     @include background($dark-green);
     @include filter-gradient($dark-green, $light-green, left bottom);
     @include background-image(linear-gradient(left bottom, $dark-green, $light-green));
     font-family: $font-stack;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 h1,h2,h3,h4,h5{
     font-family: $font-stack;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 
