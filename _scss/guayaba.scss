@@ -44,7 +44,7 @@ div {
     }
     
     .post-text {
-        //padding-top: 2em;
+        padding-top: 2em;
         text-align: justify;
     }
 }
@@ -90,14 +90,20 @@ footer{
     max-width: 100%;
 }
 
-.gema-heading img{
-    padding: 10px;
-    margin: 3px auto;
-    background: rgb(200,204,187);
-    -webkit-border-radius: 6px;
-       -moz-border-radius: 6px;
-            border-radius: 6px;
+.gem-covershot img{
+    border: $border-default;
+    @include border-radius(6px);
 }
+
+
+// .gema-heading img{
+//     padding: 10px;
+//     margin: 3px auto;
+//     background: rgb(200,204,187);
+//     -webkit-border-radius: 6px;
+//        -moz-border-radius: 6px;
+//             border-radius: 6px;
+// }
 
 .border{
     border: $border-default;
