@@ -23,13 +23,8 @@ layout: default
         </div>
     </div>
 </div>
-<div class="row hidden-md hidden-lg">
-    
-</div>
 
 {% for post in paginator.posts %}
-
-        
         {% case post.layout %}
         {% when 'review' %}
             {% include post-top.html %}
