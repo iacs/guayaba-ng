@@ -1,7 +1,8 @@
 ---
 layout: gema
 gema: retro
-title: "Sumer Carnival '92 - Recca"
+title: Recca
+originaltitle: "Sumer Carnival '92 - Recca"
 covershot: recca.png
 dev: Naxat Soft
 year: 1992

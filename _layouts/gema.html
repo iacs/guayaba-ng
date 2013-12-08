@@ -13,6 +13,7 @@ layout: commonpost
                     </div>
                     <div class="col-md-5">
                         <ul class="list-unstyled">
+                        {% if page.originaltitle %}<li><strong>Título original:</strong>{{page.originaltitle}}</li>{% endif %}
                         <li><strong>Desarrollador: </strong>{{page.dev}} </li>
                         <li><strong>Año: </strong>{{page.year}} </li>
                         <li><strong>Formato: </strong>{{page.formato | join: ', ' }} </li>

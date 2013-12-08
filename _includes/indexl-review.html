@@ -22,7 +22,7 @@
         <div class="row">
         <div class="col-xs-12">
             <ul class="list-unstyled">
-                <li>Una reseña de <strong><em>{{post.title}}</em></strong></li>
+                <li>Una reseña de <strong><em>{% if post.originaltitle %}{{post.originaltitle}}{% else %}{{post.title}}{% endif %}</em></strong></li>
                 <li>Desarrollado por <strong>{{post.dev}}</strong></li>
             </ul>
             <ul class="list-unstyled">
@@ -39,7 +39,7 @@
         <li><span class="label label-success">{{plat}}</span></li>
     {% endfor %}</ul>
     </div>
-    <div class="col-md-9 post-text">
+    <div class="col-md-9 text-justify">
         {{post.excerpt}}
     </div>
 </div>
