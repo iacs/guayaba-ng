@@ -9,6 +9,10 @@ $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
 $cover-dimensions: 200px;
 
+//@import "social-icons/*.png";
+//$social-icons-sprite-dimensions: true;
+//@include all-social-icons-sprites;
+
 // @include font-face("Sofia Pro", 
 //     font-files("SofiaProLight-webfont.eot",
 //                "SofiaProLight-webfont.svg",
