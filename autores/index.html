@@ -1,0 +1,33 @@
+---
+layout: infopage
+title: Autores
+---
+
+<h1>Autores</h1>
+
+<p>Este es el equipo que hace posible <strong>Guayaba 2600</strong>:</p>
+
+</br>
+
+{% for author in site.data.authors %}
+{% unless forloop.first %}<hr>{% endunless %}
+<div class="row" id="{{author.name}}">
+    <div class="col-md-3"><img src="{% if author.avatar %}/img/avatars/{{author.avatar}}{% else %}/img/avatars/generic.png{% endif %}" alt="{{author.name}}" class="img-circle" style="max-width: 120px"></div>
+    <div class="col-md-9">
+        <h3>{% if author.fullname %}{{author.fullname}} <small>({{author.name}})</small>{% else %}{{author.name}}{% endif %}</h3>
+        {{author.blurb}}
+    </div>
+</div>
+</br>
+<div class="row">
+    <div class="col-md-12">
+        <ul class="list-unstyled list-inline">
+        {% if author.tumblr %}<li><a href="{{author.tumblr}}"><img src="/img/social-icons/tumblr.png" alt=""></a></li>{% endif %}
+        {% if author.twitter %}<li><a href="{{author.twitter}}"><img src="/img/social-icons/twitter.png" alt=""></a></li>{% endif %}
+        </ul>
+    </div>
+</div>
+
+{% endfor %}
+
+</br>

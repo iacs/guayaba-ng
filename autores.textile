@@ -1,8 +1,0 @@
----
-layout: infopage
-title: Autores
----
-
-h1. Autores
-
-Under construction!
