@@ -1,21 +1,28 @@
 -   name: Iacus
     fullname: Iago Mosquera
     avatar:
-    blurb: "Hey chu, whatcha gon' do?"
-    homepage:
+    blurb: "Usando ordenadores desde antes de ir a la escuela, Iago siempre se ha visto intrigado por los videojuegos"
+    homepage: 
+    homepage-name:
     email: flackon@gmail.com
-    twitter: algo
+    facebook:
+    twitter: iacus_es
     tumblr: http://iacus.tumblr.com
+    instagram: http://instagram.com/iacusm
     youtube:
-    linkedin:
+    linkedin: http://es.linkedin.com/pub/iago-mosquera/60/a2/a41
 
--   name: David
+-   name: Testdude
     fullname:
     avatar:
     blurb: "Hey chu, whatcha gon' do?"
-    homepage:
-    email: flackon@gmail.com
-    twitter: algo
+    homepage: hej
+    homepage-name:
+    email: dood@gmail.com
+    facebook: rofl
+    twitter: lol
     tumblr: http://iacus.tumblr.com
-    youtube:
-    linkedin:
+    instagram: jarl
+    youtube: candemor
+    linkedin: yaya
+    googleplus: siclaro
