@@ -106,6 +106,31 @@ footer{
     @include border-radius(6px);
 }
 
+.social-icons-list>ul>li
+{
+    display: inline-block;
+    margin:2px 0px;
+    //@include border-radius(6px);
+}
+.social-icons-list>ul>li>a
+{
+    padding: .2em .1em;
+    //background-color: #036;
+    //color: #fff;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.social-icons-list img {
+    vertical-align: inherit;
+    padding: 3px;
+    @include border-radius(6px);
+}
+
+.social-icons-list img:hover
+{
+    background-color: $guayaba-purple;
+}
 
 // .gema-heading img{
 //     padding: 10px;
