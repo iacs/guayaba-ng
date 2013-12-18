@@ -2,12 +2,10 @@
 layout: infopage
 title: Archivo maestro
 ---
-
-
 <h1>Archivo</h1>
 <div class="row">
 <div class="col-md-8">
-    <p>Esta es una lista de todas los artículos de videojuegos publicados en Guayaba 2600 hasta la fecha.</p>
+    <p>Esta es una lista de todos los artículos de videojuegos publicados en Guayaba 2600 hasta la fecha.</p>
 </div>
 <div class="col-md-4">
     <div class="input-group">
@@ -33,11 +31,18 @@ title: Archivo maestro
     {% if post.layout == 'review' or post.layout == 'gema' %}
     <tr>
         <td><a href="{{post.url}}">{{post.title}} </a></td>
-        <td>{% if post.score == 0 %} <img src="/img/zero.gif" alt="cero"> {% endif %}
+        <td class="hidden-xs">{% if post.score == 0 %} <img src="/img/zero.gif" alt="cero"> {% endif %}
         {% if post.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
         {% if post.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
         {% if post.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
         {% if post.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %} </td>
+        <td class="visible-xs">
+            {% if post.score == 0 %} 0 {% endif %}
+            {% if post.score == 1 %} 1 {% endif %}
+            {% if post.score == 2 %} 2 {% endif %}
+            {% if post.score == 3 %} 3 {% endif %}
+            {% if post.score == 4 %} 4 {% endif %}
+        </td>
         <td>{{post.author}} </td>
         <td>{{post.date | date_to_string }} </td>
     </tr>
