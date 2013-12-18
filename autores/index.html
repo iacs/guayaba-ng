@@ -5,10 +5,11 @@ title: Autores
 
 <h1>Autores</h1>
 
-<p>Este es el equipo que hace posible <strong>Guayaba 2600</strong>:</p>
+<p>Estos somos los que hacemos posible <strong>Guayaba 2600</strong>:</p>
 
 </br>
-
+<h2>Equipo principal</h2>
+</br>
 {% for author in site.data.authors %}
 {% unless forloop.first %}<hr>{% endunless %}
 <div class="row" id="{{author.name}}">
@@ -42,3 +43,9 @@ title: Autores
 {% endfor %}
 
 </br>
+<h2>Otros colaboradores</h2>
+<ul class="list-unstyled">
+{% for col in site.data.collabs %}
+<li>{{col.name}}{% if col.link %} - <a href="{{col.link}}">Enlace</a>{% endif %}
+{% endfor %}
+</ul>
