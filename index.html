@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="row hidden-sm hidden-xs">
+{% if paginator.page == 1 %}<div class="row hidden-sm hidden-xs">
     <div class="col-md-12 entry">
         <h2>Redescubre estos juegos</h2>
         <table class="gem-covershot table-responsive">
@@ -22,7 +22,7 @@ layout: default
             </div>
         </div>
     </div>
-</div>
+</div>{% endif %}
 
 {% for post in paginator.posts %}
         {% case post.layout %}
