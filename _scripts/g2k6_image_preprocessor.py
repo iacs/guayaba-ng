@@ -35,6 +35,7 @@ def main():
     newpath = dirname + "/" + postname + "-r" + ext
     f = open(path,'r')
     g = open(newpath, 'w')
+    isGem = False
     print(newpath)
     
     
