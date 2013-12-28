@@ -13,7 +13,7 @@ title: Autores
 {% for author in site.data.authors %}
 {% unless forloop.first %}<hr>{% endunless %}
 <div class="row" id="{{author.name}}">
-    <div class="col-md-3">
+    <div class="col-md-4">
         <img src="{% if author.avatar %}/img/avatars/{{author.avatar}}{% else %}/img/avatars/generic.png{% endif %}" alt="{{author.name}}" class="img-circle border" style="max-width: 120px">
         </br></br>
         {% if author.homepage %}<p><span class="glyphicon glyphicon-home"></span> <a href="{{author.homepage}}">{% if author.homepage-name %}{{author.homepage-name}}{% else %}{{author.homepage}}{% endif %}</a></p>{% endif %}
@@ -28,7 +28,7 @@ title: Autores
         {% if author.linkedin %}<li><a href="{{author.linkedin}}"><img src="/img/social-icons/linkedin.png" alt=""></a></li>{% endif %}
         </ul>
     </div>
-    <div class="col-md-9">
+    <div class="col-md-8">
         <h3>{% if author.fullname %}{{author.fullname}} <small>({{author.name}})</small>{% else %}{{author.name}}{% endif %}</h3>
         {{author.blurb}}
     </div>
