@@ -3,14 +3,16 @@ Guayaba 2600
 
 Código y textos de la web Guayaba 2600
 
-## Dependencias de software para la realización de esta web
+## Dependencias de software requeridas
 
 * ruby 1.9.3 +
 * ruby (paquetes de desarrollo)
-* rubygems
 * rake
-* jekyll 1.3.0 +
-* RedCloth
+* rubygems
+    * jekyll 1.3.0 +
+    * RedCloth
+    * SASS
+    * Compass
 * Python 2.7
 * ImageMagick 6.7.7 +
 

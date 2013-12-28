@@ -1,0 +1,242 @@
+@import "compass";
+
+$dark-green:  rgba(205,235,142,1);
+$light-green: rgba(165,201,86,1);
+$guayaba-red: #fa4747;
+$guayaba-purple: #cc0066;
+$entry: #f2f7e9;
+$border-default: 1px solid #ccc;
+$font-stack: 'Montserrat', 'Helvetica', sans-serif;
+$cover-dimensions: 200px;
+
+//@import "social-icons/*.png";
+//$social-icons-sprite-dimensions: true;
+//@include all-social-icons-sprites;
+
+// @include font-face("Sofia Pro", 
+//     font-files("SofiaProLight-webfont.eot",
+//                "SofiaProLight-webfont.svg",
+//                "SofiaProLight-webfont.ttf",
+//                "SofiaProLight-webfont.woff"
+//                ));
+
+body {
+    @include background($dark-green);
+    @include filter-gradient($dark-green, $light-green, left bottom);
+    @include background-image(linear-gradient(left bottom, $dark-green, $light-green));
+    font-family: $font-stack;
+    font-weight: 400;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: $font-stack;
+    font-weight: 700;
+}
+
+
+
+a {
+    color: $guayaba-red;
+}
+
+a:link{@extend a}
+a:hover {@extend a:visited}
+a:visited {color: $guayaba-purple;}
+
+div {
+    .entry {
+        background: $entry;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        //padding: 10px 10px 10px 20px;
+        padding: 0.5em 2em;
+        border: $border-default;
+        @include border-radius(8px);
+    }
+    
+    .post-text {
+        padding-top: 2em;
+        text-align: justify;
+    }
+}
+
+footer{
+    margin-top: 1em;
+}
+
+.piefoto{
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.coverthumb{
+    float: left;
+    //margin: .5em 10px .5em 0;
+    overflow: hidden; /* this is important */
+    border: $border-default;
+    height: $cover-dimensions;
+    width: $cover-dimensions;
+    max-height: $cover-dimensions;
+    max-width: $cover-dimensions;
+    @include border-radius(6px);
+    
+    img {
+        margin: -25px 0px 0px 0px;
+        max-width: $cover-dimensions; 
+        width: 100%;
+    }
+    
+    
+}
+
+.squarecover img {
+    margin: 0px;
+    max-width: none;
+    height: 100%;
+}
+
+.mobilecoverthumb img{
+    max-width: 100%;
+}
+
+.gem-covershot img{
+    border: $border-default;
+    @include border-radius(6px);
+}
+
+.social-icons-list>ul>li
+{
+    display: inline-block;
+    margin:2px 0px;
+    //@include border-radius(6px);
+}
+.social-icons-list>ul>li>a
+{
+    padding: .2em .1em;
+    //background-color: #036;
+    //color: #fff;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.social-icons-list img {
+    vertical-align: inherit;
+    padding: 3px;
+    @include border-radius(6px);
+}
+
+.social-icons-list img:hover
+{
+    background-color: $guayaba-purple;
+}
+
+.tag{
+    display: inline-block;
+    margin: 2px -5px;
+    padding: 5px;
+}
+
+// .gema-heading img{
+//     padding: 10px;
+//     margin: 3px auto;
+//     background: rgb(200,204,187);
+//     -webkit-border-radius: 6px;
+//        -moz-border-radius: 6px;
+//             border-radius: 6px;
+// }
+
+.border{
+    border: $border-default;
+}
+
+.pagersec.center,
+.pagersec.center ul {
+    float: left;
+    position: relative;
+}
+.pagersec.center { left: 50%; }
+.pagersec.center ul { left: -50%; }
+
+.img-center, .img-responsive{
+    margin: 0 auto;
+}
+
+.pagination-centered {
+    text-align: center;
+}
+
+.entry-screen{
+    max-width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    @include single-box-shadow(rgba(50, 50, 50, 0.75),0,0,15px);
+}
+
+.overtext{
+    color: #EEEEEE;
+    @include text-shadow(-1px 0px 1px rgba(50, 50, 50, 1)
+        ,0px 1px 1px rgba(50, 50, 50, 1)
+        ,1px 0px 1px rgba(50, 50, 50, 1)
+        ,0px -1px 1px rgba(50, 50, 50, 1)
+        );
+}
+
+/* Bootstrap cascades*/
+
+.panel-default>.panel-heading{
+    background: rgb(200,204,187);
+}
+
+.dropdown-menu{
+    background-color: rgb(8,8,8);
+}
+
+.dropdown-menu > li > a{
+    color: white;
+}
+
+.dropdown-menu > li > a:hover{
+    background-color: $guayaba-red;
+    color: white;
+}
+
+.dropdown-menu > li > a:focus{
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus{
+    background-color: $guayaba-red;
+    border-color: $guayaba-purple;
+}
+
+/* Container config */
+
+@media (min-width: 992px){
+    .container,
+    .navbar-static-top .container,
+    .navbar-fixed-top .container,
+    .navbar-fixed-bottom .container {
+        width: 960px;
+    }
+}
+
+/* Mobile fix for gutters*/
+
+// @media (max-width: 767px) {
+//   body {
+//     padding-right: 0;
+//     padding-left: 0;
+//   }
+//   .navbar-fixed-top,
+//   .navbar-fixed-bottom,
+//   .navbar-static-top {
+//     margin-right: 0;
+//     margin-left: 0;
+//   }
+// }

@@ -46,6 +46,7 @@ end
 
 desc "Build site using Jekyll"
 task :build do
+  sh "compass compile -e production --force"
   jekyll "build"
 end
 

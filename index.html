@@ -1,35 +1,45 @@
 ---
 layout: default
 ---
-
-{% for post in paginator.posts %}
-<div class="row">
-    <div class="col-md-12">
-<div class="row">
-    <div class="col-md-10 col-md-offset-1 entry">
-        <h5 class="text-muted">{{post.date | date: "%d/%m/%Y"}}</h5>
-        
-        {% case post.layout %}
-        {% when 'review' %}
-            {% include indexl-review.html %}        
-        {% when 'gema' %}
-            {% include indexl-gema.html %}        
-        {% when 'blogpost' %}
-            <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-            {{post.content}}
-        {% endcase %}
-        
+{% if paginator.page == 1 %}<div class="row hidden-sm hidden-xs">
+    <div class="col-md-12 entry">
+        <h2>Redescubre estos juegos</h2>
+        <table class="gem-covershot table-responsive">
+        <tr>
+        {% for post in site.categories.gemas %}
+        <td style="vertical-align: center;"><a href="{{post.url}} "><img src="/img/covershots/{{post.covershot}} " alt="{{post.title}}"></a>
+        {% if forloop.index == 3 %}{% break %}{% endif %}{% endfor %}
+        </tr>
+        <tr>
+        {% for post in site.categories.gemas %}
+        <td><a href="{{post.url}}"><h4 style="text-align: center;">{{post.title}} ({{post.year}})</h4></a></td>
+        {% if forloop.index == 3 %}{% break %}{% endif %}{% endfor %}
+        </tr>
+        </table>
         <div class="row">
             <div class="col-md-12">
-            <hr>
-            <a href="{{post.url}}#disqus_thread" class="pull-right">Ir a comentarios</a>
+                <a href="/archivo_gemas.html" class="btn btn-default pull-right">Ver más gemas...</a>
             </div>
         </div>
-        
-    </div> <!-- div. inner -->
-</div>
     </div>
-</div> <!-- div.row outer -->
+</div>{% endif %}
+
+{% for post in paginator.posts %}
+        {% case post.layout %}
+        {% when 'review' %}
+            {% include post-top.html %}
+            {% include indexl-review.html %}       
+            {% include post-bottom.html %}
+        {% when 'blogpost' %}
+            {% include post-top.html %}
+            <div class="row">
+                <div class="col-md-10">
+                    <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+                    {{post.content}}
+                </div>
+            </div>
+            {% include post-bottom.html %}
+        {% endcase %}
 {% endfor %}
 
 <div class="row">
