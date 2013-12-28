@@ -4,30 +4,30 @@ layout: commonpost
 
 
 <div class="row">
-<div class="col-md-4 hidden-xs">
-    <img src="/img/covers/{{page.cover}}" style="max-width: 200px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
-</div>
-<div class="col-xs-12 visible-xs">
-    <img src="/img/covers/{{page.cover}}" style="width: 480px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
-</div>
+    <div class="col-md-4 hidden-xs">
+        <img src="/img/covers/{{page.cover}}" style="max-width: 200px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
+    </div>
+    <div class="col-xs-12 visible-xs">
+        <img src="/img/covers/{{page.cover}}" style="width: 480px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
+    </div>
 
-<div class="col-md-8">
-    <ul class="list-unstyled">
-        <li><strong>Reseña de: </strong>{{page.title}} </li>
-        <li><strong>Desarrollado por: </strong>{{page.dev}} </li>
-        <li><strong>Año: </strong>{{page.year}} </li>
-        <li><strong>Formato: </strong>{{page.formato | join: ', ' }} </li>
-        <li><strong>Género: </strong>{{page.genero | join: ', ' }} </li>
-        <li><strong>Plataformas: </strong>{{page.plataformas | join: ', ' }} </li>
-        <li><strong>Puntuación: </strong>
-        {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
-        {% if page.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        {% if page.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        {% if page.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        {% if page.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        </li>
-    </ul>
-</div>
+    <div class="col-md-8">
+        <ul class="list-unstyled">
+            <li><strong>Reseña de: </strong>{% if page.originaltitle %}{{page.originaltitle}}{% else %}{{page.title}}{% endif %}</li>
+            <li><strong>Desarrollado por: </strong>{{page.dev}} </li>
+            <li><strong>Año: </strong>{{page.year}} </li>
+            <li><strong>Formato: </strong>{{page.formato | join: ', ' }} </li>
+            <li><strong>Género: </strong>{{page.genero | join: ', ' }} </li>
+            <li><strong>Plataformas: </strong>{{page.plataformas | join: ', ' }} </li>
+            <li><strong>Puntuación: </strong>
+            {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
+            {% if page.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            {% if page.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            {% if page.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            {% if page.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            </li>
+        </ul>
+    </div>
 </div>
 
 {% if page.spoiler %}{% include spoiler_warning.html %}{% endif %}
