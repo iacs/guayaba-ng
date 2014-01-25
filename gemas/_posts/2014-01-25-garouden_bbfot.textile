@@ -1,0 +1,71 @@
+---
+layout: gema
+gema: perdida
+title: "Garouden Breakblow: Fist of Twist"
+originaltitle: "餓狼伝 Breakblow Fist or Twist"
+covershot: garouden.jpg
+dev: "Opus Corp."
+year: 2007
+formato: [Lucha]
+genero: [artes marciales, deporte, manga]
+plataformas: [PlayStation 2]
+author: Iacus
+---
+
+En lo que concierne a juegos de lucha, por muchos sistemas nuevos, personajes y mecánicas que hayan sido introducidas a lo largo de su prolífica historia, debemos admitir que pocos juegos se desmarcan ya del formato tradicional desde que __Street Fighter II__ sentara las bases de la lucha versus tal como la conocemos ahora. Siempre están los juegos de wrestling, por supuesto, pero son lo suficientemente distintos como para considerarlos un formato aparte, y han ido evolucionando en su propia rama, separada de los juegos estilo __SFII__.
+
+El juego que nos ocupa, __Garouden Breakblow: Fist or Twist__ puede considerarse un híbrido entre los juegos de lucha tradicionales y los de wrestling, aportando un sistema novedoso y francamente interesante que resulta un soplo de aire fresco entre el admisiblemente homogéneo panorama de juegos sobre gente pegándose entre ellos.</sep>
+
+Este título en concreto es una versión ampliada y mejorada de __Garouden: Breakblow__, lanzado a la venta en 2005. __Breakblow__ es la adaptación al videojuego del manga __Garouden__ de Keisuke Itagaki (__Baki the Grappler__), que a su vez está basado en una serie de novelas de Baku Yumemakura. Si estás familiarizado con el estilo de Itagaki, te podrás hacer una idea de qué esperar: Un montón de tipos feos de aspecto peligroso, con músculos imposiblemente definidos y una historia de rivalidad deportiva con tonos homoeróticos más que evidentes —admitamos que el contexto se presta a ver a varios hombres musculosos sudando, agarrándose y contorsionándose en el ring—
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden01-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden01.jpg
+
+p(piefoto). Difícil saber lo que está ocurriendo en una imágen estática.
+
+Debo decir que no tengo demasiada idea de qué va la historia. El juego está enteramente en japonés, incluidos todos los menús de configuración y por supuesto los textos del modo historia. Nunca ha sido publicado en occidente ni traducido así que los que no contamos con el japonés entre los idiomas que entendemos tenemos que conformarnos con jugar a tientas.
+
+Varias sinopsis del manga nos dicen que la historia sigue a Bunshichi Tanba, un clásico "revienta dojos" que se dedica a buscar a los luchadores más fuertes y famosos para vencerlos en peleas callejeras, hasta que una derrota contra una joven promesa del wrestling Lo deja humillado y se retira del ojo público para entrenar más duro.
+
+Aunque Tanba es el protagonista principal, el modo historia del juego nos lleva a controlar diferentes personajes en cada episodio, permitiéndonos probar sus diferentes técnicas y estilos de lucha. Por suerte, es sencillo habituarse al control de los distintos personajes. No esperes dominar todas las técnicas de cualquier personaje tras jugar 5 minutos, pero el control es lo bastante homogéneo como para que no estés completamente perdido cuando el juego te pone al control de un personaje nuevo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden02-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden02.jpg
+
+p(piefoto). La historia se desarrolla en Japón, y los escenarios realistas incluyen parques, callejones, estaciones de metro y por supuesto dojos, gimnasios y rings de lucha.
+
+El interfaz de control de los personajes no es muy distinto a otros buenos juegos de lucha. Se usan los cuatro botones frontales del mando de PS2. Hay un botón dedicado a puñetazos y otro a patadas, estos son los golpes estándar comunes a todos los luchadores, aunque cada uno tiene variaciones específicas al combinarlos con una dirección en el pad. Aparte de esto, otro botón llamado "ataque" es el que engloba los golpes especiales únicos de cada personaje, así, un judoka tendrá manotazos horizontales, un practicante de muay thai tendrá rodillazos, etc. Otro botón es el de guardia. Al mantenerlo pulsado entraremos en una posición defensiva, pero seremos responsables de pulsar la dirección correcta en el pad para bloquear ataques altos o bajos algo más difícil de lo que parece debido a la velocidad de los combates. 
+
+Adicionalmente a los botones básicos, tenemos el agarre (el atajo para hacerlo es L1). Tras un agarre exitoso, nuestro personaje no dañará automáticamente al rival, sino que lo tendrá en un estado de _clinch_ a partir del cual podemos pulsar un botón de ataque y una dirección para golpear al rival. Los botones de puñetazo y patada sirven principalmente para posicionar al rival y de paso darle un rodillazo, o un puñetazo en los riñones, pero los ataques verdaderamente potentes son los que se hacen con el botón de ataque especial, desde cabezazos hasta barridos, pero cabe destacar que los personajes con un estilo de lucha más orientado al _grappling_ y a los agarres tienen a su disposición todo tipo de maniobras de _wrestling_, incluyendo suplexes, llaves y agarres de sometimiento de aspecto realmente doloroso. Durante muchas de estas llaves, la víctima tiene la opción de minimizar el daño defendiéndose de alguna manera —golpeando repetidamente a su rival con su brazo libre, por ejemplo—. Este detalle le da un aspecto cinemático a los combates cuando alguien realiza uno de estos movimientos.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden03-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden03.jpg
+
+p(piefoto). Por desgracia, se produce bastante clipping entre los polígonos de los personajes durante los agarres.
+
+Si el jugador es rápido, puede librarse de la llave antes de que se produzca, rechazando a su rival cuando todavía está en la posición de _clinch_, y provocando potencialmente varios resultados como el empuje, el desequilibrio del rival, o de ambos, que depende del posicionamiento de los luchadores, del _timing_ y posiblemente de una multitud de factores que todavía no he logrado comprender.
+
+Por último, usando el atajo R1 en el pad, usaremos nuestro "movimiento de desesperación", por tomar prestada terminología de __The King of Fighters__. Este super movimiento devastador está muy ligado a la parte más novedosa del sistema de lucha de este juego. A diferencia de un juego de lucha tradicional, en el que cada jugador tiene su propia barra de vida, en Garouden tenemos una barra combinada que representa el **espíritu de lucha** de los combatientes. Cuando recibimos golpes, el espíritu de nuestro rival aumenta mientras que el nuestro se reduce, y cuando le atacamos, aumenta el nuestro. Si conseguimos reducir el espíritu de lucha de nuestro oponente a cero, lo noquearemos y ganaremos el combate. Esto hace que los combates entren en una dinámica de "tira y afloja", en el que el buen uso de las tácticas y de los movimientos que tenemos disponibles pueden hacer que cambien las tornas de la batalla en un abrir y cerrar de ojos.
+
+Volvamos, pues, a estos movimientos de desesperación especiales. A cada lado de la barra de espíritu hay tres iconos de cadena. Cuando la barra cruza el icono la cadena se rompe, y el luchador puede hacer el movimiento especial. Cuanto más cerca de la derrota esté la cadena en la barra, más poderoso es el movimiento. Sólo tenemos una oportunidad para usarlo. Acierte o falle, no podremos volver a usar ese golpe hasta el próximo combate. También, si no lo usamos y nos hacen suficiente daño como para romper otra cadena de nivel mayor, perdemos la posibilidad de usar el golpe (queda sustituido por el golpe correspondiente al nivel de la última cadena en romperse).
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden04-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden04.jpg
+
+p(piefoto). Hay 22 personajes iniciales con varios atuendos cada uno, y otros 7 personajes especiales que se pueden desbloquear.
+
+Estos movimientos son increíblemente poderosos y pueden cambiar el curso del combate por si solos. Se activan de varias formas, la mayoría son ataques que se pueden hacer en cualquier momento, otros solo se pueden hacer desde un __clinch__ o una postura especial y otros son reversals que contrarrestan ciertos tipos de ataque de nuestro oponente. Cuando estos golpes conectan, el juego usa ángulos de cámara cinemáticos, desenfoques y cámara lenta para mostrar la brutalidad de los ataques. Un ejemplo particularmente creativo es el que pone la cámara desde la perspectiva en primera persona de la víctma de un german suplex.
+
+Para evitar que los combates sean potencialmente un toma y daca infinito mientras la barra de espíritu se mueve de lado a lado, __Garouden__ implementa a mayores un sistema de daño. Sobre la barra de espíritu hay una silueta verde a cada lado que indica el daño recibido en distintas partes del cuerpo. Cuanto más ataques conecten con los brazos, piernas, torso o cabeza, la parte correspondiente de la silueta cambiará de color a amarillo, luego a rojo y finalmente a negro, cuando la zona afectada se "rompa" y el luchador no pueda aguantar más.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden05-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden05.jpg
+
+p(piefoto). Cuando "rompemos" una parte del cuerpo, un satisfactorio rótulo acompañado de una ilustración de los huesos en cuestión aparece en pantalla.
+
+Aquí es donde radica la mayor parte de la táctica en __Garouden__. Cuando una parte del cuerpo está debilitada, el personaje es más susceptible a quedar aturdido e indefenso cuando recibe un golpe ahí, hasta el punto de que no podrá reaccionar a tiempo ante un combo. Es aquí donde entra en juego defenderse adecuadamente, cubriendo las partes del cuerpo más dañadas, mientras buscamos hacerle daño a nuestro oponente del mismo modo.
+
+Todos estos elementos hacen de __Garouden__ un juego realmente entretenido que se desmarca del formato clásico de la lucha versus. Además, la licencia del manga, el peculiar estilo gráfico y de animación lo convierten en un título novedoso, que desgraciadamente es muy desconocido en general.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden06-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden06.jpg
+
+p(piefoto). Este personaje, Tsutomu Himekawa basa su forma de pelear en patadas altas a la cabeza. Conviene protegerla al enfrentarse a él.
+
+El resto del paquete es bastante completo. Aparte del mencionado modo Historia y del obligatorio Versus, existen modos de entrenamiento, supervivencia e incluso un modo torneo en el que podemos elegir que cada luchador esté controlado por otros oponentes humanos o por la máquina.
+
+No he jugado a la primera versión de de 2005, pero __Fist or Twist__ es un excelente juego de lucha que tal vez no sea el más equilibrado para competiciones, o el que tenga la presentación más colorista —aunque personajes como "Crybaby" Sakura, un yakuza muy feo de más de dos metros de alto, no se ven en todos los juegos— pero es sin duda novedoso y muy entretenido, sobre todo si podemos sentar a un amigo con un mando de PS2 y jugar unas rondas a ver quién le parte el brazo a quien primero.
