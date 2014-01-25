@@ -14,7 +14,7 @@ title: Gemas
     {% cycle 'add-rows': '<div class="row">', nil, nil %}
         <div class="col-md-4">
             <a href="{{post.url}}"><img src="/img/covershots/{{post.covershot }}" alt="{{post.title}}" class="img-responsive"></a>
-            <h5 style="text-align: center;"><a href="{{post.url}}">{{post.title}}</a>{% case post.gema %}{% when 'retro' %}<img src="/img/g-retro_ico2x.gif" alt="gema retro">{% when 'indie' %}<img src="/img/g-indie_ico2x.gif" alt="gema indie">{% endcase %}</h5>
+            <h5 style="text-align: center;"><a href="{{post.url}}">{{post.title}}</a>{% case post.gema %}{% when 'retro' %}<img src="/img/g-retro_ico2x.gif" alt="gema retro">{% when 'indie' %}<img src="/img/g-indie_ico2x.gif" alt="gema indie">{% when 'perdida' %}<img src="/img/g-perdida_ico2x.gif" alt="gema perdida">{% when 'movil' %}<img src="/img/g-movil_ico2x.gif" alt="gema movil">{% endcase %}</h5>
         </div>
     {% cycle 'close-rows': nil, nil, '</div>' %}
 {% endif %}
