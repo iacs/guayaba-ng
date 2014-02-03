@@ -1,7 +1,7 @@
 ---
 layout: gema
 gema: perdida
-title: "Garouden Breakblow: Fist of Twist"
+title: "Garouden Breakblow: Fist or Twist"
 originaltitle: "餓狼伝 Breakblow Fist or Twist"
 covershot: garouden.jpg
 dev: "Opus Corp."
