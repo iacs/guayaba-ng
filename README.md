@@ -8,11 +8,12 @@ Código y textos de la web Guayaba 2600
 * ruby 1.9.3 +
 * ruby (paquetes de desarrollo)
 * rake
-* rubygems
+* rubygems:
     * jekyll 1.3.0 +
     * RedCloth
     * SASS
     * Compass
+    * Bootstrap-sass
 * Python 2.7
 * ImageMagick 6.7.7 +
 
