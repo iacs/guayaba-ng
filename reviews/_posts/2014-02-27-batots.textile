@@ -1,0 +1,66 @@
+---
+layout: review
+title: "Brothers - A Tale of Two Sons"
+cover: batots.jpg
+score: 3
+dev: "Starbreeze Studios"
+year: 2013
+formato: [Aventura]
+genero: [cuento de hadas, fantasía]
+plataformas: [PlayStation 3, Xbox 360, Windows]
+author: Iacus
+---
+
+Allá por mediados de los 80 —prácticamente la Edad Media en términos de la Historia del Videojuego— un estudio llamado **Lucasfilm Games** estaba realizando su primera aventura gráfica: __Labyrinth: The Computer Game__. Un juego que demarcaría el origen de una larga línea de títulos memorables que lo convirtieron en uno de los estudios más reverenciados del medio durante más de una década. Uno de los factores que diferenciaba a Lucasfilm Games (llamado **LucasArts** tras un cambio de nombre) de sus coetáneos es que sus equipos creativos estaban compuestos por gente que venía de otros campos aparte del de la tecnología y la ingeniería de software. Gente del mundo del cine, del teatro, las bellas artes o el guión fueron los encargados de engendrar y traer al mundo juegos innovadores, inventivos y magníficamente realizados que se recuerdan como clásicos hasta el día de hoy.
+
+Esta situación creativa es extremadamente rara de ver en el mundo del videojuego aún ahora en el año 2014. Por suerte, las estrellas se han alineado otra vez propiciando que __Brothers - A Tale of Two Sons__ se haga realidad.</sep>
+
+__Brothers__ es un cuento de hadas interactivo dirigido por el cineasta sueco de origen arameo Josef Fares. Su primer trabajo dirigiendo videojuegos ha dado lugar a una pequeña pieza interactiva que logra transmitir perfectamente la sensación de formar parte de un cuento de hadas de tiempos pasados, con sus momentos oscuros, violentos o tristes.
+
+El juego comienza con una escena enmarcada como fondo de la pantalla de título. Como en las grandes historias, la razón por la que esta pantalla de título es como es tiene un motivo. Como en las grandes historias, no descubriremos cuál es ese motivo hasta haber terminado el juego.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/brothers01-th.jpg!:/img/screenshots/2014-02-27-batots/brothers01.jpg
+
+p(piefoto). Los inicios de la aventura son humildes, pero no por ello menos excitantes
+
+De momento, lo que sabemos es que los protagonistas de __Brothers__ son los dos titulares hermanos. Tras pulsar Start y comenzar el juego propiamente dicho se nos presenta una secuencia de flashback en el que vemos como la madre de los protagonistas muere ahogada en un accidente. Esta escena —y de hecho el resto del juego— está representada en un lenguaje inventado, similar al presente en títulos como __Panzer Dragoon__ o __Shadow of the Colossus__. La diferencia es que en __Brothers__ no hay subtítulos que traduzcan las palabras, dejando, esencialmente, la entonación y el contexto de los diálogos como único modo de contar la historia. Los personajes enfatizan y articulan las palabras, que son consistentes a lo largo del juego pero que no se corresponden con un idioma que se hable en ninguna cultura de la Tierra.
+
+Al poco rato nos vemos ya en control de la interacción. Aquí es donde entra en juego el sistema de control único de __Brothers__, al que ha sido denominado "cooperativo para un solo jugador" ya que como único jugador controlamos a ambos personajes. Con el joystick analógico izquierdo y el gatillo izquierdo controlamos al hermano mayor, mientras que con el analógico y gatillo derechos controlamos al hermano pequeño.
+
+Aunque en la versión de PC hay, aparentemente, soporte para controles con teclado, es fácil ver que el juego ha sido concebido para jugarse con un mando de consola moderno, con dos joysticks analógicos y gatillos laterales. Si eres de esa clase de gente que reniega de utilizar algo que no sea teclado y ratón para juegos de ordenador, mi consejo es que pases de este juego como seguramente pasarás de jugar a cualquier __Assassin's Creed__ o similar. Jugar con teclado a __Brothers__ debe ser una experiencia aún más miserable si cabe.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/controls-th.jpg!:/img/screenshots/2014-02-27-batots/controls.jpg
+
+p(piefoto). Dos botones y dos sticks analógicos. Un esquema de control simple que es exprimido al máximo en la mecánica del juego
+
+El caso es que, una vez con el mando en nuestras manos se nos encomienda nuestra primera tarea, transportar en camilla a nuestro enfermo padre hasta la caseta del curandero del pueblo. El grueso de la jugabilidad es, esencialmente coordinar a ambos hermanos para superar diversos obstáculos en nuestro camino. Este segmento inicial sirve como buena introducción para acostumbrarnos a manejar a dos personajes a la vez que, sin ser un reto particularmente complicado, puede ser algo a lo que nos cueste un poco acostumbrarnos especialmente si no somos jugadores asiduos de videojuegos.
+
+Cuando alcanzamos la casa del curandero, éste nos dice que la única cura para la enfermedad de nuestro padre se encuentra en un "árbol de la vida", al final de un arduo y peligroso camino. Sin otra alternativa, los dos hermanos se embarcan en la aventura de su vida para conseguir a tiempo algo de la preciada cura y que su padre recupere la salud.
+
+Al principio, el camino es sencillo. Los primeros pasos por la aldea de los protagonistas, adorablemente representada como un paisaje pastoral en primavera, nos enfrentarán con el "abusón" del pueblo, que no tiene cosa mejor que hacer que impedirnos el paso. Así, con este reto ligero, aprendemos progresivamente sobre las habilidades y desventajas de cada uno de los hermanos. Por ejemplo, el hermano pequeño no puede nadar en agua profunda debido al trauma que le provocó el ahogamiento de su madre y tendremos que hacer que el hermano mayor lo lleve a sus espaldas. Por otra parte, puede escurrirse entre los barrotes de cercas o puertas demasiado estrechas para que que su hermano mayor atraviese.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/hoguera-th.jpg!:/img/screenshots/2014-02-27-batots/hoguera
+
+p(piefoto). El viaje es largo y peligroso. Nuestros protagonistas no podrán siquiera permitirse un descanso en condiciones
+
+El juego está lleno de detalles interactivos. Podemos interactuar con cada persona de la aldea y los hermanos reaccionarán de forma diferente dependiendo de su personalidad. En general el hermano mayor se comportará de forma más responsable, mientras que el pequeño actuará de forma más traviesa. Estas diferencias de comportamiento son la clave de algunos "puzzles". Lo pongo entre comillas porque en la mayoría de los casos no son obstáculos con los que tengamos que rompernos demasiado la cabeza. En esencia son puertas para las que ya tenemos dos llaves, y sólo tenemos que comprobar cuál encaja. Es aparente que el nivel de dificultad de los obstáculos en __Brothers__ es bajo y que el énfasis está puesto en que todo el mundo, con un mínimo de práctica, pueda experimentar este cuento de hadas hasta el final. El grueso del reto radica en atravesar los entornos, coordinando el control de cada personaje con cada mano, y aunque nunca se nos llega a pedir ninguna proeza que requiera precisión extrema o una ejecución perfecta, es cierto que a medida que progresa la historia, atravesar los niveles se hace más complicado. Hay un punto especialmente interesante en el que ambos hermanos deben escalar un castillo atados entre sí por una cuerda.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/banco-th.jpg!:/img/screenshots/2014-02-27-batots/banco.jpg
+
+p(piefoto). Dispersos por el juego hay varios bancos —reminiscentes de Ico— cuya única función es permitirnos contemplar durante un rato los preciosos escenarios.
+
+La aventura de los dos hermanos se desarrolla a un ritmo excelente, los entornos son inventivos y creíbles dentro de la ficción a excepción de un área en concreto en el que el modo de avanzar resulta demasiado artificial y _videojueguil_ por momentos (para los que hayáis jugado, me refiero a cierto lugar en el que hay una ballesta gigante) y la historia, por virtud de ser funcionalmente "silenciosa" y dejar muchos detalles a la imaginación del jugador, puede permitirse explorar temas oscuros y moralmente ambiguos que pondrán tu cerebro en marcha a muchas más revoluciones que cualquiera de los puzzles de la aventura.
+
+Particularmente notable es una subversión de ciertos recursos narrativos, siendo el principal el de la *damisela en apuros*. No quiero revelar demasiado, pero este evento desemboca en un estimulante transcurso de acontecimientos que es un soplo de aire fresco en estos tiempos en que el uso en videojuegos de esta tradicional herramienta narrativa está bajo constante escrutinio y existe una desconcertante tendencia a confundirla con intenciones sexistas de parte del autor o autora. Por supuesto, es posible realizar infinitas interpretaciones de una obra dada pero el punto de vista que yo suelo tomar con respecto a todo tipo de arte creativo que incluye elementos narrativos es el de aceptar a los personajes como individuos dentro de una obra de ficción y no reducirlos por defecto a comentarios intencionados sobre toda la realidad de nuestro mundo, que es aparentemente la trampa en la que caen ciertos análisis feministas de este recurso que han adquirido gran difusión. Bajo esta perspectiva, la trama de __Brothers__ resulta mucho más interesante y estimulante que cualquier alternativa que se me pueda ocurrir en este momento —tanto el uso tradicional de la damisela en apuros como la reacción directa en contra de su utilización—
+
+Sería una buena idea para otro artículo, pero no es mi intención debatir aquí el subtexto del juego, simplemente señalar uno de los puntos álgidos de la trama de __Brothers__. Todo este desarrollo culmina, en el epílogo, en uno de los momentos más triunfales que he tenido la suerte de experimentar en un videojuego en los últimos años. No voy a desvelarlo, pero el hecho de que sea una acción completamente interactiva, esté fuertemente integrada con la historia y la mecánica del juego y tenga la suficiente confianza como para dejar que sea el jugador quien descubra lo que debe hacer, sin ningún tipo de tutorial o mensaje de ayuda, sumado a la carga emocional que alcanza la narrativa en ese punto, provocaron que literalmente se me saltasen las lágrimas.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/pluma-th.jpg!:/img/screenshots/2014-02-27-batots/pluma.jpg
+
+p(piefoto). Hay muchos momentos en la trama pensados para evocar emociones en el jugador. En su mayor parte, tienen éxito
+
+Tras semejantes elogios, posiblemente te preguntarás por qué este juegazo no alcanza las cuatro estrellas. He de decir que una de las razones de más peso son detalles de presentación.  Puede parecer un poco frívolo, pero, aunque la iluminación global del Unreal Engine hace que todo luzca mejor como por arte de magia, y los modelos 3D, las texturas y la la música son más que competentes (Starbreeze es un estudio con mucha experiencia a cuestas, al fin y al cabo) aún quedan algunos detalles sin pulir, particularmente todo lo relacionado con salirse del camino crítico del juego. Cuando fallamos al atravesar una zona y uno de los hermanos cae al vacío o es atrapado por un enemigo lo único que vemos es un pobre ragdoll y un rápido fundido a negro, y estamos de vuelta en un __checkpoint__ anterior. Resulta un corte brusco, pero no en buen sentido que podría implicar la muerte de uno de nuestros personajes, sino que crea el efecto de querer empujarte lo antes posible a seguir.
+
+Otros detalles como el toque excesivamente _videojueguil_ de algunas escenas antes mencionado restan efecto a la inmersión y nos recuerdan que estamos, en el fondo, simplemente completando tareas para avanzar arbitrariamente en el camino. Contrastado con la progresión en __Journey__, otra aventura también de tono contemplativo, en la que todos los retos del jugador están contextualizados como exploración o descubrimiento, y en que todas las trabas y obstáculos del jugador nunca pierden esa sensación de pertenecer al mundo del juego, algunas de las situaciones de __Brothers__ no pueden evitar parecerme algo artificiales.
+
+En cualquier caso, es solo un grano de mostaza en un desierto de virtudes —ha!— y tu percepción bien podría pasar por alto esta piedrecita que a mí me incordia. __Brothers: A Tale of two Sons__ es una de esas obras del videojuego que todo el mundo debería conocer. Permanecerá como uno de los juegos más importantes de la década, sin duda.
