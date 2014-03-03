@@ -3,15 +3,15 @@ layout: commonpost
 ---
 
 <div class="row">
-    <div class="col-md-10">
+    <div class="col-md-12">
         <div class="panel panel-default">
             <div class="panel-heading">{% case page.gema %}{% when 'retro' %}<h4><img src="/img/g-retro_ico2x.gif" alt="gema retro"> Gema retro</h4>{% when 'indie' %}<h4><img src="/img/g-indie_ico2x.gif" alt="gema retro"> Gema indie</h4>{% when 'perdida' %}<h4><img src="/img/g-perdida_ico2x.gif" alt="gema perdida"> Gema perdida</h4>{% when 'movil' %}<h4><img src="/img/g-movil_ico2x.gif" alt="gema movil"> Gema móvil</h4>{% endcase %}</div>
             <div class="panel-body">
                 <div class="row">
-                    <div class="col-md-7">
+                    <div class="col-md-5">
                         <img class="img-responsive border" src="/img/covershots/{{page.covershot}}" alt="{{page.title}}">
                     </div>
-                    <div class="col-md-5">
+                    <div class="col-md-6 col-md-offset-1">
                         <ul class="list-unstyled">
                         {% if page.originaltitle %}<li><strong>Título original: </strong>{{page.originaltitle}}</li>{% endif %}
                         <li><strong>Desarrollador: </strong>{{page.dev}} </li>

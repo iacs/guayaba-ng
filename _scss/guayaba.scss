@@ -1,3 +1,7 @@
+// customize bootstrap variables here:
+@import "variables";
+@import "bootstrap";
+
 @import "compass";
 
 $dark-green:  rgba(205,235,142,1);
@@ -138,7 +142,7 @@ footer{
 
 .tag{
     display: inline-block;
-    margin: 2px -5px;
+    margin: 2px 0px;
     padding: 5px;
 }
 
