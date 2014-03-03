@@ -1,3 +1,7 @@
+// customize bootstrap variables here:
+@import "variables";
+@import "bootstrap";
+
 @import "compass";
 
 $dark-green:  rgba(205,235,142,1);
@@ -8,6 +12,10 @@ $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
 $cover-dimensions: 200px;
+$smbrand_facebook: #3b5998;
+$smbrand_twitter: #00aced;
+$smbrand_gplus: #dd4b39;
+$smbrand_linkedin: #007bb6;
 
 //@import "social-icons/*.png";
 //$social-icons-sprite-dimensions: true;
@@ -134,7 +142,7 @@ footer{
 
 .tag{
     display: inline-block;
-    margin: 2px -5px;
+    margin: 2px 0px;
     padding: 5px;
 }
 
