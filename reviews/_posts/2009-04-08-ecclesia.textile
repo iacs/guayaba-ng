@@ -1,0 +1,51 @@
+---
+layout: review
+title: "Castlevania: Order of Ecclesia"
+originaltitle: "Akumajō Dracula: Ubawareta Kokuin (悪魔城ドラキュラ 奪われた刻印)"
+cover: ecclesia.jpg
+score: 3
+dev: "Konami"
+year: 2008
+formato: [acción, plataformas]
+genero: [fantasía, terror]
+plataformas: [Nintendo DS]
+author: David
+---
+
+Había algo fascinante para mí en aquello de atravesar escenarios fantásticos cargándose legiones de monstruos a latigazos con el apoyo de unas cruces arrojadizas que volvían como bumeranes y todo ello sorteando trampas, vacíos y saltando elegantemente de plataforma en plataforma. Por no mencionar la impresionante banda sonora que lo acompañaba todo. Me refiero a cuando yo jugaba al _Super Castlevania IV_ en la Super Nintendo, hace ya tantos años. Me marcó intensamente mi experiencia con ese juego.</sep>
+
+Así que evidentemente estaba muy emocionado con lo que podría llegar a salir de las mentes de los chicos de Konami en posteriores entregas. Y, a excepción de maravillas como _Bloodlines_ o _Symphony of the Night_, la saga _Castlevania_ no ha logrado llegar a niveles grandiosos en otras entregas hasta ahora.
+
+Tras una serie de malogrados _Igavanias_ (_Castlevanias_ producidos por Koji Igarashi), _Order of Ecclesia_ por fin demuestra que la saga todavía tiene mucho que decir y mejora notablemente la jugabilidad y otros aspectos.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-08-ecclesia/ooe01-th.jpg!:/img/screenshots/2009-04-08-ecclesia/ooe01.jpg
+
+p(piefoto). Este nuevo Castlevania supone un paso adelante para la saga en cuanto a jugabilidad y diseño de niveles.
+
+La protagonista, Shanoa, deberá atravesar niveles de scroll horizontal en la tradición de la serie, pero con la diferencia de que cada nivel es una zona señalada en un mapa. En la pantalla de este se escoge a qué lugar de los ya visitados o recién descubiertos se quiere acceder. Y al explorarlos nos daremos cuenta de algo que ya estaba presente en _Symphony of the Night_ pero que se había perdido bastante en los _Igavanias_: los "ecosistemas". Cada zona está "habitada" por un tipo determinado de enemigos que, por diversas características, son adecuados para ella. De este modo, la Skeleton Cave está repleta de esqueletos de diversos tipos, en las montañas hay águilas, cuervos y enemigos con patrones de ataque verticales, así como ágiles trolls de las cavernas en las copas de siniestros árboles desnudos que crecen sobre las cuevas de lo alto de las montañas. Al atravesar el cieno de un pantano, que nos ralentiza muchísimo, nos atacarán unos caballeros (que ya había en el _Symphony_) que envían a sus búhos a atacarnos, aprovechando nuestra desventaja de velocidad; también nos encontraremos con plantas de mandrágora que atacarán cuando estemos llegando a ellas, pero no lo bastante cerca como para matarlas, así que habrá que plantearse una estrategia para evitar el daño o acercar a ellas nuestro rango de ataque.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-08-ecclesia/ooe02-th.jpg!:/img/screenshots/2009-04-08-ecclesia/ooe02.jpg
+
+p(piefoto). La acción es trepidante y debemos adaptar nuestra estrategia al entorno de cada pantalla.
+
+Precisamente, la planificación de nuestras acciones es fundamental para superar los obstáculos que nos aguardan en estos "ecosistemas". Cada habitación o sección de una zona o mazmorra requiere que pensemos lo que vamos a hacer, pero que lo hagamos rápido. Plantearse una estrategia para superar una serie de enemigos y obstáculos en cada pantalla es esencial para salir de una pieza y disfrutar al máximo de las dificultades del juego. Esto se acentúa en el modo difícil, en el que los enemigos son más duros, algunos más rápidos y tienen mejoras como que su rango de fuego es más amplio, su secuencia de ataques más larga, etc. con lo que hay que agudizar los sentidos y plantearse una renovación de la estrategia que solíamos utilizar con cada uno en el otro modo de dificultad. Esto enriquece enormemente la jugabilidad. Es más, todo el asunto de la planificación cuidadosa del ataque y defensa es el pilar maestro del juego.
+
+Para hacer este aspecto más profundo, interesante y variado, contamos con el sistema de glifos, nuevo en la serie y mucho mejor desarrollado que el sistema de almas de _Aria of Sorrow_ y su secuela y que el olvidable sistema de habilidades de _Portrait of Ruin_. En lugar de haber una abrumadora cantidad de ellos sin apenas profundidad más allá de la estética, hay un número bastante razonable —aunque es curioso cómo al final acaban siendo más de los que se espera— con una gran utilidad según qué situación. El hecho de que se puedan equipar dos glifos de ataque y usarlos independientemente y alternando da lugar a una gran capacidad de reacción y a ataques veloces sobre las hordas de enemigos. Además, hay un segundo tipo de glifos que cuando se activan producen un efecto que se mantiene mientras el glifo en cuestión está activo, apoyando nuestras habilidades o confiriéndonos otras nuevas, como atravesar un tipo de paredes, aumentar nuestra fuerza, hacer que los enemigos dejen más oro o transformarnos en algunos tipos de criatura. Todo esto da lugar a un gran abanico de combinaciones posibles, además de que podemos usar un ataque especial juntando nuestros dos glifos de ataque mediante una combinación de botones. De este modo, tenemos una gran variedad de opciones a la hora de planificar nuestro ataque para atravesar las mazmorras. Y es que si el jugador encuentra el juego muy difícil o complejo es porque no está usando lo que le propio juego le está dando: el sistema de glifos. Úsalo. Prueba combinaciones diferentes y contra qué enemigos funcionan mejor, adivina sus patrones y aprovecha el conjunto de glifos que más vaya con tu estilo de juego y/o que mejor funcione contra monstruos concretos.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-08-ecclesia/ooe03-th.jpg!:/img/screenshots/2009-04-08-ecclesia/ooe03.jpg
+
+p(piefoto). Es esencial desarrollar buenas combinaciones de glifos para combatir más efectivamente a los enemigos.
+
+Te lo vas a tener que currar especialmente en el castillo de Drácula, donde esperan al jugador algunos de los jefes finales más difíciles, desafiantes y divertidos de todos los _Igavanias_ —aunque también hay sitio para los facilillos—. Además, no solo son complicados, sino que además son originales en concepto, limitándonos al contexto de la saga, claro; porque hay un jefe que, por ejemplo, recuerda a los colosos de _Shadow of the Colossus_ en la forma de enfrentarse a él. El juego va incluso más lejos con la escasez de pociones y otros objetos curativos y con el elevado precio de estas en la tienda, por no mencionar que los enemigos sueltan muchísimo menos oro que de costumbre, evitando acumular enormes sumas que permiten al jugador tener de todo al máximo y que encima le sobre dinero.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-08-ecclesia/ooe04-th.jpg!:/img/screenshots/2009-04-08-ecclesia/ooe04.jpg
+
+p(piefoto). Los jefes finales de esta entrega suponen en general un gran desafío. Reconocer sus patrones y tener buenos reflejos es esencial para derrotarlos.
+
+Y si algo sobra en este juego es la mala implementación de, por ejemplo, las misiones. Estas, aunque variadas, suelen hacerse bastante pesadas, aunque al menos tienen la utilidad de poner cosas útiles a tu disposición en la tienda, además de otras recompensas. Claro que esto podía haberse hecho de otra manera. Cansa un poco eso de "recórrete el mundo hasta que encuentres estas hierbas tan raras y cuando me las traigas pondré a la venta esta poción tan cara para que puedas ir a la tienda a comprarla". Al menos espero que en futuros _Castlevanias_ aprovechen mejor toda la idea del pueblo, sus habitantes y la relación del protagonista con ellos. Me bastaría que este aspecto fuese un poco más _Zelda_.
+
+Haciendo honor a la tradición, _Order of Ecclesia_ cuenta con una excelente banda sonora que además prescinde de todos los temas clásicos. Aunque para los nostálgicos se pueden conseguir en la tienda de la aldea unos discos que reproducen melodías del primer _Castlevania_ en glorioso sonido de consola de 8 bits.
+
+Todo el juego está lleno de detalles y referencias que le dan ese toque tan propio de la serie, tan sumamente carismático. El sprite de los sepultureros recuerda al legendario luchador de _pressing catch_ conocido como El Enterrador; el glifo Pneuma recuerda al Repukken de Geese de _Fatal Fury_ y _The King of Fighters_, y la unión de un Pneuma en cada brazo es como la Raging Storm del mismo personaje. Son este tipo de cosas las que dan a _Castlevania_ ese saborcillo tan genuino.
+
+Ese es el tipo de elementos que está bien mantener en la saga, pero no le vendría mal una renovación. Quizá un cambio radical sería mucho, pero desde luego _Order of Ecclesia_ avanza lo suficiente como para distinguirse muy notablemente de sus predecesores. Bastaría un poco de atrevimiento por parte de Igarashi y un refinamiento de sus ideas para que las próximas entregas de _Castlevania_ proporcionasen una experiencia diferente al jugador y devolviesen la saga a su antigua gloria. Esperemos que el próximo retorno de Drácula sea también el de la excelencia en la serie.
