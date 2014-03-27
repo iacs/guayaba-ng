@@ -2,7 +2,7 @@
 layout: documentation
 title: "Guía técnica"
 description: "La web de Guayaba 2600 presenta una serie de diferencias a la hora de escribir y enviar contenido para los autores, ya que utilizamos una serie de herramientas especializadas. Este documento detalla el proceso y formato a seguir para escribir los diferentes tipos de artículos para la web."
-lastrev: 2013-11-02
+lastrev: 2014-03-28
 ---
 
 {% include doc_header.html %}
@@ -65,15 +65,24 @@ Los campos deben ir al principio del archivo, separados entre tres guiones simpl
 La información a cubrir es la siguiente:
 
 * @layout@: review  : esta línea no debe cambiarse
-* @title@: : Título que aparecerá en el post, entre comillas. Puede llevar caracteres especiales (dos puntos, etc)
-* @cover@: : Nombre de archivo de la carátula del juego incluida, en jpg
-* @score@: : Puntuación de la reseña. Un número entre 0 y 4. Los iconos apropiados aparecerán en el post.
-* @dev@: : Desarrollador del juego
-* @year@: : Año de lanzamiento
+* @title@: Título que aparecerá en el post, entre comillas. Puede llevar caracteres especiales (dos puntos, etc)
+* @originaltitle@: Título del juego en su mercado original. Se utilizará en la ficha de información pero no en el título del post
+* @cover@: Nombre de archivo de la carátula del juego incluida, en jpg
+* @score@: Puntuación de la reseña. Un número entre 0 y 4. Los iconos apropiados aparecerán en el post.
+* @dev@: Desarrollador del juego
+* @year@: Año de lanzamiento
 * @formato@: [] : Formato(s) del juego tal como se detalla en el manual de estilo, entre corchetes y separados por comas.
 * @genero@: [] : Género(s) del juego tal como se detalla en el manual de estilo, entre corchetes y separados por comas.
 * @plataformas@: [] : Plataformas donde se ha publicado el juego en el momento de escribir la reseña, entre corchetes y separados por comas.
-* @author@: : (opcional) Autor del texto. Si se borra esta línea la atribución será anónima.
+* @author@: (opcional) Autor del texto. Si se omite esta línea la atribución será anónima.
+
+h3. Aviso de spoilers
+
+En algunos artículos se discuten spoilers del juego, para avisar a los lectores se debe añadir la línea @spoiler:@ seguida de un número del 1 al 3 que corresponde a la seriedad de los spoilers
+
+* @spoiler: 1@: Son spoilers menores, detalles sin concretar pero que quizá alguien que quiera tener el mínimo conociemiento previo del juego debería evitar.
+* @spoiler: 2@: Spoilers importantes, desvelan detalles concretos de la trama o desarrollo del juego. Recomendado evitar este nivel de spoilers en una review.
+* @spoiler: 3@: Spoilers cruciales, desvelan y discuten en profundidad todo tipo de momentos memorables y clave del juego. Este nivel de spoilers nunca debe alcanzarse en una review, pero puede ser necesario en un artículo de análisis más profundo de un juego, en el que se asume que la audiencia ya lo ha completado al menos una vez.
 
 A continuación se incluye una plantilla vacía para cortar y pegar en los nuevos documentos, y rellenar fácilmente:
 
@@ -172,10 +181,11 @@ h2. Apéndice 1: Editores de texto
 
 Escribir con el Bloc de Notas de Windows no es una experiencia placentera. Aquí se listan una serie de editores de texto que funcionan bien para escribir posts de Guayaba 2600 en caso de que no tengas un favorito.
 
-* "Q10 (Windows)":http://www.baara.com/q10/ Editor “sin distracción” recomendado para escribir prosa en Windows
-* "Ommwriter (Mac, Windows)":http://www.ommwriter.com/ Similar al anterior
-* "Focus Writer (Mac, Windows, GNU/Linux)":http://gottcode.org/focuswriter/
-* "Sublime Text (mac, Windows, GNU/Linux)":http://www.sublimetext.com/ editor profesional para código. Tal vez un poco “hardcore” si no eres programador, pero muy completo.
+* "Q10":http://www.baara.com/q10/ (Windows): Editor “sin distracción” recomendado para escribir prosa en Windows
+* "Ommwriter":http://www.ommwriter.com/ (Mac, Windows): Similar al anterior
+* "Focus Writer":http://gottcode.org/focuswriter/ (Mac, Windows, GNU/Linux):
+* "Sublime Text":http://www.sublimetext.com/ (mac, Windows, GNU/Linux): editor profesional para código. Tal vez un poco “hardcore” si no eres programador, pero muy completo. La licencia cuesta $70 pero puede utilizarse indefinidamente sin limitaciones salvo un recordatorio ocasional para pagar al autor
+* "Notepad++":http://notepad-plus-plus.org/ (Windows): Otro potente editor para programadores para Windows. No es tan increíble como Sublime pero tiene la ventaja de ser totalmente gratis
 
 
  
