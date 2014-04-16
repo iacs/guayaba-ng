@@ -2,28 +2,6 @@
 layout: default
 description: "Guayaba 2600 es una web de videojuegos en español para aficionados con paladares exigentes."
 ---
-{% if paginator.page == 1 %}<div class="row hidden-sm hidden-xs">
-    <div class="col-md-12 entry">
-        <h2>Redescubre estos juegos</h2>
-        <table class="gem-covershot table-responsive">
-        <tr>
-        {% for post in site.categories.gemas %}
-        <td style="vertical-align: center;"><a href="{{post.url}} "><img src="/img/covershots/{{post.covershot}} " alt="{{post.title}}"></a>
-        {% if forloop.index == 3 %}{% break %}{% endif %}{% endfor %}
-        </tr>
-        <tr>
-        {% for post in site.categories.gemas %}
-        <td><a href="{{post.url}}"><h4 style="text-align: center;">{{post.title}} ({{post.year}})</h4></a></td>
-        {% if forloop.index == 3 %}{% break %}{% endif %}{% endfor %}
-        </tr>
-        </table>
-        <div class="row">
-            <div class="col-md-12">
-                <a href="/archivo_gemas.html" class="btn btn-default pull-right">Ver más gemas...</a>
-            </div>
-        </div>
-    </div>
-</div>{% endif %}
 
 {% for post in paginator.posts %}
         {% case post.layout %}

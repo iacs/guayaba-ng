@@ -1,9 +1,10 @@
 ---
-layout: gema
+layout: review
 gema: retro
 title: Recca
 originaltitle: "Sumer Carnival '92 - Recca"
-covershot: recca.png
+cover: recca.jpg
+score: 3
 dev: Naxat Soft
 year: 1992
 formato: [Acción]
@@ -14,7 +15,7 @@ author: Iacus
 
 Hace poco encontré un juego que no conocía. Se trata de un shooter vertical para la Famicom (la NES japonesa) que fue producido en 1992 por Naxat Soft.
 
-Su título completo es __Sumer Carnival '92 - Recca__ y es así como figura en las listas de roms. Probablemente la forma más accesible de jugarlo es emulando, ya que se fabricaron muy pocos cartuchos y sólo por encargo especial para un campeonato de shooters, el mencionado Summer Carnival. Se dice que los cartuchos originales pasan de $150 en el mercado secundario, aunque hay algún artesano que podéis encontrar por internet que puede fabricar una reproducción.
+Su título completo es __Sumer Carnival '92 - Recca__ y es así como figura en las listas de roms. Probablemente la forma más accesible de jugarlo es emulando, ya que se fabricaron muy pocos cartuchos y sólo por encargo especial para un campeonato de shooters, el mencionado Summer Carnival. Se dice que los cartuchos originales pasan de $150 en el mercado secundario, aunque hay algún artesano que podéis encontrar por internet que puede fabricar una reproducción.</sep>
 
 El juego es tan brutal como técnicamente asombroso. En pantalla aparecen una gran cantidad de naves y balas simultáneamente, sin parpadeo de sprites ni parones. A veces sobre fondos con efectos de distorsión o scrolls rapidísimos que harían dudar a uno si realmente se trata de un juego de Famicom.
 
