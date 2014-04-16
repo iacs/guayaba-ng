@@ -1,18 +1,18 @@
 ---
-layout: gema
+layout: review
 gema: indie
 title: "Gravity Bone"
-covershot: gravitybone.jpg
+cover: gravitybone.jpg
+score: 3
 dev: "Blendo Games (Brendon Chung)"
 year: 2008
 formato: [Aventura]
 genero: [Espionaje]
 plataformas: [Windows]
-score: 3
 author: David
 ---
 
-Leyendo el segundo libro del guionista de cine William Goldman (__Dos Hombres y Un Destino__, __La Princesa Prometida__, __Maverick__, etc.), llegué a una parte en la que el autor establecía un punto de unión entre la poesía y el cine. A primera vista, escribir un poema no tiene nada que ver con escribir un guión; de hecho, a pesar de que se considera al guión cinematográfico como una forma de género literario, escribir uno tiene poco que ver con crear cualquier forma de literatura. Y, sin embargo, existe una característica que une cine y poesía y que, si se usa correctamente y con precisión en cualquiera de las dos disciplinas, puede convertir la obra en cuestión en un trabajo de maestro. Me refiero, cómo no, a la síntesis. Cine y poesía se benefician de ella en igual medida. En ambos medios es esencial saber manejarla, administrarla, jugar con ella. Pero lo realmente impresionante es cómo puede lograr efectos similares en un videojuego.
+Leyendo el segundo libro del guionista de cine William Goldman (__Dos Hombres y Un Destino__, __La Princesa Prometida__, __Maverick__, etc.), llegué a una parte en la que el autor establecía un punto de unión entre la poesía y el cine. A primera vista, escribir un poema no tiene nada que ver con escribir un guión; de hecho, a pesar de que se considera al guión cinematográfico como una forma de género literario, escribir uno tiene poco que ver con crear cualquier forma de literatura. Y, sin embargo, existe una característica que une cine y poesía y que, si se usa correctamente y con precisión en cualquiera de las dos disciplinas, puede convertir la obra en cuestión en un trabajo de maestro. Me refiero, cómo no, a la síntesis. Cine y poesía se benefician de ella en igual medida. En ambos medios es esencial saber manejarla, administrarla, jugar con ella. Pero lo realmente impresionante es cómo puede lograr efectos similares en un videojuego.</sep>
 
 El cine y el software lúdico tienen muchas cosas en común, pero ciertos mecanismos que funcionan en uno no lo hacen en el otro, y viceversa. Uno de estos podría ser precisamente la síntesis, ya que normalmente se espera que un videojuego cunda en cuanto a tiempo que dedicarle. Muchas veces nos quejamos de que un juego es demasiado corto, que habría ganado mucho si nos hubiese durado más. Otras veces nos fijamos en el __replay value__ para juzgar si merece la pena invertir más y más horas en él. A muchos nos gusta que un título tenga una historia bien escrita y haga buen uso de recursos narrativos a lo largo de un tiempo de juego que nos mantenga ocupados una temporada —al fin y al cabo, estamos pagando por un producto que es de esperar que nos entretenga cuanto más tiempo sea posible—. Pero es precisamente la narrativa bien desarrollada lo que puede hacer que un juego efímero sea digno de admiración.
 

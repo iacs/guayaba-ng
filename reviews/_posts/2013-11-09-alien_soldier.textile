@@ -1,8 +1,9 @@
 ---
-layout: gema
+layout: review
 gema: retro
 title: Alien Soldier
-covershot: aliensol.png
+cover: aliensoldier.jpg
+score: 3
 dev: Treasure
 formato: [Acción]
 genero: [Ciencia ficción]
