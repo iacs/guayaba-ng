@@ -1,4 +1,4 @@
 ---
 layout: platform
-title: PlayStation 2
+title: NES
 ---
