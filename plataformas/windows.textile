@@ -1,6 +1,5 @@
 ---
 layout: platform
-pname: Windows
-index: 1
+title: Windows
 ---
 

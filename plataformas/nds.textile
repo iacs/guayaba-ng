@@ -1,5 +1,4 @@
 ---
 layout: platform
-pname: Nintendo DS
-index: 27
+title: Nintendo DS
 ---

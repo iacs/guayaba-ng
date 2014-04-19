@@ -1,5 +1,4 @@
 ---
 layout: platform
-pname: Xbox 360
-index: 14
+title: Xbox 360
 ---
