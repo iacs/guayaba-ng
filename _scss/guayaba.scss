@@ -1,5 +1,5 @@
 // customize bootstrap variables here:
-@import "variables";
+//@import "variables";
 @import "bootstrap";
 
 @import "compass";
@@ -8,6 +8,7 @@ $dark-green:  rgba(205,235,142,1);
 $light-green: rgba(165,201,86,1);
 $guayaba-red: #fa4747;
 $guayaba-purple: #cc0066;
+$ui-gray: #101010;
 $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
@@ -16,17 +17,6 @@ $smbrand_facebook: #3b5998;
 $smbrand_twitter: #00aced;
 $smbrand_gplus: #dd4b39;
 $smbrand_linkedin: #007bb6;
-
-//@import "social-icons/*.png";
-//$social-icons-sprite-dimensions: true;
-//@include all-social-icons-sprites;
-
-// @include font-face("Sofia Pro", 
-//     font-files("SofiaProLight-webfont.eot",
-//                "SofiaProLight-webfont.svg",
-//                "SofiaProLight-webfont.ttf",
-//                "SofiaProLight-webfont.woff"
-//                ));
 
 body {
     @include background($dark-green);
@@ -40,8 +30,6 @@ h1,h2,h3,h4,h5{
     font-family: $font-stack;
     font-weight: 700;
 }
-
-
 
 a {
     color: $guayaba-red;
@@ -109,11 +97,6 @@ footer{
     max-width: 100%;
 }
 
-.gem-covershot img{
-    border: $border-default;
-    @include border-radius(6px);
-}
-
 .social-icons-list>ul>li
 {
     display: inline-block;
@@ -146,14 +129,13 @@ footer{
     padding: 5px;
 }
 
-// .gema-heading img{
-//     padding: 10px;
-//     margin: 3px auto;
-//     background: rgb(200,204,187);
-//     -webkit-border-radius: 6px;
-//        -moz-border-radius: 6px;
-//             border-radius: 6px;
-// }
+a.grid-cover-link span.gem-icon {
+    position:absolute;
+    top:0px;
+    right:15px;
+    background-color: $ui-gray;
+    border-top-right-radius: 6px;
+}
 
 .border{
     border: $border-default;
@@ -193,9 +175,10 @@ footer{
 
 /* Bootstrap cascades*/
 
-.panel-default>.panel-heading{
-    background: rgb(200,204,187);
-}
+$dropdown-bg: rgb(8,8,8);
+$dropdown-link-color: white;
+$dropdown-link-hover-color: white;
+$dropdown-link-hover-bg: $guayaba-red;
 
 .dropdown-menu{
     background-color: rgb(8,8,8);
@@ -210,9 +193,6 @@ footer{
     color: white;
 }
 
-.dropdown-menu > li > a:focus{
-}
-
 .pagination > .active > a,
 .pagination > .active > span,
 .pagination > .active > a:hover,
@@ -221,6 +201,14 @@ footer{
 .pagination > .active > span:focus{
     background-color: $guayaba-red;
     border-color: $guayaba-purple;
+}
+
+.pagination > li > a {
+    color: $guayaba-red;
+}
+
+.pagination > li > a:hover{
+    color: darken($guayaba-red, 5%);
 }
 
 /* Container config */

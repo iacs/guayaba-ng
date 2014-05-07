@@ -12,9 +12,11 @@ title: Gemas
 {% sorted_for post in site.posts sort_by:title %}
 {% if post.gema %}
     {% cycle 'add-rows': '<div class="row">', nil, nil, nil %}
-        <div class="col-md-3">
+        <div class="col-xs-12 col-md-3">
             <!-- <h5 style="text-align: center;"><a href="{{post.url}}">{{post.title}}</a>{% case post.gema %}{% when 'retro' %}<img src="/img/g-retro_ico2x.gif" alt="gema retro">{% when 'indie' %}<img src="/img/g-indie_ico2x.gif" alt="gema indie">{% when 'perdida' %}<img src="/img/g-perdida_ico2x.gif" alt="gema perdida">{% when 'movil' %}<img src="/img/g-movil_ico2x.gif" alt="gema movil">{% endcase %}</h5> -->
-            <a href="{{post.url}}" data-toggle="tooltip" title="{{post.title}}"><img src="/img/covers/{{post.cover}}" alt="{{post.title}}" class="img-rounded img-responsive" ></a>
+            <a href="{{post.url}}" class="grid-cover-link" data-toggle="tooltip" title="{{post.title}}"><img src="/img/covers/{{post.cover}}" alt="{{post.title}}" class="img-rounded img-responsive">
+            <span class="gem-icon"><img src="/img/g-retro_ico2x.gif" alt="gema"></span>
+            </a>
         </div>
     {% cycle 'close-rows': nil, nil, nil, '</div><hr>' %}
 {% endif %}
