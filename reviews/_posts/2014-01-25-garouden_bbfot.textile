@@ -1,6 +1,6 @@
 ---
 layout: review
-gema: perdida
+gema: olvidada
 title: "Garouden Breakblow: Fist or Twist"
 originaltitle: "餓狼伝 Breakblow Fist or Twist"
 cover: garouden.jpg

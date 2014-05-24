@@ -1,6 +1,5 @@
 ---
 layout: review
-gema: indie
 title: "Brothers - A Tale of Two Sons"
 cover: batots.jpg
 score: 3
