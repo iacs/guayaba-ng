@@ -1,0 +1,15 @@
+---
+layout: blogpost
+title: Cambios en la web
+author: Iacus
+---
+
+Disculpad la falta de actualizaciones esta última temporada, pero la vida se ha metido de por medio, como suele ocurrir.
+
+Hoy traigo algunos cambios. En mi último "comunicado":{% post_url 2013-10-27-presentando_gemas %} hablaba sobre un nuevo tipo de artículo enfocado a hablar de las gemas olvidadas de los videojuegos. Nunca me convenció del todo la organización que le dí a este tipo de artículos, separados de la página principal y, admisiblemente, no tan fáciles de acceder salvo por los 3 más recientes en la portada.
+
+Era innecesariamente confuso para el lector y no tenia sentido tener dos tipos de artículos de reseña en lugares separados de la web en base a criterios algo nebulosos. Ahora todos los artículos de "gemas" son reseñas igual que las demás. Aparecerán en la página principal y seguirán apareciendo en el "archivo":/archivo.html y las páginas de plataformas. Tienen una puntuación de 0 a 4 guayabas como el resto.
+
+Lo que ha cambiado es que el concepto de las **gemas olvidadas** perdura en una nueva página que recoge estos juegos llamativos, fascinantes o que por cualquier motivo no recibieron un merecido reconocimiento en su época.
+
+En la página de "gemas":/gemas.html están compilados los artículos de estos juegos. La idea es ir construyendo un **salón de la fama** y poco a poco arrojar algo de luz sobre títulos que pueden habérsele pasado por alto al aficionado medio, manteniendo la web fácil de navegar.
