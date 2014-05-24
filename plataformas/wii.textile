@@ -1,5 +1,4 @@
 ---
 layout: platform
-pname: Wii
-index: 15
+title: Wii
 ---

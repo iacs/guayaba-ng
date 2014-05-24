@@ -1,9 +1,10 @@
 ---
-layout: gema
-gema: perdida
+layout: review
+gema: olvidada
 title: "Garouden Breakblow: Fist or Twist"
 originaltitle: "餓狼伝 Breakblow Fist or Twist"
-covershot: garouden.jpg
+cover: garouden.jpg
+score: 3
 dev: "Opus Corp."
 year: 2007
 formato: [Lucha]
