@@ -1,7 +1,7 @@
 ---
 layout: review
 category: review
-gema: perdida
+gema: olvidada
 title: Enthusia Professional Racing
 cover: enthusia_cover.jpg
 score: 4
