@@ -31,12 +31,9 @@ h1,h2,h3,h4,h5{
     font-weight: 700;
 }
 
-a {
-    color: $guayaba-red;
-}
-
-a:link{@extend a}
-a:hover {@extend a:visited}
+a {color: $guayaba-red;}
+a:link {color: $guayaba-red;}
+a:hover {color: $guayaba-purple;}
 a:visited {color: $guayaba-purple;}
 
 div {
