@@ -7,7 +7,7 @@ dev: CDProjekt RED
 year: 2011
 formato: [RPG]
 genero: ["fantasía"]
-plataformas: [Windows, Xbox 360, OSX, GNU/Linux]
+plataformas: [Windows, Xbox 360, OS X, GNU/Linux]
 author: David
 ---
 

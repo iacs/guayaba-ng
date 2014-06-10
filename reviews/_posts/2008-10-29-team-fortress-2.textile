@@ -8,7 +8,7 @@ dev: Valve Software
 year: 2007
 formato: [FPS Online por equipos]
 genero: [Violencia cómica]
-plataformas: [Windows, PlayStation 3, Xbox 360]
+plataformas: [Windows, OS X, GNU/Linux, PlayStation 3, Xbox 360]
 author: Iacus
 ---
 
