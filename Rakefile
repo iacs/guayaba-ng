@@ -44,8 +44,13 @@ task :newpost do
   exit 1
 end
 
+desc "Remove previous site"
+task :remove do
+  FileUtils.rm_r "_site"
+end
+
 desc "Build site using Jekyll"
-task :build do
+task :build => :remove do
   sh "compass compile -e production --force"
   jekyll "build"
 end
