@@ -4,3 +4,7 @@ timezone: "Europe/Madrid"
 exclude: [README.md, Rakefile, Gemfile, Gemfile.lock, guayaba.todo, config.rb, bootstrap-sass.gemspec]
 paginate: 10
 excerpt_separator: "</sep>"
+
+collections:
+    plataformas:
+        output: true

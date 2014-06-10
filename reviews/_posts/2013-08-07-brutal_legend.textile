@@ -8,7 +8,7 @@ dev: "Double Fine"
 year: 2009 (2013 PC/Mac)
 formato: [aventura, RPG, RTS]
 genero: [fantasía épica, heavy metal]
-plataformas: [Windows, Mac, Xbox 360, PlayStation 3]
+plataformas: [Windows, OS X, GNU/Linux, Xbox 360, PlayStation 3]
 author: David
 ---
 
