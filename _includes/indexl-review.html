@@ -36,7 +36,7 @@
 <div class="row">
     <div class="col-md-3">
     <ul class="list-inline">{% for plat in post.plataformas %}
-        <li><span class="label label-success tag">{{plat}}</span></li>
+        <li>{% if post.definitive == plat %}<span class="label label-danger tag">{% else %}<span class="label label-success tag">{% endif %}{{plat}}</span></li>
     {% endfor %}</ul>
     </div>
     <div class="col-md-9 text-justify">

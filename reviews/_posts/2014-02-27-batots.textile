@@ -8,6 +8,7 @@ year: 2013
 formato: [Aventura]
 genero: [cuento de hadas, fantasía]
 plataformas: [PlayStation 3, Xbox 360, Windows]
+definitive: Windows
 author: Iacus
 ---
 
