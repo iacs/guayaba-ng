@@ -4,15 +4,15 @@ gem 'rake'
 gem 'jekyll', '>=2.0.0'
 gem 'RedCloth'
 gem 'sass'
-#gem 'compass'
-#gem 'bootstrap-sass'
+gem 'compass'
+gem 'bootstrap-sass', '~>3.1.1'
 
-gemspec
+#gemspec
 
-platform :rbx do
-  gem 'rubysl', '~> 2.0'
-  gem 'json', '>= 1.8.1'
-  gem 'rubysl-test-unit', '~> 2.0'
-  gem 'racc'
-end
+#platform :rbx do
+#  gem 'rubysl', '~> 2.0'
+#  gem 'json', '>= 1.8.1'
+#  gem 'rubysl-test-unit', '~> 2.0'
+#  gem 'racc'
+#end
 
