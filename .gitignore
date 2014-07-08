@@ -1,3 +1,5 @@
-_site
+.bundler
+.vendor/bundle
 .sass-cache
+_site/
 css/

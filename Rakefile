@@ -3,6 +3,7 @@ require 'optparse'
 require 'yaml'
 require 'fileutils'
 
+desc "Create a new review post"
 task :newreview do
   OptionParser.new.parse!
   ARGV.shift
@@ -24,6 +25,7 @@ task :newreview do
   exit 1
 end
 
+desc "Create a new news post"
 task :newpost do
   OptionParser.new.parse!
   ARGV.shift
@@ -58,6 +60,16 @@ end
 desc "Deploy site"
 task :deploy => :build do
   rsync "/var/www/guayaba2600.com/"
+end
+
+desc "Start dev server through bundler"
+task :bserve do
+  sh 'bundle exec jekyll serve --watch'
+end
+
+desc "Compile css through bundler"
+task :bcompile do
+  sh 'bundle exec compass compile'
 end
 
 def jekyll(opts="")
