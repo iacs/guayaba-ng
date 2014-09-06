@@ -1,5 +1,6 @@
-.bundler
+.bundle
 .vendor/bundle
 .sass-cache
 _site/
 css/
+Gemfile.lock
