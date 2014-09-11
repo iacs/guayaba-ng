@@ -5,7 +5,7 @@ gem 'jekyll', '~>2.3.0'
 gem 'RedCloth'
 gem 'sass'
 gem 'compass'
-gem 'bootstrap-sass', '~>3.1.1'
+gem 'bootstrap-sass', '~>3.2.0'
 
 #gemspec
 
