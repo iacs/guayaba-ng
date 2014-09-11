@@ -8,3 +8,6 @@ excerpt_separator: "</sep>"
 collections:
     plataformas:
         output: true
+    colecciones:
+        output: true
+        layout: coleccion

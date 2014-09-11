@@ -23,3 +23,14 @@ Si quieres escribir en Guayaba 2600 puedes enviarnos proposiciones para artícul
 No nos limitamos en formatos ni en plataformas. Puedes escribir sobre los últimos lanzamientos de Xbox 360, sobre juegos indie, aventuras de texto o centrarte exclusivamente en artículos sobre juegos con robots gigantes. Lo que más te guste.
 
 Buena suerte!
+
+h1. Bounties
+
+<ul>
+{% assign todo_titulo = site.categories.reviews | map: 'title' %}
+{% for col in site.colecciones %}
+{% for juego in col.miembros %}
+    {% if todo_titulo contains juego %}{% else %}<li>{{juego}}</li>{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
