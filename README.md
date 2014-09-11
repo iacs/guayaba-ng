@@ -10,6 +10,7 @@ Código y textos de la web Guayaba 2600
     * bundler (usar para instalar dependencias de gemas)
 * Python 2.7
 * ImageMagick >= 6.7.7
+* NodeJS (jekyll requiere execjs)
 
 Se recomienda el desarrollo en GNU/Linux o Mac OS, aunque es posible preparar un entorno de desarrollo en Windows.
 
