@@ -1,0 +1,15 @@
+---
+layout: infopage
+---
+<h1>{{page.title}}</h1>
+
+{% assign todo_titulo = site.categories.reviews | map: 'title' %}
+<ul>
+{% for juego in page.miembros %}{% for review in site.categories.reviews %}
+{% if review.title == juego %}<li><a href="{{review.url}}">{{juego}}</a></li>{% endif %}
+{% endfor %}
+{% if todo_titulo contains juego %}{% else %}<li>{{juego}} (coming soon)</li> {% endif %}
+{% endfor %}
+</ul>
+
+
