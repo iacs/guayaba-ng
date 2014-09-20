@@ -5,8 +5,6 @@ description: "Forma aceptada de escribir algunos términos comunes."
 lastrev: 2013-11-12
 ---
 
-{% include doc_header.html %}
-
 h2. Ortografía de los nombres de plataformas
 
 Debe utilizarse el nombre completo de la plataforma (no abreviaturas) en los datos de la ficha de cada juego, esto es necesario para que se organicen correctamente por plataforma y aparezcan en la página correspondiente.
