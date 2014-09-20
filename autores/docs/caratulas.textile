@@ -1,0 +1,28 @@
+---
+layout: documentation
+title: Lista de carátulas
+description: "Colección de carátulas disponibles en la web."
+lastrev: 2014-09-21
+---
+
+Si vas a escribir una reseña de un juego que ya tiene una reseña publicada en la web, no es necesario que incluyas otro archivo de carátula. Simplemente usa el que está aquí indicado como "nombre de archivo".
+
+<table class="table no-border">
+<thead>
+    <tr>
+        <th>Carátula</th>
+        <th>Juego</th>
+        <th>Nombre de archivo</th>
+    </tr>
+</thead>
+<tbody>
+{% assign sorted_game = (site.categories.reviews | sort: 'title') %}
+{% for game in sorted_game %}
+<tr>
+    <td><img src="/img/covers/{{game.cover}}" style="width: 150px" class="img-rounded" alt="Carátula de {{post.title}}"></td>
+    <td style="text-align: left; vertical-align: middle;">{{game.title}}</td>
+    <td style="text-align: left; vertical-align: middle;">{{game.cover}} </td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
