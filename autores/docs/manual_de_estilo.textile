@@ -5,8 +5,6 @@ description: "Guía editorial para que los artículos de Guayaba 2600 tengan un 
 lastrev: 2013-08-09
 ---
 
-{% include doc_header.html %}
-
 h2. 1. Tipografía y Formato
 * Usar paréntesis "()" para aclaraciones y guiones largos "—" para apartes y comentarios. El guión largo se puede escribir en Windows con ALT+0151 o cortando y pegando desde charmap.
 * Los títulos de juegos, libros o películas siempre se escribirán con su grafía oficial si es posible y en __cursiva__ cuando sean mencionados en el cuerpo de texto de una reseña, o en texto normal si es en un encabezamiento o en un pie de foto.
