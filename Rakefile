@@ -53,7 +53,7 @@ end
 
 desc "Build site using Jekyll"
 task :build => :remove do
-  sh "compass compile -e production --force"
+  sh "bundle exec compass compile -e production --force"
   jekyll "build"
 end
 
@@ -74,7 +74,7 @@ end
 
 def jekyll(opts="")
   #sh "rm -rf _site"
-  sh "jekyll " + opts
+  sh "bundle exec jekyll " + opts
 end
 
 def rsync(domain)
