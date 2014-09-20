@@ -1,6 +1,7 @@
 .bundle
 .vendor/bundle
 .sass-cache
+.vagrant
 _site/
 css/
 Gemfile.lock
