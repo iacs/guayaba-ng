@@ -169,6 +169,10 @@ a.grid-cover-link span.gem-icon {
         );
 }
 
+.no-border tbody tr td, .no-border thead tr th{
+    border-style: none;
+}
+
 /* Bootstrap cascades*/
 
 $dropdown-bg: rgb(8,8,8);
