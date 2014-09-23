@@ -1,0 +1,92 @@
+---
+layout: review
+title: "Dark Souls"
+cover: darksouls.jpg
+score: 4
+dev: "FROM Software"
+year: 2011
+formato: [RPG, Aventura, Acción]
+genero: [fantasía oscura, exploración, misterio]
+plataformas: [PlayStation 3, Xbox 360, Windows]
+author: Iacus
+---
+
+Aproximadamente una vez cada lustro aparece, entre los miles de nuevos juegos que salen al mercado, una obra transcendental que de forma inesperada influye e inspira a jugadores y creadores y redefine los límites aceptados del videojuego de una forma brillante. Un ejemplo reciente de este fenómeno es la exclusiva para PlayStation 3, _Demon's Souls_. Un éxito de culto cuyo sucesor espiritual, _Dark Souls_ mejora y refina prácticamente en todos los aspectos, estableciéndose como un referente histórico para el medio. Pero, cuáles son los secretos de _Dark Souls_? Qué factores contribuyen a que la fórmula funcione tan bien? El verdadero _Dark Souls_ comienza aquí.</sep>
+
+Desde el punto de vista de diseño, _Dark Souls_ es tan importante por lo que hace bien como por lo que no hace en absoluto. Aparte de una intro prerenderizada que nos pinta unos trazos sobre la historia de Lordran, la región donde se desarrolla el juego, la mayoría del trasfondo se nos comunica mediante descripciones de los tesoros y objetos que encontramos al explorar, así como las a menudo crípticas frases de variopintos personajes.
+
+Minimapas, indicadores de dirección, diarios de _quests_, secuencias cinemáticas... _Dark Souls_ prescinde de todos esos accesorios a los que nos tienen acostumbrados los juegos de rol AAA modernos. En lugar de elaboradas cinemáticas y secuencias de exposición de la trama tenemos NPCs que hablan sin mover los labios. La cámara no abandona su posición mientras escuchamos el diálogo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_boss-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_boss.jpg
+
+p(piefoto). No todos los "monstruos" son hostiles, pero a menudo la violencia es nuestro único modo de interactuar con ellos significativamente
+
+Esta presentación tan prosaica contribuye a esa atmósfera de distanciamiento y extrañeza que impregna todo el juego, amplificada por las inquietantes voces de los habitantes de Lordran. Al mismo tiempo se evita ese efecto psicológico de desconexión momentánea en la inmersión del juego, ya que nunca abandonamos el control de nuestro personaje ni la representación visual cambia drásticamente a un estado que el jugador asocia como "no interactivo".
+
+En lugar de una estructura de _quests_ al uso (yo las llamo contractuales. Aquellas que consisten en que el personaje jugador hable con un NPC, este le encargue una tarea y al completarla dicho NPC le otorgue una recompensa) _Dark Souls_ funciona ofreciéndonos un único objetivo concreto y dejándonos la vía libre para completarlo y avanzar. Tras el prólogo/tutorial el juego propiamente dicho empieza con el requisito de tañer las dos campanas del despertar. Nos enteramos de esto hablando con el "guerrero alicaído" —uno de los múltiples vínculos temáticos que el juego comparte con su predecesor _Demon's Souls_— pero esta acción no es obligatoria y por lo tanto el jugador puede potencialmente perderse esta información. Es más, los jugadores sin decencia ni paciencia pueden optar por atacar a este personaje nada más verlo, y en la serie _Souls_, los NPCs muertos desaparecen para siempre de la partida y los agredidos permanecen hostiles. Existe la —improbable pero real— posibilidad de perderse completamente esta información.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_demon-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_demon.jpg
+
+p(piefoto). Este juego no se anda con rodeos. Podemos esperar jefes gigantescos en el mismísimo prólogo/tutorial
+
+Aunque este no es un ejemplo especialmente serio, el juego castiga severamente al jugador estúpido o psicópata que ataca a personajes inocentes. No hay protecciones artificiales que nos impidan pasar por la espada a cualquiera que esté a su alcance. Sin embargo, en ningún momento se puede llegar a un estado en que sea absolutamente imposible ganar el juego. Esto está relacionado con la decisión de dar una dirección genérica la jugador, y dejar que éste cumpla el objetivo por el camino que desee tomar. Ante todo, _Dark Souls_ entiende que es más importante el viaje que el destino, y respeta al jugador al tratarlo como una persona con voluntad propia y responsabilidad para tomar sus propias decisiones, aunque eso significa vivir aceptando sus consecuencias.
+
+Por lo demás, no es aconsejable para un jugador nuevo ponerse las cosas más difíciles de lo que están. _Dark Souls_ tiene fama de ser un juego difícil, y aunque en la realidad acabemos exclamando "no es para tanto", lo cierto que es el juego es implacable en su desafío. Justo pero implacable. El margen de error que se nos da no es especialmente grande, y puede reducirse considerablemente si tomamos demasiadas decisiones malas a la hora de desarrollar a nuestro personaje. Una vez más, la prudencia y el sentido común del jugador —en este caso aderezado con un conocimiento decente de las mecánicas de los juegos de rol y acción— son las que nos moverán hacia el éxito o nos pondrán más trabas.
+
+_Dark Souls_ también tiene fama de ser algo oscuro con sus mecánicas y, aunque no llega a los niveles de _Demon's Souls_ y su horripilante sistema de Tendencias, esta fama no viene por su campaña de márketing sino que es una realidad del juego. Es fácil jugar un buen rato ignorando que el atributo de Resistencia es prácticamente inútil, por ejemplo, o gastar valiosos materiales para mejorar armas intentando averiguar cómo podemos infundirlas con daño elemental. En estos casos no debe causar bochorno consultar una guía. Es más, diría que hacerlo mejorará nuestra experiencia con el juego y nos ahorrará muchas frustraciones y tiempo. A menos que seas de aquellos jugadores que realmente disfrutan desentrañando el intrincado funcionamiento de cada sistema del juego, no hay deshonor en aprovechar la experiencia de los miles de jugadores que contribuyen a las guías y wikis online.
+
+Del mismo modo, no hay vergüenza en morir en _Dark Souls_. Al contrario. Morir forma parte de las mismas mecánicas del juego, y ocurrirá a menudo. En _Dark Souls_ el que pierde no es quien muere, sino quien se rinde y pierde la esperanza de vencer. Todos esos jugadores están representados en el personaje del guerrero alicaído que encontramos al principio del juego, un aventurero como nosotros que no ha tenido la voluntad de perseverar hasta el final.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_dragonhead-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_dragonhead.jpg
+
+p(piefoto). La posición geográfica de los combates contribuye a la dificultad tanto o más que las propias habilidades de los enemigos
+
+Nuestro personaje es un no-muerto, y como tal la muerte —a menudo violenta muerte en combate— es parte de la rutina de la aventura. Cuando morimos, perdemos nuestra forma humana y con ella una serie de beneficios. Primero, nuestro aspecto humano será reemplazado por la piel cadavérica de un _hollow_. Segundo, no podremos usar los signos de invocación en el suelo para pedir ayuda de otros mundos. A cambio, otros jugadores tampoco podrán invadirnos sin permiso, lo cual se agradece la mayor parte del tiempo.
+
+Para saber qué son estas "invocaciones" e "invasiones" hay que describir el revolucionario sistema de juego online de _Dark Souls_ —introducido en _Demon's Souls_—. Al igual que en su predecesor, nuestro personaje puede estar en uno de dos estados: humano o _hollow_. Como humano, tenemos acceso al juego online con otros jugadores. Seremos capaces de ver dos tipos de signos en el suelo, los blancos/dorados invocan a otro personaje controlado por un jugador humano para cooperar contra los enemigos y jefes del juego. Los otros signos, generalmente rojos, invocan a un rival humano para un duelo,  que si ganamos nos proporcionará una cantidad considerable de almas y otras recompensas. A mayores, están las invasiones que funcionan como duelos no solicitados, esencialmente añaden un enemigo más a nuestro mundo, un personaje creado y controlado por un jugador humano.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_redspectre-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_redspectre.jpg
+
+p(piefoto). A diferencia de los duelos consensuados, durante una invasión no hay lugar para el honor. Se trata de sobrevivir a toda costa
+
+Esa es la estructura básica. En el juego podemos unirnos a pactos o _covenants_ que pueden tener sus propias reglas para enfrentamientos o cooperación entre diferentes jugadores, y es uno de los aspectos más interesantes del juego. En la práctica la ejecución de las ideas no se aproxima a su concepto, lamentablemente. Entre los dos problemas capitales se encuentran la disparidad de niveles de poder, prácticamente garantizando que en algun momento un personaje demasiado poderoso nos invadirá y matará sin contemplaciones. La otra es el lag, que no está completamente optimizado para luchas entre dos jugadores. Incluso en el caso de involucrarnos en una pelea justa o  que nuestro oponente sea peor que nosotros, es fácil que el lag nos impida lanzar nuestros ataques y combos a tiempo, o que suframos uno de los famosos _lagstabs_, en el que aparentemente el invasor se teletransportará y nos atacará por la espalda con un crítico letal sin que podamos hacer nada para remediarlo.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_theguilty-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_theguilty.jpg
+
+p(piefoto). Los culpables pagan el precio. Unirnos al pacto de los espadas de la luna oscura nos permitirá castigar a aquellos que disfrutan invadiendo a indefensos jugadores (en teoría)
+
+Evidentemente esto hace que los combates contra enemigos controlados por humanos sean extremadamente frustrantes si no se dispone de una conexión perfecta como la que disfrutan en Japón. Por suerte, hay una forma de optar por no ser invadido. En forma de _hollow_ podemos ofrecer nuestra ayuda y ser invocados a otros mundos, pero no podremos invocar en el nuestro o ser invadidos hasta que recuperemos forma humana. Aparte de eso la interacción online que permanece siendo _hollow_ es la de poder ver los mensajes dejados en el suelo por otros jugadores que contienen pistas que nos ayudarán en la aventura, o engaños que nos harán perder el tiempo. Estos mensajes usan el mismo sistema que en _Demon's Souls_. Son construidos a partir de estructuras y palabras predefinidas. Esto permite, entre otras cosas, que sin importar en qué parte del mundo un jugador esté escribiendo una pista, esta aparecerá localizada para los demás al idioma en que estén jugando.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_coop-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_coop.jpg
+
+p(piefoto). Si tenemos dificultades para atravesar un nivel o derrotar a un jefe, siempre podemos quemar una humanidad en la hoguera e invocar a espíritus amistosos
+
+A pesar de sus problemas prácticos —fácilmente evitables, si no estás interesado en dedicarle demasiada energía a los combates contra otros humanos— este sistema soluciona de un plumazo el efecto "parque de atracciones" que plaga los RPGs online de la anterior generación. Nos permite explorar a nuestro ritmo, y ser los protagonistas de nuestro mundo, al mismo tiempo que podemos interactuar con otros jugadores, destilando cada encuentro solo a las partes interesantes. No hay chat de voz o texto posible. La única comunicación es mediante acciones en el juego y un repertiorio de gestos que podemos ampliar aprendiéndolos de otros personajes. La expansión _Artorias of the Abyss_ añadió también unas tallas mágicas que vocalizan ciertas frases al soltarlas en el suelo. Ya que, por diseño nuestras interacciones online serán fundamentalmente con _randoms_, esta decisión preserva la inmersión y la pureza ludonarrativa del juego, como ocurriera con _"Journey":{% post_url 2013-09-27-journey %}_ un juego con el mismo sistema de conexión online "sin fisuras" y similar filosofía.
+
+La manera principal de recuperar nuestra forma humana es utilizando una hoguera. Estas hogueras son uno de los elementos icónicos de la serie —y una de las mecánicas favoritas del director Hidetaka Miyazaki, según sus declaraciones— con gran razón pues son probablemente la mayor mejora en comparación con su predecesor espiritual. Actúan de base temporal, punto de control, zona de mejora del personaje y una gran variedad de funciones útiles. Una de ellas es la de sacrificar humanidad para recuperar nuestra forma humana. La humanidad es un recurso que posee nuestro personaje y se representa en un contador junto a la barra de vida. Viene en dos formas: la humanindad "blanda" es la que indica el contador y es la que nuestro personaje ha absorbido. Se acumula lentamente al matar enemigos en las zonas en las que no hayamos derrotado al jefe y las perdemos al morir, igual que todas nuestras almas, hasta que toquemos la mancha de sangre que queda en el punto de nuestra muerte. La otra forma de humanidad, la "dura" viene en forma de items que al consumirlos aumentan en 1 punto dicho contador y nos curan al instante. Estos items no desaparecen cuando morimos y los sueltan diversos enemigos, con lo que tendremos casi siempre garantizada una forma de recuperar nuestra forma humana.
+
+A estas alturas habrás podido apreciar que las mecánicas únicas a este juego son muchas e innovadoras y eso que ni siquiera nos hemos metido a describir los diversos tipos de armas, cada uno con su serie de movimientos y combos específicos o las tres categorías de magia con hechizos únicos o la gran variedad de formas de ir construyendo las habilidades de nuestro personaje, según qué aspectos enfaticemos. Quieres convertirte en un ninja ágil y rápido?, quizá un resistente guerrero que desate el poder de los milagros? Un mago de guerra especializado en encantamientos? Los estilos de juego son de lo más diverso, y es fácil encontrar una forma de jugar que nos resulte divertida e interesante.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/covershot-th.jpg!:/img/screenshots/2014-09-23-dark_souls/covershot.jpg
+
+p(piefoto). La gran libertad a la hora de configurar nuestro personaje da lugar a una cantidad de combinaciones abrumadora
+
+Pero _Dark Souls_ no se ha convertido en un juego de culto puramente en base a la fuerza de sus mecánicas y control. De hecho, una minoría de jugadores se encuentran con que les cuesta adaptarse al sistema de combate, que nos fuerza a tener en cuenta la inercia y peso de las armas al comprometernos a un ataque. La serie también ha adquirido una reputación de tener uno de los mundos de fantasía más ricos y fascinantes que se hayan visto en un RPG, y lo presenta de una manera tan periférica que es posible para el jugador ignorarla por completo —a menudo de forma no intencionada—
+
+Hay una vasta cantidad de detalles que dan carácter al mundo de _Dark Souls_ que sólo se mencionan de pasada. Subtramas enteras y trasfondos de personajes aparentemente  inconsecuentes a los que solo se alude en las descripciones de los objetos. El marco del juego omite deliberadamente información para dar paso a la conjetura y la interpretación. Muchos misterios del trasfondo no reciben respuestas concretas en el juego, abriendo las puertas a la constante especulación y elaboración de teorías de los fans. Estas son montadas a partir de observaciones presentes en el más mínimo aspecto del juego, ya sea un detalle escondido en una esquina de algún nivel, una críptica pista en el diálogo de un personaje o la descripción de un tesoro ubicado en un lugar sospechoso.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_vattenfall-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_vattenfall.jpg
+
+p(piefoto). Hasta en los lugares más deprimentes podemos encontrar algún atisbo de esperanza
+
+La mayor desventaja de presentar la información de este modo es que la vasta mayoría de jugadores la pasarán por alto, incluso los observadores. Es fácil adoptar una mentalidad similar a la de la mayoría de videojuegos y limitarse a atravesar los niveles con la vista puesta en nuestro próximo objetivo, ignorando que pocos detalles en _Dark Souls_ son gratuitos. Por suerte en este campo también existen cantidad de vídeos y artículos online que exploran el _lore_ de _Dark Souls_ y las más probables teorías sobre la trama y la historia del juego.
+
+Esta historia de trasfondo fue expandida casi un año después de su salida al mercado con el contenido extra _Artorias of the Abyss_, incluído desde su lanzamiento en la versión PC del juego. Esta edición llamada _Prepare to Die Edition_ es en este momento la versión definitiva de _Dark Souls_, siempre y cuando juegues con un gamepad, tal y como fue diseñado. La expansión añade nuevas regiones, personajes, enemigos y armas, y en lugar de ser un nivel al que se accede aparte, se integra en el mundo existente del juego de forma similar a cómo funcionan las expansiones de _The Elder Scrolls_ y otros RPGs de Bethesda.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-09-23-dark_souls/darksouls_waves-th.jpg!:/img/screenshots/2014-09-23-dark_souls/darksouls_waves.jpg
+
+p(piefoto). La expansión nos permite visitar entre otros personajes a los tres caballeros del rey, mencionados en el juego principal, pero que no aparecían en persona
+
+Meterse más de lleno a explicar las virtudes de esta historia sin duda aumentaría la apreciación de esta obra maestra para aquellos que desconocían la profundidad de su trama y la creación de su mundo de fantasía oscura. No descartamos tener un artículo en profundidad sobre todos los excelentes detalles de _Dark Souls_ en el futuro, pero este es únicamente una reseña libre de spoilers. Espero que haya servido para hacerte una idea de por qué esta serie de juegos ha adquirido tantos acérrimos seguidores e incitado a probarlo o a continuar jugando. La única derrota es rendirse.
+
+p(small). Capturas de pantalla cortesía de "@sane_john":https://twitter.com/Sane_John y "@metabody666":https://twitter.com/METABODY666
