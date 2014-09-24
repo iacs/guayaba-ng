@@ -1,0 +1,8 @@
+---
+layout: coleccion
+title: Souls de FROM Software
+miembros:
+    - Demon's Souls
+    - Dark Souls
+    - Dark Souls II
+---

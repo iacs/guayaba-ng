@@ -4,5 +4,4 @@ title: Gemas Retro
 miembros:
     - Alien Soldier
     - Recca
-    - Ice Hockey
 ---
