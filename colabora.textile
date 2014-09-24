@@ -1,6 +1,6 @@
 ---
 layout: infopage
-title: colabora
+title: Colabora
 ---
 
 h1. Colabora
@@ -9,7 +9,7 @@ h1. Colabora
 
 Siempre nos gusta conocer a gente interesada en colaborar con nosotros en la creación de la web. Puedes hacerlo de varias formas.
 
-Si tienes un dato o información que compartir, envíanoslo a nuestra cuenta de twitter, "@guayaba2600":https://twitter.com/guayaba2600/.
+Si tienes una noticia, dato o información que compartir, twitéanos a "@guayaba2600":https://twitter.com/guayaba2600/.
 
 Si prefieres contactar con nosotros en privado, envíanos un email a "articulos@guayaba2600.com":mailto:articulos@guayaba2600.com.
 
@@ -24,7 +24,9 @@ No nos limitamos en formatos ni en plataformas. Puedes escribir sobre los últim
 
 Buena suerte!
 
-h1. Bounties
+h2. Se busca
+
+No sabes por dónde empezar? A continuación te mostramos sugerencias de artículos que nos gustaría tener en la web, pero que todavía nadie ha escrito.
 
 <ul>
 {% assign todo_titulo = site.categories.reviews | map: 'title' %}
