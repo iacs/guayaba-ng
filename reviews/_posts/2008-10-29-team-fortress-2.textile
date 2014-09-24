@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Team Fortress 2"
 cover: tf2_cover.jpg
 score: 4
