@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: The Witcher
 cover: witcher.jpg
 score: 4

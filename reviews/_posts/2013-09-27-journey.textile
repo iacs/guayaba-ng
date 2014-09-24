@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: Journey
 cover: journey_cover.jpg
 score: 4

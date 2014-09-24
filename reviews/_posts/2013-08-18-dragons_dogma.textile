@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Dragon's Dogma: Dark Arisen"
 cover: ddda_cover.jpg
 score: 3

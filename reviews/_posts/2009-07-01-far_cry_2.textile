@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Far Cry 2"
 cover: fc2_cover.jpg
 score: 1
