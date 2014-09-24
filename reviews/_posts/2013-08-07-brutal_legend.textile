@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Brütal Legend"
 cover: BrutalLegendCover.jpg
 score: 3

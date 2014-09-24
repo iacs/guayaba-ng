@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: Contact
 cover: contact_ds.jpg
 score: 2

@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Virtua Fighter 5: Final Showdown"
 cover: vf5fs_cover.jpg
 score: 4

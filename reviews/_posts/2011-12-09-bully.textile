@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Bully: Scholarship Edition"
 cover: bully.jpg
 score: 3

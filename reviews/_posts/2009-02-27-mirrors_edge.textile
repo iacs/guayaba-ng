@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Mirror's Edge"
 cover: me_cover.jpg
 score: 3

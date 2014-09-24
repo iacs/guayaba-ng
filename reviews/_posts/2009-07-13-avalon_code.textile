@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Avalon Code"
 cover: avaloncode.jpg
 score: 2
