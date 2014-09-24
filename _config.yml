@@ -4,6 +4,7 @@ timezone: "Europe/Madrid"
 exclude: [salt, Vagrantfile, README.md, Rakefile, Gemfile, Gemfile.lock, guayaba.todo, config.rb, bootstrap-sass.gemspec]
 paginate: 10
 excerpt_separator: "</sep>"
+jquery: http://code.jquery.com/jquery-2.0.3.min.js
 
 collections:
     plataformas:
