@@ -34,3 +34,11 @@ layout: commonpost
 <div class="row">
     <div class="col-md-12 post-text">{{content}}</div>
 </div>
+
+{% for col in site.colecciones %}
+{% for juego in col.miembros %}
+    {% if page.title == juego %}
+    {% include panel_coleccion.html coleccion=col juego=page.title %}
+    {% endif %}
+{% endfor %}
+{% endfor %}

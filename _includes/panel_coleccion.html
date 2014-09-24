@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-md-8">
+        {% assign col_title = {{include.coleccion}}.title %} {% assign todo_titulo = site.categories.reviews | map: 'title' %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <p class="small">Este juego pertenece a la colección</p>
+                <h2 class="panel-title">{{ col_title }}</h2>
+            </div>
+            <div class="panel-body">
+                <div class="list-group">
+                    {% for juego in {{include.coleccion}}.miembros %}
+                    {% if todo_titulo contains juego %}<a href="{% for link in site.categories.reviews %}{% if link.title == juego %}{{link.url}}{% endif %}{% endfor %}" class="list-group-item {% if {{include.juego}} == juego %}active{% endif %}">{{juego}}</a>
+                    {% else %}<a class="list-group-item disabled">{{juego}}</a>{% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
