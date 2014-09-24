@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Vanquish"
 cover: vanquish.jpg
 score: 3

@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Muramasa: The Demon Blade"
 cover: muramasa_cover.jpg
 score: 2

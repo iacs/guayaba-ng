@@ -1,6 +1,5 @@
 ---
 layout: review
-category: review
 title: "Vampire: The Masquerade - Bloodlines"
 cover: vampire.jpg
 score: 3
