@@ -5,6 +5,9 @@ exclude: [salt, Vagrantfile, README.md, Rakefile, Gemfile, Gemfile.lock, guayaba
 paginate: 10
 excerpt_separator: "</sep>"
 jquery: http://code.jquery.com/jquery-2.0.3.min.js
+version:
+  major: 3
+  minor: 0
 
 collections:
     plataformas:
