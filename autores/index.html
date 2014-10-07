@@ -30,6 +30,7 @@ title: Autores
     </div>
     <div class="col-md-8">
         <h3>{% if author.fullname %}{{author.fullname}} <small>({{author.name}})</small>{% else %}{{author.name}}{% endif %}</h3>
+        <ul class="list-inline">{% for rol in author.roles %}<li><span class="label label-success tag">{{rol}}</span></li>{% endfor %}</ul>
         {{author.blurb}}
     </div>
 </div>
