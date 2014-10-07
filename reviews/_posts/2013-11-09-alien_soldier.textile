@@ -7,7 +7,7 @@ score: 3
 dev: Treasure
 formato: [Acción]
 genero: [Ciencia ficción]
-plataformas: [Megadrive, PlayStation 2, Wii]
+plataformas: [Mega Drive, PlayStation 2, Wii]
 year: 1995
 author: Iacus
 ---
