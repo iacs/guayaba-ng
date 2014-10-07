@@ -1,5 +1,6 @@
 -   name: Iacus
     fullname: Iago Mosquera
+    roles: [Editor jefe, Diseñador]
     avatar: brad.jpg
     blurb: "Lleva usando ordenadores literalmente desde antes de ir a la escuela. Aprecia y dedica tiempo a los videojuegos de gran pureza mecánica que requieren perfeccionar sus habilidades como jugador, aunque su predilección está en los juegos que le transporten a un mundo nuevo que habitar y explorar. Programador y diseñador, encamina su carrera profesional a crear los juegos que le gustaría que existiesen."
     homepage: 
@@ -14,7 +15,8 @@
 
 
 -   name: David 
-    fullname: David Muiños 
+    fullname: David Muiños
+    roles: [Editor]
     avatar: 
     blurb: "Filólogo y aprendiz de guionista, le entusiasma cualquier cosa con una buena narrativa. Nacido en la generación Nintendo, es un amante de los juegos de sigilo, lucha y los RPGs. Cualquier cosa innovadora y con valor artístico y narrativo le alegra el día. Half-Life, Thief, Deus Ex, The Witcher, Dark Souls y The King of Fighters están entre sus franquicias favoritas. Es el tío que escoge al personaje sigiloso. Su Final Fantasy favorito es el 6."
     homepage: 
