@@ -51,7 +51,7 @@ Una vez que dejamos Megaton y nos adentramos en el Yermo Capital nos vemos envue
 
 Una de las limitaciones del motor de __Morrowind__/__Oblivion__ es que los interiores están en "celdas" separadas de los exteriores, no integrados en un mismo mapa. Por eso nunca hay ventanas en las casas por las que podamos mirar afuera y la luz que se filtra por los agujeros de las oxidadas chapas en Fallout no es más que un efecto de iluminación, el agujero no lleva a ningún sitio. A estas alturas, queda patente que aunque hayan mejorado la distancia de visionado y hayan añadido iluminación HDR y física Havoc, el motor de __Morrowind__ ya se está quedando anticuado.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-23-fallout_3/fo3-ruinas-th.jpg!:/img/screenshots/2009-02-23-fallout_3/fo3-ruinas.png
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-23-fallout_3/covershot-th.jpg!:/img/screenshots/2009-02-23-fallout_3/covershot.png
 
 p(piefoto). Las ruinas son majestuosas y muy detalladas.
 

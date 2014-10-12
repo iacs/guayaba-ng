@@ -18,7 +18,7 @@ Treasure se fundó en 1992, comenzaron su carrera desarrollando juegos para la M
 
 Entonces, por dónde empezar? El juego es un revoltijo. Desde la historia hasta la dirección artística, todo parece formar parte de un caos contenido que no sirve a más maestros que al _gameplay_ y la acción.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/aliensol02-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/aliensol02.png
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-11-09-alien_soldier/covershot-th.jpg!:/img/screenshots/2013-11-09-alien_soldier/covershot.png
 
 p(piefoto). El pixel art es muy competente técnicamente, mientras que artísticamente es un amasijo de influencias dispares.
 
