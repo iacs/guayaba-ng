@@ -29,7 +29,7 @@ Varias sinopsis del manga nos dicen que la historia sigue a Bunshichi Tanba, un 
 
 Aunque Tanba es el protagonista principal, el modo historia del juego nos lleva a controlar diferentes personajes en cada episodio, permitiéndonos probar sus diferentes técnicas y estilos de lucha. Por suerte, es sencillo habituarse al control de los distintos personajes. No esperes dominar todas las técnicas de cualquier personaje tras jugar 5 minutos, pero el control es lo bastante homogéneo como para que no estés completamente perdido cuando el juego te pone al control de un personaje nuevo.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/garoden02-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/garoden02.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-25-garouden_bbfot/covershot-th.jpg!:/img/screenshots/2014-01-25-garouden_bbfot/covershot.jpg
 
 p(piefoto). La historia se desarrolla en Japón, y los escenarios realistas incluyen parques, callejones, estaciones de metro y por supuesto dojos, gimnasios y rings de lucha.
 

@@ -21,7 +21,7 @@ _The Witcher_ comienza con la misteriosa reaparición de Geralt tras haber regre
 
 Nuestro brujo comienza a recuperar sus habilidades rodeado de sus viejos colegas de profesión en la fortaleza secreta de Kaer Morhen, donde también está de visita su antigua amante, la hechicera Triss Merigold. Aquí obtenemos algunas piezas para hacer encajar en el pasado de Geralt, pero no hay tiempo de pararse a contemplar esto. La fortaleza de los brujos no es tan secreta como se creía y un hechicero acompañado de garrulos con hachas ataca el bastión. Mientras tanto, otro hechicero y su socio asesino se cuelan en el sótano y roban varios libros e ingredientes secretos hasta ahora celosamente guardados por los brujos. Naturalmente, le toca al Lobo Blanco ponerse en camino y localizar a los ladrones antes de que usen su nuevo y peligroso conocimiento para sus propios fines. 
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-01-witcher/screenshot01-th.jpg!:/img/screenshots/2014-01-01-witcher/screenshot01.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-01-01-witcher/covershot-th.jpg!:/img/screenshots/2014-01-01-witcher/covershot.jpg
 
 p(piefoto). La búsqueda de Geralt le llevará a explorar Temeria e interactuar con sus habitantes.
 

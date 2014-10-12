@@ -29,7 +29,7 @@ Verás que a lo largo e esta crítica haré bastantes comparaciones a otros jueg
 
 En la intro, aparecemos en el asiento de atrás de un jeep conducido por un taxista africano que nos hace un largo y tedioso tour del mapa y nos explica la situación de camino a nuestro hotel en Pala, la primera ciudad que visitaremos. Cuando ya hemos visto todo lo que los diseñadores querían que viésemos, justo antes de llegar a nuestro destino, nuestra visión se vuelve borrosa y amarillenta y empezamos a tener síntomas de mareos. El taxista para el coche y nos pregunta si estamos bien, pero no podemos oírle terminar su frase porque caemos desmayados. Nos hemos contagiado de malaria.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2009-07-01-far_cry_2/malaria1-th.jpg!:/img/screenshots/2009-07-01-far_cry_2/malaria1.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-07-01-far_cry_2/covershot-th.jpg!:/img/screenshots/2009-07-01-far_cry_2/covershot.jpg
 
 p(piefoto). Nos dará un ataque. Y en el juego también.
 

@@ -47,7 +47,7 @@ El problema es, precisamente, que hay que practicar. Nuestra primera vez jugando
 
 Creo que DICE debería tomar algunas páginas del libro de Valve. Testear los niveles hasta la saciedad de modo que fluyan perfectamente de principio a fin. Claro que, por lo que sé, quizá ya hicieron esto y no tuvieron tiempo para hacer niveles menos confusos, o decidieron ignorarlo. En cualquier caso, soy consciente de que diseñar un nivel de _Mirror's Edge_ es mucho más complejo que hacer uno de _Half-Life_. En otros aspectos, como el diseño de enemigos, también les vendría bien aprender algo de Valve. Los enemigos, con la _runner vision_ activada, están rodeados por una horrible aura roja que queda muy fuera de lugar. Esto hace que sepamos bien dónde se encuentran incluso en la oscuridad, pero hubiera sido preferible mejorar la legibilidad y el aspecto de dichos enemigos en relación con su entorno en vez de recurrir a ese pegote gráfico.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/me-slide-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/me-slide.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-02-27-mirrors_edge/covershot-th.jpg!:/img/screenshots/2009-02-27-mirrors_edge/covershot.jpg
 
 p(piefoto). La sensación de movimiento y corporalidad está magníficamente lograda.
 

@@ -75,7 +75,7 @@ p(piefoto). A pesar de las múltiples formas que hay de resolver una situación,
 
 Esta libertad es especialmente interesante teniendo en cuenta la distribución en zonas de los entornos de juego, lo que nos permite escoger distintos caminos en ciertas situaciones. Comenzaremos en Santa Monica y desbloquearemos otras zonas consistentes en pequeños distritos urbanos al estilo _Deus Ex_, pudiendo acceder desde ellos a interiores y mazmorras con NPCs con los que interactuar y otras cosas que hacer. La diferencia es que en _Bloodlines_ podremos desplazarnos libremente entre las zonas que ya conocemos en lugar de estar restringidos a quedarnos en una hasta alcanzar cierto punto de la trama.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2008-09-21-vampire/screenshot10-th.jpg!:/img/screenshots/2008-09-21-vampire/screenshot10.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2008-09-21-vampire/covershot-th.jpg!:/img/screenshots/2008-09-21-vampire/covershot.jpg
 
 p(piefoto). Las sórdidas calles del bajo Los Angeles conforman una zona amplia en la que se encuentran las centrales de varias facciones.
 
