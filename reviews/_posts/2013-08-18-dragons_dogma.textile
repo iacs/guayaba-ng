@@ -37,7 +37,7 @@ Pero todo esto hay veces que no se ejecuta bien, el juego no es del todo determi
 
 También puede elegir 3 tipos de clases, guerrero, mago, strider que luego más adelante podrá elegir 3 clases avanzadas y otras 3 mas hibridas, estas últimas solo pueden ser usadas nuestro personaje principal. Cada clase tiene sus habilidades, que podremos ir adquiriéndolas según obtengamos puntos por matar enemigos. Estas clases tienen hasta 9 niveles, según vas aumentando el nivel se desbloquean nuevas habilidades. Estas habilidades son específicas de cada clase, aunque algunas si pueden ser usadas con otra clase avanzada o hibrida. Aun así las hay que aumenta las características de nuestro personaje y estas sí que son iguales para todos, lo cual hace que te interese explorar otra clase para obtener ese tipo de aumento.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/covershot-th.jpg!:/img/screenshots/2013-08-18-dragons_dogma/covershot.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-18-dragons_dogma/covershot-th2.jpg!:/img/screenshots/2013-08-18-dragons_dogma/covershot.jpg
 
 p(piefoto). ¡No puedes pasar!
 

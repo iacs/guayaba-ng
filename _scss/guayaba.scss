@@ -11,11 +11,16 @@ $ui-gray: #101010;
 $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
-$cover-dimensions: 200px;
-$smbrand_facebook: #3b5998;
-$smbrand_twitter: #00aced;
-$smbrand_gplus: #dd4b39;
-$smbrand_linkedin: #007bb6;
+$covershot-width: 320px;
+$covershot-height: 180px;
+
+@mixin vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
 
 body {
     @include background($dark-green);
@@ -63,25 +68,25 @@ footer{
     margin-bottom: 15px;
 }
 
-.coverthumb{
-    float: left;
-    //margin: .5em 10px .5em 0;
-    overflow: hidden; /* this is important */
-    border: $border-default;
-    height: $cover-dimensions;
-    width: $cover-dimensions;
-    max-height: $cover-dimensions;
-    max-width: $cover-dimensions;
-    @include border-radius(6px);
+// .coverthumb{
+//     float: left;
+//     //margin: .5em 10px .5em 0;
+//     overflow: hidden; /* this is important */
+//     border: $border-default;
+//     height: $cover-dimensions;
+//     width: $cover-dimensions;
+//     max-height: $cover-dimensions;
+//     max-width: $cover-dimensions;
+//     @include border-radius(6px);
     
-    img {
-        margin: -25px 0px 0px 0px;
-        max-width: $cover-dimensions; 
-        width: 100%;
-    }
+//     img {
+//         margin: -25px 0px 0px 0px;
+//         max-width: $cover-dimensions; 
+//         width: 100%;
+//     }
     
     
-}
+// }
 
 .squarecover img {
     margin: 0px;
@@ -173,13 +178,43 @@ a.grid-cover-link span.gem-icon {
     margin-top: 0px;
 }
 
+// .covershot-main{
+//     overflow: hidden;
+//     width: $covershot-width;
+//     max-width: $covershot-width;
+//     height: $covershot-height;
+//     max-height: $covershot-height;
+//     border-top-left-radius: 6px;
+//     border-bottom-left-radius: 6px;
+    
+//     img {
+//         max-height: $covershot-height;
+//         max-width: $covershot-width;
+//         vertical-align: middle;
+//     }
+// }
+
 .covershot-main{
-    width: 320px;
-    max-width: 320px;
-    height: 180px;
-    max-height: 180px;
-    border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
+    display: block;
+    overflow: hidden;
+    width: $covershot-width;
+    height: $covershot-height;
+    @include border-radius(6px);
+    
+    img{
+        width: 100%;
+        @include vertical-align;
+    }
+}
+
+.covershot-xs{
+    overflow: hidden;
+    margin-bottom: 1em;
+    @include border-radius(6px);
+    
+    img{
+        width: 100%;
+    }
 }
 
 .no-border tbody tr td, .no-border thead tr th{
