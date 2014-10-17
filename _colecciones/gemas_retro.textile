@@ -1,7 +1,0 @@
----
-layout: coleccion
-title: Gemas Retro
-miembros:
-    - Alien Soldier
-    - Recca
----
