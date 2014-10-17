@@ -1,7 +1,7 @@
 ---
 layout: coleccion
 title: The Witcher
-franquicia: true
+serie: true
 miembros:
     - The Witcher
     - "The Witcher 2: Assassins of Kings"
