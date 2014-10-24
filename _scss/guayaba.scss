@@ -11,15 +11,23 @@ $ui-gray: #101010;
 $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
-$covershot-width: 320px;
-$covershot-height: 180px;
+$covershot-width: 300px;
+$covershot-height: 200px;
 
 @mixin vertical-align {
-  position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@mixin horizontal-align {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
 
 body {
@@ -202,8 +210,9 @@ a.grid-cover-link span.gem-icon {
     @include border-radius(6px);
     
     img{
-        width: 100%;
-        @include vertical-align;
+        height: 100%;
+        min-width: 100%;
+        @include horizontal-align;
     }
 }
 
@@ -219,6 +228,13 @@ a.grid-cover-link span.gem-icon {
 
 .no-border tbody tr td, .no-border thead tr th{
     border-style: none;
+}
+
+.avatar-lg{
+    max-width: 180px;
+    @include border-top-left-radius(50%);
+    @include border-bottom-left-radius(50%);
+    @include border-bottom-right-radius(50%);
 }
 
 /* Bootstrap cascades*/
