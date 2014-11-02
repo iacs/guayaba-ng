@@ -13,6 +13,8 @@ $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
 $covershot-width: 300px;
 $covershot-height: 200px;
+$covershot-grid-width: 200px;
+$covershot-grid-height: 133px;
 
 @mixin vertical-align {
     position: relative;
@@ -24,10 +26,10 @@ $covershot-height: 200px;
 
 @mixin horizontal-align {
     position: relative;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
+    // left: 50%;
+    // -webkit-transform: translateX(-50%);
+    // -ms-transform: translateX(-50%);
+    // transform: translateX(-50%);
 }
 
 body {
@@ -186,22 +188,6 @@ a.grid-cover-link span.gem-icon {
     margin-top: 0px;
 }
 
-// .covershot-main{
-//     overflow: hidden;
-//     width: $covershot-width;
-//     max-width: $covershot-width;
-//     height: $covershot-height;
-//     max-height: $covershot-height;
-//     border-top-left-radius: 6px;
-//     border-bottom-left-radius: 6px;
-    
-//     img {
-//         max-height: $covershot-height;
-//         max-width: $covershot-width;
-//         vertical-align: middle;
-//     }
-// }
-
 .covershot-main{
     display: block;
     overflow: hidden;
@@ -223,6 +209,21 @@ a.grid-cover-link span.gem-icon {
     
     img{
         width: 100%;
+    }
+}
+
+.covershot-grid{
+    display: block;
+    overflow: hidden;
+    width: $covershot-grid-width;
+    height: $covershot-grid-height;
+    margin: 0px auto 0px auto;
+    @include border-radius(6px);
+    
+    img{
+        height: 100%;
+        min-height: 100%;
+        @include horizontal-align;
     }
 }
 

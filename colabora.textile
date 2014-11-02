@@ -24,7 +24,7 @@ No nos limitamos en formatos ni en plataformas. Puedes escribir sobre los últim
 
 Buena suerte!
 
-h2. Se busca
+h2(#bounty). Se busca
 
 No sabes por dónde empezar? A continuación te mostramos sugerencias de artículos que nos gustaría tener en la web, pero que todavía nadie ha escrito.
 
