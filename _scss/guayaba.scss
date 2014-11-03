@@ -276,6 +276,11 @@ $dropdown-link-hover-bg: $guayaba-red;
     color: darken($guayaba-red, 5%);
 }
 
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
+    background-color: $guayaba-red;
+    border-color: $guayaba-red;
+}
+
 /* Container config */
 
 @media (min-width: 992px){
@@ -286,18 +291,3 @@ $dropdown-link-hover-bg: $guayaba-red;
         width: 960px;
     }
 }
-
-/* Mobile fix for gutters*/
-
-// @media (max-width: 767px) {
-//   body {
-//     padding-right: 0;
-//     padding-left: 0;
-//   }
-//   .navbar-fixed-top,
-//   .navbar-fixed-bottom,
-//   .navbar-static-top {
-//     margin-right: 0;
-//     margin-left: 0;
-//   }
-// }
