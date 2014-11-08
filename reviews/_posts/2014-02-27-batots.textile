@@ -8,6 +8,7 @@ year: 2013
 formato: [Aventura]
 genero: [cuento de hadas, fantasía]
 plataformas: [PlayStation 3, Xbox 360, Windows]
+definitive: Windows
 author: Iacus
 ---
 
@@ -19,7 +20,7 @@ __Brothers__ es un cuento de hadas interactivo dirigido por el cineasta sueco de
 
 El juego comienza con una escena enmarcada como fondo de la pantalla de título. Como en las grandes historias, la razón por la que esta pantalla de título es como es tiene un motivo. Como en las grandes historias, no descubriremos cuál es ese motivo hasta haber terminado el juego.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/brothers01-th.jpg!:/img/screenshots/2014-02-27-batots/brothers01.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/covershot-th.jpg!:/img/screenshots/2014-02-27-batots/covershot.jpg
 
 p(piefoto). Los inicios de la aventura son humildes, pero no por ello menos excitantes
 

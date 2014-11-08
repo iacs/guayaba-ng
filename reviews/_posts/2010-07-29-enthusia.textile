@@ -23,7 +23,7 @@ Elegir el coche es la decisión más importante de __Enthusia__, ya que determin
 
 El juego se divide en semanas y las carreras se celebran una vez por semana. Las 9 mejores puntuaciones conseguidas en las ultimas 12 semanas son las que cuentan para calcular el ranking. Cuando elegimos una carrera, un panel de información nos muestra los puntos que conseguiríamos al acabar en cada puesto. Sólo se consiguen puntos por acabar la carrera en 4º puesto o superior, en carreras de seis coches, aunque también hay duelos en los que competimos contra un único coche. En ese caso para conseguir los puntos tendremos lógicamente que vencer al rival. Cuanto mayor sea la dificultad de la carrera mayores serán los puntos a ganar. Por lo general, si llevamos un superdeportivo contra coches normales y acabamos de primero, obtendremos menos puntos que llevando un coche poco potente a la misma carrera y acabando de tercero
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-15-enthusia/rs-th.jpg!:/img/screenshots/2013-09-15-enthusia/rs.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2010-07-29-enthusia/rs-th.jpg!:/img/screenshots/2010-07-29-enthusia/rs.jpg
 
 p(piefoto). Despues de R1, está RS, la categoría más alta a la que se accede a través de una carrera especial y nos da acceso a los coches de carreras de más alta gama. La carrera del año es una épica batalla a 4 vueltas en el Nürburgring Nordschleife.
 
@@ -31,7 +31,7 @@ En vez de utilizar un engorroso sistema de dinero, conseguimos los coches ganand
 
 La selección de coches en sí es otro punto interesante de __Enthusia Professional Racing__. Con 211 coches para elegir, el abanico automovilístico puede parecer una minucia comparado con los más de 700 vehículos que ofrece __Gran Turismo 4__. La principal causa de esto es que el proyecto __Enthusia__ no contaba con el mismo presupuesto de un juego emblemático como GT4. Este reducido número se suple con una selección no estándar de coches que incluye vehículos de coleccionista como el BMW M1, o el raro supercoche EB110 de Bugatti. Es cierto que se echan en falta algunos fabricantes —Lamborghini, por ejemplo— y sería estupendo poder pilotar algunos coches exóticos como el Zonda F, pero por lo demás ¿quién necesita 23 variantes del Lancer Evolution o 17 modelos de RX-7? Tan sólo los aficionados más exigentes demandan tanto detalle. __Enthusia__, dentro de sus límites, presenta una selección de los más emblemáticos e interesantes coches que se puedan conducir.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-15-enthusia/bmw_m1-th.jpg!:/img/screenshots/2013-09-15-enthusia/bmw_m1.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2010-07-29-enthusia/bmw_m1-th.jpg!:/img/screenshots/2010-07-29-enthusia/bmw_m1.jpg
 
 p(piefoto). La selección de coches es más ecléctica que la del típico juego de carreras. Se incluyen coches poco convencionales como el BMW M1
 
@@ -43,7 +43,7 @@ Reconozco que un juego tan realista aumenta bastante la barrera de entrada. Yo t
 
 Cuando yo empecé con __Enthusia__ , me empeñaba en conducir exclusivamente coches FR. Mientras que un coche FF —motor frontal, tracción en las ruedas delanteras, la configuración de la mayoría de utilitarios— es más estable en carretera y tiende al subviraje, los coches FR tienden al sobreviraje, lo que los hace particularmente buenos para el __drifting__. Al principio me costaba habituarme a compensar el volante en las curvas, activaba la ayuda en el cambio de marchas para ir poco a poco, concentrándome en una cosa cada vez hasta dominarla. Las indicaciones que vienen al final del manual del juego sobre la línea óptima para tomar una curva y las diferencias entre subviraje y sobreviraje me resultaron muy útiles al aplicarlas al juego. Poco a poco fui mejorando. Al poco rato conducía siempre con cambio manual, para tener mayor control. Aprendí a conducir coches FR con total normalidad.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-15-enthusia/dragonrange-th.jpg!:/img/screenshots/2013-09-15-enthusia/dragonrange.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2010-07-29-enthusia/covershot-th.jpg!:/img/screenshots/2010-07-29-enthusia/covershot.jpg
 
 p(piefoto). Duelo en descenso por la carretera de montaña Dragon Range con un RX-7. Una de mis carreras favoritas en Enthusia.
 
@@ -59,7 +59,7 @@ Atención al detalle no le falta al juego, desde luego. Es posible que la pista 
 
 El otro modo de juego principal se llama Driving Revolution, y es el modo de entrenamiento, por así decirlo. Consiste en una serie de niveles, divididos en 4 etapas cada una, que pueden intentarse en cualquier orden. Una vez superadas las 4 etapas, se puede acceder al siguiente nivel. Las pruebas en sí están diseñadas para demostrar el comportamiento de diferentes tipos de coche y enseñar técnicas de conducción en los distintos circuítos y entornos, como por ejemplo qué hacer en circuitos donde hay barro en los bordes de la carretera o cómo conducir en entornos de lluvia o nieve. Lo genial de este modo es que todas las pruebas están diseñadas con un único elemento de juego, un indicador rectangular transparente que debemos atravesar con el coche. El indicador está cruzado por una barra que varía según la velocidad que llevemos. Si la barra está muy baja, significa que debemos acelerar, si está muy alta, debemos frenar. La mayor puntuación se consigue si atravesamos el indicador cuando la barra está a la mitad. Si superamos un mínimo exigido de puntos, ganamos la etapa. Se nos penaliza, al igual que en las carreras, por chocar, salirnos de la vía o ir en dirección contraria.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-15-enthusia/lluvia-th.jpg!:/img/screenshots/2013-09-15-enthusia/lluvia.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2010-07-29-enthusia/lluvia-th.jpg!:/img/screenshots/2010-07-29-enthusia/lluvia.jpg
 
 p(piefoto). Circuitos nocturnos, con lluvia o nieve. Enthusia ofrece gran variedad de condiciones en diferentes pistas.
 

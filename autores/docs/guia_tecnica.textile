@@ -5,8 +5,6 @@ description: "La web de Guayaba 2600 presenta una serie de diferencias a la hora
 lastrev: 2014-03-28
 ---
 
-{% include doc_header.html %}
-
 h2. Diferencias con respecto al método anterior
 
 En lugar de usar un editor web para publicar posts, la nueva web funciona con archivos que son convertidos e integrados en la página web personalizada mediante una serie de software especializado. Esto conlleva una serie de ventajas y desventajas.

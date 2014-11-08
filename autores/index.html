@@ -5,7 +5,7 @@ title: Autores
 
 <h1>Autores</h1>
 
-<p>Estos somos los que hacemos posible <strong>Guayaba 2600</strong>:</p>
+<p>Estos somos quienes hacemos posible <strong>Guayaba 2600</strong>:</p>
 
 </br>
 <h2>Equipo principal</h2>
@@ -14,7 +14,7 @@ title: Autores
 {% unless forloop.first %}<hr>{% endunless %}
 <div class="row" id="{{author.name}}">
     <div class="col-md-4">
-        <img src="{% if author.avatar %}/img/avatars/{{author.avatar}}{% else %}/img/avatars/generic.png{% endif %}" alt="{{author.name}}" class="img-circle border" style="max-width: 120px">
+        <img src="{% if author.avatar %}/img/avatars/{{author.avatar}}{% else %}/img/avatars/generic.png{% endif %}" alt="{{author.name}}" class="avatar-lg">
         </br></br>
         {% if author.homepage %}<p><span class="glyphicon glyphicon-home"></span> <a href="{{author.homepage}}">{% if author.homepage-name %}{{author.homepage-name}}{% else %}{{author.homepage}}{% endif %}</a></p>{% endif %}
         {% if author.email %}<p><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:{{author.email}}">{{author.email}}</a></p>{% endif %}
@@ -30,6 +30,7 @@ title: Autores
     </div>
     <div class="col-md-8">
         <h3>{% if author.fullname %}{{author.fullname}} <small>({{author.name}})</small>{% else %}{{author.name}}{% endif %}</h3>
+        <ul class="list-inline">{% for rol in author.roles %}<li><span class="label label-success tag">{{rol}}</span></li>{% endfor %}</ul>
         {{author.blurb}}
     </div>
 </div>

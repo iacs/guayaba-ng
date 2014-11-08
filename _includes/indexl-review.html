@@ -1,50 +1,27 @@
-<div class="row"><div class="col-md-12"><h3 ><a href="{{post.url}}">{{post.title}}</a></h3></div></div>
 <div class="row">
-    <div class="col-md-3 hidden-xs">
-        <p class="coverthumb{% if post.plataformas contains 'Nintendo DS' %} squarecover {% endif %}"><a href="{{post.url}}"><img src="/img/covers/{{post.cover}}" alt="Reseña de {{post.title}}"></a></p>
-    </div>
-    <div class="col-xs-12 visible-xs">
-        <a href="{{post.url}}" ><img src="/img/covers/{{post.cover}}" style="width: 480px" class="img-responsive img-rounded" alt="Reseña de {{post.title}}"></a>
-    </div>
-    <div class="col-md-9">
-        <p class="hidden-xs">{% if post.score == 0 %} <img src="/img/zero2x.gif" alt="*"> {% endif %}
-        {% if post.score == 1 %} <img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
-        {% if post.score == 2 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
-        {% if post.score == 3 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}
-        {% if post.score == 4 %} <img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"><img src="/img/guayaba_ico2x.gif" alt="*"> {% endif %}</p>
-        <p class="visible-xs">Puntuación: 
-            {% if post.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
-            {% if post.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-            {% if post.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-            {% if post.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-            {% if post.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        </p>
+            <div class="col-md-12"><h3 class="game-title-header-main"><a href="{{post.url}}">{{post.title}}</a></h3></div>
+        </div>
+<div class="row">
+    <div class="col-md-5 hidden-xs"><div class="covershot-main"><a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a></div></div>
+    <div class="col-xs-12 visible-xs"><div class="covershot-xs"><a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a></div></div>
+    <div class="col-md-7">
         <div class="row">
-        <div class="col-xs-12">
-            <ul class="list-unstyled">
-                <li>Una reseña de <strong><em>{% if post.originaltitle %}{{post.originaltitle}}{% else %}{{post.title}}{% endif %}</em></strong></li>
-                <li>Desarrollado por <strong>{{post.dev}}</strong></li>
-            </ul>
-            <ul class="list-unstyled">
-                <li><small>Texto por {{post.author}}</small></li>
-            </ul>
+            <div class="col-md-12">
+            {% if post.score == 0 %}<img src="/img/zero2x.gif" alt="*">
+            {% else %}
+            {% for g in (1..post.score) limit:4 %}<img src="/img/guayaba_ico2x.gif" alt="*">{% endfor %}
+            {% endif %}
+            </div>
         </div>
+        
+        <div class="row">
+            <div class="col-md-12">
+            <ul class="list-unstyled">
+            {% if post.originaltitle %}<li>Una reseña de <strong><em>{{post.originaltitle}}</em></strong></li>{% endif %}
+            <li>Desarrollado por <strong>{{post.dev}}</strong></li>
+            <li><small>Texto por {{post.author}}</small></li>
+            </ul>
+            </div>
         </div>
-    </div>
-</div>
-{% if post.spoiler %}{% include spoiler_warning.html %}{% endif %}
-<div class="row">
-    <div class="col-md-3">
-    <ul class="list-inline">{% for plat in post.plataformas %}
-        <li><span class="label label-success tag">{{plat}}</span></li>
-    {% endfor %}</ul>
-    </div>
-    <div class="col-md-9 text-justify">
-        {{post.excerpt}}
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-12">
-        <a href="{{post.url}}" class="btn btn-default pull-right">Seguir leyendo &raquo;</a>        
     </div>
 </div>

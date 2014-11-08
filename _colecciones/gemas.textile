@@ -1,0 +1,12 @@
+---
+layout: coleccion
+title: Gemas
+miembros:
+    - Alien Soldier
+    - Recca
+    - Enthusia Professional Racing
+    - "Garouden Breakblow: Fist or Twist"
+    - Gravity Bone
+---
+
+Nuestra selección conservada de gemas olvidadas, retro y títulos indie. No todas son obras maestras del videojuego, pero sí son fascinantes ejemplos de la diversidad (y rareza) del medio.

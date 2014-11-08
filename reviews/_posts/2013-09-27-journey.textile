@@ -45,7 +45,7 @@ Bajo este criterio, resulta que __Journey__ es sin duda un juego
 
 Los recursos a los que se refiere esta definición, en el caso que nos ocupa es el patrón cosido en la bufanda de los personajes, y los glifos que podemos recoger a lo largo del juego. El patrón dibujado en nuestra bufanda representa cuanto tiempo podemos flotar al pulsar el botón X. Cuanto más larga sea la bufanda, más patrón podremos "almacenar". Al adquirir un nuevo glifo, nuestra bufanda se alarga un poco más y el glifo pasa a formar parte de nuestra colección.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/journey02-th.jpg!:/img/screenshots/2013-09-27-journey/journey02.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-09-27-journey/covershot-th.jpg!:/img/screenshots/2013-09-27-journey/covershot.jpg
 
 p(piefoto). La montaña está presente como una baliza hacia la que orientar nuestros pasos.
 

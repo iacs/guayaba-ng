@@ -33,7 +33,7 @@ Teniendo en cuenta la distribución de las pantallas, da la sensación de que lo
 
 El modo de combate tampoco se puede decir que tenga mucha ciencia. Se basa en pulsar el botón A todo lo que se pueda, en combinación con las teclas de dirección y en diferentes circunstancias (en el aire, agachado, etc.). La mayor variedad que se va a encontrar el jugador a la hora de combatir, es la diferencia entre usar una __katana__ y una __tachi__. La primera es más corta y rápida, permitiendo hacer combos espectaculares, y la segunda es más larga y lenta, pero tiene la ventaja de permitir al personaje flotar mientras golpea con ella y hacer combos en el aire, lo cual es muy útil contra cierto tipo de enemigos. Además, bloqueando ciertos ataques y golpeando a enemigos que se están protegiendo se desgastan las espadas y se rompen, así que hay que cambiar rápidamente a otra de las tres que llevemos equipadas mientras las rotas se regeneran.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-15-muramasa/mura03-th.jpg!:/img/screenshots/2009-10-15-muramasa/mura03.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-15-muramasa/covershot-th.jpg!:/img/screenshots/2009-10-15-muramasa/covershot.jpg
 
 p(piefoto). Luchar contra hordas de enemigos es lo único en lo que se basa el juego, lo cual termina por cansar. Afortunadamente, el control es muy sencillo. 
 

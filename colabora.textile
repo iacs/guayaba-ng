@@ -1,6 +1,6 @@
 ---
 layout: infopage
-title: colabora
+title: Colabora
 ---
 
 h1. Colabora
@@ -9,7 +9,7 @@ h1. Colabora
 
 Siempre nos gusta conocer a gente interesada en colaborar con nosotros en la creación de la web. Puedes hacerlo de varias formas.
 
-Si tienes un dato o información que compartir, envíanoslo a nuestra cuenta de twitter, "@guayaba2600":https://twitter.com/guayaba2600/.
+Si tienes una noticia, dato o información que compartir, twitéanos a "@guayaba2600":https://twitter.com/guayaba2600/.
 
 Si prefieres contactar con nosotros en privado, envíanos un email a "articulos@guayaba2600.com":mailto:articulos@guayaba2600.com.
 
@@ -23,3 +23,16 @@ Si quieres escribir en Guayaba 2600 puedes enviarnos proposiciones para artícul
 No nos limitamos en formatos ni en plataformas. Puedes escribir sobre los últimos lanzamientos de Xbox 360, sobre juegos indie, aventuras de texto o centrarte exclusivamente en artículos sobre juegos con robots gigantes. Lo que más te guste.
 
 Buena suerte!
+
+h2(#bounty). Se busca
+
+No sabes por dónde empezar? A continuación te mostramos sugerencias de artículos que nos gustaría tener en la web, pero que todavía nadie ha escrito.
+
+<ul>
+{% assign todo_titulo = site.categories.reviews | map: 'title' %}
+{% for col in site.colecciones %}
+{% for juego in col.miembros %}
+    {% if todo_titulo contains juego %}{% else %}<li>{{juego}}</li>{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>

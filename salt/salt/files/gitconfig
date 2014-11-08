@@ -1,0 +1,12 @@
+[user]
+	name = Iago Mosquera
+	email = flackon@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = false
+[push]
+	default = simple
+[alias]
+        co = checkout
+        cm = commit
+        st = status

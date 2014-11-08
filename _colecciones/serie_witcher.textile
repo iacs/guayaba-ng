@@ -1,0 +1,8 @@
+---
+layout: coleccion
+title: The Witcher
+serie: true
+miembros:
+    - The Witcher
+    - "The Witcher 2: Assassins of Kings"
+---

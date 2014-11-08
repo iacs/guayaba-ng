@@ -1,6 +1,17 @@
 future: false
 safe: false
 timezone: "Europe/Madrid"
-exclude: [README.md, Rakefile, Gemfile, Gemfile.lock, guayaba.todo, config.rb, bootstrap-sass.gemspec]
+exclude: [salt, Vagrantfile, README.md, Rakefile, Gemfile, Gemfile.lock, guayaba.todo, config.rb, bootstrap-sass.gemspec]
 paginate: 10
 excerpt_separator: "</sep>"
+jquery: http://code.jquery.com/jquery-2.0.3.min.js
+version:
+  major: 3
+  minor: 0
+
+collections:
+    plataformas:
+        output: true
+    colecciones:
+        output: true
+        layout: coleccion
