@@ -7,7 +7,7 @@ dev: CDProjekt RED
 year: 2011
 formato: [RPG]
 genero: ["fantasía"]
-plataformas: [Windows, Xbox 360, OSX, GNU/Linux]
+plataformas: [Windows, Xbox 360, OS X, GNU/Linux]
 author: David
 ---
 
@@ -17,7 +17,7 @@ La primera entrega de la saga de Geralt de Rivia en videojuegos fue un éxito so
 
 Lo que esto permitió fue una mejora visual, de jugabilidad y de escala. Esta secuela nos da un mundo más grande, más rico, más vivo y repleto de detalles. Si te muestran una panorámica de las retorcidas calles de La Valette, puedes estar seguro de que podrás recorrer cada esquina. No se trata tanto de apreciar los gráficos como de obtener una experiencia más inmersiva. Cuantos menos encuentros tengamos con barreras artificiales, mejor. Y esto en CD Projekt RED se lo tomaron a pecho: frente a la multitud de pantallas de carga que había en el juego anterior, esta entrega nos asedia con la friolera de... cuatro. Por supuesto, que los gráficos sean la leche también ayuda en un RPG épico.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2014-05-19-witcher2/screenshot01-th.jpg!:/img/screenshots/2014-05-19-witcher2/screenshot01.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-05-19-witcher2/covershot-th.jpg!:/img/screenshots/2014-05-19-witcher2/covershot.jpg
 
 p(piefoto). ¿Esas torres del castillo a lo lejos? Las visitarás.
 

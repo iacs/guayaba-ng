@@ -17,7 +17,7 @@ No puedo considerarme un experto de primera mano en la historia de __Virtua Figh
 
 Fue, como dije, casi un accidente. Entre algunas frases sueltas leídas en foros y un poco de curiosidad propía, me encontré con una copia de VF4 en mis manos. Por aquel entonces mi juego de lucha favorito era la serie __The King of Fighters__ de SNK. Una serie tan conocida por su magnífica caracterización de personajes y su vibrante personalidad como por su profundidad táctica y variedad de movimientos y personajes. Como jugador no podía decirse que fuera especialmente bueno —a pesar de que una placa trucada de KOF 2002 tuvo una larga presencia en uno de los arcades locales, era complicado encontrar rivales humanos contra los que jugar— siempre aprecié y respeté la técnica involucrada en el juego de alto nivel. Por aquel entonces también estaba entrando en el mundo de los shooters, que vivían su época dorada con títulos como __Ikaruga__. Nos llegaban los ecos de una era de excelentes juegos japoneses que combinaban un impecable estilo con una jugabilidad que premiaba la pura habilidad por encima de todo. En este ambiente fue cuando comencé a jugar a __Virtua Fighter 4__ e inmediatamente quedé enganchado. Había descubierto el Mejor Juego de Lucha 3D Jamás Creado.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/akira-goh-th.jpg!:/img/screenshots/2013-07-04-vf5fs/akira-goh.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-12-vf5fs/akira-goh-th.jpg!:/img/screenshots/2013-08-12-vf5fs/akira-goh.jpg
 
 p(piefoto). Los combates buscan un estilo cinemático y satisfactorio al jugarlo, pero con un estilo ostensiblemente realista
 
@@ -29,7 +29,7 @@ Al nivel más básico, tenemos el joystick para mover a nuestro personaje y los 
 
 Esto es tan solo una fracción del profundo sistema de combate de __Virtua Fighter 5__ y si parece una locura tener todo esto en el coco mientras nos enfrentamos en un intenso combate a unos fluídos 60 fotogramas por segundo, es porque lo es. VF5 es un juego que recompensa la experiencia, el entrenamiento y la dedicación. Lo que al principio parece de una complejidad inabarcable se convierte, cuando adquirimos práctica, en una sensación de satisfacción que pocos juegos consiguen transmitir. Cuando, por muy lentamente que avancemos, conseguimos interiorizar el sistema de lucha, afinar nuestros reflejos y ejecutar el golpe idóneo en la situación adecuada, o defendernos del asalto del oponente contra todo pronóstico, o anticiparnos a sus movimientos y rechazar sus agarres o desviar sus ataques, presenciaremos —no, formaremos parte— de un momento más fascinante que cualquier escena de lucha de una película de kung-fu.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/lei-lau-th.jpg!:/img/screenshots/2013-07-04-vf5fs/lei-lau.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-12-vf5fs/lei-lau-th.jpg!:/img/screenshots/2013-08-12-vf5fs/lei-lau.jpg
 
 p(piefoto). Kung-fu contra kung-fu en la Muralla China
 
@@ -37,7 +37,7 @@ Hablando de kung-fu, las artes marciales son un pilar principal de la experienci
 
 Entre los estilos de lucha disponibles podemos encontrar casi de todo, desde aikido, vale tudo o jeet kune do hasta el temible bajiquan o la lucha grecorromana, por no mencionar seis estilos diferentes de kung-fu chino entre los que se incluyen el estilo de la mantis, el tigre-grulla o el estilo Shaolin. Para redondear la selección no faltan artes marciales menos ortodoxas como la lucha libre mexicana o el sumo, que son igualmente efectivas y vistosas que las demás.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/jean-taka-th.jpg!:/img/screenshots/2013-07-04-vf5fs/jean-taka.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-12-vf5fs/covershot-th.jpg!:/img/screenshots/2013-08-12-vf5fs/covershot.jpg
 
 p(piefoto). Cada personaje es un mundo y requiere gran dedicación llegar a dominarlo
 
@@ -47,7 +47,7 @@ A diferencia de otros juegos más casuales que se prestan mejor al "coger y juga
 
 Pero basta de detalles mecánicos. Esto no pretende ser una guía de juego y creo que ya he sido lo bastante efusivo con el sistema de lucha. En sus otros aspectos, __Virtua Fighter 5: Final Showdown__ no decepciona. Las animaciones son las más fluidas y bien integradas que hay en cualquier juego de lucha 3D. Esto ya era cierto en la época de __Virtua Fighter 4__ en la PlayStation 2, y a día de hoy sigue sin haber un juego que lo haya sobrepasado y —tristemente— siquiera igualado en este aspecto. Los combates tienen impacto y dejan que los cuerpos y los movimientos de los luchadores hablen por sí solos, sin recurrir a distorsiones y efectos de partículas para sazonar los gráficos, a excepción de una sutil iluminación amarilla o roja cuando conectamos con un __counter__. Los combates se desarrollan a 60 fotogramas por segundo constantes (algo vital para un juego tan preciso como este) y en las opciones podemos escoger varios arreglos musicales que abarcan la serie principal de VF.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/kage-pai-th.jpg!:/img/screenshots/2013-07-04-vf5fs/kage-pai.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-12-vf5fs/kage-pai-th.jpg!:/img/screenshots/2013-08-12-vf5fs/kage-pai.jpg
 
 p(piefoto). El modo de un jugador es pasable, pero nada comparado con otras versiones de consola de anteriores entregas
 
@@ -57,7 +57,7 @@ Si bien es cierto que donde un juego competitivo de alto nivel como __Virtua Fig
 
 Las opciones de personalización de personajes son muy buenas, con una enorme variedad de accesorios y hasta seis bases de atuendos diferentes por luchador. El problema es que para poder acceder a estas opciones, debemos comprar y descargar el pack de DLC correspondiente a cada personaje. Comprarlos todos en dos grupos nos costará tanto como el juego base y eso es algo que, por muy defensor de VF que yo pueda ser, no me parece de recibo.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-07-04-vf5fs/sarah-goh-th.jpg!:/img/screenshots/2013-07-04-vf5fs/sarah-goh.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-12-vf5fs/sarah-goh-th.jpg!:/img/screenshots/2013-08-12-vf5fs/sarah-goh.jpg
 
 p(piefoto). Hay varios trajes distintos para cada personaje, con muchas posibilidades de personalización
 

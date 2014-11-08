@@ -1,7 +1,6 @@
 // customize bootstrap variables here:
 //@import "variables";
 @import "bootstrap";
-
 @import "compass";
 
 $dark-green:  rgba(205,235,142,1);
@@ -12,11 +11,26 @@ $ui-gray: #101010;
 $entry: #f2f7e9;
 $border-default: 1px solid #ccc;
 $font-stack: 'Montserrat', 'Helvetica', sans-serif;
-$cover-dimensions: 200px;
-$smbrand_facebook: #3b5998;
-$smbrand_twitter: #00aced;
-$smbrand_gplus: #dd4b39;
-$smbrand_linkedin: #007bb6;
+$covershot-width: 300px;
+$covershot-height: 200px;
+$covershot-grid-width: 200px;
+$covershot-grid-height: 133px;
+
+@mixin vertical-align {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@mixin horizontal-align {
+    position: relative;
+    // left: 50%;
+    // -webkit-transform: translateX(-50%);
+    // -ms-transform: translateX(-50%);
+    // transform: translateX(-50%);
+}
 
 body {
     @include background($dark-green);
@@ -64,25 +78,25 @@ footer{
     margin-bottom: 15px;
 }
 
-.coverthumb{
-    float: left;
-    //margin: .5em 10px .5em 0;
-    overflow: hidden; /* this is important */
-    border: $border-default;
-    height: $cover-dimensions;
-    width: $cover-dimensions;
-    max-height: $cover-dimensions;
-    max-width: $cover-dimensions;
-    @include border-radius(6px);
+// .coverthumb{
+//     float: left;
+//     //margin: .5em 10px .5em 0;
+//     overflow: hidden; /* this is important */
+//     border: $border-default;
+//     height: $cover-dimensions;
+//     width: $cover-dimensions;
+//     max-height: $cover-dimensions;
+//     max-width: $cover-dimensions;
+//     @include border-radius(6px);
     
-    img {
-        margin: -25px 0px 0px 0px;
-        max-width: $cover-dimensions; 
-        width: 100%;
-    }
+//     img {
+//         margin: -25px 0px 0px 0px;
+//         max-width: $cover-dimensions; 
+//         width: 100%;
+//     }
     
     
-}
+// }
 
 .squarecover img {
     margin: 0px;
@@ -117,7 +131,7 @@ footer{
 
 .social-icons-list img:hover
 {
-    background-color: $guayaba-purple;
+    //background-color: $guayaba-purple;
 }
 
 .tag{
@@ -170,6 +184,60 @@ a.grid-cover-link span.gem-icon {
         );
 }
 
+.game-title-header-main{
+    margin-top: 0px;
+}
+
+.covershot-main{
+    display: block;
+    overflow: hidden;
+    width: $covershot-width;
+    height: $covershot-height;
+    @include border-radius(6px);
+    
+    img{
+        height: 100%;
+        min-width: 100%;
+        @include horizontal-align;
+    }
+}
+
+.covershot-xs{
+    overflow: hidden;
+    margin-bottom: 1em;
+    @include border-radius(6px);
+    
+    img{
+        width: 100%;
+    }
+}
+
+.covershot-grid{
+    display: block;
+    overflow: hidden;
+    width: $covershot-grid-width;
+    height: $covershot-grid-height;
+    margin: 0px auto 0px auto;
+    @include border-radius(6px);
+    
+    img{
+        height: 100%;
+        min-height: 100%;
+        @include horizontal-align;
+    }
+}
+
+.no-border tbody tr td, .no-border thead tr th{
+    border-style: none;
+}
+
+.avatar-lg{
+    max-width: 180px;
+    @include border-top-left-radius(50%);
+    @include border-bottom-left-radius(50%);
+    @include border-bottom-right-radius(50%);
+}
+
 /* Bootstrap cascades*/
 
 $dropdown-bg: rgb(8,8,8);
@@ -208,6 +276,11 @@ $dropdown-link-hover-bg: $guayaba-red;
     color: darken($guayaba-red, 5%);
 }
 
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus {
+    background-color: $guayaba-red;
+    border-color: $guayaba-red;
+}
+
 /* Container config */
 
 @media (min-width: 992px){
@@ -218,18 +291,3 @@ $dropdown-link-hover-bg: $guayaba-red;
         width: 960px;
     }
 }
-
-/* Mobile fix for gutters*/
-
-// @media (max-width: 767px) {
-//   body {
-//     padding-right: 0;
-//     padding-left: 0;
-//   }
-//   .navbar-fixed-top,
-//   .navbar-fixed-bottom,
-//   .navbar-static-top {
-//     margin-right: 0;
-//     margin-left: 0;
-//   }
-// }

@@ -61,7 +61,7 @@ Desde el principio se le dice al héroe que es el elegido del libro para crear u
 
 Lo de los romances sí que es bastante interesante. Son opcionales y hay donde elegir. Solo se pueden desarrollar durante unos pocos capítulos del juego y el post-game por exigencias de la trama, pero es tiempo suficiente. Lo bueno del sistema es que cada personaje tiene no solo sus gustos, sino también un conflicto personal tal que si le ayudamos a resolverlo lograremos conquistarla. A lo largo del cortejo iremos obteniendo cada vez más confianza por su parte e iremos viendo cómo nuestro héroe/heroína le gusta cada vez más, hasta que nuestros esfuerzos se verán recompensados con citas románticas y una declaración de amor. Lo mejor de todo es que esto tiene impacto en la trama principal, ya que en cierto punto de la historia, si tenemos pareja, esta será lanzada a los cielos por el villano y la perderemos. Durante un breve segmento del juego, nos quitan el Book of Prophecy y solo conservamos un par de páginas, una de las cuales es la de nuestra media naranja, que aparecerá en secuencias cinemáticas y diálogos, siendo manipulada por el héroe y específicamente referenciada por otros personajes que hablan con él. Un punto a favor de _Avalon Code_ por incorporar un sistema de ligue que, sin que la trama principal lo exija, tiene un impacto tangible en esta. 
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2009-07-13-avalon_code/screenshot07-th.jpg!:/img/screenshots/2009-07-13-avalon_code/screenshot07.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-07-13-avalon_code/covershot-th.jpg!:/img/screenshots/2009-07-13-avalon_code/covershot.jpg
 
 p(piefoto). Nuestro irresistible galán, a punto de tirarle los trastos a la pelirroja explosiva.
 

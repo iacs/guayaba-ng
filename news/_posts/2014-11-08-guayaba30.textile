@@ -1,0 +1,19 @@
+---
+layout: blogpost
+title: "Guayaba 2600 versión 3.0"
+author: Iacus
+---
+
+Hola a todos.
+
+Tras varios meses de trabajo aquí y allá, presentamos la versión 3.0 de la web que trae consigo algunos cambios considerables. Como puedes observar, la página principal ahora usa una presentación con capturas de pantalla, que creo resultan más atractivas que ver una lista de carátulas. La maquetación es más compacta, dando prioridad a las reseñas, aunque los posts de noticias como este siguen siendo accesibles.
+
+Si las entradas en la página inicial te parecen un poco prosaicas, no te preocupes. Pondremos una descripción en cada uno de los juegos en la medida que el tiempo nos lo vaya permitiendo.
+
+Hay una gran cantidad de pequeñas mejoras en casi todo el sitio, pero otro de los grandes añadidos son las colecciones. Las colecciones son, como el nombre indica, agrupaciones de juegos basadas en algún tema o aspecto en común así como una manera de listar varios juegos de una misma serie. Las gemas que previamente tenían su página especial son ahora una colección, así que recomendamos actualizar los enlaces, que los que encontrarás en el menú *Colecciones* en la barra de navegación.
+
+Estoy trabajando ya en la versión 3.1 del sitio, que incluye fundamentalmente arreglos y mejoras entre bastidores, pero traerá también una importante novedad que afectará sobre todo a los autores de artículos. Por upuesto seguirá habiendo nuevas reseñas y artículos como de costumbre durante este período.
+
+Como siempre, aceptamos sugerencias y comentarios.
+
+Mantente al tanto y hasta la próxima.

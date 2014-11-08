@@ -12,4 +12,4 @@ Era innecesariamente confuso para el lector y no tenia sentido tener dos tipos d
 
 Lo que ha cambiado es que el concepto de las **gemas olvidadas** perdura en una nueva página que recoge estos juegos llamativos, fascinantes o que por cualquier motivo no recibieron un merecido reconocimiento en su época.
 
-En la página de "gemas":/gemas.html están compilados los artículos de estos juegos. La idea es ir construyendo un **salón de la fama** y poco a poco arrojar algo de luz sobre títulos que pueden habérsele pasado por alto al aficionado medio, manteniendo la web fácil de navegar.
+En la página de gemas (actualización: las gemas están ahora en el menú *Colecciones*. Véase "este post":{% post_url 2014-11-08-guayaba30 %}) están compilados los artículos de estos juegos. La idea es ir construyendo un **salón de la fama** y poco a poco arrojar algo de luz sobre títulos que pueden habérsele pasado por alto al aficionado medio, manteniendo la web fácil de navegar.

@@ -7,7 +7,7 @@ dev: "Double Fine"
 year: 2009 (2013 PC/Mac)
 formato: [aventura, RPG, RTS]
 genero: [fantasía épica, heavy metal]
-plataformas: [Windows, Mac, Xbox 360, PlayStation 3]
+plataformas: [Windows, OS X, GNU/Linux, Xbox 360, PlayStation 3]
 author: David
 ---
 
@@ -43,7 +43,7 @@ Toda la dirección artística del juego le confiere una personalidad con relieve
 
 Este es uno de los aspectos más destacables y bonitos del juego. Y también uno de los que generaron más gastos. La banda sonora que suena desde la radio del _hotrod_ de Eddie es amplia y muy satisfactoria para los fans de la guitarra eléctrica, el doble bombo y el falsete. Desde grupos míticos como Judas Priest, Motörhead, Marilyn Manson, Black Sabbath o Manowar hasta grupos menos conocidos pero con talento como Girlschool, 3 Inches of Blood, Slough Fegh, Crimson Glory o Candlemass. Además, algunas de las canciones de la radio también suenan en momentos clave del juego, adaptadas para acompañar la escena. Huir en coche de un inmenso palacio que se derrumba mientras suena _Through the Fire and Flames_ de Dragonforce. Adentrarse en una guarida de arañas metálicas mientras se oye un bucle de la introducción de _Cry of the Banshee_ de Brocas Helm. La canción estalla en toda su gloria cuando la gigantesca reina de las arañas, completamente hecha de metal cromado, salta sobre Eddie y procedemos a derrotarla. Y no digo nada de Judas Priest en el combate final. Schafer invirtió tiempo, dinero y cuidado en hacer que la banda sonora tuviera una escala enorme y embrujara a fans del género. Empezó tímidamente, reclutando grupos pequeños, hasta que consiguieron a Jack Black para el papel protagonista y a partir de ahí se empezaron a abrir puertas. Lemmy Kilmister, Rob Halford, Ozzy Osbourne y Lita Ford tienen papeles de doblaje y personajes modelados como ellos en el juego. Si el juego hubiera podido ser más largo, tal vez habrían entrado más grupos que se quedaron fuera. Algunos pedían demasiado dineros, otros no estaban interesados por razones de marketing, y otros no llegaron a tiempo, como es el caso de Iron Maiden. Se los echa de menos en la Tierra del Metal.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-07-brutal_legend/screenshot04-th.jpg!:/img/screenshots/2013-08-07-brutal_legend/screenshot04.jpg
+p(pagination-centered). !(entry-screen)/img/screenshots/2013-08-07-brutal_legend/covershot-th.jpg!:/img/screenshots/2013-08-07-brutal_legend/covershot.jpg
 
 Y ya que estamos con el tema del sonido, no podemos acabar sin cantar las alabanzas (eso sí, con un buen falsete) de Jack Black. Poniendo voz a Eddie Riggs, su apasionada interpretación nos trae risas y drama a partes iguales. El sentido del humor ácido y negro del juego se quedaría hueco sin los chascarrillos e ingenio del famoso actor. Y qué es un héroe sin su antagonista? O en el caso de BL, qué es un Jack Black sin su Tim Curry? El legendario actor que dio vida a Darkness en _Legend_ (lo siento, es que es mi papel favorito de su carrera) regresa como villano principal en el papel del Emperador Doviculus. No hay muchas voces que hubieran podido hacer ese papel tan perturbador. Nos da escalofríos y ganas de oír más al mismo tiempo. Sus músculos, sus cuernos, sus garras, su piel cosida, sus alas coriáceas y su guitarra doble no nos darían ni pizca de miedo si no fueran acompañados por esa voz tan escalofriante.
 
