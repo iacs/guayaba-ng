@@ -1,11 +1,11 @@
 <div class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+  <button type="button" class="btn btn-default dropdown-toggle" id="ddm1" data-toggle="dropdown">
     <span class="glyphicon glyphicon-share"></span> Compartir <span class="caret"></span>
   </button>
-  <ul class="dropdown-menu" role="menu">
-    <li><a href="https://www.facebook.com/sharer/sharer.php?u={{page.url | cgi_escape}}" target="_blank">Facebook</a></li>
-    <li><a href="https://twitter.com/intent/tweet?url={{page.url | cgi_escape}}&text={{page.title}}&hashtags=guayaba2600" target="_blank">Twitter</a></li>
-    <li><a href="https://plus.google.com/share?url={{page.url | cgi_escape}}" target="_blank">Google+</a></li>
-    <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{page.url | cgi_escape}}&source=Guayaba2600&title={{page.title}}" target="_blank">LinkedIn</a></li>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="ddm1">
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.facebook.com/sharer/sharer.php?u={{page.url | cgi_escape}}" target="_blank">Facebook</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://twitter.com/intent/tweet?url={{page.url | cgi_escape}}&text={{page.title}}&hashtags=guayaba2600" target="_blank">Twitter</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="https://plus.google.com/share?url={{page.url | cgi_escape}}" target="_blank">Google+</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="http://www.linkedin.com/shareArticle?mini=true&url={{page.url | cgi_escape}}&source=Guayaba2600&title={{page.title}}" target="_blank">LinkedIn</a></li>
   </ul>
 </div>
