@@ -8,7 +8,7 @@ layout: infopage
 {% assign todo_titulo = site.categories.reviews | map: 'title' %}
 <div class="row">
 {% for juego in page.miembros %}
-<div class="col-xs-12 col-md-4">
+<div class="col-xs-12 col-sm-6 col-md-4">
     {% for post in site.categories.reviews %}
         {% if post.title == juego %}
             <div class="thumbnail">
