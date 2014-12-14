@@ -18,9 +18,8 @@
   <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
   <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
-  {% for post in site.posts %}
-  <item>
-      <title>{{ post.title }}{% if post.score == 0 %} (cero) {% endif %}{% if post.score == 1 %} (*) {% endif %}{% if post.score == 2 %} (**) {% endif %}{% if post.score == 3 %} (***) {% endif %}{% if post.score == 4 %} (****) {% endif %}</title>
+  {% for post in site.posts limit:30 %}<item>
+      <title>{{ post.title }}{% if post.score %}{% if post.score == 0 %} (cero) {% else %} ({% for g in (1..post.score) limit:4 %}*{% endfor %}) {% endif %}{% endif %}</title>
       <link>http://guayaba2600.com{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <dc:creator>{{post.author}}</dc:creator>
@@ -28,8 +27,7 @@
       <description>
           <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
       </description>
-  </item>{% if forloop.index == 30 %}{% break %}{% endif %}
-  {% endfor %}
+  </item>{% endfor %}
 
 </channel>
 </rss>
