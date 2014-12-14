@@ -27,27 +27,21 @@ title: Archivo maestro
     </tr>
     </thead>
     <tbody class="searchable">
-    {% sorted_for post in site.posts sort_by:title %}
+    {% assign sorted_game = (site.categories.reviews | sort: 'title') %}
+    {% for post in sorted_game %}
     {% if post.layout == 'review' or post.layout == 'gema' %}
     <tr>
         <td><a href="{{post.url}}">{{post.title}} </a></td>
-        <td class="hidden-xs">{% if post.score == 0 %} <img src="/img/zero.gif" alt="cero"> {% endif %}
-        {% if post.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        {% if post.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        {% if post.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-        {% if post.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %} </td>
+        <td class="hidden-xs">{% if post.score == 0 %}<img src="/img/zero.gif" alt="-">{% else %}
+            {% for g in (1..post.score) limit:4 %}<img src="/img/guayaba_ico.gif" alt="*">{% endfor %}{% endif %}</td>
         <td class="visible-xs">
-            {% if post.score == 0 %} 0 {% endif %}
-            {% if post.score == 1 %} 1 {% endif %}
-            {% if post.score == 2 %} 2 {% endif %}
-            {% if post.score == 3 %} 3 {% endif %}
-            {% if post.score == 4 %} 4 {% endif %}
+            {{post.score}}
         </td>
         <td>{{post.author}} </td>
         <td>{{post.date | date_to_string }} </td>
     </tr>
     {% endif %}
-    {% endsorted_for %}
+    {% endfor %}
     </tbody>
 </table>
 
