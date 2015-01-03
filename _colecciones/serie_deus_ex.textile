@@ -1,0 +1,12 @@
+---
+layout: coleccion
+title: Deus Ex
+serie: true
+miembros:
+    - Deus Ex
+    - "Deus Ex: Invisible War"
+    - "Deus Ex: Human Revolution"
+    - "Deus Ex: The Fall"
+---
+
+La críticamente aclamada serie de "simuladores inmersivos" que tuvo su origen en el primer _Deus Ex_ no siempre ha sabido estar a la altura de esta primera parte, pero su _revival_ con _Human Revolution_ son una gran esperanza para la saga.
