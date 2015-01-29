@@ -40,7 +40,7 @@ Cuando alcanzamos la casa del curandero, éste nos dice que la única cura para 
 
 Al principio, el camino es sencillo. Los primeros pasos por la aldea de los protagonistas, adorablemente representada como un paisaje pastoral en primavera, nos enfrentarán con el "abusón" del pueblo, que no tiene cosa mejor que hacer que impedirnos el paso. Así, con este reto ligero, aprendemos progresivamente sobre las habilidades y desventajas de cada uno de los hermanos. Por ejemplo, el hermano pequeño no puede nadar en agua profunda debido al trauma que le provocó el ahogamiento de su madre y tendremos que hacer que el hermano mayor lo lleve a sus espaldas. Por otra parte, puede escurrirse entre los barrotes de cercas o puertas demasiado estrechas para que que su hermano mayor atraviese.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/hoguera-th.jpg!:/img/screenshots/2014-02-27-batots/hoguera
+p(pagination-centered). !(entry-screen)/img/screenshots/2014-02-27-batots/hoguera-th.jpg!:/img/screenshots/2014-02-27-batots/hoguera.jpg
 
 p(piefoto). El viaje es largo y peligroso. Nuestros protagonistas no podrán siquiera permitirse un descanso en condiciones
 
