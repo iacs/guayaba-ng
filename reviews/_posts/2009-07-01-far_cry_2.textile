@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Far Cry 2"
+description: "Malaria Quest: La oportunidad perdida"
 cover: fc2_cover.jpg
 score: 1
 dev: Ubisoft Montreal

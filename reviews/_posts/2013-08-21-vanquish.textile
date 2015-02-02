@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Vanquish"
+description: "Un frenético shooter de cobertura firmado por los expertos en juegos de acción, Platinum Games"
 cover: vanquish.jpg
 score: 3
 dev: "Platinum Games"

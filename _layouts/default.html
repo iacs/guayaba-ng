@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <title>{% if page.title %} {{ page.title }} | {% endif %} Guayaba 2600</title>
   {% if page.description %}
-  <meta name="description" content="{{page.description}} {% if paginator %}(pag. {{paginator.page}}){% endif %}">
+  <meta name="description" content="{{page.description}}{% if paginator %} (pag. {{paginator.page}}){% endif %}">
   {% elsif page.excerpt %}
   <meta name="description" content="{{page.excerpt | strip_html | truncate: 150}}">
   {% endif %}

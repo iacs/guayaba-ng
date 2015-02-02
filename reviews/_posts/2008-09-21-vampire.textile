@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Vampire: The Masquerade - Bloodlines"
+description: "Juego de rol adelantado a su tiempo que ofrece gran varidad y libertad de acción pero está desgraciadamente plagado de bugs"
 cover: vampire.jpg
 score: 3
 dev: Troika Games

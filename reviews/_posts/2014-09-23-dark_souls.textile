@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Dark Souls"
+description: "La impecable obra maestra que asentó decenas de innovaciones en diseño de juegos de rol"
 cover: darksouls.jpg
 score: 4
 dev: "FROM Software"

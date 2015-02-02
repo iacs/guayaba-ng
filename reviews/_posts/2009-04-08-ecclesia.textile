@@ -2,6 +2,7 @@
 layout: review
 title: "Castlevania: Order of Ecclesia"
 originaltitle: "Akumajo Dracula: Ubawareta Kokuin (悪魔城ドラキュラ 奪われた刻印)"
+description: "Regreso a un modelo más tradicional de Castlevania pero conservando la modernización de la serie, con un sistema de habilidades más puro y dinámico"
 cover: ecclesia.jpg
 score: 3
 dev: "Konami"

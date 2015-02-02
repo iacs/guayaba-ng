@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Dragon's Dogma: Dark Arisen"
+description: "Quizá el primer gran juego de mundo abierto desarrollado por un estudio japonés. No decepciona"
 cover: ddda_cover.jpg
 score: 3
 dev: Capcom

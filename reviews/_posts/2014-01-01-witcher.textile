@@ -1,6 +1,7 @@
 ---
 layout: review
 title: The Witcher
+description: "Juego de rol polaco de admirable factura basado en las novelas de Andrzej Sapkowski"
 cover: witcher.jpg
 score: 4
 dev: CDProjekt RED

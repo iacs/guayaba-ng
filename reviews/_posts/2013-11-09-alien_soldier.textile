@@ -2,6 +2,7 @@
 layout: review
 gema: retro
 title: Alien Soldier
+description: "Un frenético juego de acción de Treasure con multitud de Jefes y predisposición a las _speedruns_"
 cover: aliensoldier.jpg
 score: 3
 dev: Treasure

@@ -2,6 +2,7 @@
 layout: review
 gema: indie
 title: "Gravity Bone"
+description: "El poder de la síntesis"
 cover: gravitybone.jpg
 score: 3
 dev: "Blendo Games (Brendon Chung)"

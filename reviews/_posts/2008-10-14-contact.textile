@@ -1,6 +1,7 @@
 ---
 layout: review
 title: Contact
+description: "Curioso juego de rol dividido entre las dos pantallas de la DS que acaba siendo un quiero y no puedo"
 cover: contact_ds.jpg
 score: 2
 dev: "Grasshopper Manufacture"

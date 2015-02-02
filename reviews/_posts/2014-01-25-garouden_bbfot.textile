@@ -3,6 +3,7 @@ layout: review
 gema: olvidada
 title: "Garouden Breakblow: Fist or Twist"
 originaltitle: "餓狼伝 Breakblow Fist or Twist"
+description: "Hiperviolento juego de lucha no convencional adaptado de una novela de artes marciales japonesa"
 cover: garouden.jpg
 score: 3
 dev: "Opus Corp."

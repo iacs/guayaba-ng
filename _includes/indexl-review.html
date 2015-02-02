@@ -21,6 +21,7 @@
             <li>Desarrollado por <strong>{{post.dev}}</strong></li>
             <li><small>Texto por {{post.author}}</small></li>
             </ul>
+            {% if post.description %}<p>{{post.description | append: '.' | markdownify}}</p>{% endif %}
             </div>
         </div>
     </div>
