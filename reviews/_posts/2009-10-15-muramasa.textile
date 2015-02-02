@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Muramasa: The Demon Blade"
+description: "Divertido action-rpg ambientado en el Japón de la era Genroku"
 cover: muramasa_cover.jpg
 score: 2
 dev: Vanillaware

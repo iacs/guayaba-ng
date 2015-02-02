@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Bully: Scholarship Edition"
+description: "Vuelta al cole de pulgares"
 cover: bully.jpg
 score: 3
 dev: Rockstar Games

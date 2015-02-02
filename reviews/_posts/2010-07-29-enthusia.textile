@@ -1,7 +1,7 @@
 ---
 layout: review
-gema: olvidada
 title: Enthusia Professional Racing
+description: "Si existiera tal cosa como un ninja del automovilismo, este sería el simulador con el que entrenarse para convertirse en uno"
 cover: enthusia_cover.jpg
 score: 4
 dev: Konami

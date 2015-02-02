@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Avalon Code"
+description: "Juego de rol en 3D en el que grabamos y alteramos información en un libro"
 cover: avaloncode.jpg
 score: 2
 dev: "Matrix Software"

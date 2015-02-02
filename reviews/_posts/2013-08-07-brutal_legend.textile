@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Brütal Legend"
+description: "Este extraño híbrido de aventura y estrategia es redimido por su estética metalera y su magnífico guión"
 cover: BrutalLegendCover.jpg
 score: 3
 dev: "Double Fine"

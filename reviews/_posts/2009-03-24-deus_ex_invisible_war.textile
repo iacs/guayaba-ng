@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Deus Ex: Invisible War"
+description: "Juego bueno, Deus Ex malo"
 cover: dxiw.jpg
 score: 2
 dev: Ion Storm Inc.

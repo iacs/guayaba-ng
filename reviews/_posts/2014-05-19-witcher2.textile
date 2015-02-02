@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "The Witcher 2: Assassins of Kings"
+description: "La secuela mejor y más grande de la saga de juegos basada en el Witcher de Sapkowski"
 cover: witcher2.jpg
 score: 4
 dev: CDProjekt RED

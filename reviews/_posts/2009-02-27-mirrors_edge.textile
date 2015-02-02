@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Mirror's Edge"
+description: "_Free running_ en primera persona. A pesar de contar con algunos elementos cuestionables, un excelente y hermoso juego"
 cover: me_cover.jpg
 score: 3
 dev: Digital Illusions CE

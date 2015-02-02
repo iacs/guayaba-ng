@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Fallout 3"
+description: "Mucho más que un _Oblivion_ con pistolas, para alivio de todos los implicados"
 cover: fo3.jpg
 score: 3
 dev: Bethesda Game Studios

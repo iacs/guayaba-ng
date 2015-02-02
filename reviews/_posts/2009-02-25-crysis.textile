@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Crysis"
+description: "En su época fue uno de los puntos de referencia en gráficos. Hoy ha sido sobrepasado con creces"
 cover: crysis.jpg
 score: 2
 dev: Crytek Frankfurt

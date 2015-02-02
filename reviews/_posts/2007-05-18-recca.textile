@@ -3,6 +3,7 @@ layout: review
 gema: retro
 title: Recca
 originaltitle: "Sumer Carnival '92 - Recca"
+description: "Un shooter _hardcore_ creado especialmente para un campeonato japonés que lleva a la Famicom a su límite"
 cover: recca.jpg
 score: 3
 dev: Naxat Soft

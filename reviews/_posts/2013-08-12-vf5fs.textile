@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Virtua Fighter 5: Final Showdown"
+description: "El mejor juego de lucha en 3D que existe, según aquellos a los que les gustan los juegos de lucha"
 cover: vf5fs_cover.jpg
 score: 4
 dev: "Sega Amusement Machine Research and Development Department #2"

@@ -1,6 +1,7 @@
 ---
 layout: review
 title: Binary Domain
+description: "De los creadores de la serie _Yakuza_ llega este satisfactorio e injustamente ignorado shooter de cobertura"
 cover: bido_cover.jpg
 score: 3
 dev: Yakuza Studio (Sega)

@@ -1,6 +1,7 @@
 ---
 layout: review
 title: "Brothers - A Tale of Two Sons"
+description: "Una emotiva historia de dos hermanos en busca de la cura para su padre enfermo en la que controlamos a los dos personajes simultáneamente"
 cover: batots.jpg
 score: 3
 dev: "Starbreeze Studios"
