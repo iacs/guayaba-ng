@@ -9,4 +9,4 @@ miembros:
     - "Deus Ex: The Fall"
 ---
 
-La críticamente aclamada serie de "simuladores inmersivos" que tuvo su origen en el primer _Deus Ex_ no siempre ha sabido estar a la altura de esta primera parte, pero su _revival_ con _Human Revolution_ son una gran esperanza para la saga.
+La críticamente aclamada serie de "simuladores inmersivos" que tuvo su origen en el primer _Deus Ex_ no siempre ha sabido estar a la altura de esta primera parte, pero su _revival_ con _Human Revolution_ es una gran esperanza para la saga.
