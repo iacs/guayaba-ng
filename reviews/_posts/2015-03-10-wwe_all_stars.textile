@@ -1,0 +1,61 @@
+---
+layout: review
+title: "WWE All Stars"
+description: "Juego de wrestling con énfasis en combates rápidos, reflejos y K.O's que lo ponen más cerca de un arcade de lucha que de una típica recreación de combates de _sports entertainment_"
+cover: wweallstars.jpg
+score: 3
+dev: "THQ San Diego"
+year: 2011
+formato: [Lucha, Wrestling]
+genero: [wrestling, licencia]
+plataformas: [PlayStation 2, PlayStation 3, Xbox 360, Wii, PSP, 3DS]
+author: Iacus
+---
+
+Los deportes y los videojuegos nunca han tenido una relación fácil. Hoy día los deportes electrónicos o _esports_ son una industria multimillonaria y están de camino a ser reconocidos legítimamente por la sociedad occidental. Debemos observar sin embargo que recrear un deporte en el medio del videojuego y quitarle el componente atlético no lo convierte automáticamente en un deporte electrónico, ni necesariamente en un buen videojuego.
+
+En el caso que nos ocupa no vamos a hablar ni de _esports_ ni de secos y rigurosos "simuladores" de deportes, sino de un ejemplo de un buen videojuego. Un juego divertido y bien hecho que posiblemente haya pasado desapercibido ante la gran mayoría de aficionados _hardcore_ debido al fuerte estigma que desde los inicios de la generación Nintendo arrastran los juegos de lo que es referido a menudo en España y Latinoamérica como _pressing catch_ (si alguien sabe de donde viene este nombre, que nos lo diga en los comentarios). La sorpresa es, quizá, que _WWE All Stars_ funciona como un más que digno juego de lucha.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-03-10-wwe_all_stars/covershot-th.jpg!:/img/screenshots/2015-03-10-wwe_all_stars/covershot.jpg
+
+p(piefoto). Resulta raro ver un juego de este género hecho en un estilo tan dinámico, pero haberlo haylo
+
+La premisa de _WWE All Stars_ es la de un _dream match_ entre las más famosas personalidades del wrestling americano de la WWE —famosamente conocida como WWF antes de que fuera forzada a cambiar de nombre—. En un bando tenemos a las leyendas de los '80 y '90 y por otro lado están las nuevas _superstars_ de segunda y tercera generación, catapultadas a la fama tras el boom que supuso la "_attitude era_":https://es.wikipedia.org/wiki/The_Attitude_Era. El resultado es un plantel de los luchadores más icónicos y carismáticos de la historia de la WWE.
+
+Los controles son sencillos, dos botones frontales están dedicados a ataques de golpe —uno rápido, uno fuerte—. Los golpes rápidos se pueden encadenar en combos de puñetazos y patadas. Los otros dos botones son ataques de agarre rápido y fuerte. Una vez tengamos a nuestro oponente en un clinch, podemos pulsar una dirección y un botón de ataque para realizar el ataque, que variará según el tipo de clinch que hayamos usado y la dirección pulsada. Aparte de esto, cada personaje tiene dos _"signature moves"_ y un _"finisher"_ particularmente dañinos.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-03-10-wwe_all_stars/rockbottom-th.jpg!:/img/screenshots/2015-03-10-wwe_all_stars/rockbottom.jpg
+
+p(piefoto). Los _finishers_ son versiones exageradas y a cámara lenta de los movimientos "marca de la casa" de los luchadores
+
+Hay mecánicas para correr, subirse a un poste, salir o entrar en el ring o buscar un arma debajo del faldón del ring pero sin duda la mecánica más importante del combate es el _reversal_. Pulsando el botón de reversal en el momento preciso (el _timing_ varía según el ataque), nuestro personaje neutralizará el ataque del oponente y contraatacará con uno propio. Prácticamente todos los ataques se pueden contraatacar, a excepción de los _signature moves_, _finishers_ y golpes cargados. Cualquier tipo de agarre, golpe o incluso lanzamientos desde la cuerda superior son susceptibles al reversal. Es más, tras sufrir un reversal, podemos en ocasiones hacer un reversal propio y dejar las tornas como estaban al principio. El timing de estos dobles reversal es en general más estricto que el de los reversal normales, pero si nos mantenemos en calma no es excesivamente complicado acertar. Con este sistema tenemos la base para combates excitantes y de ritmo tan rápido que no nos creeríamos que vienen de un juego de wrestling.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-03-10-wwe_all_stars/charged-th.jpg!:/img/screenshots/2015-03-10-wwe_all_stars/charged.jpg
+
+p(piefoto). Los ataques cargados son imparables y se representan con los puños del personaje brillando en amarillo
+
+Aunque el juego ofrece un sistema _"create-a-wrestler"_ como viene siendo habitual en este tipo de títulos, se nota que el énfasis se ha puesto en usar a los personajes reales de la WWE. A diferencia de los juegos de lucha tradicionales (esto es, modelo _Street Fighter II_), en los que se espera que cada luchador tenga un conjunto de movimientos único, en los juegos de wrestling los luchadores usan un subconjunto particular de un vasto repertorio de movimientos de wrestling. En un primer nivel, los personajes están divididos en clases que dictan el estilo de lucha que emplean, así tenemos que Jake Roberts es un _grappler_, Kofi Kingston o Rey Misterio son _acrobats_ y André el Gigante es, cómo no, un _big man_. Cada clase tiene ciertos atributos básicos a favor y en contra en comparación con las demás. Aunque varios luchadores compartan ciertas llaves o combos, sus _signature moves_ y, por supuesto, sus _finishers_ son siempre únicos a cada uno. No veremos a nadie más que a Triple H haciendo su _Pedigree_ para acabar una partida —a menos que lo definamos en un create-a-wrestler personalizado, claro—.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-03-10-wwe_all_stars/acrobat-th.jpg!:/img/screenshots/2015-03-10-wwe_all_stars/acrobat.jpg
+
+p(piefoto). Los acróbatas se caracterizan por moviemientos arriesgados y piruetas de gran alcance
+
+Entrando en el tema, el create-a-wrestler no es especialmente interesante aquí. Las opciones de personalización son bastante justas y, aunque el estilo desproporcionado de "muñeco de acción" funciona bien para los icónicos personajes de la WWE, se antoja algo genérico para los luchadores personalizados. Además la selección de movimientos es "todo o nada". Debemos escoger el set de movimientos completo de un personaje —Lo único que podemos cambiar es el finisher— con lo que nuestros CAWs son básicamente clones de los personajes ya existentes.
+
+En cuanto a modos de juego, estamos bastante bien servidos. En el modo exhibición podemos preparar un combate rápido, y hacernos a la idea de los diferenes tipos de contienda disponibles. Está el combate normal, 1 vs 1 a pin fall o K.O., _tag team match_, _triple threat_ (3 wrestlers todos contra todos), _fatal 4-way_ (otro todos contra todos, con 4 wrestlers) _cage match_ en el que tenemos que escapar de la jaula antes que nuestros rivales, _elimination_ en el que cada wrestler que pierde es eliminado del ring hasta que solo queda uno, _extreme rules_ en el que se permite usar armas sin ser descalificado y el _handicap match_ (1 vs 2).
+
+El siguiente modo es el _Path of champions_, que vendría siendo el equivalente al modo historia —aunque no esperes más que un par de interludios en cada camino— , y nos ofrece tres "campañas" a seguir con diez combates cada una. El camino leyendas nos enfrenta al mítico El Enterrador, el camino superstars tiene a Randy Orton como jefe final y el el camino tag team deberemos vencer al dúo D-Generation X compuesto por Shawn Michaels y Triple H
+
+El modo _Fantasy Warfare_ nos propone una serie de combates de fantasía entre una leyenda clásica y uno de los modernos superstars, centrados en un aspecto en concreto de los personajes, así tendremos encuentros como _"Greatest High Flyer"_ con Eddie Guerrero vs Rey Misterio o _"Greatest Big Man"_ que enfrenta a los dos gigantes, André vs The Big Show. Los diferentes combates se van desbloqueando a medida que ganamos y como es de esperar, podemos seleccionar a cualquiera de los dos representantes para el combate. Incluso si por alguna retorcida razón prefieres a Sheamus antes que al Ultimate Warrior, no quedarás decepcionado.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-03-10-wwe_all_stars/fantasyw-th.jpg!:/img/screenshots/2015-03-10-wwe_all_stars/fantasyw.jpg
+
+p(piefoto). El modo fantasy warfare está centrado en combates imposibles que enfrentan a wrestlers de ayer y hoy
+
+Al ser un juego licenciado del género de deportes, hay muchas versiones del juego. Aunque el _gameplay_ es básicamente idéntico, como cabe imginar las versiones de PS2, PSP y 3DS tienen gráficos de menor categoría. Habiendo jugado las versiones de PlayStation 2 y PlayStation 3, desde Guayaba 2600 recomendamos jugar a una de las ediciones para consolas de séptima generación (PS3 o 360) para tener la mejor experiencia de juego.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-03-10-wwe_all_stars/hollywood-th.jpg!:/img/screenshots/2015-03-10-wwe_all_stars/hollywood.jpg
+
+p(piefoto). Podemos desbloquear atuendos alternativos de los personajes, como aquí, _Hollywood Hogan_
+
+Si te gusta el wrestling americano y sigues las historias de la WWE, este juego, aunque parco en fanfarria supercficial, tiene suficientes personajes icónicos, bien representados por sus movimientos y atuendos para agradar al fan. Si no eres especialmente un fan del wrestling, pero te gustan los juegos de lucha, puede que merezca la pena echarle un vistazo a _WWE All Stars_. Podría sorprenderte gratamente.
