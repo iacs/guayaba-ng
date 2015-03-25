@@ -5,6 +5,7 @@ miembros:
     - Demon's Souls
     - Dark Souls
     - Dark Souls II
+    - Bloodborne
 ---
 
 La coloquialmente llamada serie "Souls" abarca varios action-RPGs en tercera persona desarrollados por FROM Software, con elementos comunes y énfasis en la atmósfera y agencia del jugador.
