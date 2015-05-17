@@ -5,4 +5,5 @@ serie: true
 miembros:
     - The Witcher
     - "The Witcher 2: Assassins of Kings"
+    - "The Witcher 3: Wild Hunt"
 ---
