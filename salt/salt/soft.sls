@@ -25,7 +25,7 @@ rake:
       
 install_bundle:
   cmd.run:
-    - name: bundler install --path .vendor/bundle
+    - name: bundler install --system
     - cwd: /vagrant/
     - require:
       - pkg: ruby
