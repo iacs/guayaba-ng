@@ -1,0 +1,5 @@
+path_covers: "img/covers/"
+path_ss: "img/screenshots/"
+path_reviews: "reviews/_posts/"
+url_ss: "/img/screenshots/"
+thumbnail_geometry: "400x"
