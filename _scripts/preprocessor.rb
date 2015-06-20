@@ -22,7 +22,6 @@ end
 
 begin
   load_settings('settings_pp.yml')
-  # puts("#{@path_covers}\n#{@path_ss}\n#{@path_reviews}\n#{@url_ss}")
 
   parse_options
 
@@ -48,14 +47,12 @@ begin
   coverfile = ""
 
   f.each_line do |line|
-    # puts "parsing line"
     if (line.start_with?("!") and line.end_with?("!\n"))
       imgfile = line.sub("!\n","")
       imgfile = line.sub("!", "")
       imgfile, ext = imgfile.split('.')
       newline = "p(pagination-centered). !(entry-screen)#{@settings['url_ss']}#{postname}/#{imgfile}-th.jpg!:#{@settings['url_ss']}#{postname}/#{imgfile}.#{ext}\n"
       g.puts(newline)
-      # puts "subbed: #{line}"
     elsif (line.start_with?("cover: "))
       coverfile = line.gsub("cover: ", "")
       coverfile.strip!
@@ -77,12 +74,8 @@ begin
 
   # Moving files to their place
   dirs = File.absolute_path(__FILE__).split(File::SEPARATOR).map {|x| x=="" ? File::SEPARATOR : x}
-  # dirs = dirs.split(File::SEPARATOR)
-  # puts ("root? #{dirs[1]}")
-  dest_cover = File.join("/", dirs[1], @path_covers, coverfile)
   dest_sshots = File.join("/", dirs[1], @path_ss, postname)
   dest_review = File.join("/", dirs[1], @path_reviews, basename)
-  # puts("reviews? #{dest_review}")
   
   FileUtils.mv(@coverpath, dest_cover)
 
@@ -99,14 +92,9 @@ begin
       img = MiniMagick::Image.open(image_filepath)
       img.combine_options do |o|
         o.resize(thumb_geometry)
-        # o.format "jpg"
       end
       img.format 'jpg'
       img.write(image_thumb_filepath)
-      # puts("name: #{img_name}")
-      # puts("fp: #{image_filepath}")
-      # puts("pn: #{postname}")
-      puts("thumb: #{image_thumb_filepath}")
       tmp_pn = Pathname.new(image_filepath)
       dest_f = File.join(tmp_pn.dirname, postname, tmp_pn.basename)
       puts dest_f
@@ -121,8 +109,6 @@ begin
 
   # Moving the last files
   origin_review = File.join("/", dirs[1], @filename)
-  puts "origen: #{origin_review}"
-  puts "destino: #{dest_review}"
   FileUtils.mv(imgdir, dest_sshots)
   FileUtils.mv(origin_review, dest_review)
 
