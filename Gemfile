@@ -6,13 +6,4 @@ gem 'RedCloth'
 gem 'sass'
 gem 'compass'
 gem 'bootstrap-sass', '~>3.3.0'
-
-#gemspec
-
-#platform :rbx do
-#  gem 'rubysl', '~> 2.0'
-#  gem 'json', '>= 1.8.1'
-#  gem 'rubysl-test-unit', '~> 2.0'
-#  gem 'racc'
-#end
-
+gem 'mini_magick'
