@@ -8,7 +8,6 @@ Código y textos de la web Guayaba 2600
 * ruby >= 1.9.3
     * ruby (paquetes de desarrollo)
     * bundler (usar para instalar dependencias de gemas)
-* Python 2.7
 * ImageMagick >= 6.7.7
 * NodeJS (jekyll requiere execjs)
 
