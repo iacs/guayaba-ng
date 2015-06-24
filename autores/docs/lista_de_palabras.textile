@@ -2,12 +2,12 @@
 layout: documentation
 title: Lista de palabras
 description: "Forma aceptada de escribir algunos términos comunes."
-lastrev: 2013-11-12
+lastrev: 2015-06-23
 ---
 
 h2. Ortografía de los nombres de plataformas
 
-Debe utilizarse el nombre completo de la plataforma (no abreviaturas) en los datos de la ficha de cada juego, esto es necesario para que se organicen correctamente por plataforma y aparezcan en la página correspondiente.
+Debe utilizarse el nombre completo de la plataforma y no las abreviaturas en los datos de la ficha de cada juego, esto es necesario para que se organicen correctamente por plataforma y aparezcan en la página correspondiente. Las abreviaturas pueden utilizarse en el cuerpo del texto de un artículo.
 
 table(table table-hover).
 |_. Nombre|_. Abreviatura|
@@ -18,9 +18,13 @@ table(table table-hover).
 |PlayStation 4|PS4|
 |Xbox|XBOX|
 |Xbox 360|360|
+|Xbox One|Xbone|
 |Nintendo|NES|
+|Famicom|FC|
 |Super Nintendo|SNES|
-|Super Famicom|SF|
+|Super Famicom|SFC|
+|GameCube|GC|
+|Nintendo DS|NDS|
 |Mega Drive|MD|
 |Mega CD|MCD|
 |Saturn|SS|

@@ -1,18 +1,18 @@
 ---
 layout: documentation
 title: "Guía técnica"
-description: "La web de Guayaba 2600 presenta una serie de diferencias a la hora de escribir y enviar contenido para los autores, ya que utilizamos una serie de herramientas especializadas. Este documento detalla el proceso y formato a seguir para escribir los diferentes tipos de artículos para la web."
-lastrev: 2014-03-28
+description: "Este documento detalla el proceso y formato a seguir para escribir los diferentes tipos de artículos para Guayaba 2600."
+lastrev: 2015-06-24
 ---
 
-h2. Diferencias con respecto al método anterior
+h2. Artículos en Guayaba 2600
 
-En lugar de usar un editor web para publicar posts, la nueva web funciona con archivos que son convertidos e integrados en la página web personalizada mediante una serie de software especializado. Esto conlleva una serie de ventajas y desventajas.
+Los artículos consisten de dos partes: un archivo de texto, y las imágenes que acompañan al artículo. El archivo de texto a su vez tiene una sección de metadatos, separada por una cadena de tres guiones antes y después (@---@) y el cuerpo del texto en sí. El texto está formateado según el formato textile, que permite definir estilos como negritas, cursivas etc y añadir enlaces e imágenes en archivos de texto plano. Estos archivos son añadidos al repositorio y convertidos al html final que se publica en la web.
 
 h3. Ventajas
 
-* Un único archivo se convierte en la web final: Es posible que para publicar los posts en el antiguo sistema, originalmente se escribiera un borrador en texto para copiarlo al editor web, e iniciar el proceso de dar formato al texto, negritas, cursivas, colocar la ficha de información etc. Este proceso manual es tedioso y poco interesante. Con el nuevo sistema, el borrador y el archivo final son el mismo, ya que el formato de texto va integrado y no es necesario hacer ningún retoque una vez enviado.
-* No más maquetación manual: Al usar una web personalizada, el autor no tiene que preocuparse por maquetar manualmente la página de cada post como antes (colocando individualmente los iconos de guayabas y las capturas de pantalla, por ejemplo) simplemente con unas cuantas líneas de texto el sistema se encarga de dar la maquetación correcta.
+* Un único archivo se convierte en la web final. El "borrador" y el archivo final son el mismo, ya que el formato de texto va integrado y no es necesario hacer ningún retoque una vez enviado.
+* No más maquetación manual: Al usar una web personalizada, el autor no tiene que preocuparse por maquetar manualmente la página de cada post como antes (colocando individualmente los iconos de guayabas y las capturas de pantalla, por ejemplo) simplemente indicando unos metadatos el sistema se encarga de dar la maquetación correcta.
 * Contenido aislado del aspecto: Futuras mejoras o cambios en el aspecto de la web supondrían no tener que cambiar nada o casi nada de los posts existentes.
 
 h3. Desventajas
@@ -20,13 +20,17 @@ h3. Desventajas
 
 h2. Cómo escribir un post
 
-Escribir un post para Guayaba 2600 es un proceso mucho más sencillo y rápido que el anterior, pero requiere cumplir una serie de reglas. Estas reglas se revisarán antes de la publicación pero se recomienda seguirlas siempre para evitar trabajo innecesario de revisión y posibles errores humanos.
+Escribir un post para Guayaba 2600 es un proceso sencillo y rápido, pero requiere seguir una serie de reglas. Estas reglas se revisarán antes de la publicación pero se recomienda seguirlas siempre para evitar trabajo innecesario de revisión y posibles errores humanos.
 
 h3. 1. Crear el archivo
 
-Los posts se enviarán en un archivo de texto en formato textile que debe tener el siguiente nombre:
+Los posts se enviarán en un archivo de texto plano. Cualquier archivo .txt sirve, pero es preferible que la extensión sea .textile en lugar de .txt. El archivo tiene tener un nombre nombre con este formato:
 
 @yyyy-mm-dd-nombre.textile@
+
+- o -
+
+@yyyy-mm-dd-nombre.txt@
 
 Donde:
 * @yyyy-mm-dd@: fecha de publicación en el formato indicado (d: día, m: mes, y: año) por ejemplo: 2013-06-03
@@ -35,12 +39,12 @@ Donde:
 
 Los archivos .textile son simples archivos de texto. Es aceptable entregar los artículos como .txt si resulta más cómodo para el autor siempre y cuando se siga el formato correcto.
 
-h3. 2. Escribir la información inicial
+h3. 2. Escribir la información inicial (sección de metadatos)
 
 Una vez creado el archivo se abrirá con un editor de texto a elegir.
 %(text-danger)*IMPORTANTE:*% Debe utilizarse un editor de texto plano, (p.ej. bloc de notas), no puede ser un formato de un procesador de textos tipo .doc, .rtf y similar. Ver apéndice 1 para herramientas de escritura sugeridas.
 
-Las primeras líneas de texto es la llamada “YAML Front Matter”. Una serie de campos de información que el sistema usa para generar la web correctamente. Para un post de reseña/review son los siguientes, como ejemplo:
+El nombre técnico de estas primeras líneas de metadatos es “YAML Front Matter”. Una serie de campos de información que el sistema usa para compilar la web. Para un post de reseña/review son los siguientes. Ejemplo:
 
 <pre>
 ---
@@ -64,21 +68,21 @@ La información a cubrir es la siguiente:
 
 * @layout@: review  : esta línea no debe cambiarse
 * @title@: Título que aparecerá en el post, entre comillas. Puede llevar caracteres especiales (dos puntos, etc)
-* @originaltitle@: Título del juego en su mercado original. Se utilizará en la ficha de información pero no en el título del post
+* @originaltitle@: [opcional] Título del juego en su mercado original. Se verá en la ficha de información pero no en el título del post
 * @cover@: Nombre de archivo de la carátula del juego incluida, en jpg
-* @score@: Puntuación de la reseña. Un número entre 0 y 4. Los iconos apropiados aparecerán en el post.
+* @score@: Puntuación de la reseña. Un número entre 0 y 4. Los iconos apropiados aparecerán en el post automáticamente.
 * @dev@: Desarrollador del juego
 * @year@: Año de lanzamiento
 * @formato@: [] : Formato(s) del juego tal como se detalla en el manual de estilo, entre corchetes y separados por comas.
 * @genero@: [] : Género(s) del juego tal como se detalla en el manual de estilo, entre corchetes y separados por comas.
 * @plataformas@: [] : Plataformas donde se ha publicado el juego en el momento de escribir la reseña, entre corchetes y separados por comas.
-* @author@: (opcional) Autor del texto. Si se omite esta línea la atribución será anónima.
+* @author@: [opcional] Autor del texto. Si se omite esta línea la atribución será anónima.
 
 h3. Aviso de spoilers
 
 En algunos artículos se discuten spoilers del juego, para avisar a los lectores se debe añadir la línea @spoiler:@ seguida de un número del 1 al 3 que corresponde a la seriedad de los spoilers
 
-* @spoiler: 1@: Son spoilers menores, detalles sin concretar pero que quizá alguien que quiera tener el mínimo conociemiento previo del juego debería evitar.
+* @spoiler: 1@: Son spoilers menores, detalles sin concretar pero que quizá alguien que quiera tener el mínimo conocimiento previo posible del juego preferiría evitar.
 * @spoiler: 2@: Spoilers importantes, desvelan detalles concretos de la trama o desarrollo del juego. Recomendado evitar este nivel de spoilers en una review.
 * @spoiler: 3@: Spoilers cruciales, desvelan y discuten en profundidad todo tipo de momentos memorables y clave del juego. Este nivel de spoilers nunca debe alcanzarse en una review, pero puede ser necesario en un artículo de análisis más profundo de un juego, en el que se asume que la audiencia ya lo ha completado al menos una vez.
 
@@ -87,8 +91,8 @@ A continuación se incluye una plantilla vacía para cortar y pegar en los nuevo
 <pre>
 ---
 layout: review
-category: review
 title: ""
+originaltitle: (borrar esta línea si no se usa)
 cover: .jpg
 score: 
 dev: ""
@@ -97,12 +101,13 @@ formato: []
 genero: []
 plataformas: []
 author: 
+spoiler: (borrar esta línea si no se usa)
 ---
 </pre>
 
 h2. 2. Escribir el cuerpo del post
 
-El cuerpo del post se escribe a partir de la línea final de tres guiones. No tiene ninguna particularidad. Separa los párrafos por una línea en blanco. Como ya hemos comentado el formato de texto sigue el markup de textile, un sistema similar al que se usa para escribir artículos de wikipedia o el BBCode de los foros, pero mucho más rápido para teclear. Una referencia más completa con ejemplos se puede encontrar en http://txstyle.org/ pero a continuación detallo el formateo más usual.
+El cuerpo del post se escribe a partir de la línea final de tres guiones. No tiene ninguna particularidad. La separación entre párrafos es una línea en blanco. Como ya hemos comentado el formato de texto sigue el _markup_ de textile, un sistema similar al que se usa para escribir artículos de wikipedia o el BBCode de los foros, pero mucho más rápido para teclear. Una referencia más completa con ejemplos se puede encontrar en "txstyle.org":http://txstyle.org/ pero a continuación detallo el formateo más usual.
 
 h3. Negritas y cursivas
 
@@ -141,7 +146,7 @@ Los enlaces “internos” a artículos de la propia web se pueden poner de una 
 
 {% raw %}@{% post_url 2010-08-07-brutal_legend %}@{% endraw %}
 
-Este método asegura que el enlace siempre apuntará al artículo, pero es opcional. Poner el enlace directamente también es válido.
+Este método garantiza que el enlace siempre apuntará al artículo aunque haya cambios en su estructura, pero es opcional utilizarlo. Poner el enlace directamente también es válido.
 
 h3. Imágenes
 
@@ -151,7 +156,7 @@ Las imágenes (capturas de pantalla) serán preprocesadas antes de subirse a la 
 
 h3. Pies de foto
 
-Los pies de foto que acompañan cada captura se denotan de forma similar a los encabezados, solo que poniendo el texto <code>p(piefoto). </code> Esto es, la letra p, seguida del identificador (piefoto) entre paréntesis, un punto y un espacio. Esto debe ir en una única línea (es decir, sin pulsar enter), y debe dejarse al menos una línea vacía antes y después
+Los pies de foto que acompañan cada captura se denotan de forma similar a los encabezados, solo que poniendo el texto <code>p(piefoto). </code> Esto es, la letra p, seguida del identificador (piefoto) entre paréntesis, un punto y un espacio. Esto debe ir en una única línea (es decir, sin pulsar enter), y *debe dejarse al menos una línea en blanco antes y después del pie*.
 
 h5. Ejemplo:
 
@@ -163,13 +168,13 @@ Y eso es lo básico.
 
 Textile permite usar la gran mayoría sino todas las opciones de formateo que ofrece HTML 5. Para una referencia más completa (en inglés) visita "http://redcloth.org/textile":http://redcloth.org/textile si quieres aprender cómo hacer algo que no aparezca en esta guía.
 
-h2. 3. Archivos extra
+h2. 3. Archivos adicionales
 
 Aparte del propio texto del post, el autor deberá proporcionar los archivos adicionales que requiera la reseña. Estos son:
 
 Carátula: En formato jpg, redimensionada a 200 pixels de ancho (opcional, pero recomendable). El archivo debe tener el mismo nombre que el indicado en el campo “cover” del post o la página no se verá correctamente.
 
-Capturas de pantalla: A la máxima resolución en que aparecerán en la web al hacer click sobre ellas. En formato jpg o png. Sus nombres de archivo deben coincidir con los referenciados en el texto del blog.
+Capturas de pantalla: A la máxima resolución en que aparecerán en la web al hacer click sobre ellas. En formato *jpg* o *png*. Sus nombres de archivo deben coincidir con los referenciados en el texto del blog. Una de las capturas debe tener el nombre de archivo @covershot.jpg@. Esta es la captura que aparecerá en los índices y sumarios de reviews. No es necesario que esta captura aparezca en el artículo, aunque es común que así sea.
 
 h2. 4. Despliegue
 
