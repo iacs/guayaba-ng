@@ -7,10 +7,6 @@ hide: true
 <div class="row">
     <div class="col-md-8">
         <p>En esta página se recogen todos los documéntos útiles para autores y colaboradores de <strong>Guayaba 2600</strong>.</p>
-        <p>Se recomienda suscribirse al RSS especial de documentación, para estar al tanto de cuándo se actualiza un documento. (no funciona en este momento)</p>
-    </div>
-    <div class="col-md-4">
-        <a href="./docs.xml" class="btn btn-warning"><span class="glyphicon glyphicon-bookmark"></span> RSS Documentos</a>
     </div>
 </div>
 
@@ -20,7 +16,8 @@ hide: true
 <div class="panel panel-primary">
     <div class="panel-heading"><h3>Documentos</h2></div>
     <div class="list-group">
-        {% for page in site.pages %}{% if page.layout == 'documentation' and page.lastrev %}
+        {% assign sorted_docs = (site.pages | sort: 'lastrev') %}
+        {% for page in sorted_docs reversed %}{% if page.layout == 'documentation' and page.lastrev %}
         
             <a href="{{page.url}}" class="list-group-item">
                 <h4 class="list-group-item-heading"><span class="glyphicon glyphicon-file"></span> {{page.title}}</h4>
