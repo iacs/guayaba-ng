@@ -76,6 +76,7 @@ begin
   dirs = File.absolute_path(__FILE__).split(File::SEPARATOR).map {|x| x=="" ? File::SEPARATOR : x}
   dest_sshots = File.join("/", dirs[1], @path_ss, postname)
   dest_review = File.join("/", dirs[1], @path_reviews, basename)
+  dest_cover = File.join("/", dirs[1], @path_covers, coverfile)
   
   FileUtils.mv(@coverpath, dest_cover)
 
@@ -88,7 +89,7 @@ begin
   Dir["#{dirname}/*"].each do |image_filepath|
     img_name, img_ext = image_filepath.split('.')
     image_thumb_filepath = "#{img_name}-th.jpg"
-    if (img_ext == 'jpg' or img_ext == '.png')
+    if (img_ext == 'jpg' or img_ext == 'png')
       img = MiniMagick::Image.open(image_filepath)
       img.combine_options do |o|
         o.resize(thumb_geometry)
