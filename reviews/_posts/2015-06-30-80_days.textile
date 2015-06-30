@@ -16,14 +16,14 @@ A pesar de que el prolífico formato de las llamadas _aventuras de texto_ incluy
 
 Por fortuna, hay formas de disfrutar de aventuras de texto que no pasan por lidiar con un _parser_. Es más, gracias a la proliferación de los smartphones y la mayor accesibilidad de middleware para desarrollar en estas plataformas, las aventuras de texto están pasando por una suerte de renacimiento, particularmente aquellas del estilo "elige tu propia aventura" que se ajustan perfectamente tanto a un interfaz táctil como a una plataforma portátil que llevamos siempre en el bolsillo.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/covershot-th.jpg!:/img/screenshots/2015-06-30-80_days/covershot.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/covershot-th.jpg!:/img/screenshots/2015-06-30-80_days/covershot.png
 
 
 p(piefoto). Un viaje nos llevará alrededor del mundo
 
 El título que nos ocupa es un excelente ejemplo de este estilo. Desarrollado en el estudio inkle y producido por Jon Ingold —uno de los nombres más respetados en el campo de la ficción interactiva y autor de, entre varias obras, el misterio detectivesco _Make it Good_ y el ganador del premio XYZZY 2001 por la fantasía renacentista _All Roads_— _80 Days_ es una adaptación _steampunk_ de la novela de Julio Verne _La vuelta al mundo en ochenta días_. Antes de que salgas corriendo ante la mención del _steampunk_, me veo obligado a precisar que en el juego que nos ocupa, los adornos propios de este género son llevados con buen gusto y aportan textura y asombro a los viajes de _Monsieur_ Fogg. No se trata del grotesco pastiche _friki_ que tan común y vilificado se ha vuelto en Internet.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/decision-th.jpg!:/img/screenshots/2015-06-30-80_days/decision.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/decision-th.jpg!:/img/screenshots/2015-06-30-80_days/decision.png
 
 
 p(piefoto). _80 Days_ tiene un tono culto y literario, pero accesible y con un buen ritmo
@@ -32,26 +32,26 @@ El jugador interpreta el papel de Passepartout, el ayuda de cámara francés del
 
 La "chicha" del juego radica en viajar usando multitud de medios de transporte y visitar las diferentes ciudades a lo largo de nuestra ruta (Con un total de 144 ciudades diferentes resulta imposible visitarlas todas en una sola partida). Durante los trayectos, un cuadro de texto se nos presenta con una breve narración que suele incluir una descripción del medio de transporte y texto de ambientación de la etapa  del viaje. Se menciona a la tripulación, pilotos, capitanes/as o pasajeros notables. El estilo es evocador de la época victoriana, añadiendo elementos fantásticos y _steampunk_ como autómatas, trenes anfibios, computadores basados en cristales, biomáquinas y por supuesto a los artesanos de este mundo alternativo que hacen posible tales maravillas.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/vehicles-th.jpg!:/img/screenshots/2015-06-30-80_days/vehicles.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/vehicles-th.jpg!:/img/screenshots/2015-06-30-80_days/vehicles.png
 
 p(piefoto). Haremos uso de vehículos convencionales para nuestro viaje, pero también podemos trasladarnos en transportes más exóticos
 
 Escogemos las rutas en un globo interactivo en 3D. Los viajes y paradas en las diferentes ciudades van acompañados por estilizadas ilustraciones en blanco y negro y hay efectos de sonido y diversas pistas de música como acompañamiento sonoro. Al igual que ocurría con otras obras de Inkle, esta es una experiencia multimedia, no una espartana pantalla sólo con texto —aunque no es que haya nada de malo en eso, por supuesto, el cuidado en la presentación se agradece—.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/gyro-th.jpg!:/img/screenshots/2015-06-30-80_days/gyro.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/gyro-th.jpg!:/img/screenshots/2015-06-30-80_days/gyro.png
 
 p(piefoto). Los variopintos medios de locomoción que podemos usar están representados con estilizadas ilustraciones y sonidos característicos
 
 Resulta claro que las coloridas descripciones y variados segmentos de aventura y exploración con multitud de caminos que escoger son la parte central del juego. Como se suele decir, lo que importa es el viaje, no el destino. Entre la cantidad de aventuras en las que nos podemos ver envueltos en nuestros viajes se encuentran hacer de detective en un misterioso asesinato, rescatar a un pirata de prisión, sobrevivir a un envenenamiento, unirse al circo, entablar conversación con otros personajes de Julio Verne como el capitán Nemo o, como parte de un huevo de pascua, al mismísimo Verne y, cómo no, vivir algún que otro romance cuyo desenlace dependerá de lo bien que nos desenvolvamos.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/orleans-th.jpg!:/img/screenshots/2015-06-30-80_days/orleans.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/orleans-th.jpg!:/img/screenshots/2015-06-30-80_days/orleans.png
 
 
 p(piefoto). La prosa es muy buena y consigue evocar pintorescas aventuras en nuestro viaje
 
 Aún así, no todo es pura narración. _80 Days_ incluye un barniz de mecánicas de juego que lo ponen por encima de un básico "escoge tu propia aventura". Passepartout debe gestionar los recursos del viaje para que su amo gane la apuesta. En términos esenciales esto se traduce en tiempo, dinero y el estado de salud de Fogg. Si vamos un paso más allá, se trata fundamentalmente de tiempo. Phileas Fogg es rico, y no reparará en gastos para su viaje. Sin embargo, la cantidad de dinero que podemos llevar encima en un momento dado es limitada. En cualquier ciudad podemos retirar cierta cantidad de los bancos, pero esto cuesta tiempo, y cuanto más alta sea la cantidad de la transferencia, más tiempo requiere que el banco la apruebe lo que nos puede costar preciosos días. Eventos en la historia pueden hacer que el efectivo en nuestra cartera cambie, ya sea perdiendo dinero si somos asaltados, por ejemplo, o ganando algo de calderilla si ayudamos en algún trabajo aquí y allá. Todas estas opciones son, en su mayor parte, cosméticas ya que salvo excepciones tienen poco impacto en nuestras finanzas. La forma más eficiente de mantener nuestra cartera bien llena es adoptando el rol de mercader.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/trait-th.jpg!:/img/screenshots/2015-06-30-80_days/trait.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/trait-th.jpg!:/img/screenshots/2015-06-30-80_days/trait.png
 
 
 p(piefoto). El carácter de Passepartout evoluciona según nuestras decisiones, aunque no tiene impacto real sobre el juego más que como "rango" orientativo
@@ -60,7 +60,7 @@ En cada ciudad hay un mercado, y una serie de objetos que podemos comprar. Estos
 
 Este aspecto de gestión de recursos, aunque narrativamente apropiado, no está estructurado como un sistema sofisticado ni un juego robusto en sí mismo. Es simplemente una capa más para aportar un toque de simulacionismo a la trama que vamos construyendo. Nuestras decisiones estratégicas sobre a dónde viajar cuánto tiempo esperar y qué reintegros sacar del banco están limitadas por el avance inexorable de la trama. Por muy ramificada que esta sea, su desarrollo es estricto. Tan sólo se nos permite viajar "hacia delante" así que no podemos hacer cosas como un pequeño viaje lateral mientras esperamos por una transacción del banco en otra ciudad, que nos permita volver y tomar una ruta más favorable. Una vez que abandonas una ciudad, no es posible volver a ella en la misma partida, con lo que tenemos que anticiparnos lo máximo posible a las oportunidades que se nos presenten, e intentar asegurarnos de que tenemos suficiente efectivo en mano para poder tomarlas.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/herat-th.jpg!:/img/screenshots/2015-06-30-80_days/herat.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/herat-th.jpg!:/img/screenshots/2015-06-30-80_days/herat.png
 
 
 p(piefoto). Si no conocemos ninguna ruta de antemano, tendremos que emplear algunas horas en explorar la ciudad
@@ -69,7 +69,7 @@ En cualquier caso, es poco probable que en el transcurso de una partida nos veam
 
 Cuando estamos en mitad de un viaje tenemos varias opciones. Podemos atender a nuestro amo, leer los periódicos o conversar con algún personaje a bordo del transporte en que nos encontremos (que puede incluír al propio Fogg). En la pantalla de mapa, el juego siempre transcurre a un tiempo acelerado lo que significa que, a excepción de los viajes más largos, solo tendremos oportunidad de hacer una de estas tres cosas. Las conversaciones con NPCs nos ponen en una ventana en la que Passepartout aparece cara a cara con su interlocutor. Debajo de los retratos, se nos presentan una serie de temas de los que hablar que normalmente son rutas y nombres de ciudades, pero también pueden ser objetos y mercancías. Estas conversaciones son generadas sobre la marcha en base a dónde nos encontremos y hacia dónde vayamos. En claro contraste con la prosa de los segmentos de texto, estas conversaciones siempre resultan robóticas y poco naturales con los NPCs a veces ignorando completamente el contexto de nuestras preguntas y respondiendo algo sin ninguna relación, o limitándose a repetir frases "plantilla" que nos sacan de la inmersión literaria que _80 Days_ consigue tejer. Por si fuera poco, las conversaciones terminan abruptamente cuando, debido al tiempo acelerado de nuestro viaje, nos aproximamos a nuestro siguiente destino.
 
-p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/npcconvo-th.jpg!:/img/screenshots/2015-06-30-80_days/npcconvo.png!
+p(pagination-centered). !(entry-screen)/img/screenshots/2015-06-30-80_days/npcconvo-th.jpg!:/img/screenshots/2015-06-30-80_days/npcconvo.png
 
 
 p(piefoto). Las conversaciones con otros personajes son el aspecto más flojo del juego
