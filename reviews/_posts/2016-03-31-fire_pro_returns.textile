@@ -1,0 +1,161 @@
+---
+layout: review
+title: "Fire Pro Wrestling Returns"
+originaltitle: "ファイプロ・リターンズ"
+description: "Considerada una de las más realistas y completas series de juegos de wrestling. Este título es el último que se ha lanzado"
+cover: fire_pro_returns.jpg
+score: 3
+dev: "Spike"
+year: 2005
+formato: [Deportes, Lucha]
+genero: [wrestling, gestión]
+plataformas: [PlayStation 2, PlayStation 3]
+author: Iacus
+---
+
+La serie _Fire Pro_ de juegos de wrestling tiene una larga tradición en consolas japonesas. Los aficionados al wrestling en occidente lo consideran una de las mejores series de wrestling, pero a diferencia de los juegos del *AKI Engine*, los _Fire Pro_ nunca tuvieron una gran presencia en el mercado occidental, siendo este _Fire Pro Wrestling Returns_ el primer juego de la serie con una versión en inglés para consolas de sobremesa (causando cierta ironía sobre el título _Returns_). Los otros lanzamientos fueron para Game Boy Advance, _Fire Pro Wrestling_ en 2001 y _Fire Pro Wrestling 2_ en 2002.
+
+El juego que nos ocupa, _Fire Pro Wrestling Returns_, está disponible para PlayStation 2, y ahora también en formato digital en PlayStation 3 a través de PlayStation Network. Es un excelente punto de partida para adentrarse en el mundo de los juegos Fire Pro
+
+El sistema de combate de _Fire Pro Wrestling Returns_ sigue en la línea de los otros juegos de la serie. Es un sistema basado en timing y estrategia que penaliza machacar botones, y por este motivo resulta poco intuitivo para el principiante que simplemente acaba de ponerse a jugar nada más coger el juego sin una explicación apropiada.
+
+El funcionamiento básico es el siguiente: Hay tres botones de ataque más uno dedicado a una maniobra (irish whip). Los botones de ataque son ligero, medio y fuerte —En el mando de PlayStation estos son Cuadrado, Equis y Círculo respectivamente—. Al pulsarlos por sí solos o junto a una dirección del d-pad, nuestro luchador lanza un golpe (striking attack). Cuando los luchadores se acercan sin que ninguno lance un striking attack, entran automáticamente en una animación de agarre. Cuando sus manos se juntan es el momento exacto de pulsar uno de los botones de ataque (más opcionalmente una dirección). El primer jugador que pulse el botón iniciará un agarre (de tipo ligero, medio o fuerte según el botón pulsado). No hay garantía, sin embargo, de que aunque consigamos la prioridad e iniciemos un agarre/lanzamiento, este tendrá éxito. A diferencia de otros juegos más basados en reacción y reflejos como los juegos de AKI o "WWE All Stars":{% post_url 2015-03-10-wwe_all_stars %}, _Fire Pro Returns_ está más orientado a la simulación y los combates están fuertemente influenciados por el estado de los luchadores y sus capacidades. Si intentamos hacer movimientos "grandes" y agarres fuertes nada más empezar el combate, lo más probable es que simplemente fallemos o que el oponente nos haga un reversal —automáticamente ejecutado en base a sus capacidades—. Esta estructura está pensada para que los combates tengan un ritmo similar a un típico combate de wrestling televisado (siendo más específicos, _puroresu_ japonés), con lo que tendremos que debilitar a nuestro oponente con movimientos rápidos y ligeros, pasado luego a los medios antes de poder usar con éxito los más explosivos agarres fuertes.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/blood-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/blood.png!
+
+
+p(piefoto). La sangre también está simulada. Wrestlers particularmente violentos pueden "dar color" a los combates
+
+El punto más fuerte de la serie Fire Pro es sin duda el increíble nivel de personalización que permite al jugador. Los gráficos están basados en sprites 2D, pero con un sistema de animación de "marioneta" que permite una gran diversidad en el aspecto e los luchadores. El juego viene de serie con 327 wrestlers basados en los atletas reales. Spike no tiene las licencias de todos los luchadores, así que optan por tener facsímiles reconocibles en el juego en lugar de los nombres reales. La serie Fire Pro siempre ha estado principalmente dirigida a una audiencia japonesa, así que el plantel está muy enfocado a representar varias federaciones japonesas. No solo de _puroresu_ sino también de _shootfighting_, un estilo de artes marciales mixtas con más énfasis en la ambientación de deporte realista que en el puro espectáculo de entretenimiento. También el wrestling femenino, o _joshi puroresu_ tiene una categoría en la lista de personajes, así como varios luchadores mejicanos icónicos. Un elenco de wrestlers de promociones americanas está tambien representado, y cada wrestler cuenta con varios atuendos (típicamente un máximo de 4 por luchador).
+
+La equivalencia con las promociones reales que ofrece el plantel por defecto es la siguiente:
+
+<table class="table">
+    <tr>
+        <th>Fire Pro</th>
+        <th>Real</th>
+    </tr>
+    <tr>
+        <td>View Japan</td>
+        <td>New Japan Pro Wrestling</td>
+    </tr>
+    <tr>
+        <td>Olive Japan</td>
+        <td>All Japan Pro Wrestling</td>
+    </tr>
+    <tr>
+        <td>Nova</td>
+        <td>Pro Wrestling Noah</td>
+    </tr>
+    <tr>
+        <td>Neo-1M</td>
+        <td>Pro Wrestling ZERO1</td>
+    </tr>
+    <tr>
+        <td>Blizzard</td>
+        <td>Michinoku Pro Wrestling</td>
+    </tr>
+    <tr>
+        <td>Azteca Pit</td>
+        <td>Dragon Gate</td>
+    </tr>
+    <tr>
+        <td>Zip Japan Prowrestling</td>
+        <td>Big Japan Prowrestling</td>
+    </tr>
+    <tr>
+        <td>BBT</td>
+        <td>DDT (Dramatic Dream Team)</td>
+    </tr>
+    <tr>
+        <td>Kansai</td>
+        <td>Osaka Pro Wrestling</td>
+    </tr>
+    <tr>
+        <td>S- Dojo</td>
+        <td>Michinoku</td>
+    </tr>
+    <tr>
+        <td>Riki</td>
+        <td>Promoción de Riki Chōshū</td>
+    </tr>
+    <tr>
+        <td>Free</td>
+        <td>Agentes libres</td>
+    </tr>
+    <tr>
+        <td>AWG</td>
+        <td>Varios wrestlers americanos (WWF/WCW, etc)</td>
+    </tr>
+    <tr>
+        <td>Mexico</td>
+        <td>Varios luchadores mejicanos</td>
+    </tr>
+    <tr>
+        <td>Female</td>
+        <td>Luchadoras de _joshi_</td>
+    </tr>
+    <tr>
+        <td>Legend</td>
+        <td>Leyendas del wrestling japonés</td>
+    </tr>
+</table>
+
+También están las dos promociones de _shootfighting_: High y SWA. Algunas categorías tienen más luchadores que otras, con diferencia las más nutridas son View y Olive, mientras que Legends solo tiene a 3 miembros.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/spike-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/spike.png!
+
+
+p(piefoto). Pantalla de selección de luchadores, con "The Spike". La versión Fire Pro del famoso Sting
+
+No solo los aspectos de los luchadores pueden ser configurados, sino también su lista de ataques, elegidos de un repertorio de más de 1600 movimientos, estadísticas y capacidades (altura, peso, estilo de lucha, arma favorita, daño con puñetazos, resistencia, velocidad...) y su comportamiento cuando son controlados por la IA en base a un montón de parámetros lógicos que podemos ajustar para dar carácter a los luchadores. Pelean sucio como corresponde a un _heel_? o son más honorables como un _babyface_? Con qué frecuencia "tiran de finisher"? etc. Estas características han hecho de la serie Fire Pro una de las plataformas más populares para simular combates, y hay toda una comunidad de fans que simplemente se dedican a ejecutar torneos, CPU contra CPU, como si de un _dream match_ televisado se tratara. Esta comunidad también ha enerado una gran cantidad de wrestlers para usar en tu juego. Con 500 ranuras para guardar luchadores personalizados, los fans han creado planteles enteros de sus wrestlers favoritos, y como es contenido creado por los usuarios, no hace falta evadir pleitos con nombres falsos. Es fácil encontrar colecciones con cientos de luchadores listos para usar, incluidos los que iniciaron sus carreras años después de que se lanzara el juego al mercado.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/rozhmov-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/rozhmov.png!
+
+
+p(piefoto). Si quieres tener los verdaderos nombres de André el Gigante y Tiger Mask, en vez de las copias que se ven aquí, tendrás que usar el editor
+
+En la versión de PS2, intercambiar datos para cargar los luchadores de otro jugador no era algo particularmente sencillo. El menú del juego nos ofrece una función para cargar tan solo los datos de luchadores de un archivo, pero sigue haciendo falta tener acceso a una memory card para guardarlos y transportarlos. Aunque hoy día Internet, la emulación y las herramientas para transferir archivos a una memory card hacen este proceso algo más fácil, imagino que la forma más sencilla de cargar estos archivos es en la versión de PSN que se puede ejecutar en una PlayStation 3. No puedo confirmar esto ya que personalmente no he probado esta versión.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/covershot-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/covershot.png!
+
+
+p(piefoto). Los combates en jaula están soportados, y se pueden cambiar las condiciones de victoria
+
+Este nivel de creación de personajes ya sería todo un logro en otros juegos, pero _Fire Pro Returns_ no se para aquí. Aparte de luchadores, es posible crear nuestros propios títulos (con personalización de cinturones incluida), rings, promociones de wrestling e incluso árbitros, cambiando parámetros como su resistencia al ser noqueado, lo rápido que reacciona a un pinfall o a qué ritmo lleva la cuenta para pines y descalificaciones.
+
+Tal cantidad de opciones puede resultar abrumadora, pero el juego permite irse involucrando poco a poco. Por desgracia, el interfaz de usuario es terrible. Acciones básicas como confirmar una selección para pasar a la pantalla siguente están ocultas tras submenús que se muestran al pulsar Cuadrado, pero no existe ninguna indicaión en pantalla de que estos submenús existen. Además los paneles de opciones y los diálogos de selección son extremadamente anti-intuitivos. Si este es el primer Fire Pro que pruebas, es muy posible frustrarse con los menús antes siquiera de ver nuestro primer combate.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/options-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/options.png!
+
+
+p(piefoto). Por desgracia, el interfaz de usuario está pobremente diseñado. Haciendo muchas operaciones que deberían ser simples muy poco intuitivas
+
+El surtido de modos de juego es bastante nutrido, desde el más inmediato y, hasta cierto punto, apto para coger y jugar del modo Exhibición, hasta torneos de eliminación de hasta 32 jugadores, ligas tag team de 64 parejas, combates por equipos, battle royales y combates de título (que podemos crear nosotros mismos). También existe un modo carrera/promotor llamado Match Maker.
+
+Dentro de estos modos, los tipos de combate son bastante variados. Aparte del ring normal tenemos combates en jaula, combates estilo "hardcore" con alambre de espino, combates con reglas de shootfighting (SWA y S-1), el llamado "gruesome fighting" con armas en el ring e incluso el "landmine match" con explosivos, en el que el realismo queda de lado para dar un mayor enfoque al el aspecto hardcore y peligroso del combate.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/royale-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/royale.png!
+
+
+p(piefoto). El estilo gráfico 2D permite que sea uno de los pocos juegos de la época en el que se pueden jugar battle royales con 8 luchadores en pantalla simultáneamente (más el árbitro)
+
+El modo Match Maker por sí solo tiene un nivel de profundidad y realismo a la par con el resto del juego. Nos permite llevar nuestra propia promoción de wrestling, organizar los eventos y los bookings y gestionar la reputación y popularidad de nuestra promoción. La primera vez que un modo de estas características apareció en la serie Fire Pro fue con el modo Management of the Ring en _Final Fire Pro Wrestling: Yume no Dantai Unei!_, la versión japonesa del segundo título para Game Boy Advance (en occidente lanzado como _Fire Pro Wrestling 2_ aunque el modo MOR fue eliminado de esta versión)
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/azteca-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/azteca.png!
+
+
+p(piefoto). Si los fans prefieren combates hardcore con alambre de espino, es lo que habrá que darles
+
+Match Maker en _Returns_ elimina muchas de las opciones más simulacionistas de Management of the Ring y el resultado es algo más accesible, aunque está limitado al plantel de luchadores por defecto. Por desgracia, no se pueden usar luchadores personalizados.
+
+El modo tiene tres opciones, Season play es el principal, en el que organizaremos una temporada de 12 meses. Competition play es un modo en el que organizaremos solo un evento, con la idea de que se convierta en el más popular posible. Una buena forma de coger práctica por si no queremos comprometernos a una partida más larga. La tercera opción es Rankings, que simplemente nos muestra el top 5 de puntuaciones de Season y Competition.
+
+En Season play, empezamos con la posibilidad de seleccionar entre 4 federaciones. A medida que nuestro prestigio aumenta, tendremos acceso a federaciones más grandes. Podemos cambiar de federación cada mes para cada evento. El tipo de fans, la ciudad en la que celebramos el evento y el tamaño de la arena que alquilemos son factores a tener en cuenta a la hora de organizar nuestro booking. Fire Points, o FP son tanto la puntuación final que obtenemos al finalizar el modo, como la moneda con la que pagamos las arenas y los wrestlers. Wrestlers más habilidosos o populares con el público demandan un mayor sueldo. Al principio de la temporada solo los wrestlers considerados "low-card" (nuevos o poco populares) están disponibles. A medida que nuestra fama como promotor aumente organizando eventos con éxito, las federaciones nos permitirán contratar a sus mayores estrellas. Escuchar al público si demandan ver a algún wrestler en particular es una buena forma de asegurar un aumento de la asistencia. En resumidas cuentas, el objetivo es poner culos en asientos, y cobrar entradas. Es un cambio con respecto a los modos principales más enfocados a los combates en sí, y un añadido interesante a un juego que ya ofrece muchas posibilidades para simular todo tipo de combates.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2016-03-31-fire_pro_returns/entrance-th.jpg!:/img/screenshots/2016-03-31-fire_pro_returns/entrance.png!
+
+
+p(piefoto). Dependiendo de la arena, nuestro evento tendrá entradas estilo TV, en la que los sprites se superponen a un vídeo prerenderizado, con resultado algo cutre
+
+Con un poco de paciencia, es fácil ver como la serie Fire Pro se ha convertido en legendaria en el mundo de los juegos de wrestling, y _Fire Pro Returns_ es tanto la última entrega principal de esta serie que se ha hecho en los últimos 11 años (en el momento de escribir este artículo), como un título ampliamente disponible —particularmente la versión PSN— y localizado del japonés. Absolutamente recomendado a los fans del wrestling, especialmente del japonés, y a todos aquellos con curiosidad por saber por qué Fire Pro es regularmente mencionado cuando se habla del mejor juego de wrestling jamás hecho.
