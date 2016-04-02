@@ -1,0 +1,9 @@
+---
+layout: coleccion
+title: Juegos buenos de wrestling
+miembros:
+    - WWE All Stars
+    - Fire Pro Wrestling Returns
+---
+
+Los juegos de wrestling han sido muy mal tratados por la industria del videojuego. Muchas veces meros _cash-ins_ licenciados en base a la popularidad del deporte. Pero hay algunas gemas escondidas entre la mediocridad. Estos son algunos ejemplos.
