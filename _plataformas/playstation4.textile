@@ -1,0 +1,4 @@
+---
+layout: platform
+title: PlayStation 4
+---
