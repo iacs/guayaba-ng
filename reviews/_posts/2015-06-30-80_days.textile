@@ -8,7 +8,7 @@ dev: Inkle
 year: 2014
 formato: [ficción interactiva, elige tu propia aventura]
 genero: [aventura, ciencia-ficción, steampunk, adaptación, literario]
-plataformas: [iOS, Android]
+plataformas: [iOS, Android, Windows, OS X]
 author: Iacus
 ---
 
