@@ -23,6 +23,7 @@
             </ul>
             {% if post.description %}<p>{{post.description | append: '.' | markdownify}}</p>{% endif %}
             </div>
+            {% if post.spoiler %}{% include spoiler_warning.html %}{% endif %}
         </div>
     </div>
 </div>
