@@ -1,0 +1,67 @@
+---
+layout: review
+title: "Call of Duty 4: Modern Warfare"
+description: "El shooter cinemático más influyente tras la serie Half-Life que creó ecuela en el género"
+cover: cod4_cover.jpg
+score: 4
+dev: Infinity Ward
+year: 2007
+formato: [FPS]
+genero: [bélico, contemporáneo]
+plataformas: [Windows, PlayStation 3, Xbox 360]
+author: David
+spoiler: 3
+---
+
+_"Who dares wins"_. Así reza la insignia del S.A.S. (Special Air Service), la unidad principal de fuerzas especiales del Ejército Británico. Sin lugar a dudas, los chicos de Infinity Ward tenían este precepto en mente durante todo el desarrollo de _Call of Duty 4: Modern Warfare_, y demostraron que es cierto eso de que quien se atreve gana. Tuvieron el valor de romper con la ambientación de la Segunda Guerra Mundial de las entregas anteriores y acertaron de pleno. Si bien es un escenario que suele dar buenos resultados y en la saga _Call of Duty_ está especialmente logrado, situar la cuarta entrega en tiempos modernos ha servido para lavarle la cara a la serie y proporcionar nuevos elementos de juego a los aficionados al género, absolutamente deleitados con esta maravilla.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2008-08-20-call-of-duty-4/cod401-th.jpg!:/img/screenshots/2008-08-20-call-of-duty-4/cod401.jpg!
+
+
+p(piefoto). La introducción es impresionante y muy dramática.
+
+El juego comienza con un prólogo que incluye un tutorial en el que se pondrán a prueba nuestras habilidades como soldado para recomendarnos una dificultad apropiada. Y justo después empieza lo bueno. Se nos envía a una misión en un barco no demasiado lejos del Estrecho de Bering sobre el que descendemos desde un helicóptero acompañados, entre otros, por nuestro superior: el Capitán Price. Podemos notar la incesante e intensa lluvia sobre los hombros, y el balanceo del barco por el fuerte oleaje nos hace sentir frágiles, pero somos soldados del S.A.S. y venimos a hacer lo que mejor sabemos. Durante esta misión se nos pone rápidamente en contacto con la mecánica de juego y nos vamos acostumbrando a ciertas situaciones en contacto con el enemigo. Además, en cierto punto de la misión, debemos huir del barco, que ha sido bombardeado y se está hundiendo rápidamente, haciéndonos pasar un mal rato mientras corremos como alma que lleva el diablo por los pasillos, intentando recordar por dónde tenemos que volver a la cubierta superior, viendo cómo revientan las tuberías y todo se inunda rápidamente en un segmento intenso y cinemático que culmina con nuestros compañeros saltando al helicóptero que nos trajo y nosotros tras ellos de manera que, al hacerlo, nos quedaremos irremediablemente cortos en el salto y veremos cómo nuestro personaje extiende los brazos sobre la rampa del helicóptero intentando aferrarse hasta que el Capitán Price nos agarra por un brazo gritando: "¡Te tengo!". Acaba de crearse un vínculo. Nuestro capitán nos salva la vida generando una unión emocional entre él y el jugador, provocando que, durante el resto de las misiones lo sigamos de buen grado, confiemos en él y nos sintamos cómodos a su lado.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2008-08-20-call-of-duty-4/cod402-th.jpg!:/img/screenshots/2008-08-20-call-of-duty-4/cod402.jpg!
+
+
+p(piefoto). La primera persona no es una simple perspectiva, sino que es aprovechada como fuerza narrativa.
+
+Este recurso es empleado varias veces a lo largo del juego, pero de distintas maneras y siempre con maestría, causando marcados efectos en el jugador. Precisamente, tras la misión del barco finaliza el prólogo, dando comienzo a la secuencia de créditos que precede al primer acto. En esta secuencia se nos pone en la piel del presidente Al-Fulani, gobernante del país de Oriente Medio con el que los americanos están en guerra (en la historia ficticia del juego).
+
+Veremos en primera persona cómo el presidente es secuestrado, pudiendo manejar la cámara sin problema mientras se nos lleva en coche hasta una plaza en la que seremos ejecutados. Los fusilamientos y otras escenas de guerra que vemos durante el camino, el trato violento que nos dan los lacayos del golpista Khaled Al-Asad y nuestra ejecución nos hacen tomarnos muy en serio el golpe militar, consiguiendo además que el jugador identifique desde el principio a los que serán sus dos grandes enemigos (Al-Asad y el ultranacionalista eslavo Zakhaev) al ver, en primera persona, cómo tratan a Al-Fulani con crueldad y finalmente le apuntan a la cara con una pistola, viendo la macabra sonrisa del golpista mientras aprieta el gatillo.
+
+Este recurso funciona creando un gran impacto en la mentalidad del jugador, dándole una razón para hacer lo que hace, dándole una causa justa por la que luchar, unos enemigos crueles a los que derrotar y unos compañeros junto a los que sangrar. Precisamente, utilizar la primera persona como método de narración y generación de impulsos permite crear también vínculos emocionales significativos entre jugador y personajes que aportan interés, emotividad y dramatismo a la experiencia.
+
+Que el Capitán Price nos salve la vida en el prólogo hace, como ya he dicho, que nos sintamos unidos a él, pero el juego nos lleva más allá. Al finalizar el primer acto descubrimos la alianza entre Al-Asad y Zakhaev, lo que lleva nuestro capitán a recordar una experiencia de cuando era teniente y se encontraba al mando del entonces Capitán McMillan. Esta experiencia la introduce con unas palabras, pero la conoceremos a través de la acción: se nos pone en la piel del Teniente Price, en flashback, siguiendo a McMillan con un rifle de precisión y vistiendo un traje ghillie.
+
+Avanzaremos por las afueras de la ciudad de Pripyat, Ucrania, en dirección a la central nuclear de Chernobyl, donde se encuentra nuestro objetivo. Esta misión en retrospectiva está formada por segmentos cinemáticos, cada vez más peligrosos e incluso poniéndonos los pelos de punta en situaciones de máxima tensión. Atravesaremos los edificios deshabitados de Pripyat, sobrecogiéndonos ante la sensación de soledad de la ciudad fantasma que, como sabemos, se encuentra en ese mismo estado a día de hoy debido a la mayor catástrofe nuclear de la historia.
+
+Llegaremos al piso más alto de un hotel desde el que veremos a Zakhaev negociando la compra de material nuclear con unos militares, teniendo el siniestro Sarcófago de la central de Chernobyl como telón de fondo. En efecto, ahora hemos comprobado en primera persona hasta qué punto es nuestro rival el ultranacionalista, pues sabemos que no es el primer intento del S.A.S. de eliminarlo, aún encima por la mano de nuestro querido capitán. Pero ah, no acaba aquí la cosa: el asesinato sale mal y Zakhaev sólo pierde un brazo, con lo cual se produce una persecución en la que, en un momento cinemático, el Capitán McMillan resulta herido y lo habremos de llevar a cuestas, complicando nuestra huída a través de cientos de tropas ultranacionalistas hasta el punto de recogida, culminando con nuestra llegada a este punto, donde protagonizaremos una resistencia épica contra legiones de enemigos mientras esperamos a que llegue nuestro helicóptero a recogernos.
+
+Sobrevivir a tal oleada únicamente con un rifle de precisión, una pistola, un puñado de explosivos y el apoyo de nuestro superior herido hace del Capitán Price un verdadero héroe. Pero no hemos visto cómo se convertía en ello. Lo hemos vivido en primera persona. El juego consigue así dos efectivos logros: recompensa al jugador haciéndole sentirse como un héroe y retrata a Price como tal, consiguiendo que lo admiremos más y nos sintamos más unidos, al haber realizado ese acto heroico en su propia piel. La culminación de este recurso llega en el segmento final (quien no se haya acabado la campaña de un jugador que pase ahora mismo al párrafo siguiente o afronte las consecuencias), cuando estamos tirados en el suelo, malheridos y desarmados, viendo cómo Zakhaev en persona mata a nuestros compañeros, incluido Gaz.
+
+Nuestra percepción en cámara lenta alarga de forma dramática la tensión del momento, especialmente cuando el Capitán Price, también malherido y tirado en el suelo saca su pistola, haciéndonos sentir emocionados por el inminente ajuste de cuentas con su antiguo enemigo, pero... nos lanza la pistola a nosotros. Oh, Dios mío, ahora el vínculo es más fuerte que nunca, al pasarnos el testigo de su venganza que, más allá de la cuestión personal, resultará en la salvación de las vidas de millones de ciudadanos inocentes que habrían sido bombardeados por el terrorista. Así, disparando a Zakhaev y su escolta, completamos nuestro camino, se cierra el círculo y nuestro bienquerido capitán muere satisfecho en plena acción*.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2008-08-20-call-of-duty-4/cod403-th.jpg!:/img/screenshots/2008-08-20-call-of-duty-4/cod403.jpg!
+
+
+p(piefoto). En todos los actos del juego nos encontraremos en situaciones límite en las que debemos reaccionar con rapidez y eficacia.
+
+Esta línea argumental es, por así decirlo, la "principal", en la que encarnamos al Sargento "Soap" McTavish del S.A.S., pero jugaremos de forma paralela como el Sargento Paul Jackson de los Marines de los Estados Unidos, en plena guerra contra el ejército de Al-Asad. Se proporcionan así dos tramas que ofrecen una interesante variedad de situaciones: sigilo, emboscadas, resistencias, bombardeos, ocultarse de un helicóptero enemigo que nos sobrevuela para acribillarnos, sabotaje, apoyo de tropas, acción cruda y lineal y la utilización de recursos como ataques aéreos o misiles Javelin. De este modo la narración es variada, divertida y cambia de ritmo evitando que el jugador se canse de hacer siempre lo mismo. Y una de las mejores muestras de este recurso en el juego -probablemente la mejor- es el final de la línea argumental del marine, una sorprendente y desoladora forma de mostrar el horror de la guerra y lo efímero de la vida, particularmente cuando se es un soldado, estando expuesto constantemente a acciones imprevistas y riesgos letales.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2008-08-20-call-of-duty-4/cod404-th.jpg!:/img/screenshots/2008-08-20-call-of-duty-4/cod404.jpg!
+
+
+p(piefoto). Las misiones ofrecen una interesante variedad de situaciones, lo cual es a la vez un alivio para el jugador y un impuslo para seguir adelante.
+
+Al respecto de esas circunstancias, el juego demuestra una filosofía muy inteligente a través de la inclusión de citas célebres y datos económicos que aparecen cuando se recarga un nivel, después de morir. Aforismos, reflexiones, comentarios y lecciones de múltiples y variados personajes célebres pasan ante nuestros ojos mostrando posiciones tanto a favor como en contra de la guerra, demostrando imparcialidad al mismo tiempo que se nos recuerda que la guerra es algo muy real y totalmente serio, no como el inocente y divertido _Call of Duty_ del que tanto estamos disfrutando. "Oh, vaya, qué gráficos tiene este juego, qué divertido, qué intenso y cómo mola estar tan inmerso en la acción, cómo se salen las armas, es genial"; sí claro, pero es un juego, la guerra es real y dura y absolutamente no divertida. Los de Infinity Ward te lo recuerdan cada vez que cargas la partida.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2008-08-20-call-of-duty-4/covershot-th.jpg!:/img/screenshots/2008-08-20-call-of-duty-4/covershot.jpg!
+
+
+p(piefoto). Como juego de temática bélica, _Call of Duty 4: Modern Warfare_ triunfa en su representación de la acción y su filosofía.
+
+No hay muchos juegos que diviertan tanto como Call of Duty 4: Modern Warfare al mismo tiempo que conservan el equilibrio entre jugabilidad y realismo. Es sumamente entretenido, especialmente en modo multijugador, donde podemos especializarnos en el tipo de soldado que queremos jugar, pudiendo escoger entre clases o crear la nuestra propia gracias a un sistema de "ventajas" con las que personalizar al personaje, tales como ser más resistente, no hacer ruido al moverse, aguantar la respiración durante más tiempo (viene bien para los francotiradores) y un largo etcétera que asegura una experiencia en grupo divertida y variada, si bien desequilibrada en algunos aspectos. La "ventaja" de Mártir, que hace que un jugador deje caer una granada al morir, funciona como una recompensa para el que pierde y un riesgo, y en ocasiones certeza de castigo para el que gana. Una filosofía errónea y frustrante, especialmente en los servidores en los que se permite el uso de esta habilidad, en los que la gente tiende a abusar de ella y ganar puntos que no se merece.
+
+Una campaña elaborada con una gran fuerza narrativa junto a un modo multijugador electrizante y unos gráficos de lujo con HDRR, iluminación dinámica, penetración de balas calculada y otros efectos del motor dan como resultado un magnífico juego de acción, de esos que marcan una época. No es un _shooter_ como los demás, en el que agarras tu arsenal y te lanzas contra el enemigo causando estragos en sus filas, acumulando munición, curándote y cargándote jefes finales; es un juego de guerra, crudo, realista y dramático pero a la vez divertido y agradable. Ante todo, si eres aficionado al formato de los FPS, _Call of Duty 4: Modern Warfare_ es el juego al que quieres jugar una y otra vez. Pero no olvides que es sólo un juego. La guerra es real.
