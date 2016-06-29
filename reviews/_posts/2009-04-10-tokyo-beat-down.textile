@@ -1,0 +1,47 @@
+---
+layout: review
+title: Tokyo Beat Down
+originaltitle: "Yajuu Keiji: Tokyo Douji Tahatsu Tero o Chinatsu Seyo! (野獣刑事 東京同時多発テロを鎮圧せよ!) - (Beast Cops: Suppress frequently occurred terrorism in Tokyo)"
+description: "Un simple, pero sólido _beat'em up_ para la Nintendo DS"
+cover: tokyobd_cover.jpg
+score: 3
+dev: Success
+year: 2008
+formato: [beat 'em up]
+genero: [policial, comedia]
+plataformas: [Nintendo DS]
+author: David
+---
+
+Cuando yo era pequeño y vivía en casa de mis abuelos, mi tío se compró una Super Nintendo. A pesar de que no fue uno de los juegos que más me marcaron, _Final Fight_ me proporcionó bastante diversión y mi primer contacto con el género de los _beat'em up_. Tres personajes con distinta fuerza, resistencia y velocidad se abrían paso a tortas a través de calles infestadas de escoria criminal, cada vez mejor armada y más peligrosa. Los personajes eran un tipo equilibrado en sus estadísticas, otro más fuerte y duro pero más lento y una chica más débil pero muy rápida y ágil. A este mismo esquema tan de vieja escuela responde _Tokyo Beat Down_.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-10-tokyo-beat-down/covershot-th.jpg!:/img/screenshots/2009-04-10-tokyo-beat-down/covershot.jpg!
+
+
+p(piefoto). La jugabilidad es casi totalmente old-school, muy similar a la de los viejos juegos de este género.
+
+Sin llegar a la genialidad y complejidad de _River City Ransom EX_, este juego retoma los conceptos clásicos de un género muerto, les saca brillo y los adereza con una historia entretenida, cómica, llena de diálogos intencionalmente absurdos que parodian las películas de "polis malos".
+
+De los tres personajes jugables, el protagonista principal es Lewis Cannon, un "poli" chulo, tonto y bestia que da lugar a los diálogos más hilarantes del juego. Pongamos por caso la primera misión: Lewis y el sargento Suzuki están persiguiendo por la autopista una furgoneta cargada de fuegos artificiales que el conductor planea hacer reventar en un lugar lleno de gente en plena ciudad. Cuando lo detienen —incluyendo el inevitable choque espectacular y consecuente colapso de la vía— Lewis se pone muy serio y le dice a su superior: "Piense, Suzuki: si todos esos fuegos artificiales hubiesen explotado a la vez... habría sido precioso". Constantemente nos encontraremos con este tipo de humor. Si el juego ni siquiera se toma del todo en serio a sí mismo. Al principio, la compañera de Lewis (Rika, la heroína) nos mete en un tutorial simple y que rompe con la inmersión diciendo cosas como "Pulsa el botón Y para dar puñetazos, X para las patadas...". Y justo tras la misión de tutorial el detective Bando (el tercer personaje jugable) le dice a Lewis que le va a reducir las estadísticas por pasarse de bestia y que podrá volver a subirlas poco a poco recolectando pergaminos y chalecos antibalas que le aumentarán la fuerza y resistencia; entonces Lewis pregunta "¿Por qué esas cosas están tiradas por la ciudad?", a lo que Bando responde "No le des importancia". No se toma en serio en absoluto y esa era la intención de los desarrolladores: un juego humorístico, paródico, con una jugabilidad sencilla y adictiva. Ante todo vive de una historia con conspiración en clave de humor que busca provocar risa, aunque no por ello pierde interés. Yo mismo no me había reído tanto con un juego en años.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-10-tokyo-beat-down/tbd02-th.jpg!:/img/screenshots/2009-04-10-tokyo-beat-down/tbd02.jpg!
+
+
+p(piefoto). Lewis, la estrella del juego, es el policía más animal de la ciudad de Tokyo.
+
+Por lo demás el juego se mantiene simple. Las misiones son lineales y transcurren en barrios de Tokyo determinados como Shibuya o Shinjuku. Antes de cada una vemos un mapa en el que están señalados los barrios disponibles en cada momento, los cuales podremos visitar sin oposición hostil antes de iniciar la misión, si nos apetece. el beneficio es que a veces nos encontraremos con unos viejetes con nombres como Maestro of Legend o Elder of The Mall que nos meterán en una pelea con condiciones para recompensarnos con los chalecos y pergaminos mencionados. Y aprovecho para decir que los nombres de los NPC's se las traen: "Mujer con los Brazos Cruzados", "Hombre Mal Informado" u "Hombre Emocionado por el Accidente" son solo algunos ejemplos de nombres acordes con el sentido del humor del juego, todos ellos completamente distintos entre sí, pues hay cientos de ciudadanos con los que hablar y cada uno tiene su nombrecito de marras acorde con su actitud, personalidad o profesión.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-10-tokyo-beat-down/tbd03-th.jpg!:/img/screenshots/2009-04-10-tokyo-beat-down/tbd03.jpg!
+
+
+p(piefoto). Los "nombres" de muchos personajes realmente se las traen.
+
+En cuanto a jugabilidad la cosa es simple: tres personajes con diferentes estadísticas de fuerza, resistencia y velocidad. Pueden pegar patadas, dar puñetazos, cubrirse, esquivar, lanzar enemigos y hacer un par de movimientos especiales, como en _Final Fight_, pero perfeccionado. También pueden sacar un arma y disparar, con munición limitada. Lo más interesante de esto es encadenar los golpes siguiendo una secuencia determinada y con el _timing_ correcto para finalizar el combo con un disparo "gratis", es decir, que no consume munición. El hecho de que alunos enemigos puedan disparar fuerza al jugador a saber calcular las distancias, aprovechar los espacios y encadenar bien sus combos para derribar a los "pistoleros" antes de que nos derriben y nos pongan a merced de sus compañeros. Esto alcanza su máxima expresión en los combates contra jefes finales, donde el espacio está muy restringido y hay que saber moverse bien y rápido en dimensiones reducidas contra los grupos de enemigos que protegen al líder, más veloz y duro que sus compañeros.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-04-10-tokyo-beat-down/tbd04-th.jpg!:/img/screenshots/2009-04-10-tokyo-beat-down/tbd04.jpg!
+
+
+p(piefoto). En las misiones se juega mucho con el espacio del que dispone el jugador, como en esta autopista a punto de ser colapsada.
+
+La mecánica no alcanza mayor profundidad más allá de esto y recuperar la salud perdida cogiendo hamburguesas y bolas de arroz del suelo, así como algunas armas adicionales de vez en cuando. Ni falta que hace. El enfoque de _Tokyo Beat Down_ es la pura sencillez de la vieja escuela
+con pinceladas de jugabilidad más avanzada y enmarcada en una historia cómica e hilarante a la que no faltan sus momentos de dramatismo. Se trata de un juego que reanima un género muerto en el que en los últimos años no se ha visto casi nada realmente bueno salvo los geniales _River City Ransom EX_ y _God Hand_. Es lo que un videojuego debe ser ante todo: divertido, adictivo y jugable. El hecho de que lo consiga sin complicaciones hace que merezca la pena dsifrutarlo de principio a fin, sobretodo si, como yo, eres de esos a los que _Final Fight_ y _TMNT: Turtles in Time_ les provocan nostalgia.
