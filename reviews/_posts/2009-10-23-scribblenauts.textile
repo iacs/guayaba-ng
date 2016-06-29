@@ -1,0 +1,46 @@
+---
+layout: review
+title: "Scribblenauts"
+description: "Innovador juego en el que debemos resolver situaciones invocando objectos al teclear sus nombres"
+cover: scribblenauts_cover.jpg
+score: 2
+dev: 5th Cell
+year: 2009
+formato: [Puzzle]
+genero: [fantasía, ciencia-ficción]
+plataformas: [Nintendo DS]
+author: David
+---
+
+Cuando fue anunciado _Scribblenauts_ me pareció emocionante el concepto que proponía y pensé que era una gran idea. Cuando me enteré de que lo iba a desarrollar el estudio responsable del malogrado _Drawn To Life_ (he ahí una gran idea echada a perder) no pude evitar asustarme. ¿Cuál es el resultado final? Bastante bueno, afortunadamente, pero con ciertos fallos que, si bien nadie debería permitirse al desarrollar un videojuego hoy en día, no me sorprenden demasiado teniendo en cuenta de quién vienen.
+
+Reconozcámoslo, la cantidad de palabras y conjuntos de estas que uno puede escribir en _Scribblenauts_ para que cobren vida en forma de personajes, objetos, etc. es inmensa y merece reconocimiento. Especialmente teniendo en cuenta las importantes referencias a iconos de la cultura popular e incluso a fenómenos de Internet y hasta a conceptos culturales un tanto oscuros para el ciudadano medio.
+
+Es muy gratificante encontrarse con un monstruo, usar la función de descripción para averiguar su nombre, y deducir, qué puede usarse para acabar con él. Un ejemplo concreto: me encuentro con una enorme bestia y su descripción reza "Behemot". Buscando en mi memoria recuerdo que esta criatura bíblica tenía un archienemigo: Leviatán. Así que pruebo a escribir ese nombre y resulta que la mítica bestia es invocada. La arrastro junto a su némesis y empieza un fiero combate entre ambos que resulta con mi monstruo marino victorioso, y ni siquiera estaba en el agua. Magnífico.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-23-scribblenauts/scribblenauts01-th.jpg!:/img/screenshots/2009-10-23-scribblenauts/scribblenauts01.jpg!
+
+
+p(piefoto). El abanico de posibilidades que el juego ofrece para resolver situaciones es sorprendentemente amplio y flexible.
+
+Sin embargo, es curiosa la peculiar atención al detalle de esta mecánica en ciertos casos. El juego tiene profundidad suficiente como para distinguir entre "zombi" y "robot zombi" y producir dos personajes diferentes; pero por otra parte escribir "perro" y "perro policía" da lugar al mismo tipo de can sin que haya la más mínima diferencia ya sea en aspecto o comportamiento. Parece una tontería, pero a mí personalmente me parece que el juego estaría más "limpio" sin este tipo de puntualizaciones. Lo cierto es que la preferencia que se pueda tener por un zombi o su congénere mecánico es algo completamente subjetivo. Yo creo que es bastante inútil, pero me imagino que habrá gente a la que le emocionen este tipo de detalles, "por la frikada".
+
+Aun así hay problemas mayores.
+
+Como el sistema de emociones. En numerosos puzles nos encontramos con personajes que poseen algún tipo de emoción sencilla predeterminada. Es más, si "escribimos" ciertos personajes o criaturas ya vienen con ella incorporada de forma inherente. Por ejemplo, un lobo viene con agresividad, un policía viene con instinto de protección (permanece cerca del avatar y ataca a quien le sea hostil), etc. Es sencillo, lo cual estaría bien si no fuera porque lo es demasiado. Permítanme ilustrarlo. Hay un puzle en el que un matón callejero protege unas máquinas expendedoras de snacks, y una chica inocente quiere una chocolatina de ellas. El avatar comienza junto a la chica en el extremo de la pantalla opuesto al enemigo, porque él es hostil y si la ve la mata (y al jugador también). Es más, una regla específica impide matar al tipo. Mi solución fue invocar un frasco de veneno para forzarlo por la bocota del susodicho y dejarlo tumbado mientras yo realizaba mi incursión en las máquinas expendedoras. Y aquí es donde entra en juego la "emoción" de "hambre". Cada vez que se invoca algo que tiene la cualidad de "ingerible", los personajes su vuelven locos por tragárselo. Así que ahí estoy yo, con una botella de bebedizo somnífero en la mano, cuando la chavala se abalanza como loca sobre ella y la liquida, quedando inconsciente. Lo primero que uno intenta por instinto es correr a toda leche con el frasco en la mano para que la chica no se lo ventile, pero es que lo que ella reacciona persiguiendo al avatar como una posesa hasta que se traga todo el veneno de su mano (sí, te lo arrebata sin posibilidad de defensa y eso ocurre siempre en estos casos en el juego) o se mete en el radio de acción del matón. Y no, no se puede evitar por medios convencionales. Tuve que alejarme de ella antes de invocar el veneno, "escribir" un par de objetos aleatorios para ponerlos uno sobre otro y crear una barrera entre ella y yo, y aún así tiró la barrera un par de veces en cuanto advirtió la existencia del bebedizo. Es absurdo y tremendamente incómodo, especialmente en el modo avanzado.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-23-scribblenauts/scribblenauts02-th.jpg!:/img/screenshots/2009-10-23-scribblenauts/scribblenauts02.jpg!
+
+
+p(piefoto). Los personajes interactúan entre sí basándose en el sistema de emociones, que tiene el fallo de poder echar a perder puzles de forma impredecible.
+
+Esto se complica aún más con los controles. El avatar y los objetos invocados se mueven tocando en la pantalla táctil, mientras que para desplazar el punto de vista hay que usar la cruceta, de modo que la perspectiva se autocentra en el avatar rápidamente, siendo una molestia cuando uno intenta examinar cuidadosamente ciertos puntos del escenario. Tocar un punto en la pantalla a veces no funciona bien con el personaje jugador y este responde tarde e incluso con movimientos torpes, como saltos aleatorios que pueden arruinar el progreso en un puzle complicado en un santiamén.
+
+A veces se hace frustrante y acaba cansando. Una verdadera lástima porque, por otra parte, el juego es realmente adictivo y e innovador. Uno siempre tiene ganas de llegar más allá, de descubrir nuevos desafíos y resolverlos con la biblioteca de la memoria y la cultura popular, lo cual es un planteamiento realmente inteligente. Además incluye un modo de edición para crear puzles propios y asignar a los personajes las emociones que queramos, aunque la atracción irresistible por meterse un buen trago de lejía entre pecho y espalda permanece inexorable.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2009-10-23-scribblenauts/scribblenauts03-th.jpg!:/img/screenshots/2009-10-23-scribblenauts/scribblenauts03.jpg!
+
+
+p(piefoto). El título posee un elevado replay value, ya que los puzles aparentemente sencillos pueden completarse varias veces de formas muy diferentes.
+
+_Scribblenauts_ es definitivamente un título que merece la pena ser jugado en profundidad, teniendo en cuenta que la mejor forma de buscar soluciones a sus desafíos es buscar en la propia memoria y en la cultura que nos rodea. Un movimiento inteligente por parte de 5th, quienes por otra parte deberían pensar en actuar de una forma más profesional y no dejarse en el tintero aspectos de la mecánica que estropean parcialmente la divertidísima experiencia de un juego tan adictivo como innovador.
