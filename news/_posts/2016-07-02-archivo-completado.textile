@@ -1,0 +1,22 @@
+---
+layout: blogpost
+title: "Archivo completado"
+author: Iacus
+---
+
+Hola que tal, amigos! La actualización de hoy es sutil pero pero importante. Para empezar, hemos trasladado por fin todas las reseñas de nuestro periodo beta al nuevo sitio, con lo que damos por completado el archivo de nuestras reviews de legado.
+
+No trasladaremos más escritos, pero si echas alguno en falta, te invitamos a "escribir una nueva reseña":http://guayaba2600.com/colabora.html.
+
+Las reviews incorporadas son las siguientes:
+
+* "Call of Duty: Modern Warfare":{% post_url 2008-08-20-call-of-duty-4 %}
+* "Thief: Deadly Shadows":{% post_url 2009-02-18-thief-deadly-shadows %}
+* "Tokyo Beat Down":{% post_url 2009-04-10-tokyo-beat-down %}
+* "Scribblenauts":{% post_url 2009-10-23-scribblenauts %}
+
+El otro cambio, no menos importante, es que el texto de los artículos es más legible, con un tipo de letra de mayor tamaño y mayor espacio entre líneas, así como, finalmente texto alineado a la izquierda. Esto es una web, no una publicación impresa y este ha sido desde siempre el tipo de alineamiento de texto que deberíamos haber usado. Estoy profundamente avergonzado por haber mantenido el texto justificado durante tanto tiempo, pero por fin ha sido corregido de una vez por todas. Con esto la web pasa a la versión 3.2.
+
+Estaré muy ocupado estos meses así que no tendré tiempo de actualizar muy a menudo, pero hay más cosas preparadas en la recámara que iré desvelando a medida que el tiempo lo permita.
+
+Hasta la próxima!
