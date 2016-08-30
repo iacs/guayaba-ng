@@ -34,13 +34,12 @@ $covershot-grid-height: 133px;
 
 html {
     min-height: 100%;
-    @include background($dark-green);
-    @include filter-gradient($dark-green, $light-green, left bottom);
-    @include background-image(linear-gradient(left bottom, $dark-green, $light-green));
 }
 
 body {
-    background-color: transparent;
+    @include background($dark-green);
+    @include filter-gradient($dark-green, $light-green, left bottom);
+    @include background-image(linear-gradient(left bottom, $dark-green, $light-green));
     font-family: $font-stack;
     font-weight: 400;
 }
