@@ -1,18 +1,32 @@
 host: 0.0.0.0
 future: false
 safe: false
-timezone: "Europe/Madrid"
-exclude: [salt, Vagrantfile, README.md, Rakefile, Gemfile, Gemfile.lock, guayaba.todo, config.rb, bootstrap-sass.gemspec]
+timezone: Europe/Madrid
+exclude:
+  - salt
+  - Vagrantfile
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
 paginate: 10
-excerpt_separator: "</sep>"
-jquery: http://code.jquery.com/jquery-2.1.1.min.js
+excerpt_separator: </sep>
+jquery: 'http://code.jquery.com/jquery-2.1.1.min.js'
+plugins:
+  - jekyll-paginate
+  - jekyll-textile-converter
+  - jekyll-octicons
+sass:
+  load_paths:
+    - _scss
+    - node_modules
+  style: compressed
 version:
   major: 3
-  minor: 2
-
+  minor: 3
 collections:
-    plataformas:
-        output: true
-    colecciones:
-        output: true
-        layout: coleccion
+  plataformas:
+    output: true
+  colecciones:
+    output: true
+    layout: coleccion

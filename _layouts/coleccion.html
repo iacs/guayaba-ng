@@ -7,26 +7,31 @@ layout: infopage
 
 {% assign todo_titulo = site.categories.reviews | map: 'title' %}
 <div class="row">
-{% for juego in page.miembros %}
-<div class="col-xs-12 col-sm-6 col-md-4">
-    {% for post in site.categories.reviews %}
-        {% if post.title == juego %}
-            <div class="thumbnail">
-                <div class="covershot-grid">
-                <a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a>
+    <div class="card-deck">
+        {% for juego in page.miembros %}
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            {% for post in site.categories.reviews %}
+            {% if post.title == juego %}
+            <div class="card">
+                <a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}" class="card-img-top collection-thumb"></a>
+                <div class="card-body">
+                    <div class="card-text text-center small"><a href="{{post.url}}">{{post.title | truncate: 28 }}</a></div>
                 </div>
-                <p class="pagination-centered"><a href="{{post.url}}">{{post.title | truncate: 28 }}</a></p>
             </div>
-        {% endif %}
-    {% endfor %}
-        {% if todo_titulo contains juego %}{% else %}
-            <div class="thumbnail">
-                <div class="covershot-grid">
-                <a href="/colabora.html#bounty"><img src="/img/assets/ssnodisponible.png" alt="No disponible"></a>
+            <br>
+            {% endif %}
+            {% endfor %}
+            {% if todo_titulo contains juego %}{% else %}
+            <div class="card">
+                <a href="/colabora.html#bounty"><img src="/img/assets/ssnodisponible.png" alt="No disponible"
+                        class="card-img-top collection-thumb"></a>
+                <div class="card-body">
+                    <div class="card-text text-center small"><a href="/colabora.html#bounty">contribuye: {{juego | truncate: 15 }}</a></div>
                 </div>
-                <p class="pagination-centered"><a href="/colabora.html#bounty">contribuye: {{juego | truncate: 15 }}</a></p>
             </div>
-        {% endif %}
+            <br>
+            {% endif %}
+        </div>
+        {% endfor %}
     </div>
-{% endfor %}
 </div>

@@ -10,7 +10,7 @@ task :newreview do
   title = ARGV.join(' ')
 
   path = "_drafts/#{title}/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.textile"
-  
+
   if File.exist?(path)
     puts "[WARN] File exists - skipping create"
   else
@@ -32,7 +32,7 @@ task :newpost do
   title = ARGV.join(' ')
 
   path = "news/_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.textile"
-  
+
   if File.exist?(path)
     puts "[WARN] File exists - skipping create"
   else
@@ -53,7 +53,6 @@ end
 
 desc "Build site using Jekyll"
 task :build => :remove do
-  sh "bundle exec compass compile -e production --force"
   jekyll "build"
 end
 
@@ -67,11 +66,6 @@ task :bserve do
   sh 'bundle exec jekyll serve --watch'
 end
 
-desc "Compile css through bundler"
-task :bcompile do
-  sh 'bundle exec compass compile'
-end
-
 def jekyll(opts="")
   #sh "rm -rf _site"
   sh "bundle exec jekyll " + opts
@@ -79,13 +73,12 @@ end
 
 def rsync(domain)
   #sh "rsync -rtz --delete --delete-after _site/ iacus@guayaba2600.com:#{domain}"
-  sh "rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ iacus@guayaba2600.com:#{domain}"
+  sh "rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ iacus@philomathy.net:#{domain}"
 end
 
 task :olddeploy do
-  
+
   command = "jekyll build && rsync -avr -e 'ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' --delete --delete-after --log-file=/home/iacusm/data/logs/rsync-guayaba.log /home/iacusm/data/web/guayaba-ng/_site/ iacus@guayaba2600.com:/var/www/guayaba2600.com/"
   sh command
-  
+
 end
-  

@@ -1,0 +1,226 @@
+---
+---
+
+@import "variables";
+@import "bootstrap/scss/bootstrap";
+
+@mixin vertical-align {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+@mixin horizontal-align {
+    position: relative;
+}
+
+html {
+    min-height: 100%;
+}
+
+body {
+    background: $dark-green;
+    background: linear-gradient(0deg, $dark-green 0%, $light-green 100%);
+    font-family: $font-stack;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: $font-stack;
+    font-weight: 700;
+}
+
+a {
+    color: $guayaba-red;
+}
+a:link {
+    color: $guayaba-red;
+}
+a:hover {
+    color: $guayaba-purple;
+}
+a:visited {
+    color: $guayaba-purple;
+}
+
+div {
+    .entry {
+        background: $entry;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        padding: 1em 2em;
+        border: $border-default;
+        border-radius: 8px;
+    }
+
+    .post-text {
+        padding-top: 2em;
+        text-align: left;
+        font-size: 12pt;
+        line-height: 1.5em;
+    }
+}
+
+footer {
+    margin-top: 1em;
+}
+
+.piefoto {
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.squarecover img {
+    margin: 0px;
+    max-width: none;
+    height: 100%;
+}
+
+.mobilecoverthumb img {
+    max-width: 100%;
+}
+
+.social-icons-list > ul > li {
+    display: inline-block;
+    margin: 2px 0px;
+}
+.social-icons-list > ul > li > a {
+    padding: 0.2em 0.1em;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.social-icons-list img {
+    vertical-align: inherit;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+.tag {
+    display: inline-block;
+    margin: 2px 0px;
+    padding: 5px;
+}
+
+a.grid-cover-link span.gem-icon {
+    position: absolute;
+    top: 0px;
+    right: 15px;
+    background-color: $ui-gray;
+    border-top-right-radius: 6px;
+}
+
+.border {
+    border: $border-default;
+}
+
+.pagersec.center,
+.pagersec.center ul {
+    float: left;
+    position: relative;
+}
+.pagersec.center {
+    left: 50%;
+}
+.pagersec.center ul {
+    left: -50%;
+}
+
+.img-center,
+.img-responsive {
+    margin: 0 auto;
+}
+
+.pagination-centered {
+    text-align: center;
+}
+
+.entry-screen {
+    max-width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
+}
+
+.overtext {
+    color: #eeeeee;
+    text-shadow: -1px 0px 1px rgba(50, 50, 50, 1), 0px 1px 1px rgba(50, 50, 50, 1), 1px 0px 1px rgba(50, 50, 50, 1),
+        0px -1px 1px rgba(50, 50, 50, 1);
+}
+
+.game-title-header-main {
+    margin-top: 0px;
+}
+
+.spoiler-note {
+    margin-top: 20px;
+}
+
+.covershot-main {
+    display: block;
+    overflow: hidden;
+    width: $covershot-width;
+    height: $covershot-height;
+    border-radius: 6px;
+
+    img {
+        height: 100%;
+        min-width: 100%;
+        @include horizontal-align;
+    }
+}
+
+.covershot-xs {
+    overflow: hidden;
+    margin-bottom: 1em;
+    border-radius: 6px;
+
+    img {
+        width: 100%;
+    }
+}
+
+.no-border tbody tr td,
+.no-border thead tr th {
+    border-style: none;
+}
+
+.avatar-lg {
+    max-width: 180px;
+    border-radius: 50% 0% 50% 50%;
+}
+
+.img-200 {
+    max-width: 200px;
+    width: 100%;
+}
+
+.img-480 {
+    max-width: 480px;
+    width: 100%;
+}
+
+.collection-thumb {
+    width: 100%;
+    height: 11vw;
+    object-fit: cover;
+}
+
+/* Bootstrap cascades to be moved to _variables */
+
+// a.list-group-item.active,
+// a.list-group-item.active:hover,
+// a.list-group-item.active:focus {
+//     background-color: $guayaba-red;
+//     border-color: $guayaba-red;
+// }

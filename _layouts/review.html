@@ -4,27 +4,32 @@ layout: commonpost
 
 
 <div class="row">
-    <div class="col-md-4 hidden-xs">
-        <img src="/img/covers/{{page.cover}}" style="max-width: 200px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
+    <div class="col-md-4  d-none d-sm-block">
+        <img src="/img/covers/{{page.cover}}" class="img-fluid img-200 rounded border" alt="Carátula de {{page.title}}">
     </div>
-    <div class="col-xs-12 visible-xs">
-        <img src="/img/covers/{{page.cover}}" style="width: 480px" class="img-responsive img-rounded border" alt="Carátula de {{page.title}}">
+    <div class="col-12 d-block d-sm-none">
+        <img src="/img/covers/{{page.cover}}" class="img-fluid img-480 rounded border" alt="Carátula de {{page.title}}">
     </div>
 
     <div class="col-md-8">
         <ul class="list-unstyled">
-            <li><strong>Reseña de: </strong>{% if page.originaltitle %}{{page.originaltitle}}{% else %}{{page.title}}{% endif %}</li>
+            <li><strong>Reseña de:
+                </strong>{% if page.originaltitle %}{{page.originaltitle}}{% else %}{{page.title}}{% endif %}</li>
             <li><strong>Desarrollado por: </strong>{{page.dev}} </li>
             <li><strong>Año: </strong>{{page.year}} </li>
             <li><strong>Formato: </strong>{{page.formato | join: ', ' }} </li>
             <li><strong>Género: </strong>{{page.genero | join: ', ' }} </li>
             <li><strong>Plataformas: </strong>{{page.plataformas | join: ', ' }} </li>
             <li><strong>Puntuación: </strong>
-            {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
-            {% if page.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-            {% if page.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-            {% if page.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-            {% if page.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}</li>
+                {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
+                {% if page.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+                {% if page.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif"
+                    alt="*"> {% endif %}
+                {% if page.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif"
+                    alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+                {% if page.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif"
+                    alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+            </li>
         </ul>
         {% if page.definitive %}<p><small>Guayaba 2600 recomienda la versión {{page.definitive}}</small></p>{% endif %}
     </div>
@@ -32,13 +37,13 @@ layout: commonpost
 
 {% if page.spoiler %}{% include spoiler_warning.html %}{% endif %}
 <div class="row">
-    <div class="col-md-12 post-text">{{content}}</div>
+    <div class="col-md-10 post-text">{{content}}</div>
 </div>
 
 {% for col in site.colecciones %}
 {% for juego in col.miembros %}
-    {% if page.title == juego %}
-    {% include panel_coleccion.html coleccion=col juego=page.title %}
-    {% endif %}
+{% if page.title == juego %}
+{% include panel_coleccion.html coleccion=col juego=page.title %}
+{% endif %}
 {% endfor %}
 {% endfor %}

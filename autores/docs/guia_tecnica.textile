@@ -94,13 +94,13 @@ layout: review
 title: ""
 originaltitle: (borrar esta línea si no se usa)
 cover: .jpg
-score: 
+score:
 dev: ""
-year: 
+year:
 formato: []
 genero: []
 plataformas: []
-author: 
+author:
 spoiler: (borrar esta línea si no se usa)
 ---
 </pre>
@@ -134,7 +134,7 @@ h5. Ejemplo:
 
 h3. Enlaces
 
-Los enlaces son texto entre comillas, seguido de dos puntos y la URL a la que apuntan. 
+Los enlaces son texto entre comillas, seguido de dos puntos y la URL a la que apuntan.
 
 h5. Ejemplo
 
@@ -144,7 +144,7 @@ table(table).
 
 Los enlaces “internos” a artículos de la propia web se pueden poner de una forma alternativa. En lugar de copiar y pegar la URL se puede escribir la siguiente plantilla, ej:
 
-{% raw %}@{% post_url 2010-08-07-brutal_legend %}@{% endraw %}
+{% raw %}@{% post_url /reviews/2010-08-07-brutal_legend %}@{% endraw %}
 
 Este método garantiza que el enlace siempre apuntará al artículo aunque haya cambios en su estructura, pero es opcional utilizarlo. Poner el enlace directamente también es válido.
 
@@ -189,6 +189,3 @@ Escribir con el Bloc de Notas de Windows no es una experiencia placentera. Aquí
 * "Focus Writer":http://gottcode.org/focuswriter/ (Mac, Windows, GNU/Linux):
 * "Sublime Text":http://www.sublimetext.com/ (mac, Windows, GNU/Linux): editor profesional para código. Tal vez un poco “hardcore” si no eres programador, pero muy completo. La licencia cuesta $70 pero puede utilizarse indefinidamente sin limitaciones salvo un recordatorio ocasional para pagar al autor
 * "Notepad++":http://notepad-plus-plus.org/ (Windows): Otro potente editor para programadores para Windows. No es tan increíble como Sublime pero tiene la ventaja de ser totalmente gratis
-
-
- 

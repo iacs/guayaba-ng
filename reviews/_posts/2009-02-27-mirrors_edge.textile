@@ -12,7 +12,7 @@ plataformas: [Windows, PlayStation 3, Xbox 360]
 author: Iacus
 ---
 
-Siguiendo la gloriosa tradición de *Guayaba 2600* de escribir críticas exclusivamente sobre juegos que usan la perspectiva en 1º persona —Que nadie se engañe, la "review de Contact":{% post_url 2008-10-14-contact %} era únicamente para despistar— es un placer para mí escribir sobre _Mirror's Edge_.
+Siguiendo la gloriosa tradición de *Guayaba 2600* de escribir críticas exclusivamente sobre juegos que usan la perspectiva en 1º persona —Que nadie se engañe, la "review de Contact":{% post_url /reviews/2008-10-14-contact %} era únicamente para despistar— es un placer para mí escribir sobre _Mirror's Edge_.
 
 Que en estos tiempos exista un juego como _Mirror's Edge_ debería ser celebrado. Pocas veces un estudio se lanza al hostil mercado de los títulos de primera clase con una propuesta tan arriesgada y rompedora. Lo cierto es que, pese a quien pese, _Mirror's Edge_ no es un _blockbuster_. No tiene un modo multijugador de competición directa y su modo de un jugador es tan corto que bastan 5 horas para acabárselo empezando de cero. _Mirror's Edge_ es, en esencia, un arcade de la vieja escuela, criado en la época actual, sin escatimar en lujos.</sep>
 

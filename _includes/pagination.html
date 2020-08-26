@@ -1,11 +1,12 @@
-<div class="col-md-12 entry">
+<div class="col entry">
     <div class="row">
     <div class="pagersec center">
+        <nav aria-label="page navigation">
         <ul class="pagination">{% assign pag_btns = 5 %}
             {% if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
+            <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">&laquo;</a></li>
             {% else %}
-            <li class="disabled"><span>&laquo;</span></li>
+            <li class="page-item disabled"><span class="page-link">&laquo;</span></li>
             {% endif %}
             {% assign pag_step = pag_btns | divided_by: 2 %}
             {% assign pag_first = paginator.page %}{% assign pag_last = paginator.page %}
@@ -19,19 +20,20 @@
             {% if pag_first < 1 %}{% assign pag_first = 1 %}{% endif %}
             {% for page in (pag_first..pag_last) %}
                 {% if page == paginator.page %}
-                <li class="active"><span>{{page}}</span></li>
+                <li class="page-item active"><span class="page-link">{{page}}</span></li>
                 {% elsif page == 1 %}
-                <li><a href="/index.html">{{page}}</a></li>
+                <li class="page-item"><a class="page-link" href="/index.html">{{page}}</a></li>
                 {% else %}
-                <li><a href="/page{{page}}">{{page}}</a></li>
+                <li class="page-item"><a class="page-link" href="/page{{page}}">{{page}}</a></li>
                 {% endif %}
             {% endfor %}
             {% if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
+            <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">&raquo;</a></li>
             {% else %}
-            <li class="disabled"><span>&raquo;</span></li>
+            <li class="page-item disabled"><span class="page-link">&raquo;</span></li>
             {% endif %}
         </ul>
+        </nav>
     </div>
     </div>
     </div>

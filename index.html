@@ -17,7 +17,7 @@ description: "Guayaba 2600 es una web de videojuegos en español para aficionado
         {% case post.layout %}
         {% when 'review' %}
             {% include post-top.html %}
-            {% include indexl-review.html %}       
+            {% include indexl-review.html %}
             {% include post-bottom.html %}
         {% when 'blogpost' %}
             {% include post-top.html %}
@@ -26,10 +26,11 @@ description: "Guayaba 2600 es una web de videojuegos en español para aficionado
                     <h4><a href="{{post.url}}">{{post.title}}</a></h4>
                 </div>
             </div>
+            {% include post-bottom-alt.html %}
+        <!-- </div>
         </div>
-        </div> <!-- div.row outer -->
-            </div> <!-- div. inner -->
-        </div>
+            </div>
+        </div> -->
         {% endcase %}
     {% endif %}
 {% endfor %}

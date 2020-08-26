@@ -2,7 +2,11 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="es"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="es"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="es"> <!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<!-- <html class="no-js" lang="es"> -->
+<!--<![endif]-->
+<html>
+
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %} {{ page.title }} | {% endif %} Guayaba 2600</title>
@@ -12,48 +16,45 @@
   <meta name="description" content="{{page.excerpt | strip_html | truncate: 150}}">
   {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="/css/guayaba.css" rel="stylesheet" media="screen">
   <link href="/img/favicon.ico" rel="shortcut icon">
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for guayaba2600.com" href="/rss.xml" />
 </head>
+
 <body>
-  <script src="{{site.jquery}}"></script>
-  <script src="/js/bootstrap.js"></script>
   <div class="container">
-    
-    <header> <!-- Cabecero -->
-    <div class="row"> <!-- Logo -->
-      <div class="col-md-6"><a href="/"><img src="/img/logo.png" class="img-responsive" alt="Guayaba 2600"></a></div>
-    </div>
+
     <div class="row">
-        <!--[if lt IE 8]><div class="alert alert-warning">Estás utilizando un navegador <strong>obsoleto</strong>. Por favor <a href="http://firefox.com/">actualiza tu navegador</a> para mejorar tu experiencia.</div><![endif]-->
-    </div>
-    </header>
-    
+      <div class="col">
+        <header>
+          <a href="/"><img src="/img/logo.png" class="img-fluid" alt="Guayaba 2600"></a>
+        </header>
+      </div>
+    </div> <!-- Cabecero -->
     <div class="row">
-      {% include navbar.html %}
-    </div>
-    
-    <!-- Area principal -->
-    
+      <div class="col">
+        {% include navbar.html %}
+      </div>
+    </div> <!-- navbar -->
+
     <div class="row">
-      <!-- Contenido -->
-      <div class="col-md-12">
+      <div class="col">
         {{ content }}
       </div>
-    </div> <!-- .row -->
-    
-    
-    <!-- Pie -->
-    {% include footer.html %}
-    
+    </div><!-- Area principal -->
+
+    <div class="row">
+      <div class="col">{% include footer.html %}</div>
+    </div> <!-- Pie -->
+
   </div> <!-- .container -->
-  
   <!-- JAVASCRIPTS -->
+  <script src="/js/lib/jquery.min.js"></script>
+  <script src="/js/lib/popper.min.js"></script>
+  <script src="/js/lib/bootstrap.min.js"></script>
   {% include disqus_comment_count.html %}
   {% include google-analytics.html %}
-  
-  
 </body>
+
 </html>

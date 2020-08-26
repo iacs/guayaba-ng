@@ -1,16 +1,24 @@
 ---
 layout: infopage
+title: Enlaces de interés
 ---
 
 h1. Enlaces
 
 Páginas que nos gustan.
-Si te interesa que un link a tu página aparezca aquí ponte en contacto con nosotros 
+Si te interesa que un link a tu página aparezca aquí ponte en contacto con nosotros.
 
 h2. Videojuegos
 
-* "Selectbutton":http://www.selectbutton.net/ (inglés)
+h4. Vídeo contenidos
+* "Jugando Despacio":https://www.youtube.com/channel/UCNhogMvv8wIp4xTlk43Lgdg
+
+h4. Reseñas
 * "Hardcore Gaming 101":http://www.hardcoregaming101.net/ (inglés)
+* "Super Adventures in Gaming":http://superadventuresingaming.blogspot.com/ (inglés)
+
+h4. Discusión
+* "Selectbutton":http://www.selectbutton.net/ (inglés)
 
 h2. Personales
 

@@ -17,3 +17,9 @@ Se recomienda el desarrollo en GNU/Linux o Mac OS, aunque es posible preparar un
 
 * [Manual de estilo](http://guayaba2600.com/autores/docs/manual_de_estilo.html)
 * [Guía para el formato de posts](http://guayaba2600.com/autores/docs/guia_tecnica.html)
+
+## etc
+
+    cp node_modules/jquery/dist/jquery.min.js js/lib/
+    cp node_modules/popper.js/dist/umd/popper.min.js js/lib/
+    cp node_modules/bootstrap/dist/js/bootstrap.min.js js/lib/
