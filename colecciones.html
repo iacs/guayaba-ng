@@ -6,15 +6,19 @@ title: Colecciones
 <h1>Colecciones</h1>
 
 <div class="row">
-<div class="col-md-9">
-    <ul class="list-group">
-        {% for col in site.colecciones %}
-        <a href="{{col.url}}" class="list-group-item">
-            <span class="badge">{{col.miembros | size}}</span>
-            <h5 class="list-group-item-heading">{{col.title}}</h5>
-            {{col.content}}
-        </a>
-        {% endfor %}
-    </ul>
-</div>
+    <div class="col-md-9">
+        <ul class="list-group">
+            {% for col in site.colecciones %}
+            <div class="list-group-item">
+                <div class="d-flex justify-content-between align-items-center">
+                    <a href="{{col.url}}">
+                        <h4>{{col.title}}</h4>
+                    </a>
+                    <span class="badge badge-success">{{col.miembros | size}}</span>
+                </div>
+                {{col.content}}
+            </div>
+            {% endfor %}
+        </ul>
+    </div>
 </div>

@@ -5,7 +5,7 @@ title: Colaborar
 
 h1. Colaborar
 
-!(pull-right)/img/typing.gif!
+!(float-right)/img/typing.gif!
 
 Siempre nos interesa tener a más colaboradores interesados en contribuir a la web. Puedes hacerlo de varias formas.
 

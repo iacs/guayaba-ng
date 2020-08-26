@@ -1,54 +1,51 @@
-<nav class="navbar navbar-inverse" role="navigation">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Barra Navegación</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation">
+  <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar">
+    <span class="sr-only">Barra Navegación</span>
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item"><a class="nav-link" href="/archivo.html">{% octicon archive fill:gray height:24 %} Archivo</a></li>
+      <li class="nav-item dropdown">
+        <a href="#" id="dd-colecciones" class="nav-link dropdown-toggle" data-toggle="dropdown">{% octicon package fill:gray height:24 %} Colecciones <b
+            class="caret"></b></a>
+        <div class="dropdown-menu">
+          <h6 class="dropdown-header" role="presentation">Colecciones</h6>
+          {% for col in site.colecciones limit:10 %}
+          {% unless col.serie %}<a href="{{col.url}}" class="dropdown-item">{{col.title}}</a>{% endunless %}
+          {% endfor %}
+          <div class="dropdown-divider" role="presentation"></div>
+          <h6 class="dropdown-header" role="presentation">Series</h6>
+          {% for col in site.colecciones limit:10 %}
+          {% if col.serie%}<a href="{{col.url}}" class="dropdown-item">{{col.title}}</a>{% endif %}
+          {% endfor %}
+          <div class="dropdown-divider" role="presentation"></div>
+          <a href="/colecciones.html" class="dropdown-item">Ver todas las colecciones...</a>
         </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="/archivo.html">Archivo</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Colecciones <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li role="presentation" class="dropdown-header">Colecciones</li>
-                {% for col in site.colecciones limit:10 %}
-                {% unless col.serie %}<li><a href="{{col.url}}">{{col.title}}</a></li>{% endunless %}
-                {% endfor %}
-                <li role="presentation" class="divider"></li>
-                <li role="presentation" class="dropdown-header">Series</li>
-                {% for col in site.colecciones limit:10 %}
-                {% if col.serie%}<li><a href="{{col.url}}">{{col.title}}</a></li>{% endif %}
-                {% endfor %}
-                <li role="presentation" class="divider"></li>
-                <li><a href="/colecciones.html">Ver todas las colecciones...</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Plataformas <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li>
-                  {% for platform in site.plataformas %}
-                    <a href="{{platform.url}}">{{platform.title}}</a>
-                  {% endfor %}
-                </li>
-              </ul>
-            </li>
-            <li><a href="/autores/"><span class="glyphicon glyphicon-user"></span> Autores</a></li>
-            <li><a href="/manifiesto.html"><span class="glyphicon glyphicon-book"></span> Manifiesto</a></li>
-            <li><a href="/colabora.html"><span class="glyphicon glyphicon-pencil"></span> Colaborar</a></li>
-            <li><a href="/links.html"><span class="glyphicon glyphicon-link"></span> Enlaces</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-bookmark"></span> Suscríbete <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a href="/rss.xml">Entradas RSS</a>
-                  <a href="http://www.twitter.com/guayaba2600">Twitter</a>
-                </li>
-              </ul>
-            </li>
-            </ul> <!-- .navbar-nav -->
+      </li>
+      <li class="nav-item dropdown">
+        <a href="#" id="dd-plataformas" class="nav-link dropdown-toggle" data-toggle="dropdown">{% octicon device-desktop fill:gray height:24 %} Plataformas <b
+            class="caret"></b></a>
+        <div class="dropdown-menu">
+          {% for platform in site.plataformas %}
+          <a href="{{platform.url}}" class="dropdown-item">{{platform.title}}</a>
+          {% endfor %}
         </div>
-      </nav>
+      </li>
+    </ul> <!-- .navbar-nav 1 -->
+    <ul class="navbar-nav">
+      <li class="nav-item "><a href="/autores/" class="nav-link">{% octicon person fill:gray height:24 %} Autores</a>
+      </li>
+      <li class="nav-item"><a href="/manifiesto.html" class="nav-link">{% octicon clippy fill:gray height:24 %} Manifiesto</a></li>
+      <li class="nav-item"><a href="/colabora.html" class="nav-link">{% octicon pencil fill:gray height:24 %} Colaborar</a></li>
+      <li class="nav-item"><a href="/links.html" class="nav-link">{% octicon link fill:gray height:24 %} Enlaces</a></li>
+      <li class="nav-item dropdown">
+        <a href="#" id="dd-subscribe" class="nav-link dropdown-toggle" data-toggle="dropdown">{% octicon bookmark fill:gray height:24 %} Suscripción <b class="caret"></b></a>
+        <div class="dropdown-menu">
+          <a href="/rss.xml" class="dropdown-item">Entradas RSS</a>
+          <a href="http://www.twitter.com/guayaba2600" class="dropdown-item">Twitter</a>
+        </div>
+      </li>
+    </ul> <!-- .navbar-nav 2 -->
+  </div>
+</nav>

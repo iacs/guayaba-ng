@@ -9,10 +9,10 @@ title: Archivo maestro
 </div>
 <div class="col-md-4">
     <div class="input-group">
-        <input class="form-control filter" id="system-search" name="q" placeholder="Filtrar resultados" required>
-        <span class="input-group-btn">
-            <button class="btn btn-default disabled "><i class="glyphicon glyphicon-search"></i></button>
-        </span>
+        <input class="form-control filter" id="system-search" name="q" onkeyup="filterName()" placeholder="Filtrar resultados" required>
+        <div class="input-group-append">
+            <span class="input-group-text">{% octicon search %}</span>
+        </div>
     </div>
 </div>
 </div>
@@ -27,14 +27,14 @@ title: Archivo maestro
     </tr>
     </thead>
     <tbody class="searchable">
-    {% assign sorted_game = (site.categories.reviews | sort: 'title') %}
+    {% assign sorted_game = site.categories.reviews | sort: 'title' %}
     {% for post in sorted_game %}
     {% if post.layout == 'review' or post.layout == 'gema' %}
     <tr>
         <td><a href="{{post.url}}">{{post.title}} </a></td>
-        <td class="hidden-xs">{% if post.score == 0 %}<img src="/img/zero.gif" alt="-">{% else %}
+        <td class="d-none d-sm-block">{% if post.score == 0 %}<img src="/img/zero.gif" alt="-">{% else %}
             {% for g in (1..post.score) limit:4 %}<img src="/img/guayaba_ico.gif" alt="*">{% endfor %}{% endif %}</td>
-        <td class="visible-xs">
+        <td class="d-block d-sm-none">
             {{post.score}}
         </td>
         <td>{{post.author}} </td>

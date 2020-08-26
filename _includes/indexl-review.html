@@ -1,9 +1,19 @@
 <div class="row">
-            <div class="col-md-12"><h3 class="game-title-header-main"><a href="{{post.url}}">{{post.title}}</a></h3></div>
-        </div>
+    <div class="col-md-12">
+        <h3 class="game-title-header-main"><a href="{{post.url}}">{{post.title}}</a></h3>
+    </div>
+</div>
 <div class="row">
-    <div class="col-md-5 hidden-xs"><div class="covershot-main"><a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a></div></div>
-    <div class="col-xs-12 visible-xs"><div class="covershot-xs"><a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a></div></div>
+    <div class="col-xs-12 d-block d-lg-none">
+        <div class="covershot-xs">
+            <a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a>
+        </div>
+    </div> <!-- small covershot -->
+    <div class="col-md-5 d-none d-lg-block">
+        <div class="covershot-main">
+            <a href="{{post.url}}"><img src="{% include covershot_url.html %}" alt="Reseña de {{post.title}}"></a>
+        </div>
+    </div> <!-- large covershot -->
     <div class="col-md-7">
         <div class="row">
             <div class="col-md-12">
@@ -12,8 +22,8 @@
             {% for g in (1..post.score) limit:4 %}<img src="/img/guayaba_ico2x.gif" alt="*">{% endfor %}
             {% endif %}
             </div>
-        </div>
-        
+        </div> <!-- details section -->
+
         <div class="row">
             <div class="col-md-12">
             <ul class="list-unstyled">
@@ -22,8 +32,8 @@
             <li><small>Texto por {{post.author}}</small></li>
             </ul>
             {% if post.description %}<p>{{post.description | append: '.' | markdownify}}</p>{% endif %}
-            </div>
             {% if post.spoiler %}{% include spoiler_warning.html %}{% endif %}
+            </div>
         </div>
     </div>
 </div>
