@@ -1,7 +1,12 @@
 Arreglos:
-    [ ] Blockquotes no tienen información de estilo
+    [+] Blockquotes no tienen información de estilo @done(20-12-18 22:22)
+    [ ] Barra de navegación no tiene el aspecto correcto @high
+    [ ] Botón "leer" en noticias colapsadas
 Web:
     [ ] Escribir código de conducta
+    [ ] Poner embeds para compartir enlaces en redes
+Estilo:
+    [+] Drop shadow en imágenes @done(20-12-18 22:29)
 Artículos:
-    [ ] Path of Exile
-    [ ] Ensayo - No Man's Sky
+    [+] Path of Exile @done(20-12-18 22:17)
+    [ ] Ensayo - No Man's Sky @high

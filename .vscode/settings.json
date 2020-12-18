@@ -1,0 +1,14 @@
+{
+    "[textile]": {
+        "editor.fontSize": 16,
+        "editor.lineNumbers": "interval",
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 90
+    },
+    "[todo]": {
+        "editor.quickSuggestions": false,
+        "editor.lineNumbers": "off",
+        "editor.foldingHighlight": true,
+        "editor.minimap.enabled": false
+    }
+}
