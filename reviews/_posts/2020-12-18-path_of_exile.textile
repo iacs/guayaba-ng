@@ -1,0 +1,222 @@
+---
+layout: review
+title: "Path of Exile"
+description: "El popular hack & slash gratuito de los neozelandeses Grinding Gear Games tal vez esté demasiado anticuado en sus fundamentos"
+cover: poe_conq.jpg
+score: 3
+dev: "Grinding Gear Games"
+year: 2013
+formato: [Action RPG, Hack & Slash]
+genero: [fantasía oscura]
+plataformas: [Windows, PlayStation 4, Xbox One, OS X]
+author: Iacus
+spoiler: 1
+---
+
+_Path of Exile_ ilustra bien una ocurrencia infrecuente, pero central en mi forma de experimentar videojuegos. Creé mi primer personaje en 2013, cuando el título hizo su aparición en Steam. En ese momento jugué unas pocas horas, incluso probé en multijugador con compañeros, pero no acabó de entusiasmarme.
+
+_Path of Exile_ era, entonces, un clon de _Diablo_ distribuido gratuitamente. Bebe principalmente de _Diablo II_ y tal vez su problema es que es similar a este en muchos detalles tanto fundacionales como superficiales, pero se diferencia en algunos sistemas clave en que, si te aproximas a ellos con una mentalidad de un jugador de _Diablo II_, te dejarán confuso e insatisfecho.
+
+Al menos, esa es la justificación, a posteriori, que le encuentro a no haberme enganchado en su momento.
+
+Pero no pasa nada. Una de las cosas que siempre me han caracterizado es que aunque tarde en volver a completar algo, cuando llego, lo hago. Y así es como, casi siete años después retomé a mi antiguo personaje, y me acabé el juego.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/oldchar-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/oldchar.jpg
+
+
+p(piefoto). Volviendo más de seis años después al juego, se presenta una muy mejorada experiencia.
+
+Y es que cuando los sistemas de _Path of Exile_ hacen _click_, se convierte fácilmente en una pasatiempo absorbente y adictivo. Y con ello, este juego _free to play_ se ha convertido en el más jugado de mi lista de Steam, por encima de titanes de la "largura" como _The Phantom Pain_, _Civilization_ o _Factorio_. Un juego que al que es fácil entrar, echarle unas horas, y salir.
+
+Y es que tras siete años de constantes actualizaciones, el juego no solo pinta mejor que nunca, sino que tiene cantidad de sistemas y contenido que nos hacen pasar más tiempo en el mundo de Wraeclast.
+
+Para quienes no conozcan el juego, PoE, es un action RPG occidental, al estilo "hack & slash" que consiste en mover a nuestro personaje por mapas generados procedimentalmente, matar a cantidades ingentes de enemigos, recoger botín generado al azar y poco a poco mejorar a medida que nuestro personaje sube de nivel y gana puntos de habilidad.
+
+Las diferencias mecánicas fundamentales de _Path of Exile_ con respecto a otros hack & slash y, concretamente _Diablo II_ son principalmente tres:
+
+h3. 1 - Árbol de pasivas
+
+El juego cuenta con un extenso árbol de habilidades pasivas reminiscente de la _sphere grid_ de _Final Fantasy X_ que ha recibido varias revisiones a lo largo de los años. Cada personaje puede acceder a cualquier nodo del árbol. La única diferenciación entre las "clases" es que comienzan en puntos distintos de éste, acorde a sus habilidades primarias y por lo tanto necesitarán más puntos de habilidad para alcanzar los nodos más lejanos.
+
+Estos nodos otorgan diferentes mejoras al personaje desde simples incrementos de fuerza, destreza o inteligencia hasta área de efecto incrementada, blindaje, resistencias o, en el caso de las llamadas habilidades notables, varios beneficios de golpe que pueden incluso cambiar su forma de jugar, mejorando por ejemplo el beneficio que obtenemos de los frascos, la regeneración de maná y demás atributos.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/metamoq-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/metamoq.jpg
+
+
+p(piefoto). Con los años, se han añadido montones de paneles y mecánicas adicionales.
+
+h3. 2 - Frascos
+
+Los frascos son pociones que colocaremos en nuestra barra rápida (como el cinturón en _Diablo II_) que regeneran vida y maná en los casos más comunes. Cada uso de un frasco es un "sorbo" que consume una cierta cantidad de cargas. Las cargas de cada frasco se rellenan por cada muerte que provoquemos. Esto conlleva que, a diferencia de tantos otros RPGs y Beat 'em ups, cuando nos enfrentamos a un jefe, los _adds_ o esbirros adicionales que salen a tocarnos las narices, aquí se convierten en útil combustible para recuperar nuestros curativos. Es común que en PoE los combates contra jefes en solitario sean más desafiantes que los que tienen ocasionalmente enemigos adicionales.
+
+Para dar algo más de vida al _gameplay_, existen multitud de frascos de utilidad, que aumentan nuestra velocidad de ataque o movimiento (esencial para el metajuego) o nos proporcionan blindaje o resistencias. Además, existen versiones con modificadores mágicos y frascos únicos, que para algunos _builds_ son extremadamente útiles.
+
+
+h3. 3 - Gemas
+
+La _chicha_ del juego está en las gemas. En este juego las clases de personajes no tienen demasiada diferenciación. Hoy día cada clase tiene acceso a tres ascendencias exclusivas, pero en los inicios esto no era así. La principal diferencia era, esencialmente, su aspecto.
+
+Hoy día esto es a grandes rasgos cierto. A diferencia de _Diablo_ en que cada personaje tenía su propio árbol de habilidades, aquí las habilidades pasivas son accesibles por cualquiera, y las activas engarzando gemas en nuestro equipo. Hay tres tipos de gemas de habilidad que se corresponden a los colores rojo, verde y azul; de fuerza, de destreza y de inteligencia respectivamente. A grandes rasgos las de fuerza van orientadas al daño directo y melé, las de destreza al daño a distancia, veneno, evasión y trucos y las de inteligencia a los hechizos.
+
+De cada una de estas, hay gemas activas y gemas de apoyo. Las gemas de apoyo las podemos engarzar en las cuencas enlazadas y, cual materia de _Final Fantasy VII_, modificarán todas aquellas habilidades que legalmente puedan afectar y estén en la misma cadena de enlace.
+
+Esta es la base de todos los _builds_ en el metajuego actual, que se construyen a partir de una habilidad central y 5 gemas de apoyo para fortalecerla (el máximo de cuencas enlazadas en un objeto es 6).
+
+El mayor problema de este sistema es que es complicado saber qué gemas afectan a cuales. Ahora el juego posée un panel de ayuda al mantener el cursor sobre una gema que nos indica a qué gemas modifica, pero esto podría aclararse más. El panel de ayuda solo nos muestra las gemas que tengamos actualmente equipadas y resulta farragoso cambiar de equipo porque tendremos que transferir nuestras gemas cuando cambiamos un objeto de nuestro equipo, si conseguimos que tenga el número, color y enlaces similares a la pieza que estamos reemplazando.
+
+El nuevo sistema de engarces rediseñado de _Path of Exile II_ promete deshacerse de muchos de estos problemas, pero ya veremos qué tal funciona cuando salga a la luz ese juego.
+
+Las gemas en concreto recuerdan a las joyas de _Diablo II_. Unos ítems que conferían bonos específicos al engarzarlos a armas con cuencas que las soporten. Este cambio afectaba de manera permanente al arma. Una vez engarzadas, las joyas no se podían quitar. En PoE no es así. Las gemas se pueden (y deben!) mover libremente a medida que las encontramos o compramos, para montar nuestro _build_ definido.
+
+Y es bastante importante planear un _build_ ya que, tras años de contenido y re-equilibrios, jugar con un build optimizado en lugar de ir improvisando sobre la marcha es como la noche y el día. Según tu estilo de juego yo todavía recomendaría la experiencia de llevar a un personaje y subir sus habilidades y pasivas a medida que exploras el juego —el modo principal, más adelante aclararé esto—, pero advierto que va a ser una experiencia mucho más larga, lenta y potencialmente frustrante que si sigues una guía de alguien con más práctica con el metajuego.
+
+El lado opuesto, seguir una guía —para lo cual existen multitud de herramientas, como la popular "Path of Building":https://pathofbuilding.community/ — es una curva mucho más normal. Tras llegar a endgame con mi viejo personaje de hace 7 años, empecé uno nuevo en la liga en curso en ese momento, _Harvest_ y seguí una guía online. Me di cuenta como sobrepasaba las áreas casi sin sudar. Cómo jefes finales que antes me mataban una docena de veces eran derretidos en segundos gracias al daño optimizado de mis habilidades. Cómo iba matando a tantos enemigos que en vez de ir uno o dos niveles por encima de mi zona, iba cuatro o cinco, sin siquiera explorarlas al completo...
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/harvest-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/harvest.jpg
+
+
+p(piefoto). En _Harvest_, se nos da la posibilidad de cultivar un jardín del que podemos recolectar suculentos frutos.
+
+Y es que el juego —para ser precisos el sistema de progreso de personajes— es demasiado complejo como para tomar buenas decisiones a medida que lo aprendes. Un buen build requiere cuidadosa planificación con herramientas externas. Pensar cada punto de habilidad. Elegir habilidades clave que tengan sinergia con tu estilo de juego. Recuerda un poco a montarse un mazo de _Magic: The Gathering_, lo cual no es necesariamente algo malo, pero considerando que no puedes re-planear tu personaje cuando encuentras que no funciona, a menos que gastes unos puntos limitados conseguidos por quests secundarias o gastando un tipo de moneda, me parece un fallo de diseño que castiga con volver a empezar un personaje desde cero al jugador que gusta de aprender haciendo. Esto es parte de ese diseño anclado en principios de los 2000, que ya está quedando rancio, superado por títulos que hacen la experiencia más agradable.
+
+La comparación con _Magic_ va más allá de la planificación de tu personaje. Se nota también en las expansiones frecuentes que se añaden al juego. El mismo diseñador Chris Wilson hizo referencia a _Magic_ como un juego que es constantemente revitalizado con expansiones para ser jugado a perpetuidad.
+
+Para un jugador nuevo —O que, como yo, vuelve después de 7 años—, el contenido puede ser hasta abrumador. Es parte de lo que lo hace tan adictivo, pues cada poco tiempo hay algo nuevo que hacer o ver.
+
+Grinding Gear Games solo trabajan en un juego, el estudio entero está dedicado a _Path of Exile_. Su política es añadir contenido al juego de forma regular, y lo hacen tanto mediante microtransacciones de pago (que discutiré más adelante) como con expansiones gratuitas al juego principal.
+
+El juego consiste de una campaña lineal, más una sección _endgame_ al final. Inicialmente, la campaña consistía en una historia de tres actos. En la tradición de los action RPG como Diablo, al terminar la campaña podíamos comenzar la historia otra vez desde el principio, pero con un mayor nivel de dificultad. Monstruos de nivel más alto, ítems más potentes, y una penalización a nuestras resistencias de daño. Al terminar esta, se repetía una vez más en el último nivel de dificultad. Hasta aquí bastante normal. En el año 2015, GGG añadió un Acto 4, con un jefe final más fuerte.
+
+Por eso da la impresión de que el clímax de nuestro viaje es la lucha épica que tenemos al final del Acto 3 en el que el villano, Dominus, nos ataca con todo lo que tiene. Luego en el Acto 4, nos enfrentamos a otro villano aún más hardcore, y obtenemos un segundo clímax.
+
+Pues bien, en 2017, GGG se marcó una enorme expansión del juego, con un nuevo Acto 5 con un jefe aún más grande y poderoso, pero no pararon ahí, sino que decidieron tomar este punto como el colofón de una Parte I y continuaron la trama con un Acto 6, seguido de Actos 7, 8, 9 y 10 que conforman la Parte II.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/prog-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/prog.jpg
+
+
+p(piefoto). El progreso es llevadero y variado, asegurando que el jugador no caiga fácilmente en la fatiga audiovisual.
+
+Ya no era necesario pasar por el mismo juego tres veces en distintas ocasiones, ahora la campaña era un camino directo hacia el _endgame_, lo que llaman "mapas". Algo que agradezco enormemente, pues repetir esta clase de contenido no es algo que nunca me haya llamado la atención. En los tiempos de _Diablo II_, solía abandonar mi personaje poco después de vencer al jefe final, con lo que rara vez llegaba a jugar con las siguientes gradaciones de ítems de las dificultades Pesadilla e Infierno.
+
+Poco más era lo que ofrecía el _endgame_ de _Diablo II_ (corregidme en los comentarios si me equivoco). En _Path of Exile_, terminar la campaña abre uno de los mejores modos _endgame_ de un hack & slash como este, ya que de una experiencia lineal pasa a ser un _sandbox_ en el que podemos acceder a diversos "mapas", con el fin de completar un atlas y desentrañar los misterios que ofrece.
+
+Los mapas son un tipo de objeto más, y pueden tener modificadores mágicos igual que las armas y armaduras, solo que éstos tienen efectos como patrones de suelo electrificado, o más diversidad de enemigos, o agregan ciertas propiedades o resistencias a enemigos existentes. Cuanto más dificultad añadan los modificadores al mapa, más aumenta la cantidad y rareza de ítems que se pueden encontrar en él. Aparte de esto, podemos agregar ciertos ítems avanzados que dotan al mapa de características extra, como brechas o portales de delirio garantizados.
+
+El dispositivo también nos permite pagar con orbes del juego para activar ciertos modificadores, o gastar cargas de "misiones de maestros" para garantizar la aparición de ciertos tipos de misiones, como cacerías de bestias, o recolección de sulfito, el combustible para progresar en una incursión a una mazmorra infinita en los _delves_.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/delve-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/delve.jpg
+
+
+p(piefoto). Los _delves_ son incursiones en una mazmorra infinita con diversos encuentros que nos proporcionan objetos útiles... a veces.
+
+Cada mapa es un entorno nuevo. Contiene multitud de grupos de monstruos, peligros, misiones y, al final, un jefe. Al vencer al jefe en un mapa de grado mágico o superior marcamos un objetivo de bonus para ese mapa, lo que a su vez desbloquea más modificadores, y progresa la meta-trama del atlas.
+
+El objetivo de este modo es destapar suficientes regiones del atlas para dar caza a los cuatro guardianes o, "Conquistadores del Atlas". Eventualmente uno de los mapas que visitemos tendrá una influencia de uno de estos conquistadores, y estará plagado de peligros y trampas adicionales. Tras completar varios de estos mapas con influencia, podremos enfrentarnos al conquistador. Un encuentro con un jefe poderoso que nos recompensará con una _watchstone_. Piedras especiales que se pueden engarzar en el atlas para aumentar el nivel de los mapas, añadir modificadores que nos beneficies y demás. El progreso de estas watchstones está ligado a poder seguir enfrentándonos a los guardianes hasta derrotarlos finalmente y luego... el gran jefe, Sirus o más allá aún, jefes súper-poderosos opcionales.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/atlas-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/atlas.jpg
+
+
+p(piefoto). El Atlas de Mundos es lo que muchos consideran el "juego real" en _Path of Exile_.
+
+Es mucho. Activar un mapa en el dispositivo nos abre seis portales. Es decir, seis oportunidades para completarlo. Si morimos, tendremos que coger otro. Si nos quedamos sin portales, habremos perdido ese mapa hasta que encontremos otra copia del mismo tipo. Es un bucle francamente adictivo ya que puedes llegar, hacer unos mapas a toda prisa, sacar el botín, repetir... aunque hay algo de historia y metas a completar, el no estar atado a una campaña resulta liberador. Aquí es donde realmente se pone a prueba el _build_ del personaje que has creado durante la campaña, para ver si es efectivo en lo que muchos jugadores de PoE consideran "el juego de verdad". Tómese esto con reservas, pues estadísticamente, tan solo el 10% de jugadores llegan a este modo _endgame_.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/goldchamber-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/goldchamber.jpg
+
+
+p(piefoto). La diversidad de escenarios y el marco que permite saltar geográficamente a los más variopintos lugares, dota al endgame de una cualidad excitante y llamativa.
+
+Con reservas también ha de tomarse lo que acabo de mencionar sobre poner a prueba el _build_. En la práctica hay una conducta que domina por encima de todas las demás. Matar muchos monstruos muy rápido. Eso es todo.
+
+Es un poco triste pero es así. Crear un personaje que mate a grupos de monstruos muy rápido es lo que proporciona mejores recompensas por tiempo jugado. Cierto, hay algunas consideraciones a la hora de planear un personaje como por ejemplo lograr hacer daño a jefes muy rápido, o sobrevivir más daño para no morir tan a menudo (o, jugando en hardcore, sencillamente no morir) pero son secundarias.
+
+La actividad más común que haremos en el juego será matar grupos de monstruos "palomita", o debiluchos. Y lo ideal es hacerlo lo más rápido posible para que suelten objetos y podamos recoger botín. A pesar de la agradable variedad de enemigos que ofrece el juego, si construimos bien al personaje ni siquiera veremos qué clase de ataques poseen porque no les dará tiempo a ejecutar sus animaciones.
+
+No solo eso, desde hace un tiempo, prácticamente todas las expansiones y añadidos al juego van enfocados a matar bichos lo más rápido posible. Por ejemplo, las puertas de delirio son características de algunos mapas en las que aparecerá un portal. Al atravesarlo, el mapa entero se cubre de una neblina cada vez más densa y empiezan a aparecer criaturas del delirio —un tipo especial de monstruo— por todas partes mientras un temporizador oculto comienza una cuenta atrás. A medida que matamos enemigos en este estado de delirio, aparece una barra de progreso con un icono representando el tipo de recompensa que recibiremos al terminar el delirio. Cuando la barra se llena, el nivel aumenta y las recompensas mejoran. Al final de la cuenta atrás, el botín cae cerca de tu personaje.
+
+O tomemos una parte muy divertida del juego, las incursiones. Las incursiones temporales en el templo de Atzoatl aparecen en el juego actual en torno al acto 7 y consisten en viajar al pasado a ciertas cámaras de un templo. El enlace temporal es inestable y por alguna razón solo puede mantenerse matando a los monstruos del templo. Si matamos a uno de los dos arquitectos presentes en cada cámara, el otro toma el control y la mejora según sus gustos y cambiando templo una vez accedamos a él en el presente y lo saqueemos en serio. Cambiar las cámaras tiene diferentes efectos que mejoran las recompensas disponibles y los peligros en éstas.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/incursion-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/incursion.jpg
+
+
+p(piefoto). Las incursiones a través del tiempo hacia el templo de Atzoatl son uno de los extras más originales del juego.
+
+Por la descripción que he dado te habrás dado cuenta de que ambos ejemplos se basan en una sola cosa: matar monstruos lo más rápido posible para seguir en el juego y/o obtener mejores recompensas. Todo el contenido está fuertemente sesgado a este estilo de juego. Subir de nivel en la campaña? mejor cuanto más rápido para llegar a _endgame_. Delirio? rápido. Incursiones? rápido, Brechas? (otra característica muy similar a los portales de delirio) también rápido.
+
+La consecuencia de esto es que todos los _builds_ viables para completar el juego deben ser construidos con velocidad para matar en mente. A pesar de que hay cientos de habilidades y combinaciones con gemas, esto ya de golpe limita brutalmente a los personales melé. La mayoría de habilidades de daño melé son lentas y atacan a un enemigo o unos pocos en un arco, cuando lo ideal son habilidades que hagan daño de área para captar a cuantos más monstruos en su zona de efecto mejor. Tan solo unas pocas se salvan, las que se pueden combinar de manera que hagan daño de área o builds basadas en Ciclón ya que permiten ir haciendo daño en un círculo y moverse al mismo tiempo. No hace falta que diga lo aburrido que es esto cuando tus opciones viables para melé son unas pocas variaciones de Ciclón.
+
+Los otros _builds_ que quedan son, pues, aquellos de invocar esbirros (o tal vez tótems, que también actúan como una fuente de daño pasivo aunque estática) o los de ataques a distancia. Estos últimos se dividen el los de arco y flechas y los de hechizos.
+Esta negación del propio espacio de posibilidades del juego le quita toda la gracia a las armas, por ejemplo. Lo que en los tiempos clásicos del hack & slash era una decisión excitante, el arma que tu personaje utilizaría, aquí queda reducida a un número de daño y a sus modificadores secundarios y genéricos. Las propiedades de las armas no importan cuando tu personaje nunca ataca con ellas y hace todo su daño a través de hechizos o esbirros invocados. Si en cambio tu personaje se basa en disparos a distancia, tu única elección de arma es, claramente, el arco.
+
+Lamentablemente, no parece que los diseñadores tengan pensado aportar más diversidad o profundidad al acto en sí de jugar _Path of Exile_. El momento-a-momento. Todo va orientado a la planificación del personaje y su _build_, como si de un mazo de _Magic_ en formato construido se tratara. La ejecución de subir de nivel y obtener las gemas y objetos necesarios se convierte en un nuevo trámite. El metajuego se convierte en el juego, y viceversa. Esto a mi parecer es una inversión del diseño catastrófica.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/fragments-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/fragments.jpg
+
+
+p(piefoto). Las tasas de aparición de objetos están cuidadas para mantener la desigualdad y la economía para maximizar el compromiso con el juego.
+
+Hablando de malas decisiones de diseño, el juego está orientado al comercio entre jugadores como base. El propio Chris Wilson lo ha declarado así.
+
+Los que hayáis jugado a _Diablo II_ tal vez sepáis que en niveles altos, se comerciaba con objetos usando un anillo único llamado _la piedra de Jordán_ (al menos así era en su momento álgido y antes de que la economía cayera presa de los hackers y bots duplicadores). El caso es que este anillo se convirtió en la moneda de cambio no oficial del juego para trueques entre jugadores. Cualquier objeto único o pieza de set que necesitara tu personaje tenía un valor de mercado en "jordanes", con lo que se normalizaba una economía de trueque.
+
+En _Path of Exile_ este principio está incluido desde el comienzo. El juego no tiene un apartado en el inventario separado para "oro" o moneda genérica. La economía con los NPCs de Wraeclast es puramente de trueque desde el primer al último momento. Se intercambian objetos por fragmentos de pergamino o diferentes orbes que aparte de ser moneda de cambio, son consumibles que aplican diferentes modificadores aleatorios a los objetos.
+
+Es un sistema bastante elegante y atractivo, dentro de lo que es el género. Sería perfecto si el juego fuese de un solo jugador, pero el mercado de trueque se extiende, como no, al comercio con otros jugadores, tal como ocurría con _Diablo II_.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/story-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/story.jpg
+
+
+p(piefoto). Si no he hablado mucho de la historia es porque está presentada de tal manera que se hace fácil de ignorar. Aunque está relativamente bien escrita y tiene sus puntos de originalidad.
+
+Este comercio está pensado, por diseño, para ser parte del proceso normal de obtención de objetos en el juego. El problema es que no está soportado en el juego en sí. No hay un mercado ni una casa de subastas in-game donde podamos especular y comerciar directamente. En su lugar debemos recurrir a sitios web de terceras partes donde se listan objetos a la venta, contactar con los jugadores individualmente, que deben estar conectados en ese momento, y reunirse en el juego para hacer el intercambio.
+
+Estos dos componentes, el hecho de depender del comercio, y de sin embargo rehusar ofrecer facilidades para ello son una gran fuente de controversia entre los jugadores. Yo personalmente soy del campo que piensa que tener que recurrir a webs externas al juego para comercial es poco elegante, farragoso, añade fricción innecesaria y es, en general, feo.
+
+Yo estaba muy en contra de esta forma de jugar, depender del comercio para poder progresar y crear personajes serios, pero es verdad. A menos que te propongas como reto no comerciar —Una modalidad que el juego soporta y llama _solo self-found_—, el ir al mercado es básicamente una necesidad. Así que, con mi primer personaje "serio" fui a comprar unas varitas únicas que necesitaba y, la verdad debo admitir que mi primera experiencia fue muy fluida. Fui a la página de comercio oficial (al menos GGG ha decidido crear su propio servicio, que mantienen y es de calidad), busqué las varitas que necesitaba, llamé al vendedor, hicimos el intercambio y bingo, RNG supeditado.
+
+Solo he usado la página oficial "PoE Trade":https://www.pathofexile.com/trade/ que tiene un gran rango de filtros para buscar prácticamente justo lo que necesitas, convenientes botones para copiar un mensaje genérico de chat para invitar al vendedor e indicadores para saber si el vendedor está online, AFK o desconectado. Este servicio no existía antes. Era todo manual, pero GGG al menos decidió crear una API pública en el juego, en la que podemos listar objetos a la venta simplemente colocándolos en una pestaña destinada a tal efecto en nuestro alijo. Esto hace el proceso manual más llevadero pero... sigue siendo manual.
+
+GGG no quiere reducir más la fricción que el proceso de compraventa con jugadores por motivos poco definidos, pero que supuestamente parte de la motivación es que si es engorroso hacer una compra, la gente no hundirá la economía poniendo mucha basura a la venta. No se devaluarán los objetos, etc. La rareza de un objeto es lo que determina su valor más que su utilidad etc etc. Todo esto puede ser cierto. Ellos tienen las cifras de sus usuarios y yo no. Desconozco si están interpretando las cifras correctamente o si piensan que solo porque alguien use un sistema, que está contento con él.
+
+Esto, a mi parecer es un fallo fundamental en el diseño. Cuando los objetos que hacen disfrutable el juego son sujetos a una escasez artificial y arbitraria, la experiencia sufre. Se divide a los jugadores entre los que tienen y los que no y castiga a aquellos que no se tiran 10 horas al día haciendo _streams_ del juego. Es parte de por qué prefiero juegos como "_Dark Souls_":{% post_url /reviews/2014-09-23-dark_souls %}, en los que cualquier jugador puede acceder a cualquier tesoro. Por supuesto, las comparaciones se pueden hacer solo hasta cierto punto. _Dark Souls_ no necesita apoyarse en botín aleatorio para resultar interesante.
+
+En cualquier caso, la anticuada persistencia del mercado es algo que no va a cambiar pronto. Cuando GGG lanzó las versiones para consolas, intentaron un enfoque algo distinto. En estas versiones sí existe un panel en el juego para comerciar, pero el buscador es malo a propósito. Mientras que en la web de PoE Trade se puede filtrar por casi cualquier propiedad imaginable para que sea fácil encontrar lo que necesitas, en el PoE de consola es lo contrario. Es fácil acceder al trueque pero extremadamente tedioso buscar entre los resultados para encontrar un objeto que se adapte a lo que buscas. El caso es que, con esta decisión de depender del comercio, siempre viene pareja que ese comercio tenga algunas trabas. Los diseñadores parecen obcecados en esto.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/unique-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/unique.jpg
+
+
+p(piefoto). Los retos especiales de algunos mapas únicos son relativamente interesantes.
+
+Pero qué se le va a hacer cuando se construye un juego sobre la filosofía de que la suerte y la aleatoriedad se traducen en mérito. Más de una vez en declaraciones y anuncios oficiales se ha hecho hincapié en que "lo divertido" es ser el primero de tus amigos en conseguir tal o cual objeto valioso. Una máquina tragaperras en lugar de una experiencia. Un juego en el que la desigualdad es sistémica e incentivada. Un modelo de negocio que se basa en que jamás podrás experimentar el juego completo, y que esto es así por diseño.
+
+A lo que me refiero con esto es que _Path of Exile_ es, para bien o para mal, un juego _free to play_. Esto significa que para monetizarlo, GGG tiene que recurrir a prácticas, digamos, poco humanistas. En la tienda de dinero real, se venden principalmente dos categorías de ítems: pestañas de alijo y objetos cosméticos. Las primeras son necesarias para obtener un muy necesario espacio de almacenamiento. El espacio de una cuenta gratuita es suficiente hasta más o menos el primer tercio del juego. Luego, si pretendes jugar en serio, es muy recomendable gastar pasta en pestañas extra. Estas van desde pestañas de objetos normales hasta pestañas especiales que almacenan orbes de divisas, mapas, objetos únicos o distintos fragmentos especiales.
+
+Antes de nada, debo decir que PoE tiene uno de los modelos de negocio menos predatorios de juegos _f2p_, pero eso no significa que sea perfecto.
+Los jugadores aceptan cosas como las de PoE porque ven que comprar espacio de inventario no es "pagar para ganar", sino más bien "pagar por comodidad". Ignorando que en realidad el juego sería extremadamente engorroso de jugar si no fuera por el espacio extra y las pestañas especiales. También, que como tantos MMORPGS gratuitos que han salido, PoE no es reacio a enterrar al jugador en montañas de objetos (aunque, en su defensa, también ofrecen un sistema muy robusto de filtro de objetos. Algo también básicamente imprescindible para jugar).
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/splash-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/splash.jpg
+
+
+p(piefoto). Los _builds_ de personajes melé están muy limitados y se reducen a usar habilidades con daño de dispersión o de área de efecto.
+
+El otro aspecto monetizable de PoE son los cosméticos. Armaduras, efectos, mascotas, portales y demás. La opinión pública entre los _gamers_ acepta el pagar extra por estos cosméticos pues no afectan al funcionamiento del juego y por lo tanto, concluyen, se pueden ignorar si uno así lo desea. Discrepo. Aunque ciertamente el funcionamiento del juego no va a variar si tu personaje carece de una armadura chula, el contenido cosmético **es** contenido. Y es una parte importante de la experiencia. Sobre todo en lo que se refiere a progresión visual del personaje. Es una parte disfrutable más del juego. Al ponerla tras una barrera de pago (absurdamente alta por cierto. Por un simple set de armadura no es raro que pidan el equivalente en puntos a 30€, 50€ o incluso 80€) están tácitamente admitiendo que entre motivación económica para que los personajes que no pagan nunca lleguen realmente a lucir bien.
+
+Esto se manifiesta, sin duda, en PoE. Hasta las armaduras más de élite y con mejores estadísticas hacen que tu personaje parezca poco menos que un pordiosero ligeramente acorazado. Aunque aceptable a niveles bajos, cuando ya has vencido a varios dioses, una recua de semidioses, generales demonio y seres extraplanares, queda bastante ridículo. Si quieres que tu personaje tenga un aspecto heroico, elegante, misterioso o simplemente un poco más digno hay que dejarse la pasta.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/swagged-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/swagged.jpg
+
+
+p(piefoto). Los personajes comunes no tienen nada que hacer al compararse a los que compran cosméticos, en el plano de aspecto.
+
+Pero, además, hay que dejarla rápido. La dichosa mentalidad de "incompleto por diseño" a la que me refería antes se traduce en que ciertos objetos cosméticos solo están disponibles en la tienda por una temporada. Una vez que se retiren, cualquier jugador que entre en el juego tendrá acceso completamente vetado a este tipo de contenido.
+
+Si solo fuera eso, es verdad, no sería especialmente grave (aunque igualmente molesto), pero se extiende al contenido jugable también.
+El modelo de juego en ligas no garantiza que el contenido que cada liga o expansión introduce se vaya a integrar en el juego final. En el momento de escribir este artículo la liga en curso es _Heist_ con temática y mecánicas sobre golpes y robos organizados. La anterior era _Harvest_ cuyas mecánicas giraban en torno a cultivar un jardín de monstruos y montar redes logísticas y talleres para fabricar objetos. A día de hoy esas mecánicas se consideraron poco equilibradas y no se han incorporado al juego principal. GGG ha mencionado tal vez darle un repaso al diseño para poder integrarlas, pero es posible que nunca las volvamos a ver. Como pasó con el "memory nexus". Una mecánica introducida en la liga _Synthesis_ que no fue lo suficientemente exitosa como para incorporarse al juego principal. Si no jugaste su liga cuando estuvo activa, has perdido tu oportunidad.
+
+p(pagination-centered). !(entry-screen)/img/screenshots/2020-12-18-path_of_exile/memorynexus-th.jpg!:/img/screenshots/2020-12-18-path_of_exile/memorynexus.jpg
+
+
+p(piefoto). El _Memory Nexus_ es una mecánica que no ha vuelto al juego desde que terminó la liga donde se introdujo.
+
+En definitiva _Path of Exile_ se ha convertido en un hack & slash con buenos gráficos y relativamente agradable de jugar, si estás dispuesto a invertir un poco de tiempo buscando _builds_ y aprendiendo el metajuego. Tiene montones de contenido que te puede seguir ofreciendo sorpresas durante muchas horas, pero no cambia que el juego está construido sobre unos cimientos anticuados, difícilmente sostenibles y poco elegantes en este tiempo en el que los RPGs, y los action RPGs en particular, han evolucionado tanto más allá de esos clones de _Diablo_ de principios de los 2000.
+
+El próximo lanzamiento de _Path Of Exile II_, que vendrá actualizado sobre el actual PoE, promete resolver algunas carencias del juego. Aunque todavía está por ver si moderniza la fórmula de alguna manera significativa.
