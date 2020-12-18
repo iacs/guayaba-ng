@@ -7,11 +7,12 @@ require 'mini_magick'
 def load_settings(settings_file)
   abs_path = File.join(File.expand_path(File.dirname(__FILE__)),settings_file)
   settings_file_obj = File.open(File.join(abs_path), 'r')
-  @settings = YAML.load(settings_file_obj)  
+  @settings = YAML.load(settings_file_obj)
   @path_covers = @settings['path_covers']
   @path_ss = @settings['path_ss']
   @path_reviews = @settings['path_reviews']
   @url_ss = @settings['url_ss']
+  @path_src = @settings['path_src']
 end
 
 def parse_options()
@@ -42,7 +43,7 @@ begin
   f = File.open(@filename, 'r')
   g = File.open(newfilepath, 'w')
   puts "Creando archivo #{newfilepath}"
-  
+
   # hacky initialization (sorry)
   coverfile = ""
 
@@ -74,10 +75,10 @@ begin
 
   # Moving files to their place
   dirs = File.absolute_path(__FILE__).split(File::SEPARATOR).map {|x| x=="" ? File::SEPARATOR : x}
-  dest_sshots = File.join("/", dirs[1], @path_ss, postname)
-  dest_review = File.join("/", dirs[1], @path_reviews, basename)
-  dest_cover = File.join("/", dirs[1], @path_covers, coverfile)
-  
+  dest_sshots = File.join(@path_src, @path_ss, postname)
+  dest_review = File.join(@path_src, @path_reviews, basename)
+  dest_cover = File.join(@path_src, @path_covers, coverfile)
+
   FileUtils.mv(@coverpath, dest_cover)
 
   # Convert images
