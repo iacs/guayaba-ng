@@ -32,7 +32,7 @@ p(piefoto). Solos o acompañados por otro viajero, deberemos cruzar diversos par
 
 Videojuego. Gracias al boom de los juegos indie más experimentales, cada vez es más común que este término resulte insuficiente para describir obras como __Journey__. El término video juego ha quedado obsoleto en este contexto. Analizándolo semánticamente, observamos que "video" modifica a "juego". Término que describe esos programas que se ejecutan en una computadora y recrean, en esencia, un juego a través de una señal de vídeo. A medida que el medio ha ido evolucionando, gran parte de este software dejó de poder describirse como juego. Por esta razón empleamos el término videojuego, escrito como una sola palabra. No es la mejor solución. Aunque intuitivamente sabemos a qué referirnos, la palabra en sí incluye "-juego", lo que conlleva confusión además de no ser formalmente correcto. Es __Journey__ un juego? Mucho se ha pensado sobre el tema. Algunos no lo consideran así. La definición que da la RAE es la siguiente:
 
-bq. **Juego:** Ejercicio recreativo sometido a reglas, y en el cual se gana o se pierde
+bq(blockquote). **Juego:** Ejercicio recreativo sometido a reglas, y en el cual se gana o se pierde
 
 En este sentido, __Journey__ no sería un juego, ya que no hay condición de derrota, no hay forma de perder. No ofrece una resistencia o reto significativo en nuestra contra. Existe para que lo experimentemos y habitemos su mundo durante unas horas.
 
@@ -40,7 +40,7 @@ Si este hecho te molesta o te parece que __Journey__ es una obra menor o menos d
 
 Pero si sirve para calmar algunos espíritus, basta decir que todo depende de a qué definición nos acojamos. Si tomamos la definición del escritor y diseñador de juegos Greg Costikyan:
 
-bq. Un juego es una forma de arte en la que los participantes, llamados jugadores, toman decisiones para gestionar recursos a través de elementos de juego para alcanzar una meta.
+bq(blockquote). Un juego es una forma de arte en la que los participantes, llamados jugadores, toman decisiones para gestionar recursos a través de elementos de juego para alcanzar una meta.
 
 Bajo este criterio, resulta que __Journey__ es sin duda un juego
 

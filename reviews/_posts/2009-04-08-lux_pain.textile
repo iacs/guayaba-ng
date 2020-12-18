@@ -20,7 +20,7 @@ El lamentable espectáculo da paso a lo que nunca debería suceder en un videoju
 
 Al comienzo del juego vemos un aburridísimo escenario nocturno sin el más mínimo interés y se nos cuenta cómo llega el protagonista hasta allí, descripción de su cojonudo aspecto y todo:
 
-bq. The boy has beautiful ash hair & feminine white face, but his black, shining eyes are especially unforgettable. Anyone who looks into his eyes are met with the feeling they are being hit with a strong searchlight.
+bq(blockquote). The boy has beautiful ash hair & feminine white face, but his black, shining eyes are especially unforgettable. Anyone who looks into his eyes are met with the feeling they are being hit with a strong searchlight.
 
 Dios nos asista, la única pseudo-literatura de baratillo tan vomitiva que recuerdo es la de la saga de novelas _Crepúsculo_, que compite con esta por ver cuál de las dos alcanza más patetismo y peor gusto. Es tan mala que no puede uno ni reírse de ella. No lo merece.
 

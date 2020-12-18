@@ -49,6 +49,15 @@ a:visited {
     color: $guayaba-purple;
 }
 
+p {
+    line-height: 1.6rem;
+}
+
+blockquote {
+    border-left: 4px solid $guayaba-red;
+    padding-left: 2rem;
+}
+
 div {
     .entry {
         background: $entry;
@@ -76,6 +85,9 @@ footer {
     font-size: small;
     font-style: italic;
     margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
 }
 
 .squarecover img {
@@ -147,9 +159,9 @@ a.grid-cover-link span.gem-icon {
     max-width: 100%;
     margin-top: 15px;
     margin-bottom: 15px;
-    -webkit-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
-    -moz-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
-    box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
+    -webkit-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 4px 4px 7px 0px rgba(50, 50, 50, 0.75);
 }
 
 .overtext {
