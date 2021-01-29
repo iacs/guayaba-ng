@@ -1,0 +1,2 @@
+{% assign remainder = 4 | minus: post.score %}
+{% for g in (1..post.score) limit:4 %}<img src="/img/guayaba_ico.gif" alt="*">{% endfor %}{% for g in (1..remainder) limit:4 %}<img src="/img/guayaba_ico_dim.gif" class="dim" alt="*">{% endfor %}

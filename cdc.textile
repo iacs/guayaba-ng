@@ -1,0 +1,10 @@
+---
+layout: infopage
+title: Código de conducta
+---
+
+h1. Código de conducta
+
+h2. En construcción
+
+Hola. Nos alegra que estés interesado en nuestro código de conducta. Todavía estamos trabajando para escribir un CdC apropiado y justo. De momento, nos aseguramos en revisar todos los comentarios del sitio, así que no dudes en dejar uno.

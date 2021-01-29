@@ -33,7 +33,7 @@ title: Archivo maestro
     <tr>
         <td><a href="{{post.url}}">{{post.title}} </a></td>
         <td class="d-none d-sm-block">{% if post.score == 0 %}<img src="/img/zero.gif" alt="-">{% else %}
-            {% for g in (1..post.score) limit:4 %}<img src="/img/guayaba_ico.gif" alt="*">{% endfor %}{% endif %}</td>
+            {% include small_score_post.html %}{% endif %}</td>
         <td class="d-block d-sm-none">
             {{post.score}}
         </td>

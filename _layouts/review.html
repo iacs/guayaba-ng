@@ -21,14 +21,9 @@ layout: commonpost
             <li><strong>Género: </strong>{{page.genero | join: ', ' }} </li>
             <li><strong>Plataformas: </strong>{{page.plataformas | join: ', ' }} </li>
             <li><strong>Puntuación: </strong>
-                {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% endif %}
-                {% if page.score == 1 %} <img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-                {% if page.score == 2 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif"
-                    alt="*"> {% endif %}
-                {% if page.score == 3 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif"
-                    alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
-                {% if page.score == 4 %} <img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif"
-                    alt="*"><img src="/img/guayaba_ico.gif" alt="*"><img src="/img/guayaba_ico.gif" alt="*"> {% endif %}
+                {% if page.score == 0 %} <img src="/img/zero.gif" alt="*"> {% else %}
+                {% include small_score_page.html %}
+                {% endif %}
             </li>
         </ul>
         {% if page.definitive %}<p><small>Guayaba 2600 recomienda la versión {{page.definitive}}</small></p>{% endif %}
