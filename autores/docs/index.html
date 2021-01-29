@@ -20,7 +20,7 @@ hide: true
         {% for page in sorted_docs reversed %}{% if page.layout == 'documentation' and page.lastrev %}
 
             <a href="{{page.url}}" class="list-group-item">
-                <h4 class="list-group-item-heading"><span class="glyphicon glyphicon-file"></span> {{page.title}}</h4>
+                <h4 class="list-group-item-heading">{% octicon file height:24 %} {{page.title}}</h4>
                 <p class="list-group-item-text">{{page.description}}</p>
                 <br>
                 <p class="list-group-item-text"><strong>Actualizado por última vez:</strong> <span class="label label-info">{{page.lastrev | date: "%d/%m/%Y"}}</span></p>

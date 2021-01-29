@@ -24,7 +24,7 @@ layout: infopage
 {% assign sorted_game = site.categories.reviews | sort: 'title' %}
 {% for post in sorted_game %}{% if post.layout != 'blogpost' %}{% if post.plataformas contains page.title %}
 <tr>
-    <td><a href="{{post.url}}">{{post.title}}</a>{% assign num = post.plataformas | size %}{% if num == 1 %} <span style="color: #a5c956; cursor: pointer;" class="glyphicon glyphicon-star" data-toggle="tooltip" title="exclusiva"></span>{% endif %}{% if post.definitive contains page.title %} <span style="color: red; cursor: pointer;" class="glyphicon glyphicon-star" data-toggle="tooltip" title="versión definitiva"></span>{% endif %}</td>
+    <td><a href="{{post.url}}">{{post.title}}</a>{% assign num = post.plataformas | size %}{% if num == 1 %} {% octicon star-fill fill:#a5c956 height:24 data-toggle:tooltip data-placement:top title:exclusiva %}{% endif %}{% if post.definitive contains page.title %} {% octicon star-fill fill:red height:24 data-toggle:tooltip data-placement:top title:"versión definitiva" %}{% endif %}</td>
     <td>{% if post.author %}{{post.author}}{% else %}Anónimo{% endif %}</td>
     <td>{{post.date | date_to_string}}</td>
 </tr>
