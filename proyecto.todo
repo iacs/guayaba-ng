@@ -1,9 +1,13 @@
 Arreglos:
     [+] Blockquotes no tienen información de estilo @done(20-12-18 22:22)
-    [ ] Barra de navegación no tiene el aspecto correcto @high
-    [ ] Botón "leer" en noticias colapsadas
+    [+] Barra de navegación no tiene el aspecto correcto @high @done(21-01-29 13:05)
+    [+] Cambiar formato num. tirada y versión @done(21-01-29 14:49)
+    [+] Iconos reflejan puntuación sobre 4 @done(21-01-29 21:18)
+    [+] Icono en noticias colapsadas (?) @done(21-01-29 20:54)
+    [+] Botón "leer" en noticias colapsadas @done(21-01-29 20:54)
 Web:
     [ ] Escribir código de conducta
+        [+] Placeholder @done(21-01-29 20:54)
     [ ] Poner embeds para compartir enlaces en redes
 Estilo:
     [+] Drop shadow en imágenes @done(20-12-18 22:29)
