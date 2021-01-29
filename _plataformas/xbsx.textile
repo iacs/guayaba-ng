@@ -1,4 +1,0 @@
----
-layout: platform
-title: Xbox Series S
----

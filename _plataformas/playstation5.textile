@@ -1,4 +1,0 @@
----
-layout: platform
-title: PlayStation 5
----
