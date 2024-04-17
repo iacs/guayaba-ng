@@ -6,7 +6,11 @@
         "editor.wordWrapColumn": 90
     },
     "[todo]": {
-        "editor.quickSuggestions": false,
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
         "editor.lineNumbers": "off",
         "editor.foldingHighlight": true,
         "editor.minimap.enabled": false
