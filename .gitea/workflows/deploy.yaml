@@ -1,0 +1,48 @@
+name: Publicar Guayaba 2600
+run-name: Publish Guayaba ${{gitea.ref}} - ${{gitea.actor}}
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm install
+      - name: Copy libs
+        run: |
+          cp node_modules/jquery/dist/jquery.min.js js/lib/
+          cp node_modules/popper.js/dist/umd/popper.min.js js/lib/
+          cp node_modules/bootstrap/dist/js/bootstrap.min.js js/lib/
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - run: bundle exec jekyll build
+      - name: Connection stuff
+        env:
+          SSH_KEY: ${{secrets.ARAE_KEY}}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H philomathy.net >> ~/.ssh/known_hosts
+      - name: Ensure rsync
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y rsync
+      - name: Do syncing
+        run: rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ iacus@philomathy.net:/var/www/guayaba2600.com/
+      - name: Cleanup SSH Key
+        run: rm -f ~/.ssh/id_rsa
