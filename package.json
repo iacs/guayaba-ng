@@ -1,7 +1,7 @@
 {
   "license": "UNLICENSED",
   "devDependencies": {
-    "bootstrap": "^4.5.2"
+    "bootstrap": "^5.0.0"
   },
   "peerDependencies": {
     "jquery": "1.9.1 - 3",
