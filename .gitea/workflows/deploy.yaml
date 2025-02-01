@@ -11,8 +11,11 @@ jobs:
   build-deploy:
     runs-on: ubuntu-22.04
     steps:
+      - run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build iniciado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          lfs: true
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -46,3 +49,4 @@ jobs:
         run: rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ iacus@philomathy.net:/var/www/guayaba2600.com/
       - name: Cleanup SSH Key
         run: rm -f ~/.ssh/id_rsa
+      - run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build terminado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
