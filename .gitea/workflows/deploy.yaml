@@ -11,15 +11,20 @@ jobs:
   build-deploy:
     runs-on: statifier24
     steps:
-      - run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build iniciado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
+      - name: Starting notification
+        run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build iniciado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
+      - name: Credential helper setup
+        env:
+          GIT_TOKEN: ${{secrets.GIT_TOKEN}}
+        run: git config credential.helper '!f() {echo username=iacus; echo "password=$GIT_TOKEN";};f'
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          lfs: false
+          lfs: true
       # Workaround for LFS more failure of the Action
-      - run: |
-          git lfs install --local
-          git lfs pull
+      # - run: |
+      #     git lfs install --local
+      #     git lfs pull
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -49,4 +54,5 @@ jobs:
         run: rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ ${{vars.SYNC_TARGET}}
       - name: Cleanup SSH Key
         run: rm -f ~/.ssh/id_rsa
-      - run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build terminado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
+      - name: Finished notification
+        run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build terminado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
