@@ -16,7 +16,7 @@ jobs:
       - name: Credential helper setup
         env:
           GIT_TOKEN: ${{secrets.GIT_TOKEN}}
-        run: git config credential.helper '!f() {echo username=iacus; echo "password=$GIT_TOKEN";};f'
+        run: git config --global credential.helper '!f() {echo username=iacus; echo "password=$GIT_TOKEN";};f'
       - name: Check out repo
         uses: actions/checkout@v4
         with:
