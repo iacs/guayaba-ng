@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-22.04
+    runs-on: statifier24
     steps:
       - run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build iniciado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
       - name: Check out repo
@@ -41,12 +41,8 @@ jobs:
           echo "$SSH_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H philomathy.net >> ~/.ssh/known_hosts
-      - name: Ensure rsync
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y rsync
       - name: Do syncing
-        run: rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ iacus@philomathy.net:/var/www/guayaba2600.com/
+        run: rsync -Oavtr --no-g --no-perms --delete --delete-after _site/ ${{vars.SYNC_TARGET}}
       - name: Cleanup SSH Key
         run: rm -f ~/.ssh/id_rsa
       - run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build terminado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
