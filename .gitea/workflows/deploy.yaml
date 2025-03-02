@@ -3,7 +3,7 @@ run-name: Publish Guayaba ${{gitea.ref}} - ${{gitea.actor}}
 on:
   push:
     branches:
-      - master
+      - actions
   workflow_dispatch:
 
 
@@ -13,18 +13,21 @@ jobs:
     steps:
       - name: Starting notification
         run: curl -X POST -F "title=CD - Guayaba2600" -F "body=Build iniciado" -F "tags=all" http://10.20.178.42:8500/notify/telegram01
-      - name: Credential helper setup
-        env:
-          GIT_TOKEN: ${{secrets.GIT_TOKEN}}
-        run: git config --global credential.helper '!f() {echo username=iacus; echo "password=$GIT_TOKEN";};f'
+      # - name: Credential helper setup
+      #   env:
+      #     GIT_TOKEN: ${{secrets.GIT_TOKEN}}
+      #   run: git config --global credential.helper '!f() {echo username=iacus; echo "password=$GIT_TOKEN";};f'
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          lfs: true
-      # Workaround for LFS more failure of the Action
-      # - run: |
-      #     git lfs install --local
-      #     git lfs pull
+          persist-credentials: true
+      - name: Checkout lfs
+        run: |
+          git lfs install --local
+          AUTH=$(git config --local http.${{ gitea.server_url }}/.extraheader)
+          git config --local --unset http.${{ gitea.server_url }}/.extraheader
+          git config --local http.${{ gitea.server_url }}/${{ gitea.repository }}.git/info/lfs/objects/batch.extraheader "$AUTH"
+          git lfs pull
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
